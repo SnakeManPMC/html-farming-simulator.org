@@ -1,0 +1,51 @@
+
+/* every page? */
+body
+{
+	background: black;
+	color: white;
+	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+
+	text-align: left;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* no idea what this is */
+.small
+{
+	/* 75% of the baseline */
+	font-size: 12px;
+}
+
+.large
+{
+	/* 125% of the baseline */
+	font-size: 20px;
+}
+
+/* header h1 */
+h1
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 32px;
+}
+
+header
+{
+	text-align: center;
+	width: 100%;
+}
+
+section
+{
+}
+
+footer
+{
+	text-align: center;
+	width: 100%;
+}

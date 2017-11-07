@@ -1,2 +1,3 @@
 # html-farming-simulator.org
-Farming Simulator website
+
+PMC [Farming Simulator](https://www.farming-simulator.org) website
