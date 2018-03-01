@@ -96,7 +96,7 @@
 
 <a href="images/Map-Greatfields.png" target="_blank"><img src="images/thumbs/Map-Greatfields.jpg" alt="Farming Simulator 17 Map - Greatfields" style="width:128px;height:128px;"></a>
 
-<p>Insane 600ha field haha! On quick glance looks great, better than North West Texas. Huge mountrain edge "skybox" backdrop texture planes, looks massive. Large hillside on S-SW part. Extremely large forstry logging area in NW corner.
+<p>Insane 600ha field haha! On quick glance looks great, better than North West Texas. Huge mountrain edge "skybox" backdrop texture planes, looks massive. Large hillside on S-SW part. Extremely large forestry logging area in NW corner.
 </p>
 
 <p>However this is same as pleasant valley that it uses goldcrest valley as copy pasted base and the map has just been extended around it. Greatfields is not goldcrest copy though, it only has small areas that are directly from it.
@@ -292,7 +292,7 @@
 <p>This map is based on an existing area in the Netherlands, where developers father has a farm.
 </p>
 
-<a href="images/Map-Dutch-Polder.png" target="_blank"><img src="images/thumMap-Dutch-Polder.jpg" alt="Farming Simulator 17 Map - Dutch Polder" style="width:128px;height:128px;"></a>
+<a href="images/Map-Dutch-Polder.png" target="_blank"><img src="images/thumbs/Map-Dutch-Polder.jpg" alt="Farming Simulator 17 Map - Dutch Polder" style="width:128px;height:128px;"></a>
 
 <p>Quite flat area as Holland should be heh. Artificial border on the edges so I doubt will be playing this because that puts me off. Otherwise nice decent looking map.
 </p>
