@@ -142,7 +142,7 @@ User made maps with objects has various quality models and textures, meaning usu
 </p>
 
 <p>
-Game as inbuild system to browse mods and download them from <a href="https://www.farming-simulator.com/mods.php">Farming Simulator Modhub</a> which is the official FS17 developers web site. Game does not search mods from other sites. You can even update mods if game detects newer version released.
+Game has inbuild system to browse mods and download them from <a href="https://www.farming-simulator.com/mods.php">Farming Simulator Modhub</a> which is the official FS17 developers web site. Game does not search mods from other sites. You can even update mods if game detects newer version released.
 </p>
 
 
