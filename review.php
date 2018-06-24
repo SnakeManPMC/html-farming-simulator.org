@@ -109,7 +109,7 @@ FS17 is very relaxing gameplay, you just can chill and drive tractor around thos
 </p>
 
 <p>
-While relaxing, its highly addictive hehe. You probably get hooked for is and spent the next weeks or even months just playing this game all your free time. Obviously if you don't like it then, well you don't like it.
+While relaxing, its highly addictive hehe. You probably get hooked for this and spent the next weeks or even months just playing this game all your free time. Obviously if you don't like it then, well you don't like it.
 </p>
 
 	<h2>Downloadable Content (DLC)</h2>

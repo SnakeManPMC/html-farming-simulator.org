@@ -28,11 +28,21 @@ Beginners tutorial how to make a map aka terrain for Farming Simulator 17 (FS17)
 </p>
 
 <p>
-You need to register into <a href="https://gdn.giants-software.com/">Giants Developer Network</a> to get the latest giant editor. Download and install the latest editor.
+With the game came GAMEDIR/sdk/moddingHandbook/FarmingSimulatorModding_en.pdf manual for basic mod making, it is very good read when getting started.
+</p>
+
+	<h2>Giants Editor</h2>
+
+<p>
+Giants Editor is used to edit FS17 maps. You need to register into <a href="https://gdn.giants-software.com/">Giants Developer Network</a> to get the latest giant editor. Download and install the latest editor.
 </p>
 
 <p>
-With the game came GAMEDIR/sdk/moddingHandbook/FarmingSimulatorModding_en.pdf manual for basic mod making, it is very good read when getting started.
+You should have some basic windows open in it, these include; scenegraph, terrain editing, attributes, user attributes and console.
+</p>
+
+<p>
+PDA Camera. Create new scenegraph item of camera (Create -> Camera), in attributes window transform name it to PDAcamera or something. Use translate Y: 4000 and rotate X: -90. Translate Y is your map size, so for 2x maps use 2000, for 4x maps use 4000 and for 16x maps use 8000.
 </p>
 
 	<h2>Start a Map</h2>
@@ -245,7 +255,64 @@ unitsPerPixel has value of two by default. Edit the map with a texteditor and se
 <a href="https://forum.giants-software.com/viewtopic.php?f=824&t=89809&p=693929#p693929">german language forum post about some 16x map shaders</a>.
 </p>
 
+<!--
+	<h2>Map Starter Money</h2>
+
+<p>
+PMCTODO howto setup your map with default starter money? Doesn't appear to be any value in XML files to edit.
+</p>
+
+
+	<h2>Animals</h2>
+
+<p>
+PMCTODO howto setup your map with animals, chickens, sheep, pigs and cows.
+</p>
+
+
+	<h2>Grain Silos</h2>
+
+<p>
+PMCTODO howto setup your map with farm grain silos, this is important as after you harvest your field, where do you store the grain?
+</p>
+
+
+	<h2>Sell Points</h2>
+
+<p>
+PMCTODO howto setup your map with grain / crop sell points, in order to make money you need to sell crops so where to sell them?
+</p>
+-->
+
+	<h2>Square Detail Texture Count</h2>
+
+<p>
+Each map square can only have four base detail textures.
+</p>
+
+
+	<h2>Import Objects</h2>
+
+<p>
+Never ever import an object outside of your own MyMap directory!
+</p>
+
+<p>
+Open the other map where you want to get the object from. Choose the object, make sure you get all the transform group if there several things, then use file -> export selection with files, then browse to your own MyMap\maps\objects\ directory, create new directory which easily identified this object, then finally save the i3d file. It asks do you want to get the parent directory structure, you must answer NO to this.
+</p>
+
+<p>
+Place the object directory into your MyMap\maps\objects\ directory. Use file -> import and choose the file name.
+</p>
+
 </section>
+
+<!--
+	<h2></h2>
+
+<p>
+</p>
+-->
 
 <footer>
 <p>Back to <a href="index.php">PMC Farming Simulator root page</a></p>

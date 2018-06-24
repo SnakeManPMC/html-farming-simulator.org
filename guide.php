@@ -287,6 +287,10 @@ Bales can be placed directly to the cow feeding area as food.
 You can turn hay directly into silage by baling hay and using bale wrapper.
 </p>
 
+<p>
+You can unload tons of straw or food into the spot it goes and animals use it as they need it, this way you don't have to keep refilling it so often. But please be tidy, don't just unload huge load of it where the animal food/straw trigger wont reach.
+</p>
+
 
 	<h2>Gameplay Styles</h2>
 
@@ -303,7 +307,6 @@ How you play the game is up to you, however here are some of the options availab
 <li>Multiplayer. Normally if you have no server or friends, you'd be playing only singleplayer. MP is very different than SP with helpers or Courseplay, but always not so easy to get into.</li>
 <li>Easy or Normal Difficulty. Hard difficulty with 3 stages of fertilization is pretty much useless time hogging grind, use your time wisely.</li>
 <li>Buy All Fields One By One. Purchase one field, fully plough and harvest it, when that is done then start again by buying the next field. This can be done also even with money cheat.</li>
-<li></li>
 </ul>
 
 

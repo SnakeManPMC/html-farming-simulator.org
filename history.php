@@ -34,7 +34,9 @@ Farming Simulator 16 - May 8, 2015.<br>
 Farming Simulator 17 - October 25, 2016.<br>
 Farming Simulator 17 KUHN DLC - February 14th, 2017.<br>
 Farming Simulator 17 Big Bud DLC - May 9th, 2017.<br>
-Farming Simulator 17 Platinum Edition - Nov 14th, 2017.
+Farming Simulator 17 Platinum Edition - Nov 14th, 2017.<br>
+Farming Simulator 17 ROPA DLC - March 13th, 2018.<br>
+Farming Simulator 17 Modern Classics DLC - May 9th, 2018.
 </p>
 
 </section>

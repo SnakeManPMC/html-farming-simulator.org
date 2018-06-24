@@ -43,7 +43,7 @@
 <p>Click the images to open large in new tab.
 </p>
 
-<p>4X maps or larger 16x sized maps. Assuming 4X means 4096 and 8X 8192 and 16X 16384.
+<p>4X maps or larger 16x sized maps. Assuming 4X means 4096 and 16X 8192.
 </p>
 <ul>
 <li>loessHugeland</li>
@@ -52,8 +52,64 @@
 <li>NORWAY MAP V3.03</li>
 <li>Saxony Map https://www.youtube.com/watch?v=q7K1FIAomVg</li>
 <li>http://www.modsls17.com/sudthuringen-v3-maps/</li>
-<li>south dakota</li>
 </ul>
+
+	<h2>16X Maps</h2>
+
+<h2>Broad Acres</h2>
+
+<a href="images/Map-Broad-Acres.png" target="_blank"><img src="images/thumbs/Map-Broad-Acres.jpg" alt="Farming Simulator 17 Map - Broad Acres" style="width:128px;height:128px;"></a>
+
+<p>Every single field is ruined with fences that are <b>tightly</b> right next to the fields edge AND the fences have gates which you must open, gates where you cant drive Big Bud tractor through. Good job using fences to ruin what other wise looks like a promising map :(
+</p>
+
+<p>Trees are also one type, oriented the same way so they look absolutely horrible when placed more than once. Why is it that map makers cannot use different type of trees with sizes and shapes to break out the ugly repetitive look (this is really universal problem in FS17 maps).
+</p>
+
+<p>Starting equipment lineup makes no sense, huge fleet of harvesters but no trailers to ferry the harvest and no plough, seeder, etc. Heh, hilarious. Of course players are free to sell this useless lineup and purchase their own, but anyone who wants to play this map as its developer intended is out of luck.
+</p>
+
+<p>Stupid meaningless railroad tracks that block access with harvester with header on tow (gets stuck) as are other vehicles too. The main farm or industrial area is like a prison, fences here, fences there, fences everywhere... why, just <i>why?</i>, sigh.
+</p>
+
+<h2>Corn Belt, Corn_Belt_16fach</h2>
+
+<a href="images/Map-CornBelt.png" target="_blank"><img src="images/thumbs/Map-CornBelt.jpg" alt="Farming Simulator 17 Map - Cornbelt" style="width:128px;height:128px;"></a>
+
+<p>Total of 65 fields. Has desert, sandy brown overall look near your farm, green else where. Map-view looks like it has no roads, cant tell how to drive from one place to another. Your farm is pretty nice and detailed, but has that brown dried up coloring on the ground. Field 35 (and who knows how many others) dont register to courseplay, you have to calculate the field edge yourself first.
+</p>
+
+<p>A lot of fields in the sense that there is not much of wasted space, its all fields one next to another. Kind of a nice highway system. Huge bridge over very deep river canyon, although looks bit silly as the river is then like -1m deep heh. Few trees are dangerously close to the highway and one walk-way overpass so driving along with Big Bud with Seed Hawk in tow... it most likely gets stuck, unless you drive in the middle of the highway which would be odd.
+</p>
+
+<p>Overall pretty decent looking map, takes huge amount of time to get familiar because its so packed with fields and 16x map size.
+</p>
+
+<h2>FS_2017_Maize_Map_16x, FS_2017_Maize_Map_16x</h2>
+
+<a href="images/Map-Maize.png" target="_blank"><img src="images/thumbs/Map-Maize.jpg" alt="Farming Simulator 17 Map - Maize" style="width:128px;height:128px;"></a>
+
+<p>Just one insane large corn field with your farm (so to speak) in the middle of it with BGA and some stuff. Yes this is 16x map but unless you are some corn megalomaniac... this is not really a proper map heh. All respect for making 16x map, of course, but just hoping there was at least few other fields available (not to mention animals etc).
+</p>
+
+<h2>Dakota 16 (version A3), Dakota16</h2>
+
+<a href="images/Map-Dakota-16x.png" target="_blank"><img src="images/thumbs/Map-Dakota-16x.jpg" alt="Farming Simulator 17 Map - Dakota 16" style="width:128px;height:128px;"></a>
+
+<p>Total of 126 fields registered (courseplay finds). View of the map looks very busy. Has airport. Feels like a huge place with many interesting locations. Some of the fields are bit off, like corn across a road etc. Overall though its a bit rough map.
+</p>
+
+<p>Has a highway which connects across the map nicely for quick travel, few bridges look bit tight not sure if Big Bud with Seed Hawk can pass through.
+</p>
+
+<!--
+<h2>NAME</h2>
+
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+
+<p>DESCRIPTION
+</p>
+-->
 
 	<h2>4X Maps</h2>
 
@@ -210,11 +266,17 @@
 <p>Interesting name, not sure if that MadeInGermany should somehow be in the name, I think its just stupid naming, I bet this maps real name is just Celle, which is location in germany. Ugly off the map well texture I guess, transparent and looking bad. Large amount of 121 fields. Map made out of satellite imagery so it looks great, realistic map. Huge forestry logging area in SE, NE corners and trees cover most of the map edges and field edges. Great looking realistic map overall.
 </p>
 
-<h2>Parkers Prairie, Parkers_Prairie1_4</h2>
+<h2>Parkers Prairie, Parkers_Prairie_v1_4_2</h2>
 
 <a href="images/Map-Parkers-Prairie.png" target="_blank"><img src="images/thumbs/Map-Parkers-Prairie.jpg" alt="Farming Simulator 17 Map - Parkers Prairie" style="width:128px;height:128px;"></a>
 
 <p>Very nice large farm, lots of room to drive vehicles. Map edges are not usual rocky mountain block, but some grassy low hill. Bunch of trees around the edges and fields (trees are placed with variations and random rotation) which is nice. Train tracks which are not animated and don't appear to contain player drivable locomotive either. Readme stated that one of the fields (you own) is 114 hectares. This is very good looking map.
+</p>
+
+<p>Unfortunately Parkers Prairie v1.4.2 still has the pig straw location graphic missing, you have to know (by magic?) where the straw drop-off point is. It is located next to the fence just right of the gate. You just have to use telehandler and slowly drive back and forth with straw bale close to the ground to see where it disappears (or you could use the development mode and F5 to check the trigger location).
+</p>
+
+<p>Night time in Parkers Prairie is fine, the light levels of the night change according to weather / clouds, sometimes its very dark and most of the time there is enough ambient light that you see to drive vehicles around larger obstacles etc. Very enjoyable night time.
 </p>
 
 <h2>Rocky Valley, Felsental</h2>
@@ -224,6 +286,16 @@
 <p>All but N side of the map blocked out by odd rocky mountains and most of the S side as you can see from the retarded german cowboys big-fat-cow logo. Also rocky mountains at the center of map too. Shame they had to ruin good 4X map base doing that. Anyways there are lot of forestry logging possibilities for those who are interested in this map, I ain't.
 </p>
 
+
+<h2>Plains and Simple Seasons 4X by Stevie, FS17_PlainsAndSimpleSeasons4xPByStevie</h2>
+
+<a href="images/Map-Plains-And-Simple-Seasons-4x.png" target="_blank"><img src="images/thumbs/Map-Plains-And-Simple-Seasons-4x.jpg" alt="Farming Simulator 17 Map - Plains and Simple Seasons 4x by Stevie" style="width:128px;height:128px;"></a>
+
+<p>Square fields which is always easier for stuff like courseplay. Animals require special foods like sheeps need something called lucerne and cows need something called proteinSilage, I'm not a big fan of these customized fruits or whatever they are called, stick to the standards what everyone knows.
+</p>
+
+<p>Overall very solid and nice map.
+</p>
 
 	<h2>PMC Tested Maps</h2>
 
