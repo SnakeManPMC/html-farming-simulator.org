@@ -27,15 +27,15 @@
 </p>
 <ul>
 	<li>Crops. Well doh obviously!</li>
-	<li>Farm has room to maneuvre. Too "quake l3v3l!!1", claustrophobic farm object placement is horror. I don't necessarily mean you have to have space for dozen Big Bud 747's, but if you cant drive your harvester there, whats the point?</li>
+	<li>Farm has room to maneuvre. Too "quake l3v3l!!1", claustrophobic farm object placement is horror. I don't necessarily mean you have to have space for dozen Big Bud 747's, but if you cant drive your harvester there, then whats the point?</li>
 	<li>Grain silos. Some place for you to store your grain in the farm, so you dont have to sell it right away</li>
 	<li>Grain selling points. Well quite obvious but still</li>
 	<li>Roads are not too narrow. Yes, we all love BIG BUD :)</li>
 	<li>Fences arent restricting movement to prevent good gameplay</li>
 	<li>Forestry. At least little bit</li>
 	<li>Animals; chickens, pigs, cows and sheep</li>
-	<li>Train. Not necessary but very big bonus</li>
 	<li>Water. Animal caretaking</li>
+	<li>Train. Not necessary but very big bonus</li>
 </ul>
 
 	<h2>Maps / Terrains</h2>
@@ -117,6 +117,9 @@
 
 <a href="images/Map-North-West-Texas.png" target="_blank"><img src="images/thumbs/Map-North-West-Texas.jpg" alt="Farming Simulator 17 Map - North West Texas" style="width:128px;height:128px;"></a>
 
+<p>North West Texas by Txzar
+</p>
+
 <p>Hungs with too many mod's loaded (and I mean huge loads of them), alone it works. On quick glance looks like large terrain what I'm looking for. Looks pretty low res or rather quality when compared to official Goldcrest Valley terrain.
 </p>
 
@@ -139,6 +142,93 @@
 </p>
 
 <p>Tree planting (pallet saplings) with damcon pl-75 does not work.
+</p>
+
+<h2>North West Texas Revisited Beta</h2>
+
+<a href="images/Map-North-West-Texas-Revisited.png" target="_blank"><img src="images/thumbs/Map-North-West-Texas-Revisited.jpg" alt="Farming Simulator 17 Map - North West Texas Revisited (beta)" style="width:128px;height:128px;"></a>
+
+<p>North West Texas Revisited Beta by Txzar
+</p>
+
+<p><b>2018-07-06 this map is v0.9.2.1</b> and only available to download from "pinned post" in <a href="https://www.facebook.com/txzarmapping/" target="_blank">txzarmapping</a> page.
+</p>
+
+<p>Looks very much changed from the old version, I didnt recognize the old farm anymore, many more silos which use I'm not sure of (store grain? seeds? something?). Most fields were gone, they were grass now.
+</p>
+
+<p>This map has low and high view distance versions for your to choose (downloads), the higher version requires more powerful hardware.
+</p>
+
+<p>Sorghum and cotton crop types. Cotton is harvested with corn header.
+</p>
+
+<p>Animated train (not the one that players can use). Railroad tracks run across the map in south from east to west direction. When train goes off the map it stays there quite while which is nice because if would be too much activity if it would loop back immediately. This train has geometry so you have to be really careful with courseplay routes when acrossing the railroad tracks not to collide with the train and go flying high.
+</p>
+
+<p>Large silos were added in the open gravel area next to field 5.
+</p>
+
+<p>Unfortunately new fences were added around some of the fields, which I assume was made to match the blue lines in the PDA map image what I read Txzar saying being property lines.
+</p>
+
+
+<h2>Newlin</h2>
+
+<a href="images/Map-Newlin.png" target="_blank"><img src="images/thumbs/Map-Newlin.jpg" alt="Farming Simulator 17 Map - Newlin" style="width:128px;height:128px;"></a>
+
+<p>Newlin by Txzar
+</p>
+
+<p><b>2018-07-06 this map is v1.0</b> and only available to download from "pinned post" in <a href="https://www.facebook.com/txzarmapping/" target="_blank">txzarmapping</a> page.
+</p>
+
+<p>Next terrain from Txzar the maker of North West Texas.
+</p>
+
+<p>This map has low and high view distance versions for your to choose (downloads), the higher version requires more powerful hardware.
+</p>
+
+<p>Skybox is animated meaning clouds move, well kind of, its the whole sky with everything thats moving. It is really fast too, very unrealistic looking and all I can hope is that Txzar fixes this on upcoming versions.
+</p>
+
+<p>**Exploring Map Work In Progress** but looks like <b>almost every field is blocked by fence and super narrow gate</b>, this is devastating effect for enjoyable game-play as you cannot use large equipment and even small equipment gets stuck very easily :-(
+</p>
+
+<p>Field 17 is covered with fences, its like a prison, Big Bud not allowed to enter. And because of the field shape and the fences, courseplay overloader just wont work :(
+</p>
+
+<p>Many fences around places that should not have them, I mean seriously do farmers fear that their fields get stolen if there are no fence to block field thieves? :)
+</p>
+
+<p>Not just on this map but in Farming Simulator 17 in general fences are bad, really bad. Yeah I mean I guess they look ok sometimes, but when they prevent you from travelling freely it is terrible and now I am not talking about short cutting across the whole map through every field, but just common sense that if you have to go around one kilometer distance for no reason, it makes just no sense. Seriously fences are to keep animals in when talked about the average farm fences, why are fields fenced? I just don't get it.
+</p>
+
+<p>Field 17 has trees so close to the headland that harvester with its pipe out will get stuck :(
+</p>
+
+<p>Field 9 and 28 gate (same as any other?) is this standard model used on many maps, it barely and I mean just barely fits Big Bud through and you will get stuck if you are not super careful. Highly annoying fence gate.
+</p>
+
+<p>Field 32 has narrow gate and powerline pole right next to the gate.
+</p>
+
+<p>Sorghum, cotton and feed corn crop types. Cotton is harvested with corn header.
+</p>
+
+<p>Animated train (not the one that players can use) on south west corner of the map running diagonally. You can see the train beyond map edge when it turns around, actually flips around which looks ugly. The train passes through way too often, its like constant train traffic which will get really old when you play more than couple of hours and see the train go back and forth for like a thousand times heh. Train should pass perhaps only once an hour or even less, maybe randomly if its possible in FS17.
+</p>
+
+<p>Train has no collision so there is no issue with your courseplay etc driven vehicles.
+</p>
+
+<p>Traffic is quite nasty, as always, but it can be turned off from options so its not a big deal.
+</p>
+
+<p>Your farm grain silo is located about middle of the map, between fields 12, 32, 9 and 28. Sell points are marked on the map as usual.
+</p>
+
+<p>You can cut trees (tested few types in one of the big fields) and then plough some nice big fields, but also if you cut too many trees it takes away from the beauty of this map as well so be mindful of that.
 </p>
 
 <h2>Rattlesnake Valley</h2>

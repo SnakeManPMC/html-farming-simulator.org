@@ -34,7 +34,7 @@ With the game came GAMEDIR/sdk/moddingHandbook/FarmingSimulatorModding_en.pdf ma
 	<h2>Giants Editor</h2>
 
 <p>
-Giants Editor is used to edit FS17 maps. You need to register into <a href="https://gdn.giants-software.com/">Giants Developer Network</a> to get the latest giant editor. Download and install the latest editor.
+Giants Editor is used to edit FS17 maps. You need to register into <a href="https://gdn.giants-software.com/" target="_blank">Giants Developer Network</a> to get the latest giant editor. Download and install the latest editor.
 </p>
 
 <p>
@@ -43,6 +43,13 @@ You should have some basic windows open in it, these include; scenegraph, terrai
 
 <p>
 PDA Camera. Create new scenegraph item of camera (Create -> Camera), in attributes window transform name it to PDAcamera or something. Use translate Y: 4000 and rotate X: -90. Translate Y is your map size, so for 2x maps use 2000, for 4x maps use 4000 and for 16x maps use 8000.
+</p>
+
+<p>
+Huge maps: you need to run a script to allow the editor to display large terrains properly, download: <a href="downloads/Giants_Editor_Scripts_2018-07-11.7z" target="_blank">Giants_Editor_Scripts_2018-07-11.7z</a>.
+</p>
+
+<p>
 </p>
 
 	<h2>Start a Map</h2>
@@ -83,6 +90,10 @@ Delete scenegraph -> HelpIcons and placeholders.
 You do not need to ZIP the MyMap because if you just copy the directory into FS17 mods dir, the game will read it fine.
 </p>
 
+<p>
+Open ModDesc.xml file, edit maps -> map id to your own unique map name, do not use illegal characters like space etc.
+</p>
+
 	<h2>Map Size</h2>
 
 <p>
@@ -94,19 +105,19 @@ Map size is defined in MyMap\maps\map01\map01_dem.png and the *_weight.png image
 <p>
 
 <p>
-map01_dem.png image resolution and in-game coordinates:<br>
+map01_dem.png image resolution, in-game coordinates:<br>
 <s>255 x 255 pixels.<br>
 513 x 513 pixels, 1535 x 1535.</s><br>
-1025 x 1025 pixels, 2048 x 2048 (default size).<br>
+1025 x 1025 pixels, 2048 x 2048 (default size, goldscrest valley, sosnovka).<br>
 2049 x 2049 pixels, 4096 x 4096.<br>
 4097 x 4097 pixels, 8192 x 8192.<br>
-<s>8193 x 8193 pixels, dunno as coord indicator shut off at 8192 hehe.</s>
+8193 x 8193 pixels, 16384 x 16384.
 </p>
 
 	<h2>Change Map Size</h2>
 
 <p>
-When you change map sizes, you need to edit all the *_weight.png images and map01_dem.png image. Please note that *_weigth.png images are normal 1024, 2048 etc resolutions while map01_dem.png is one pixel larger, like 1025, 2049 etc. However <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=3976">this post</a> says about some layer image, but I cant see one heh. Also <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=5214">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=4858">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=4304">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=4&threadId=4349">this post</a>, <a href="https://fs-uk.com/mods/view/38253/blank-4fach-starter-map-with-models-and-more">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=3948">this post</a> about large maps.
+When you change map sizes, you need to edit all the *_weight.png images and map01_dem.png image. Please note that *_weigth.png images are normal 1024, 2048 etc resolutions while map01_dem.png is one pixel larger, like 1025, 2049 etc. However <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=3976" target="_blank">this post</a> says about some layer image, but I cant see one heh. Also <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=5214" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=4858" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=4304" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=4&threadId=4349" target="_blank">this post</a>, <a href="https://fs-uk.com/mods/view/38253/blank-4fach-starter-map-with-models-and-more" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=3948" target="_blank">this post</a> about large maps.
 </p>
 
 <p>
@@ -159,7 +170,7 @@ LMB paints, RMB erases.
 	<h2>Create Foliage for Fields</h2>
 
 <p>
-or plant life, the first four channels (0 through 3) control the type of plant. The next row of channels (4 through 7) dictates that plant's growth state. In the third row of channels, only channel 8 has any effect. It defines whether the crop is in a windrow (a row of cut vegetation, ready to be baled or stored) or not. 
+or plant life, the first four channels (0 through 3) control the type of plant. The next row of channels (4 through 7) dictates that plant's growth state. In the third row of channels, only channel 8 has any effect. It defines whether the crop is in a windrow (a row of cut vegetation, ready to be baled or stored) or not.
 </p>
 
 <p>
@@ -221,7 +232,7 @@ Convert list:
 </ul>
 
 <p>
-<a href="https://youtu.be/z-NhFDwV_84?t=2828">16X map skybox fix</a>
+<a href="https://youtu.be/z-NhFDwV_84?t=2828" target="_blank">16X map skybox fix</a>
 </p>
 
 
@@ -248,41 +259,70 @@ To enlarge the map further you could increase the "unitsPerPixel" attribute of t
 </p>
 
 <p>
-unitsPerPixel has value of two by default. Edit the map with a texteditor and set it to 3 or 4, save it and open the Map in the GIANTS Editor. The world will be larger :) 
+unitsPerPixel has value of two by default. Edit the map with a texteditor and set it to 3 or 4, save it and open the Map in the GIANTS Editor. The world will be larger :)
 </p>
 
 <p>
-<a href="https://forum.giants-software.com/viewtopic.php?f=824&t=89809&p=693929#p693929">german language forum post about some 16x map shaders</a>.
+<a href="https://forum.giants-software.com/viewtopic.php?f=824&t=89809&p=693929#p693929" target="_blank">german language forum post about some 16x map shaders</a>.
 </p>
 
-<!--
 	<h2>Map Starter Money</h2>
 
 <p>
-PMCTODO howto setup your map with default starter money? Doesn't appear to be any value in XML files to edit.
+Howto setup your map with default starter money? Doesn't appear to be any value in XML files to edit. Looks like only method is to lua script the changed money.
 </p>
-
-
-	<h2>Animals</h2>
-
-<p>
-PMCTODO howto setup your map with animals, chickens, sheep, pigs and cows.
-</p>
-
 
 	<h2>Grain Silos</h2>
 
 <p>
-PMCTODO howto setup your map with farm grain silos, this is important as after you harvest your field, where do you store the grain?
+Howto setup your map with farm grain silos, this is important as after you harvest your field, where do you store the grain? Easiest way is to export the goldcrest valley farmSiloSystem transformgroup, then import it to your map.
 </p>
 
+<p>
+You can edit silo capacity from map01.i3d search for capacityPerType or edit normally from giants editor. Below is example setup for 10 million liters.
+</p>
+<pre>
+Attribute name="capacityPerType" type="integer" value="10000000"
+</pre>
+
+	<h2>Animals</h2>
+
+<p>
+Howto setup your map with animals, chickens, sheep, pigs and cows. Basically copy the animals transformgroup from one of the good sample maps (sorry no idea which one) or just simply from goldcrest valley. To have animals in your map is simple as making the navigation mesh, all the rest is feeding, dirt, manure etc eye candy, all you need is navigation mesh and animals appear.
+</p>
+
+<p>
+Info layer painting channels:
+</p>
+
+<ul>
+<li>0 cow</li>
+<li>1 sheep</li>
+<li>2 chicken</li>
+<li>3 pig</li>
+</ul>
+
+<p>
+NavMesh for animals is created by painting info layer with proper channel selected, then using create -> navigation mesh, you must select terrain desselation -> culling info layer channels properly. Do not just type the number here even if you know it, use the ... button to actually select it.
+</p>
+
+
+<p>
+PDA map markers for animals are setup in maps/map01.xml file. Use some transformgroup to move into the location where specific animals are located, then write down the attributes translate X and Z coordinates into the XML file.
+</p>
+
+<p>
+Save game editing, open vehicles.xml and edit Animals_cow, Animals_pig and Animals_sheep to quickly add hundreds of animals for debug purposes so you dont have to go through buy menu in-game.
+</p>
 
 	<h2>Sell Points</h2>
 
 <p>
-PMCTODO howto setup your map with grain / crop sell points, in order to make money you need to sell crops so where to sell them?
+Howto setup your map with grain / crop sell points, in order to make money you need to sell crops so where to sell them. Simply place unloadingStationFarm transformgroup, add unique name for gameplay -> IN -> triggerPos -> index, change xmlFile to point maps/ instead of $data/maps/, then write the index name into maps/map01.xml file as show below.
 </p>
--->
+<pre>
+tipTrigger index="PMC_Grain_Elevator" stationName="PMC Sell Point 1"
+</pre>
 
 	<h2>Square Detail Texture Count</h2>
 
@@ -303,6 +343,12 @@ Open the other map where you want to get the object from. Choose the object, mak
 
 <p>
 Place the object directory into your MyMap\maps\objects\ directory. Use file -> import and choose the file name.
+</p>
+
+	<h2>Creating Splines</h2>
+
+<p>
+Use create -> spline to create, well a spline. Then you can move and rotate it usually. If you hit INSERT key, new point in the spline is created which again can be moved around.
 </p>
 
 </section>
