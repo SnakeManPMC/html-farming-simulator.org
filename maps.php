@@ -31,11 +31,13 @@
 	<li>Grain silos. Some place for you to store your grain in the farm, so you dont have to sell it right away</li>
 	<li>Grain selling points. Well quite obvious but still</li>
 	<li>Roads are not too narrow. Yes, we all love BIG BUD :)</li>
-	<li>Fences arent restricting movement to prevent good gameplay</li>
-	<li>Forestry. At least little bit</li>
+	<li>Fences and gates arent restricting movement to prevent good gameplay</li>
 	<li>Animals; chickens, pigs, cows and sheep</li>
 	<li>Water. Animal caretaking</li>
+	<li>Grass for animals, yes you can sow grass but there should some a lot of it by default</li>
+	<li>Forestry. At least little bit</li>
 	<li>Train. Not necessary but very big bonus</li>
+	<li>Shop with yard where you dont run out of space when purchasing many vehicles</li>
 </ul>
 
 	<h2>Maps / Terrains</h2>
@@ -43,33 +45,22 @@
 <p>Click the images to open large in new tab.
 </p>
 
-<p>4X maps or larger 16x sized maps. Assuming 4X means 4096 and 16X 8192.
-</p>
-<ul>
-<li>loessHugeland</li>
-<li>canadian pacific</li>
-<li>Germantown v1.0</li>
-<li>NORWAY MAP V3.03</li>
-<li>Saxony Map https://www.youtube.com/watch?v=q7K1FIAomVg</li>
-<li>http://www.modsls17.com/sudthuringen-v3-maps/</li>
-</ul>
-
-	<h2>16X Maps</h2>
+	<h2>8km x 8km Maps</h2>
 
 <h2>Broad Acres</h2>
 
 <a href="images/Map-Broad-Acres.png" target="_blank"><img src="images/thumbs/Map-Broad-Acres.jpg" alt="Farming Simulator 17 Map - Broad Acres" style="width:128px;height:128px;"></a>
 
-<p>Every single field is ruined with fences that are <b>tightly</b> right next to the fields edge AND the fences have gates which you must open, gates where you cant drive Big Bud tractor through. Good job using fences to ruin what other wise looks like a promising map :(
+<p>Every single field is surrounded with fences that are <b>tightly</b> right next to the fields edge AND the fences have gates which you must open, gates where you cant drive Big Bud tractor through :(
 </p>
 
-<p>Trees are also one type, oriented the same way so they look absolutely horrible when placed more than once. Why is it that map makers cannot use different type of trees with sizes and shapes to break out the ugly repetitive look (this is really universal problem in FS17 maps).
+<p>Trees are also one type, oriented the same way.
 </p>
 
 <p>Starting equipment lineup makes no sense, huge fleet of harvesters but no trailers to ferry the harvest and no plough, seeder, etc. Heh, hilarious. Of course players are free to sell this useless lineup and purchase their own, but anyone who wants to play this map as its developer intended is out of luck.
 </p>
 
-<p>Stupid meaningless railroad tracks that block access with harvester with header on tow (gets stuck) as are other vehicles too. The main farm or industrial area is like a prison, fences here, fences there, fences everywhere... why, just <i>why?</i>, sigh.
+<p>Railroad tracks that block access with harvester with header on tow (gets stuck) as are other vehicles too. The main farm or industrial area is like a prison, fences everywhere.
 </p>
 
 <h2>Corn Belt, Corn_Belt_16fach</h2>
@@ -82,36 +73,27 @@
 <p>A lot of fields in the sense that there is not much of wasted space, its all fields one next to another. Kind of a nice highway system. Huge bridge over very deep river canyon, although looks bit silly as the river is then like -1m deep heh. Few trees are dangerously close to the highway and one walk-way overpass so driving along with Big Bud with Seed Hawk in tow... it most likely gets stuck, unless you drive in the middle of the highway which would be odd.
 </p>
 
-<p>Overall pretty decent looking map, takes huge amount of time to get familiar because its so packed with fields and 16x map size.
+<p>Overall pretty decent looking map, takes huge amount of time to get familiar because its so packed with fields and very large 8km map size.
 </p>
 
 <h2>FS_2017_Maize_Map_16x, FS_2017_Maize_Map_16x</h2>
 
 <a href="images/Map-Maize.png" target="_blank"><img src="images/thumbs/Map-Maize.jpg" alt="Farming Simulator 17 Map - Maize" style="width:128px;height:128px;"></a>
 
-<p>Just one insane large corn field with your farm (so to speak) in the middle of it with BGA and some stuff. Yes this is 16x map but unless you are some corn megalomaniac... this is not really a proper map heh. All respect for making 16x map, of course, but just hoping there was at least few other fields available (not to mention animals etc).
+<p>Just one insane large corn field with your farm (so to speak) in the middle of it with BGA and some stuff. Yes this is 8km map but unless you are some corn megalomaniac... this is not really a proper map heh. All respect for making 8km map, of course, but just hoping there was at least few other fields available (not to mention animals etc).
 </p>
 
 <h2>Dakota 16 (version A3), Dakota16</h2>
 
 <a href="images/Map-Dakota-16x.png" target="_blank"><img src="images/thumbs/Map-Dakota-16x.jpg" alt="Farming Simulator 17 Map - Dakota 16" style="width:128px;height:128px;"></a>
 
-<p>Total of 126 fields registered (courseplay finds). View of the map looks very busy. Has airport. Feels like a huge place with many interesting locations. Some of the fields are bit off, like corn across a road etc. Overall though its a bit rough map.
+<p>Total of 126 fields registered (courseplay finds). View of the map looks very busy. Has airport. Feels like a huge place with many interesting locations. Some of the fields are bit off, like corn across a road etc. Overall though its a bit rough map and would need just a little bit of fine tweaking.
 </p>
 
-<p>Has a highway which connects across the map nicely for quick travel, few bridges look bit tight not sure if Big Bud with Seed Hawk can pass through.
+<p>Has a highway which connects across the map nicely for quick travel, few bridges look a bit tight not sure if Big Bud with Seed Hawk can pass through.
 </p>
 
-<!--
-<h2>NAME</h2>
-
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
-
-<p>DESCRIPTION
-</p>
--->
-
-	<h2>4X Maps</h2>
+	<h2>4km x 4km Maps</h2>
 
 <h2>North West Texas</h2>
 
@@ -120,28 +102,28 @@
 <p>North West Texas by Txzar
 </p>
 
-<p>Hungs with too many mod's loaded (and I mean huge loads of them), alone it works. On quick glance looks like large terrain what I'm looking for. Looks pretty low res or rather quality when compared to official Goldcrest Valley terrain.
+<p>Looks pretty low res or rather quality when compared to official Goldcrest Valley terrain. But... I rather take low res large map than pixel porno tiny map :)
 </p>
 
-<p>Does not have grain silo marked on the map, but its there so you have to find it. There is three silos and they hold incredible amount of crops, one time I managed to dump 700,000 liters there so not sure what the limit per silo is (and you have three of them).
+<p>Does not have grain silo marked on the map, but its there so you have to find it. There are three silos and they hold incredible amount of crops, one time I managed to dump 700,000 liters there so not sure what the limit per silo is (and you have three of them).
 </p>
 
-<p>Your farm is not properly lighted at night, very difficult to navigate on some parts. Nights sometime get pitch black, you cannot see a thing. This depends on the weather or clouds or something, sometimes you get like moonlight scene and can see just fine for night environment.
+<p>Your farm is not properly lighted at night, very difficult to navigate on some parts. Nights sometime get pitch black, you cannot see a thing. This depends on the weather or clouds or something, sometimes you get like a moonlight scene and can see just fine for night environment.
 </p>
 
-<p>Some trees have white flickering parts which move when you move, odd. Some other conflicting faulty mod causes stutter, quite bad and I will not play on this terrain if it really stutters this bad, but this was solved by removing most of the other (useless) mods.
+<p>Some trees have white flickering parts which move when you move, odd.
 </p>
 
-<p>Lighting of sun comes from opposite direction. Not sure if this is bug just in this map or basic game engine bug. Looks odd though that sun is rising and shadows come towards it heh.
+<p>Lighting of sun comes from opposite direction. Looks odd though that sun is rising and shadows come towards it heh.
 </p>
 
-<p>Field 28 has fence around it which also has very narrow gate, so no way to drive large harvester through it, even semi truck has problems with higher speed. Field 34 has only route to it blocked by narrow fence entry which wont allow harvester to pass, well unless you drive it manually and cheat with geometry. Painful.
+<p>Field 28 has fence around it which also has very narrow gate, so no way to drive large harvester through it, even semi truck has problems with higher speed. Field 34 has only route to it blocked by narrow fence entry which wont allow harvester to pass, well unless you drive it manually. Painful.
 </p>
 
-<p>Fields 33 - 35 are cut off from wide vehicle traffic. No way no chance to get wide harvester there because of only one narrow fence entry. Also semi truck trailer geometry clips on the railroad tracks which are just beyond the fence entry. Needs urgentry quick fix to remove couple of fence pieces so wide vehicles can pass without problems.
+<p>Fields 33 - 35 are cut off from wide vehicle traffic. No way no chance to get wide harvester there because of only one narrow fence entry. Also semi truck trailer geometry clips on the railroad tracks which are just beyond the fence entry. Needs urgent quick fix to remove couple of fence pieces so wide vehicles can pass without problems.
 </p>
 
-<p>Tree planting (pallet saplings) with damcon pl-75 does not work.
+<p>Tree planting (pallet saplings) with Damcon PL-75 does not work.
 </p>
 
 <h2>North West Texas Revisited Beta</h2>
@@ -154,7 +136,7 @@
 <p><b>2018-07-06 this map is v0.9.2.1</b> and only available to download from "pinned post" in <a href="https://www.facebook.com/txzarmapping/" target="_blank">txzarmapping</a> page.
 </p>
 
-<p>Looks very much changed from the old version, I didnt recognize the old farm anymore, many more silos which use I'm not sure of (store grain? seeds? something?). Most fields were gone, they were grass now.
+<p>Looks very much changed from the old version, I didnt recognize the old farm anymore, many more silos which use I'm not sure of (store grain? seeds? something?). Most fields were gone, they were grass now. I read Txzar saying that this is so players can plough the fields to their liking.
 </p>
 
 <p>This map has low and high view distance versions for your to choose (downloads), the higher version requires more powerful hardware.
@@ -163,7 +145,7 @@
 <p>Sorghum and cotton crop types. Cotton is harvested with corn header.
 </p>
 
-<p>Animated train (not the one that players can use). Railroad tracks run across the map in south from east to west direction. When train goes off the map it stays there quite while which is nice because if would be too much activity if it would loop back immediately. This train has geometry so you have to be really careful with courseplay routes when acrossing the railroad tracks not to collide with the train and go flying high.
+<p>Animated train (not the one that players can use). Railroad tracks run across the map in south from east to west direction. When train goes off the map it stays there quite while which is nice because if would be too much activity if it would loop back immediately. This train has geometry so you have to be really careful with courseplay routes when acrossing the railroad tracks not to collide with the train and have your vehicles go rolling around.
 </p>
 
 <p>Large silos were added in the open gravel area next to field 5.
@@ -192,22 +174,16 @@
 <p>Skybox is animated meaning clouds move, well kind of, its the whole sky with everything thats moving. It is really fast too, very unrealistic looking and all I can hope is that Txzar fixes this on upcoming versions.
 </p>
 
-<p>**Exploring Map Work In Progress** but looks like <b>almost every field is blocked by fence and super narrow gate</b>, this is devastating effect for enjoyable game-play as you cannot use large equipment and even small equipment gets stuck very easily :-(
+<p>**Exploring Map Work In Progress** but looks like <b>almost every field is blocked by fence and narrow gate</b>, this is devastating effect for enjoyable game-play as you cannot use large equipment and even small equipment gets stuck very easily :-(
 </p>
 
-<p>Field 17 is covered with fences, its like a prison, Big Bud not allowed to enter. And because of the field shape and the fences, courseplay overloader just wont work :(
-</p>
-
-<p>Many fences around places that should not have them, I mean seriously do farmers fear that their fields get stolen if there are no fence to block field thieves? :)
-</p>
-
-<p>Not just on this map but in Farming Simulator 17 in general fences are bad, really bad. Yeah I mean I guess they look ok sometimes, but when they prevent you from travelling freely it is terrible and now I am not talking about short cutting across the whole map through every field, but just common sense that if you have to go around one kilometer distance for no reason, it makes just no sense. Seriously fences are to keep animals in when talked about the average farm fences, why are fields fenced? I just don't get it.
+<p>Field 17 is covered with fences, its like a prison, Big Bud are not allowed to enter. And because of the field shape and the fences, courseplay overloader just wont work :(
 </p>
 
 <p>Field 17 has trees so close to the headland that harvester with its pipe out will get stuck :(
 </p>
 
-<p>Field 9 and 28 gate (same as any other?) is this standard model used on many maps, it barely and I mean just barely fits Big Bud through and you will get stuck if you are not super careful. Highly annoying fence gate.
+<p>Field 9 and 28 gate (same as any other?) is this standard model used on many maps, it barely and I mean just barely fits Big Bud through and you will get stuck if you are not really careful. Highly annoying fence gate.
 </p>
 
 <p>Field 32 has narrow gate and powerline pole right next to the gate.
@@ -235,14 +211,14 @@
 
 <a href="images/Map-Rattlesnake-Valley.png" target="_blank"><img src="images/thumbs/Map-Rattlesnake-Valley.jpg" alt="Farming Simulator 17 Map - Rattlesnake Valley" style="width:128px;height:128px;"></a>
 
-<p>Looks OK but still has bit maze alike farm, very narrow roads with geometry blocks on the side so forget Big Bud. Looks like almost all roads have fences which is really bad. NE edge has some rocky mountain side with "level" stuff which is annoying.
+<p>Looks OK but still has bit maze alike farm, very narrow roads with geometry blocks on the side so forget Big Bud. Looks like almost all roads have fences which is really bad. North east edge has some rocky mountain side with "level" stuff which is annoying.
 </p>
 
 <h2>Greatfields, GreatfieldsBETA6</h2>
 
 <a href="images/Map-Greatfields.png" target="_blank"><img src="images/thumbs/Map-Greatfields.jpg" alt="Farming Simulator 17 Map - Greatfields" style="width:128px;height:128px;"></a>
 
-<p>Insane 600ha field haha! On quick glance looks great, better than North West Texas. Huge mountrain edge "skybox" backdrop texture planes, looks massive. Large hillside on S-SW part. Extremely large forestry logging area in NW corner.
+<p>Insane 600ha field haha! On quick glance looks great. Huge mountrain edge "skybox" backdrop texture planes, looks massive. Large hillside on S-SW part. Extremely large forestry logging area in NW corner.
 </p>
 
 <p>However this is same as pleasant valley that it uses goldcrest valley as copy pasted base and the map has just been extended around it. Greatfields is not goldcrest copy though, it only has small areas that are directly from it.
@@ -252,7 +228,7 @@
 
 <a href="images/Map-Saxonia.png" target="_blank"><img src="images/thumbs/Map-Saxonia.jpg" alt="Farming Simulator 17 Map - Saxonia" style="width:128px;height:128px;"></a>
 
-<p>Train tracks. Very nice map which includes large fields and level terrain. Airbase is also included where Tordnado jets are taking off and landing, very cool.
+<p>Train tracks. Very nice map which includes large fields and level terrain. Airbase is also included where Tornado jets are taking off and landing, very cool.
 </p>
 
 <h2>Loess Hill Country</h2>
@@ -271,7 +247,7 @@
 
 <h2>Pleasant Valley v17</h2>
 
-<p>Original goldcrest valley is on the center, but now its enlargened from 2048 (2x I guess) into 4X map size. Many things have been added to the extra terrain space, looks nice. However it has quite hefty required mods list.
+<p>Original goldcrest valley is on the center, but now its enlargened from 2048 (2km) into 4km map size. Many things have been added to the extra terrain space, looks nice. However it has quite hefty required mods list.
 </p>
 
 <h2>Missouri River Bottoms 17, MissouriRiverBottoms</h2>
@@ -285,28 +261,28 @@
 
 <a href="images/Map-County-Line-FS17.png" target="_blank"><img src="images/thumbs/Map-County-Line-FS17.jpg" alt="Farming Simulator 17 Map - County Line FS17" style="width:128px;height:128px;"></a>
 
-<p>Animated horses. Moving train. Some forest logging areas. Dirt and paved roads. Very nice looking map, I would say top quality on quick look.
+<p>Animated horses. Moving train. Some forest logging areas. Dirt and paved roads. Very nice looking map, I would say top quality with a quick look.
 </p>
 
 <h2>Dondiego Map Ls17, DondiegoMap_Ls17</h2>
 
 <a href="images/Map-Dondiego-Map-Ls17.png" target="_blank"><img src="images/thumbs/Map-Dondiego-Map-Ls17.jpg" alt="Farming Simulator 17 Map - Dondiego Map Ls17" style="width:128px;height:128px;"></a>
 
-<p>Map edges are covered with rocky mountain barrier. Total of 72 fields. Dirt and paved roads. Quite bit of forestry logging. Very nice open areas for Big Bud usage, not sure about some of the bridge choke points though. Overall flat terrain elevations. This is good looking map.
+<p>Map edges are covered with rocky mountain barrier. Total of 72 fields. Dirt and paved roads. Quite bit of forestry logging. Very nice open areas for Big Bud usage, not sure about some of the bridge choke points though. Overall flat terrain elevations. This is a good looking map.
 </p>
 
 <h2>Monchwinkel - Landkreis Oder-Spree, FS17_Moenchwinkel</h2>
 
 <a href="images/Map-Monchwinkel.png" target="_blank"><img src="images/thumbs/Map-Monchwinkel.jpg" alt="Farming Simulator 17 Map - Monchwinkel" style="width:128px;height:128px;"></a>
 
-<p>Holy smokes 91 fields. Many trees around the fields and some forests areas too, seems to have more of those "round" non-pine trees which name I don't know, dunno if those can be forestry logged. Train tracks for players and animated trains in N edge and NW corner. Edges of the map has nice buffer area of sparse round trees. Feels very much like european germany terrain. This is nice looking map, perhaps more looking like a ArmA 3 terrain than FS17 farming map.
+<p>Total of 91 fields. Many trees around the fields and some forests areas too, seems to have more of those "round" non-pine trees which name I don't know. Train tracks for players and animated trains in N edge and NW corner. Edges of the map has nice buffer area of sparse round trees. Feels very much like european germany terrain. This is nice looking map, perhaps more looking like a ArmA 3 terrain than FS17 farming map.
 </p>
 
 <h2>Sued Thueringen, FS17_SuedThueringen_v3</h2>
 
 <a href="images/Map-Sued-Thueringen.png" target="_blank"><img src="images/thumbs/Map-Sued-Thueringen.jpg" alt="Farming Simulator 17 Map - Sued Thueringen" style="width:128px;height:128px;"></a>
 
-<p>On the edges there are a lot of tree texture planes and behind them some low poly tree objects (I believe these are large forest blocks) to take up perfectly good space, some of the planes you can pass through, others aren't, I don't get it. Especially in NW corner there is huge area of these low poly tree objects. Seems to me like otherwise perfectly fine looking 4X map was ruined with these stupid low poly tree objects. Other than that the map looks decent, which is shame because I cannot comprehend why any dev would ruin his otherwise nice map with the mentioned forest blocks.
+<p>On the edges there are a lot of tree texture planes and behind them some low poly tree objects (I believe these are large forest blocks) to take up perfectly good space, some of the planes you can pass through, others can't, I don't get it. Especially in NW corner there is huge area of these low poly tree objects. Seems to me like otherwise perfectly fine looking 4km map was populated with these poor looking low poly tree objects.
 </p>
 
 <h2>The Moris Land, The_Moris_Land_v2</h2>
@@ -320,19 +296,19 @@
 
 <a href="images/Map-Wisconsin-Illinois-Border.png" target="_blank"><img src="images/thumbs/Map-Wisconsin-Illinois-Border.jpg" alt="Farming Simulator 17 Map - Wisconsin Illinois Border" style="width:128px;height:128px;"></a>
 
-<p>Moderately flat terrain, small bumbs here and there. Large forest logging area west central and north edges. Large fields and open areas, feels like Big Bud country. This is very nice basic map indeed.
+<p>Moderately flat terrain, small bumbs here and there. Large forest logging area west central and north edges. Large fields and open areas, feels like a Big Bud country. This is very nice basic map indeed.
 </p>
 
 <h2>Cherry Hills 2017, cherryHills2017byStevie</h2>
 
 <a href="images/Map-Cherry-Hills-2017.png" target="_blank"><img src="images/thumbs/Map-Cherry-Hills-2017.jpg" alt="Farming Simulator 17 Map - Cherry Hills 2017" style="width:128px;height:128px;"></a>
 
-<p>Nice "skybox" background after map edges. Edges have nice set of forest trees, many tree types and placed randomly which looks very natural. Large forestry logging area in NW corner. Train tracks. Little bit symmetrical map, train tracks and those concrete areas in the edges, not too bad though. Tiny amount of rolling hills mood on the fields (as name should suggest, hills). Few rocky spots with trees between the fields. This map definitely has lot of trees to cut down if thats your choice. This is good looking map for sure.
+<p>Nice "skybox" background after map edges. Edges have nice set of forest trees, many tree types and placed randomly which looks very natural. Large forestry logging area in NW corner. Train tracks. Little bit symmetrical map, train tracks and those concrete areas in the edges, not too bad though. Tiny amount of rolling hills mood on the fields (as name should suggest, hills). Few rocky spots with trees between the fields. This map definitely has a lot of trees to cut down if thats your choice. This is good looking map for sure.
 </p>
 
 <h2>Western Australia v1.1 Beta, Western_AustraliaX</h2>
 
-<p>No fields registered in the game. Very much work in progress.
+<p>No fields registered in the game. Very much work in progress at 2017 summer time.
 </p>
 
 <h2>Kernstadt 2017, KernstadtMF2017</h2>
@@ -346,7 +322,7 @@
 
 <a href="images/Map-Sudharz.png" target="_blank"><img src="images/thumbs/Map-Sudharz.jpg" alt="Farming Simulator 17 Map - Sudharz" style="width:128px;height:128px;"></a>
 
-<p>Rolling hills terrain elevations. Huge amount of forest logging areas. This map looks like its made from satellite imagery, but its baffling why half of the map is unfinished, unless its just to honor the spirit of FS17 community; leave most of the map empty because you're too lazy to finish it. SW corner field also has some red transparent geometry block, must be a bug. So yeah I really hope dev will finish this map as it has great potential.
+<p>Rolling hills terrain elevations. Huge amount of forest logging areas. This map looks like its made from satellite imagery, but its baffling why half of the map is unfinished. SW corner field also has some red transparent geometry block, must be a bug. So yeah I really hope dev will finish this map as it has great potential.
 </p>
 
 <h2>MIG Map MadeInGermany Celle, MIG_MadeInGermany_Region_Celle_byBullgore_Beta__1_</h2>
@@ -363,17 +339,23 @@
 <p>Very nice large farm, lots of room to drive vehicles. Map edges are not usual rocky mountain block, but some grassy low hill. Bunch of trees around the edges and fields (trees are placed with variations and random rotation) which is nice. Train tracks which are not animated and don't appear to contain player drivable locomotive either. Readme stated that one of the fields (you own) is 114 hectares. This is very good looking map.
 </p>
 
-<p>Unfortunately Parkers Prairie v1.4.2 still has the pig straw location graphic missing, you have to know (by magic?) where the straw drop-off point is. It is located next to the fence just right of the gate. You just have to use telehandler and slowly drive back and forth with straw bale close to the ground to see where it disappears (or you could use the development mode and F5 to check the trigger location).
+<p>Unfortunately Parkers Prairie v1.4.2 still has the pig straw location trigger graphic missing, you have to know (by magic?) where the straw drop-off point is. It is located next to the fence just right of the gate. You just have to use telehandler and slowly drive back and forth with straw bale close to the ground to see where it disappears (or you could use the development mode and F5 to check the trigger location).
 </p>
 
 <p>Night time in Parkers Prairie is fine, the light levels of the night change according to weather / clouds, sometimes its very dark and most of the time there is enough ambient light that you see to drive vehicles around larger obstacles etc. Very enjoyable night time.
+</p>
+
+<p>Skybox is really tight around the terrain area meaning you can see the map edges easily, not a showstopper but still.
+</p>
+
+<p>2018-07-15 Parkers Prairie is my go to map. I initially played goldcrest valley obviously to learn how to play, then I spent over 400 hours in North West Texas and now I have around 100 hours in Parkers Prairie. I really like this terrain, there is nothing that annoys me greatly or that would prevent me from playing. Highly recommended map :-)
 </p>
 
 <h2>Rocky Valley, Felsental</h2>
 
 <a href="images/Map-Rocky-Valley.png" target="_blank"><img src="images/thumbs/Map-Rocky-Valley.jpg" alt="Farming Simulator 17 Map - Rocky valley" style="width:128px;height:128px;"></a>
 
-<p>All but N side of the map blocked out by odd rocky mountains and most of the S side as you can see from the retarded german cowboys big-fat-cow logo. Also rocky mountains at the center of map too. Shame they had to ruin good 4X map base doing that. Anyways there are lot of forestry logging possibilities for those who are interested in this map, I ain't.
+<p>All but N side of the map blocked out by odd rocky mountains and most of the S side as you can see from the ugly german cowboys big-fat-cow logo. Also rocky mountains at the center of map too. Shame they had to ruin good 4km map base doing that. Anyways there are lot of forestry logging possibilities for those who are interested in this map.
 </p>
 
 
@@ -389,25 +371,25 @@
 
 	<h2>PMC Tested Maps</h2>
 
-<p>Maps listed below are default 2X 2048 size if not mentioned otherwise, basically 4X maps are listed under the, well, 4X Maps header.
+<p>Maps listed below are default 2km size.
 </p>
 
-<p>Version numbers are not listed because these maps often times get updated very frequently, so listing a version number is kind of outdated very easily. Also as the FS17 mod download sites are such a garbage, its sometimes difficult to find latest version of released mod.
+<p>Version numbers are not listed because these maps often times get updated very frequently, so listing a version number is kind of outdated very easily. Also as the FS17 mod download sites are such a garbage its sometimes difficult to find latest version of released mod when the mod description is only a changelog.
 </p>
 
 <h2>American Outback</h2>
 
-<p>Stupid fictional newbie looking place, very narrow roads like fence right at the road, heh.
+<p>Fictional looking place, very narrow roads like fence right at the road, heh.
 </p>
 
 <h2>Chellington 17 v2</h2>
 
-<p>Super claustrophobic, feel depressed on mission start in the farm, ugh. No chance whatsoever to operate any large vehicles in this terrain (farm) haha.
+<p>Very claustrophobic, feel depressed on mission start in the farm, ugh. No chance whatsoever to operate any large vehicles in this terrain.
 </p>
 
 <h2>Coldborough Park Farm</h2>
 
-<p>Claustrophobic shit, BRITISH terrain with shitty hedgerows. Avoid this.
+<p>Claustrophobic, BRITISH terrain with bad hedgerows.
 </p>
 
 <h2>American Farm</h2>
@@ -434,19 +416,19 @@
 
 <h2>Broxton, FS17_Broxton</h2>
 
-<p>Broxton. Based on 70's Broxton/Duckington area in south west Cheshire England.
+<p>Broxton. According to readme its based on 70's Broxton/Duckington area in south west Cheshire England.
 </p>
 
 <a href="images/Map-Broxton.png" target="_blank"><img src="images/thumbs/Map-Broxton.jpg" alt="Farming Simulator 17 Map - Broxton" style="width:128px;height:128px;"></a>
 
-<p>Pre placed sheep models. Custom fruits. Artificial barrier on the map edges, not even close to the real end of the map but like 200 coordinates earlier, so 2X map has been made intentionally smaller. Its OK looking I guess, but I can't imagine ever playing on this map.
+<p>Pre placed sheep models. Custom fruits. Artificial barrier on the map edges, not even close to the real end of the map but like 200 coordinates earlier, so 2km map has been made intentionally smaller. Its OK looking I guess, but I can't imagine ever playing on this map.
 </p>
 
 <h2>Crampton Isle, FS17_CramptonIsle</h2>
 
 <a href="images/Map-Crampton-Isle.png" target="_blank"><img src="images/thumbs/Map-Crampton-Isle.jpg" alt="Farming Simulator 17 Map - Crampton Isle" style="width:128px;height:128px;"></a>
 
-<p>What the hell is this? :o Developer didn't want to make even 2X sized map so he made this tiny crap? hehe, damn man...
+<p>What the heck is this? :o Developer didn't want to make even 2km sized map so he made this tiny spot? hehe, damn man...
 </p>
 
 <h2>Dutch Polder, FS17_dutchPolder</h2>
@@ -461,7 +443,7 @@
 
 <h2>FS17 Farming Legend, FS17_Farming_Legend</h2>
 
-<p>This is map from FS11 apparently.
+<p>This is map ported from FS11 apparently.
 </p>
 
 <a href="images/Map-FS17-Farming-Legend.png" target="_blank"><img src="images/thumbs/Map-FS17-Farming-Legend.jpg" alt="Farming Simulator 17 Map - FS17 Farming Legend" style="width:128px;height:128px;"></a>
@@ -471,7 +453,7 @@
 
 <h2>Hagenstedt, FS17_Hagenstedt</h2>
 
-<p>This is map from FS13 apparently.
+<p>This is map ported from FS13 apparently.
 </p>
 
 <a href="images/Map-Hagenstedt.png" target="_blank"><img src="images/thumbs/Map-Hagenstedt.jpg" alt="Farming Simulator 17 Map - Hagenstedt" style="width:128px;height:128px;"></a>
@@ -514,21 +496,21 @@
 
 <a href="images/Map-Southquebec.png" target="_blank"><img src="images/thumbs/Map-Southquebec.jpg" alt="Farming Simulator 17 Map - Southquebec" style="width:128px;height:128px;"></a>
 
-<p>Field 2 is 50 hectares. Horrible looking rows of trees as they are copy pasted without any rotation variation so they look fake. Also train tracks are very symmertical which again, looks so fake.
+<p>Field 2 is 50 hectares. Horrible looking rows of trees as they are copy pasted without any rotation variation so they look so fake. Also train tracks are very symmertical which again, looks so fake.
 </p>
 
 <h2>Vogelsberg, FS17_Vogelsberg</h2>
 
 <a href="images/Map-Vogelsberg.png" target="_blank"><img src="images/thumbs/Map-Vogelsberg.jpg" alt="Farming Simulator 17 Map - Vogelsberg" style="width:128px;height:128px;"></a>
 
-<p>Umm what? Looking at the map overview... err do I need to say more? :) Anyways the tiny map area is surrounded by rocky mountains which block you from moving further out. This is good example where dude wanted to make a map, but didn't have patience to create full size 2X map, guess he didnt even have skills to make 1X map heh.
+<p>Umm what? Looking at the map overview... err do I need to say more? :) Anyways the tiny map area is surrounded by rocky mountains which block you from moving further out.
 </p>
 
 <h2>Woodshire, FS17_Woodshire</h2>
 
 <a href="images/Map-Woodshire.png" target="_blank"><img src="images/thumbs/Map-Woodshire.jpg" alt="Farming Simulator 17 Map - Woodshire" style="width:128px;height:128px;"></a>
 
-<p>Oh wow another one with tiny area for map, why not just create full 1X map instead? Otherwise it looks OK, lots of trees and basic map in the tiny area surrounded by rocky mountain block.
+<p>Oh wow another one with tiny area for map, why not just create full 1km map instead? Otherwise it looks OK, lots of trees and basic map in the tiny area surrounded by rocky mountain block.
 </p>
 
 <h2>Northern Alberta, NORTHERN_ALBERTA_V1</h2>
@@ -556,15 +538,14 @@
 
 <a href="images/Map-Kendle-Farm.png" target="_blank"><img src="images/thumbs/Map-Kendle-Farm.jpg" alt="Farming Simulator 17 Map - Kendle Farm" style="width:128px;height:128px;"></a>
 
-<p>Oh man one of these tiny maps again... and super claustrophobic farm where you can barely walk out without getting stuck to some geometry blocks. Sigh. Why not make this as 0.5X map haha. What is this, farm sim or pac-man hehe.
+<p>Oh man one of these tiny maps again... and super claustrophobic farm where you can barely walk out without getting stuck to some geometry blocks. Sigh. Why not make this as 0.5km map haha. What is this, farm sim or pac-man hehe.
 </p>
-
 
 <h2>Mustang Valley Ranch, FS17_Mustang_Valley_Ranch</h2>
 
 <a href="images/Map-Mustang-Valley-Ranch.png" target="_blank"><img src="images/thumbs/Map-Mustang-Valley-Ranch.jpg" alt="Farming Simulator 17 Map - Mustang Valley Ranch" style="width:128px;height:128px;"></a>
 
-<p>Dry brownish desert looking map. Only five fields but largest of them are 104 and 80 hectares. Interesting map, might be some work in those large fields for Big Bud. BTW I heard from somewhere that this a large map, it is not, this is default 2X map.
+<p>Dry brownish desert looking map. Only five fields but largest of them are 104 and 80 hectares. Interesting map, might be some work in those large fields for Big Bud. BTW I heard from somewhere that this a large map, it is not, this is default 2km map.
 </p>
 
 <h2>AGRO Moravany V2, AGRO_Moravany_V2LS17</h2>
@@ -606,12 +587,12 @@
 
 <a href="images/Map-Altenstein.png" target="_blank"><img src="images/thumbs/Map-Altenstein.jpg" alt="Farming Simulator 17 Map - Altenstein" style="width:128px;height:128px;"></a>
 
-<p>Oh please with these tiny maps, a real bad excuses for map from authors who are too lazy to create even normal size 2X map. To top that off its got super claustrophobic farm. Roger that, skip this one.
+<p>Oh please with these tiny maps. To top that off its got super claustrophobic farm. Roger that, skip this one.
 </p>
 
 <h2>FS17_AstonManor</h2>
 
-<p>Some tiny claustrophobic SampleMap crap. Map background image from goldcrest valley. Config is copy paste from SampleMap, including the name for crying out loud :(
+<p>Some tiny claustrophobic SampleMap stuff. Map background image from goldcrest valley. Config is copy paste from SampleMap, including the name for crying out loud :(
 </p>
 
 <h2>Petrowka, FS17_Petrowka</h2>
@@ -644,24 +625,24 @@
 
 <a href="images/Map-NoName_LS17.png" target="_blank"><img src="images/thumbs/Map-NoName_LS17.jpg" alt="Farming Simulator 17 Map - NoName_LS17" style="width:128px;height:128px;"></a>
 
-<p>Well here is genuinely great name for a map, sigh. If you don't know name for your project, don't do it. Well looking at the map overview, you can immediately tell the dev had as much patience to make a map than to pick a name for it ... Useless, just useless...
+<p>Well here is genuinely great name for a map, sigh. If you cant come up with a name for your project, don't do the whole thing. Well looking at the map overview, you can immediately tell the dev had as much patience to make a map than to pick a name for it ... Useless, just useless...
 </p>
 
 <h2>Space Valley, SpaceValley</h2>
 
-<p>Copy paste of goldcrest valley, just useless garbage...
+<p>Copy paste of goldcrest valley, just useless...
 </p>
 
 <h2>Stiffi 2017, Stiffi_2017</h2>
 
-<p>Copy paste of goldcrest valley, just useless garbage...
+<p>Copy paste of goldcrest valley, just useless...
 </p>
 
 <h2>TheLand, TheLand</h2>
 
 <a href="images/Map-TheLand.png" target="_blank"><img src="images/thumbs/Map-TheLand.jpg" alt="Farming Simulator 17 Map - TheLand" style="width:128px;height:128px;"></a>
 
-<p>Another one of these with wasted space on the edges due dev being lazy to make full sized map, seems to be a trend in FS17 community. SW edges mine is copy paste from some other map. Tiny map area edges are covered with small hills which you can pass into the nomans land. Otherwise map has bit of rolling hills feeling and quite bit of forest tree areas.
+<p>Another one of these with wasted space on the edges. SW edges mine is copy paste from some other map. Tiny map area edges are covered with small hills which you can pass into the nomans land. Otherwise map has bit of rolling hills feeling and quite bit of forest tree areas.
 </p>
 
 <h2>Westbridge Hills, WBH</h2>
@@ -722,28 +703,28 @@
 
 <a href="images/Map-Belgique-Profonde.png" target="_blank"><img src="images/thumbs/Map-Belgique-Profonde.jpg" alt="Farming Simulator 17 Map - Belgique Profonde" style="width:128px;height:128px;"></a>
 
-<p>Yet another tiny map, sigh. What an wasted opportunity for a good map, oh well.
+<p>Yet another tiny map, sigh.
 </p>
 
 <h2>Autumn Tree Farm, Fs17_AutumnTree_Farm</h2>
 
 <a href="images/Map-Autumn-Tree-Farm.png" target="_blank"><img src="images/thumbs/Map-Autumn-Tree-Farm.jpg" alt="Farming Simulator 17 Map - Autumn Tree Farm" style="width:128px;height:128px;"></a>
 
-<p>Another one of these tiny crappy ones and aww look at those PERRRDY flowers, hehe.
+<p>Another one of these tiny ones and some odd flowers on the PDA map edges, hehe.
 </p>
 
 <h2>Crossroads, FS17_Crossroads</h2>
 
 <a href="images/Map-Crossroads.png" target="_blank"><img src="images/thumbs/Map-Crossroads.jpg" alt="Farming Simulator 17 Map - Crossroads" style="width:128px;height:128px;"></a>
 
-<p>Not the largest but nice looking farm area, this is one of the largest and nicest farm areas in these standard sizes maps I have seen. Few small forestry logging areas. Totally flat terrain elevations (I could not quickly find any hills or even bumbs). Very nice looking map.
+<p>Not the largest but nice looking farm area, this is one of the largest and nicest farm areas in these 2km size maps I have seen. Few small forestry logging areas. Totally flat terrain elevations (I could not quickly find any hills or even bumbs). Very nice looking map.
 </p>
 
 <h2>Emerald Valley Logging, FS17_FDR_Map_EmeraldValley_MC</h2>
 
 <a href="images/Map-Emerald-Valley-Logging.png" target="_blank"><img src="images/thumbs/Map-Emerald-Valley-Logging.jpg" alt="Farming Simulator 17 Map - Emerald Valley Logging" style="width:128px;height:128px;"></a>
 
-<p>No animals. No fields registered in the game. Play area is restricted by water, sneaky dev, heh. A lot of forestry logging trees and water.
+<p>No animals. No fields registered in the game. Play area is restricted by water, heh. A lot of forestry logging trees and water.
 </p>
 
 <h2>Smokey Mountain Logging, FS17_FDR_Map_SmokeyMountain_MC</h2>
@@ -757,21 +738,21 @@
 
 <a href="images/Map-Lechlade-Manor-Farm.png" target="_blank"><img src="images/thumbs/Map-Lechlade-Manor-Farm.jpg" alt="Farming Simulator 17 Map - Lechlade Manor Farm" style="width:128px;height:128px;"></a>
 
-<p>Tiny area from lazy devs once again, this is the pattern in FS17 map modding community, which is truly a shame. I mean why bother even making maps if you are using just tiny area blocking the rest off, then make 0.5X map instead for crying out loud. Could not exit the game, it just returned back to game heh.
+<p>Tiny area once again, which is truly a shame. Could not exit the game, it just returned back to game heh.
 </p>
 
 <h2>FS17_selby_farmestatesv3, FS17_selbyfarmestatesv3_5</h2>
 
 <a href="images/Map-FS17_selby_farmestatesv3.png" target="_blank"><img src="images/thumbs/Map-FS17_selby_farmestatesv3.jpg" alt="Farming Simulator 17 Map - FS17_selby_farmestatesv3" style="width:128px;height:128px;"></a>
 
-<p>Nice name, BRO. Another map where dev got tired of map making and decided to end if with empty area. Also has many geometry block fences / crap. Yup, skip this one too.
+<p>Nice name, hehe. Another map where useful landscape ends with empty area. Also has many geometry block fences etc. Yup, skip this one too.
 </p>
 
 <h2>Hof-Morgenland, Hof_Morgenland</h2>
 
 <a href="images/Map-Hof-Morgenland.png" target="_blank"><img src="images/thumbs/Map-Hof-Morgenland.jpg" alt="Farming Simulator 17 Map - Hof-Morgenland" style="width:128px;height:128px;"></a>
 
-<p>Good god, another one, sigh.
+<p>Damn, another one, sigh.
 </p>
 
 <h2>Kleindorf, Kleindorf_MapV1</h2>
@@ -792,7 +773,7 @@
 
 <a href="images/Map-Landringhausen.png" target="_blank"><img src="images/thumbs/Map-Landringhausen.jpg" alt="Farming Simulator 17 Map - Landringhausen" style="width:128px;height:128px;"></a>
 
-<p>No fields registered in the game. Maybe this is work in progress, at least I hope it is even though filename says "final"...
+<p>No fields registered in the game. Maybe this is work in progress, at least I hope it is even though file name says "final"...
 </p>
 
 <h2>Ls17 Great Country, LS_17_Great_Country_V1_6</h2>
@@ -806,7 +787,7 @@
 
 <a href="images/Map-Norways-Mountain-Farm.png" target="_blank"><img src="images/thumbs/Map-Norways-Mountain-Farm.jpg" alt="Farming Simulator 17 Map - Norways Mountain Farm" style="width:128px;height:128px;"></a>
 
-<p>Nice difference there in mod name and file name. No fields registered in the map, not that there are many, three I think hehe. Interesting looking mountain terrain, but not really useful for farming. Also like half the map is empty blocked off stuff, as usual.
+<p>Nice difference there in mod name and file name. No fields registered in the map, not that there are many, three I think hehe. Interesting looking mountain terrain, but not really useful for farming. Also like half the map is empty blocked off stuff.
 </p>
 
 <h2>Pomorze, Pomorze_v1</h2>
@@ -864,7 +845,7 @@
 
 <h2>XLFarms_W.I.P_and_BETA_versions</h2>
 
-<p>1.89gb release zip. Includes two zip files (yes, inside the release zip) FS17_XLFarms_X1.zip and FS17_XLFarms_X2.zip which are two different maps. The actual map zip's together are only 1.01gb in size. Two dev log text files which start with hijo de puta language (big surprise) with english later. Includes donate txt file, sigh. To be fair to the dev it says on capital letters that it is work in progress and beta (they are pretty much the same though), but still use your fucking head before making stupid release packaging like this. Also the release zip includes, get this, <b>890 megabytes of screenshots in BMP format!</b> oh my fucking god how fucking retarded person has to be. People who make releases like this should not let be even near of computer.
+<p>1.89gb release zip. Includes two zip files (yes, inside the release zip) FS17_XLFarms_X1.zip and FS17_XLFarms_X2.zip which are two different maps. The actual map zip's together are only 1.01gb in size. Two dev log text files which start with hijo de puta language (big surprise) with english later. Includes donate txt file, sigh. To be fair to the dev it says on capital letters that it is work in progress and beta, but still use your frigging head before making stupid release packaging like this. Also the release zip includes, get this, <b>890 megabytes of screenshots in BMP format!</b> oh my, effort has been put to make this suck so bad...
 </p>
 
 <p><b>FS17_XLFarms_X1.zip</b>
@@ -872,7 +853,7 @@
 
 <a href="images/Map-FS17_XLFarms_X1.png" target="_blank"><img src="images/thumbs/Map-FS17_XLFarms_X1.jpg" alt="Farming Simulator 17 Map - FS17_XLFarms_X1" style="width:128px;height:128px;"></a>
 
-<p>Says to be XL farm but still is only 2X map haha. Flat terrain. Badly pasted repeating trees. Stupid water areas with wind turbines.
+<p>Says to be XL farm but still is only 2km map haha. Flat terrain. Badly pasted repeating trees. Some odd water areas with wind turbines.
 </p>
 
 <p><b>FS17_XLFarms_X2.zip</b>
@@ -880,17 +861,17 @@
 
 <a href="images/Map-FS17_XLFarms_X2.png" target="_blank"><img src="images/thumbs/Map-FS17_XLFarms_X2.jpg" alt="Farming Simulator 17 Map - FS17_XLFarms_X2" style="width:128px;height:128px;"></a>
 
-<p>Same as above but this is 4X map, so more stupid water and wind turbines.
+<p>Same as above but this is 4km map, so more odd water and wind turbines.
 </p>
 
 <h2>Zlotow TV, ZlotowTV</h2>
 
-<p>Some work in progress crap, tiny map and no fields registered in the game, etc.
+<p>Some work in progress, tiny map and no fields registered in the game, etc.
 </p>
 
 <h2>Koporstki, koporstki</h2>
 
-<p>Probably stolen map as it uses Rolniczy Zakatek preview image, work in progress broken map.
+<p>Uses Rolniczy Zakatek preview image, work in progress broken map.
 </p>
 
 <h2>AgroVation, FS17Contest_AgroVation</h2>
@@ -902,6 +883,15 @@
 
 <p>Ridiculous mountains, no farming.
 </p>
+
+<!--
+<h2>NAME</h2>
+
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+
+<p>DESCRIPTION
+</p>
+-->
 
 </section>
 
