@@ -22,20 +22,13 @@
 
 <section>
 <h2>Farming Simulator 17 Maps</h2>
-<p>PMC favorite Farming Simulator 17 map downloads, all placed neatly in one single torrent. When you start the download you can use torrent client to select which map files to download.
+<p>PMC favorite Farming Simulator 17 map downloads.
 </p>
 
-<p>Torrent updated on XX-XX-XX and includes these maps:
-</p>
 <ul>
-<li>FS17_NWTexas.zip, North West Texas 4X</li>
+<li><a href="downloads/FS17_NWTexas.zip">FS17_NWTexas.zip</a>, North West Texas</li>
+<li><a href="downloads/Parkers_Prairie_v1_4_2.zip">Parkers_Prairie_v1_4_2.zip</a>, Parkers Prairie v1.4.2</li>
 </ul>
-
-<p>Download coming soon...
-</p>
-
-<p>Don't be a leech, please keep seeding at least 1:1 ratio, sharing is caring.
-</p>
 
 </section>
 
