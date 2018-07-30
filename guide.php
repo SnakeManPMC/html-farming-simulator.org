@@ -300,9 +300,9 @@ How you play the game is up to you, however here are some of the options availab
 
 <ul>
 <li>First Person Mode. Do not use (C key) external view at all.</li>
-<li>Money Cheat. Get one billion of money and dont worry about money ever again, just enjou the sim.</li>
+<li>Money Cheat. Get one billion of money and dont worry about money ever again, just enjoy the sim.</li>
 <li>Enjoy The Simulation. Do not use helpers or Courseplay, just operate every vehicle yourself.</li>
-<li>Boss Mode. Use only Courseplay and act as big farm boss instead of worker.</li>
+<li>Boss Mode. Use only Courseplay and act as big farm boss instead of a worker.</li>
 <li>Start Fresh. At career start sell every vehicle and equipment, build your own farm.</li>
 <li>Multiplayer. Normally if you have no server or friends, you'd be playing only singleplayer. MP is very different than SP with helpers or Courseplay, but always not so easy to get into.</li>
 <li>Easy or Normal Difficulty. Hard difficulty with 3 stages of fertilization is pretty much useless time hogging grind, use your time wisely.</li>
