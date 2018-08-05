@@ -52,7 +52,7 @@ People have said that difficulty level hard is just unecessary grinding for no g
 </p>
 
 <p>
-Also some believe three stages of fertilization is just too much for a gameplay, it goes to too much grinding again for no reason.
+Also some believe three stages of fertilization is just too much for a gameplay, it goes to too much grinding again for no reason, however if you only use one stage and seed with Big Bud seed hawk which also fertilizes (as some others do also), then you have no use for slurry and manure which would be a real shame because it is a big, a huge part of farming and farming simulator. Don't skip slurry and manure, they are great fertilization methods so just switch to 3 stage fertilization and enjoy the game without rushing to harvest.
 </p>
 
 <p>

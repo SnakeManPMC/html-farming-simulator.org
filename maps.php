@@ -189,6 +189,30 @@
 <p>Field 32 has narrow gate and powerline pole right next to the gate.
 </p>
 
+<p>Very nice digital elevation map (DEM) heightmap source was used, there are bumps and nudges everywhere and it looks very realistic.
+</p>
+
+<p>Field 15 is so tiny and it has fence literally touching the crop so a harvester with 45ft header cant really work on it using courseplay, you have to drive it manually. When sowing with great plains 18.2m seeder it can barely fit on the southern edges, the field is so tiny.
+</p>
+
+<p>Field 16 has telephone pole right next to the field in the south end, courseplay needs headland to avoid this.
+</p>
+
+<p>Field 19 is 3.25 hectares, grass and has about dozen trees in it so if you purchase this one it requires some logging work and grass mowing (or just plow directly) before any normal harvest can be done. None of the tree types were supported by ponsse scorpion king of logging, but you could cut them down with a chainsaw.
+</p>
+
+<p>Field 20 is 1.65 hectares, same as field 19. These two fields are separated by nothing more than barbed wire fence (to which is great to have your vehicles get stuck on).
+</p>
+
+<p>Nights are like glow in the dark, when north west texas was pitch black dark in cloudy nights newlin is like a light would shine from the sky and light up the place, it looks weird.
+</p>
+
+<p>Pigs and sheeps water trought is inside the fenced area and especially with pigs you have to reverse your tractor there. All I'm thinking is how awesome animal areas there are in north west texas...
+</p>
+
+<p>Skybox at night the stars move in the sky the same speed as clouds in the daytime hehe.
+</p>
+
 <p>Sorghum, cotton and feed corn crop types. Cotton is harvested with corn header.
 </p>
 

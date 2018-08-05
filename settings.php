@@ -107,6 +107,22 @@ streamingInternetRadios.xml
 <p>That is how you setup music / radio channels in-game.
 </p>
 
+<p>
+<b>Savegame directories</b> are located in:
+</p>
+<pre>
+"C:\Users\USERNAME\Documents\My Games\FarmingSimulator2017\savegame1"
+</pre>
+<p>And going from savegame1 to savegame20.
+</p>
+
+<p>If you need to organize your saves so that lets say you dont have to scroll to your latest save everytime to position 15, you can simply swap the contents of savegame1 and savegame15.
+</p>
+
+<p>
+Always nice to have your often used save, or perhaps if you keep slot 1 free for testing of all kinds of mods and maps then you dont have to scroll to the first free savegame slot.
+</p>
+
 </section>
 
 <footer>

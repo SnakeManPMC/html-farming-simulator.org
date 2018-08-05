@@ -42,14 +42,26 @@ You should have some basic windows open in it, these include; scenegraph, terrai
 </p>
 
 <p>
+Giants Editor camera movment;<br>
+RMB + WASD keys<br>
+LMB-Middle Mouse Button pans<br>
+ALT-LMB rotates the view<br>
+ALT-RMB moves camera back and forth<br>
+F key focuses / moves camera on selected object
+</p>
+
+<p>
+Keyboard short cuts:<br>
+CTRL-D duplicate selected object(s)<br>
+CTRL-B then LMB duplicate selected object(s) where the mouse cursor is at LMB press moment.
+</p>
+
+<p>
 PDA Camera. Create new scenegraph item of camera (Create -> Camera), in attributes window transform name it to PDAcamera or something. Use translate Y: 4000 and rotate X: -90. Translate Y is your map size, so for 2x maps use 2000, for 4x maps use 4000 and for 16x maps use 8000.
 </p>
 
 <p>
 Huge maps: you need to run a script to allow the editor to display large terrains properly, download: <a href="downloads/Giants_Editor_Scripts_2018-07-11.7z" target="_blank">Giants_Editor_Scripts_2018-07-11.7z</a>.
-</p>
-
-<p>
 </p>
 
 	<h2>Start a Map</h2>
@@ -97,21 +109,26 @@ Open ModDesc.xml file, edit maps -> map id to your own unique map name, do not u
 	<h2>Map Size</h2>
 
 <p>
+Please forget that 2X, 4X etc map size nonsense, use kilmeters x kilometers (in short just km) instead. Simple example; goldcrest valley is 2km, north west texas is 4km, broad acres and cornbelt are 8km. As of 2018-08-05 nobody has released 16km map.
+</p>
+
+<p>
 0,0 coordinates is upper left corner, max coords are lower right corner.
 </p>
 
 <p>
-Map size is defined in MyMap\maps\map01\map01_dem.png and the *_weight.png images, more specifically in their resolution.
+Map size is defined in MyMap\maps\map01\map01_dem.png and the *_weight.png images, more specifically in their resolution and in map01.xml file.
 <p>
 
 <p>
-map01_dem.png image resolution, in-game coordinates:<br>
+map01_dem.png image resolution, in-game coordinates, kilometers x kilometers size:<br>
 <s>255 x 255 pixels.<br>
 513 x 513 pixels, 1535 x 1535.</s><br>
-1025 x 1025 pixels, 2048 x 2048 (default size, goldscrest valley, sosnovka).<br>
-2049 x 2049 pixels, 4096 x 4096.<br>
-4097 x 4097 pixels, 8192 x 8192.<br>
-8193 x 8193 pixels, 16384 x 16384.
+1025 x 1025 pixels, 2048 x 2048, 2km x 2km (default size, goldscrest valley, sosnovka)<br>
+2049 x 2049 pixels, 4096 x 4096, 4km x 4km<br>
+4097 x 4097 pixels, 8192 x 8192, 8km x 8km<br>
+8193 x 8193 pixels, 16384 x 16384, 16km x 16km<br>
+16385 x 16385 pixels, 32768 x 32768, 32km x 32km
 </p>
 
 	<h2>Change Map Size</h2>
@@ -165,6 +182,40 @@ Control channels for the terrainDetail Foliage Layer:<br>
 
 <p>
 LMB paints, RMB erases.
+</p>
+
+	<h2>Create Field Definitions</h2>
+
+<p>
+You must have a existing working field on your map project. Look for this on the various sample map mods.
+</p>
+
+<p>
+Select fields transformgroup, use scripts -> FS17 -> Map -> toggle render field areas, in few seconds blue shape should appear where your fields are.
+</p>
+
+<p>
+Click open fields transformgroup, click on the existing field which in our example is "field01", CTRL-D to duplicate (copy automatically).
+</p>
+
+<p>
+Rename the field to the next available digit, if the duplicated one was 01 like in our example then make the new one 02 so "field02".
+</p>
+
+<p>
+Move field02 to items into the location on the map where you want this new field. Then move field02 -> fieldDimensions -> corner01_* points to match the area where you want this new field.
+</p>
+
+<p>
+Select fields, use scripts -> FS17 -> Map -> Set field sizes.
+</p>
+
+<p>
+Now switch to terrain foliage paint mode, select foliage layer painting -> foliage layer -> terrainDetail and tick 0 channel. Now just paint the blue shape of your new field.
+</p>
+
+<p>
+If you load existing savegame for your map after you added new fields, they do not show any crops or soil state. What I understand, you must start fresh savegame after adding (or changing sizes) fields.
 </p>
 
 	<h2>Create Foliage for Fields</h2>
@@ -285,6 +336,10 @@ You can edit silo capacity from map01.i3d search for capacityPerType or edit nor
 Attribute name="capacityPerType" type="integer" value="10000000"
 </pre>
 
+<p>
+To change the name of station (the tipTrigger) you have to change a UserAttribute of the trigger. Then locate the trigger/station you want to change. Find the actual trigger which has all the attributes, like "appearsOnPDA", "isAreaTrigger", "onCreate", "stationName" etc. Now you just need to change the value of the attribute "stationName" to what ever you like. The value for "stationName" is a string, which is either directly used or it is used to find an i18n entry. An i18n value can be defined in the modDesc of your mod.
+</p>
+
 	<h2>Animals</h2>
 
 <p>
@@ -306,6 +361,29 @@ Info layer painting channels:
 NavMesh for animals is created by painting info layer with proper channel selected, then using create -> navigation mesh, you must select terrain desselation -> culling info layer channels properly. Do not just type the number here even if you know it, use the ... button to actually select it.
 </p>
 
+<p><b>
+Creating navigation mesh (navmesh)</b>
+</p>
+
+<p>
+In dialog terrain editing -> info layer painting -> info channels. Channel numbers are 0 cow, 1 sheep, 2 chickens and 3 pigs.
+</p>
+
+<p>
+Select info channel (only one at the time), then select from main menu terrain info layer paint mode. Now paint white color where you want this specific animal type to graze.
+</p>
+
+<p>
+Go to animals transformgroup (you should have already imported these from some sample map and they should be fully working), our transformgroup is named "animals" and has "cowsHusbandry" transformgroup, select this. Click open gameplay transformgroup and there select CowNavMesh.
+</p>
+
+<p>
+From main menu create -> navigation mesh, click shape build mask three dots (opens a new dialog), click clear button and tick 0 channel, then click ok. Now back in build navigation mesh dialog click terrain tesselation -> culling info layer channels three dots, click clear button and tick 0 channel, then click ok. Again back in build navigation mesh dialog click Recreate button and your 0 cow navmesh is done.
+</p>
+
+<p>
+Repeat the same for 1, 2 and 3 channels as well to finish all the animal navmeshes :)
+</p>
 
 <p>
 PDA map markers for animals are setup in maps/map01.xml file. Use some transformgroup to move into the location where specific animals are located, then write down the attributes translate X and Z coordinates into the XML file.
@@ -349,6 +427,39 @@ Place the object directory into your MyMap\maps\objects\ directory. Use file -> 
 
 <p>
 Use create -> spline to create, well a spline. Then you can move and rotate it usually. If you hit INSERT key, new point in the spline is created which again can be moved around.
+</p>
+
+	<h2>Huge Field Issues</h2>
+
+<p>
+Map with huge fields have issue with courseplay, it wont generate courses. I tried it to 1565 hectare field and it refused to generate no matter what kind of settings. When you generate course for 1000 hectare field it freezes up your game so ALT-TAB is not working, it takes several seconds to save on i7 4790k with SSD.
+</p>
+
+<p>
+Huge fields take a long time (real gaming time, not depending on time accelleration) for the the crops to grow, it takes several days for wheat harvest to grow. [at least I think this is abnormal behavior, usually it takes pretty much overnight to grow crops heh dunno cant remember].
+</p>
+
+<p>
+Courseplay generates routes for 1008 hectare fields. Note: it takes several seconds when it does this while it freezes the game, be patient and WAIT. Also do not, I say again, do NOT save such insanely large courseplay route because next time you start the map it takes several minutes to start if not ultimately locking up your game. Do not save huge courseplay courses, no matter the field sizes.
+</p>
+
+<p>
+Also purchasing huge fields seem to freeze the game, this is reproduceable on PMC 16384 terrain with the 1475 hectare field number 30. However this might have been some bug in the field too ;)
+</p>
+
+	<h2>Goldcrest Valley GRLE and GDM Resolutions</h2>
+
+<p>
+Goldcrest Valley GRLE and GDM image file resolutions:<br>
+cultivator_density.gdm 4096 x 4096<br>
+forestGrass_density.gdm cant open, huh?<br>
+forestGrassDark_density.gdm 4096 x 4096<br>
+fruit_density.gdm 4096 x 4096<br>
+infoLayer.grle 1024 x 1024<br>
+seasons_mask.gdm 2048 x 2048<br>
+terrainDetailHeight_density.gdm 4096 x 4096<br>
+tipColInfoLayer.grle 2048 x 2048<br>
+townDecoGrass_density.gdm 4096 x 4096
 </p>
 
 </section>
