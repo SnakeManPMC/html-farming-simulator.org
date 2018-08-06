@@ -623,6 +623,12 @@ Horrible 3rd person camera field of view, haha.
 The 200T model is bit plasticy looking, too much shine to it, doesn't look like its metal. The 200T mother bin bounces in corn field, its somehow bugged and also the texture does that "LSD shapes flicker" (difficult to explain), hopefully there will be fixed version. Better to use the Bromat MBT 150 which works great.
 </p>
 
+<h2>FS17_JD_2623_50FT.zip</h2>
+
+<p>
+John Deere 2623VT 50ft Flex Disk plough and cultivator. Ploughs first then cultivates, so kind of like if you lift the implement up it leaves ploughing mark on the field. Has a little performance problem if you zoom too close.
+</p>
+
 <!--
 ***********************************************************************************************************
 ***********************************************************************************************************
