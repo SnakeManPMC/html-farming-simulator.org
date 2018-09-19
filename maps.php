@@ -207,10 +207,13 @@
 <p>Nights are like glow in the dark, when north west texas was pitch black dark in cloudy nights newlin is like a light would shine from the sky and light up the place, it looks weird.
 </p>
 
-<p>Pigs and sheeps water trought is inside the fenced area and especially with pigs you have to reverse your tractor there. All I'm thinking is how awesome animal areas there are in north west texas...
+<p>Skybox at night the stars move in the sky the same speed as clouds in the daytime hehe.
 </p>
 
-<p>Skybox at night the stars move in the sky the same speed as clouds in the daytime hehe.
+<p>Sunrise 0600hrs. Nights are as said "glow in the dark" at least in clear weather so you can see pretty easily at night time, its just "a bit dark" thats all. at 0500hrs completely dark, 0508hrs started to notice some fog type shading on the trees in the horizon. 0535hrs sky completely dark but horizon objects start to become increasingly "foggy" or hazed and that morning dew or whatever flying leafs etc is present. 0547hrs sky completely dark. at 0554hrs started to see slight shading on the sky.
+</p>
+
+<p>Pigs and sheeps water trought is inside the fenced area and especially with pigs you have to reverse your tractor there. All I'm thinking is how awesome animal areas there are in north west texas...
 </p>
 
 <p>Sorghum, cotton and feed corn crop types. Cotton is harvested with corn header.
@@ -229,6 +232,30 @@
 </p>
 
 <p>You can cut trees (tested few types in one of the big fields) and then plough some nice big fields, but also if you cut too many trees it takes away from the beauty of this map as well so be mindful of that.
+</p>
+
+<p>Wheat is some new textures and maybe even model, it looks completely different what the stock game wheat, its very bright almost blinding bright color. Also it has really bad shimmering effect when its been harvested.
+</p>
+
+<p>The dust effect is some odd white colored one, looks real bad. The ground dirt in general is not red but kind of reddish, unlike the dark brown as in stock game, no idea if texas ground dirt has such color shading but it kind of looks odd, reminds me of red dirt of vietnam heh.
+</p>
+
+<p>Courseplay wont work in field 24, it just refuses to generate a course until you recalculated the field edge path from drive menu, this happens with some other fields as well.
+</p>
+
+<p>Field 24 purchase point has access way to the field... except its so narrow you cannot properly fit big bud through and doubt smaller tractors with implements do any better. However you can pass freely to this field from the NW corner, its wide open there.
+</p>
+
+<p>Field 14 has fence all around it and you have to go through F13 fence gate to get here, heh.
+</p>
+
+<p>Field 21 courseplay hits the fence near that electric or whatever box with a small road and a tree. And on the other side of that spot is a telephone pole where harvester gets stuck.
+</p>
+
+<p>Overall Newlin is very bad map with the fences, gates and trees so close to the fields, this is pure horror for courseplay use. Simply said, most fields are bad at best with courseplay, some just dont work at all like field 17 for example.
+</p>
+
+<p>Sorry to say but Newlin Texas <b>beta</b> is not playable, only thing you get is frustrated if you try. I really hope Txzar will fix these issues but unfortunately many of them fall into design decision category so unless he changes the design, this map will always be unusable. I had a good time testing Newlin beta but I'm going back to my old fully working maps like North West Texas and Parkers Prairie where you can have enjoyable gameplay.
 </p>
 
 <h2>Rattlesnake Valley</h2>
