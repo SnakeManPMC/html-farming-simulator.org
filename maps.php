@@ -174,7 +174,7 @@
 <p>Skybox is animated meaning clouds move, well kind of, its the whole sky with everything thats moving. It is really fast too, very unrealistic looking and all I can hope is that Txzar fixes this on upcoming versions.
 </p>
 
-<p>**Exploring Map Work In Progress** but looks like <b>almost every field is blocked by fence and narrow gate</b>, this is devastating effect for enjoyable game-play as you cannot use large equipment and even small equipment gets stuck very easily :-(
+<p>Looks like <b>almost every field is blocked by fence and narrow gate</b>, this is devastating effect for enjoyable game-play as you cannot use large equipment and even small equipment gets stuck very easily :-(
 </p>
 
 <p>Field 17 is covered with fences, its like a prison, Big Bud are not allowed to enter. And because of the field shape and the fences, courseplay overloader just wont work :(
@@ -204,13 +204,10 @@
 <p>Field 20 is 1.65 hectares, same as field 19. These two fields are separated by nothing more than barbed wire fence (to which is great to have your vehicles get stuck on).
 </p>
 
-<p>Nights are like glow in the dark, when north west texas was pitch black dark in cloudy nights newlin is like a light would shine from the sky and light up the place, it looks weird.
+<p>Nights are like glow in the dark, when north west texas was pitch black dark in cloudy nights newlin is like a light would shine from the sky and light up the place, it looks weird. Skybox at night the stars move in the sky the same speed as clouds in the daytime hehe.
 </p>
 
-<p>Skybox at night the stars move in the sky the same speed as clouds in the daytime hehe.
-</p>
-
-<p>Sunrise 0600hrs. Nights are as said "glow in the dark" at least in clear weather so you can see pretty easily at night time, its just "a bit dark" thats all. at 0500hrs completely dark, 0508hrs started to notice some fog type shading on the trees in the horizon. 0535hrs sky completely dark but horizon objects start to become increasingly "foggy" or hazed and that morning dew or whatever flying leafs etc is present. 0547hrs sky completely dark. at 0554hrs started to see slight shading on the sky.
+<p>Sunrise 0600hrs. Sunset about 2100hrs. It starts to get dark at 1800hrs and it will take two hours at least to darken fully. Nights are as said "glow in the dark" at least in clear weather so you can see pretty easily at night time, its just "a bit dark" thats all. at 0500hrs completely dark, 0508hrs started to notice some fog type shading on the trees in the horizon. 0535hrs sky completely dark but horizon objects start to become increasingly "foggy" or hazed and that morning dew or whatever flying leafs etc is present. 0547hrs sky completely dark. at 0554hrs started to see slight shading on the sky.
 </p>
 
 <p>Pigs and sheeps water trought is inside the fenced area and especially with pigs you have to reverse your tractor there. All I'm thinking is how awesome animal areas there are in north west texas...
@@ -250,6 +247,12 @@
 </p>
 
 <p>Field 21 courseplay hits the fence near that electric or whatever box with a small road and a tree. And on the other side of that spot is a telephone pole where harvester gets stuck.
+</p>
+
+<p>Fields that are not defined in giants editor properly, will simply not work. Txzar said in his facebook page that players can plough the fields to their liking and after that they work, that is not true, the field will not register in the game even after you plough it using "allow create fields" option. So fields 1 - 5, 7, 8, 10, 14, 18 and 25 just wont never work until Txzar defines them properly. In fact the whole terrains northern edge (with exception of properly defined field 6) is completely useless.
+</p>
+
+<p>Also field 41 is the last one you can access in NE, big bud cannot pass the gate between fields 41 and 38 rendering 38, 39, 40 and 42 useless as there is no other way to get them, they are all fenced out. Or who knows maybe there is some gap in the fence somewhere but is this farming simulator 17 or lord of the rings, do I have to go into QUEST to find the gap like a lost princess in the fences somewhere, completely ridiculous. Just simply avoid newlin texas <b>beta</b> and hope for the best but expect to be disappointed that Txzar would actually fix these design issues, I mean you dont just accidentally fence off fields like that, this is not a bug this is planned and deliberate act which makes it that much more sad.
 </p>
 
 <p>Overall Newlin is very bad map with the fences, gates and trees so close to the fields, this is pure horror for courseplay use. Simply said, most fields are bad at best with courseplay, some just dont work at all like field 17 for example.
