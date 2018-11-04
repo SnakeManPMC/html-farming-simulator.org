@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Farming Simulator Settings - PMC Tactical</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
@@ -53,7 +53,7 @@ file and edit <b>TAKE_SCREENSHOT</b> value there to empty. Now the game wont tak
 <p>Mouse sensitivity, to change the ridiculously slow movement in camera view, change:
 </p>
 <pre>
-mouseSensitivityScaleX="6.000000" mouseSensitivityScaleY="6.000000"
+	mouseSensitivityScaleX="6.000000" mouseSensitivityScaleY="6.000000"
 </pre>
 
 <p>Note that when you change in-game settings, the inputBinding.xml file's mouse sensitivity gets resetted to default, so every time you change settings you have to re-edit this xml file.
@@ -123,11 +123,47 @@ streamingInternetRadios.xml
 Always nice to have your often used save, or perhaps if you keep slot 1 free for testing of all kinds of mods and maps then you dont have to scroll to the first free savegame slot.
 </p>
 
+<p>
+<b>Developer Mode</b>
+</p>
+
+<p>
+game.xml at bottom you'll find &lt;development&gt; parameter, set this to TRUE. Development mode: tilde is console log. F5 is the view trigger wireframe mode. F2 framerates.
+</p>
+
+<p>
+<b>Graphical Settings</b>
+</p>
+
+<p>
+Normal graphics options are in the options menu in-game, but you can also change the LOD and view distance settings from the game.xml file to increased numbers depending on your hardware capabilities.
+</p>
+
+<p>
+These control the detail LOD distance stuff, default is 2. My nVidia GTX Titan X started to stutter with value 8.
+</p>
+<pre>
+	&lt;lodDistanceCoeff&gt;4.000000&lt;/lodDistanceCoeff&gt;
+	&lt;foliageViewDistanceCoeff&gt;4.000000&lt;/foliageViewDistanceCoeff&gt;
+	&lt;foliageDensitySlider&gt;1.000000&lt;/foliageDensitySlider&gt;
+	&lt;viewDistanceCoeff&gt;4.000000&lt;/viewDistanceCoeff&gt;
+</pre>
+
+<p>
+<b>Custom MOD Directory</b>
+</p>
+
+<p>
+Sometimes its useful to be able to map mod directory to whatever you want instead of the game default on c:\users\, here is how you customize it.
+</p>
+<pre>
+	&lt;modsDirectoryOverride active="false" directory="C:/Temp"/&gt;
+</pre>
+
 </section>
 
 <footer>
-<p>Back to <a href="index.php">PMC Farming Simulator root page</a></p>
-<br><br>
+<p><a href="index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>

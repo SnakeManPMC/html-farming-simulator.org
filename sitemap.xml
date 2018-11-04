@@ -6,42 +6,51 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://www.farming-simulator.org/</loc>
+  <loc>https://www.farming-simulator.org/</loc>
 </url>
 <url>
-  <loc>http://www.farming-simulator.org/index.php</loc>
+  <loc>https://www.farming-simulator.org/index.php</loc>
 </url>
 <url>
-  <loc>http://www.farming-simulator.org/maps.php</loc>
+  <loc>https://www.farming-simulator.org/maps.php</loc>
 </url>
 <url>
-  <loc>http://www.farming-simulator.org/mods.php</loc>
+  <loc>https://www.farming-simulator.org/mods.php</loc>
 </url>
 <url>
-  <loc>http://www.farming-simulator.org/links.php</loc>
+  <loc>https://www.farming-simulator.org/links.php</loc>
 </url>
 <url>
-  <loc>http://www.farming-simulator.org/settings.php</loc>
+  <loc>https://www.farming-simulator.org/settings.php</loc>
 </url>
 <url>
-  <loc>http://www.farming-simulator.org/guide.php</loc>
+  <loc>https://www.farming-simulator.org/guide.php</loc>
 </url>
 <url>
-  <loc>http://www.farming-simulator.org/courseplay.php</loc>
+  <loc>https://www.farming-simulator.org/courseplay.php</loc>
 </url>
 <url>
-  <loc>http://www.farming-simulator.org/review.php</loc>
+  <loc>https://www.farming-simulator.org/review.php</loc>
 </url>
 <url>
-  <loc>http://www.farming-simulator.org/downloads.php</loc>
+  <loc>https://www.farming-simulator.org/downloads.php</loc>
 </url>
 <url>
-  <loc>http://www.farming-simulator.org/history.php</loc>
+  <loc>https://www.farming-simulator.org/history.php</loc>
 </url>
 <url>
-  <loc>http://www.farming-simulator.org/editing.php</loc>
+  <loc>https://www.farming-simulator.org/editing.php</loc>
 </url>
 <url>
-  <loc>http://www.farming-simulator.org/map-making-tutorial.php</loc>
+  <loc>https://www.farming-simulator.org/map-making-tutorial.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/user-guide-cornbelt-8km-terrain.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/stories.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/user-guide-north-west-texas-4km-terrain.php</loc>
 </url>
 </urlset>

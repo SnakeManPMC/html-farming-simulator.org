@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Farming Simulator History - PMC Tactical</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
@@ -43,8 +43,7 @@ Farming Simulator 19 release date (nov 20th) announced - Jul 20th, 2018.
 </section>
 
 <footer>
-<p>Back to <a href="index.php">PMC Farming Simulator root page</a></p>
-<br><br>
+<p><a href="index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>

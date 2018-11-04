@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>Farming Simulator 17 Map Making Tutorial - PMC Tactical</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
@@ -42,7 +42,7 @@ You should have some basic windows open in it, these include; scenegraph, terrai
 </p>
 
 <p>
-Giants Editor camera movment;<br>
+Giants Editor camera movement;<br>
 RMB + WASD keys<br>
 LMB-Middle Mouse Button pans<br>
 ALT-LMB rotates the view<br>
@@ -134,7 +134,7 @@ map01_dem.png image resolution, in-game coordinates, kilometers x kilometers siz
 	<h2>Change Map Size</h2>
 
 <p>
-When you change map sizes, you need to edit all the *_weight.png images and map01_dem.png image. Please note that *_weigth.png images are normal 1024, 2048 etc resolutions while map01_dem.png is one pixel larger, like 1025, 2049 etc. However <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=3976" target="_blank">this post</a> says about some layer image, but I cant see one heh. Also <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=5214" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=4858" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=4304" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=4&threadId=4349" target="_blank">this post</a>, <a href="https://fs-uk.com/mods/view/38253/blank-4fach-starter-map-with-models-and-more" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=3948" target="_blank">this post</a> about large maps.
+When you change map sizes, you need to edit all the *_weight.png images and map01_dem.png image. Please note that *_weight.png images are normal 1024, 2048 etc resolutions while map01_dem.png is one pixel larger, like 1025, 2049 etc. However <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=3976" target="_blank">this post</a> says about some layer image, but I cant see one heh. Also <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=5214" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=4858" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=4304" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=4&threadId=4349" target="_blank">this post</a>, <a href="https://fs-uk.com/mods/view/38253/blank-4fach-starter-map-with-models-and-more" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=3948" target="_blank">this post</a> about large maps.
 </p>
 
 <p>
@@ -215,7 +215,11 @@ Now switch to terrain foliage paint mode, select foliage layer painting -> folia
 </p>
 
 <p>
-If you load existing savegame for your map after you added new fields, they do not show any crops or soil state. What I understand, you must start fresh savegame after adding (or changing sizes) fields.
+If you load existing savegame for your map after you added new fields, they do not show any crops or soil state. What I understand, you must start fresh savegame after adding fields or changing their sizes.
+</p>
+
+<p>
+If you cannot plough fields, check terrain -> attributes -> translate Y, it must be 0. Also fields need to be defined, obviously.
 </p>
 
 	<h2>Create Foliage for Fields</h2>
@@ -239,6 +243,70 @@ Foliage channel settings for various crops:<br>
 <p>
 Fortunately, GIANTS Editor helps you out a bit here. When choosing the crop you want from the Foliage Layer drop-down menu, it automatically sets the bitmask for the first four foliage channels.
 </p>
+
+
+	<h2>Create Fields From Nothing</h2>
+
+<p>
+Create transformgroups fields, attributes add onCreate "script callback", then on its attribute add FieldDefinition.onCreate value.
+</p>
+
+<p>
+Under fields add transformgroup field01. Add attributes fieldAngle integer, fieldArea float, fieldPriceScale integer, npcIndex integer.
+</p>
+
+<p>
+If you add ownedByPlayer boolean, tick it and player owns the field.
+</p>
+
+<p>
+Under field01 add fieldBuyTrigger, fieldDimensions and fieldMapIndicator transformgroups.
+</p>
+
+<p>
+Under fieldBuyTrigger add triggerIconBuyField transformgroup. And there add iconLight light source (create -> light).
+</p>
+
+<p>
+Under fieldDimensions add corner01_1 transformgroup. And there add corner01_2 and corner01_3 transformgroups.
+</p>
+
+<p>
+corner01_1 is NW corner, 01_2 is NE corner and 01_3 is SE corner of the field. This gets more complex when you have oddly shaped fields.
+</p>
+
+<p>
+Scenegraph field01 selected, CTRL-C copies, CTRL-V pastes and CTRL-X cut pastes.
+</p>
+
+<p>
+Under fields add as many fields as you need numbered 01, 02, 03 etc.
+</p>
+
+<p>
+Select fields in the scenegraph, then Scripts -> FS17 -> Map -> Toggle Render Field Areas and you will see a blue polygon appear in the shape of your field.
+</p>
+
+<p>
+Select fields in the scenegraph, then Scripts -> FS17 -> Map -> Set Field Sizes.
+</p>
+
+<p>
+How to enable / disable the mission function for a field? Select the specific field and add the attribute fieldJobUsageAllowed and select boolean. Then you can turn it on / off.
+</p>
+
+<p>
+After editing the field/crops you need to get rid of the following files that are in the corresponding save folder:<br>
+1. cultivator_density.gdm<br>
+2. fruit_density.gdm<br>
+3. terrain.lod.type.cache<br>
+After you tested the map and saved again, those files are regenerated, with the crops and growth states you've set in GE.
+</p>
+
+<p>
+<b>Good game-play tip:</b> Always place fieldBuyTrigger away from the map / terrain edge, like if your field is right on the western edge, dont place this trigger into west side of the field, instead put it on east side. If the trigger is very close to map edge the icon will not be displayed in PDA. Its recommended that you place all field buy triggers to the edge of the field which is closest to the map / terrain center, this way you automatically avoid the edges. Also on 8km or 16km terrains (and maybe even 4km not sure) do not place buy triggers close to each other as its hard to mouse click on them in-game due the map zoom levels.
+</p>
+
 
 	<h2>GRLE Converters</h2>
 
@@ -295,14 +363,6 @@ the default size of the map01_dem.png is 1k: 1025x1025.
 
 <p>
 So for a 4x map you need to scale that file to 2k: 2049x2049 and for a 16x map to 4k: 4097x4097
-</p>
-
-<p>
-While a size of 2k worked for me without problems I got vsiual artefacts with a 4k height map.
-</p>
-
-<p>
-Maybe you should stick to a 4x map. I 'ld say such a map is large enough ... especially if you think about the amount of data which has to be processed, especially in MP.
 </p>
 
 <p>
@@ -462,6 +522,70 @@ tipColInfoLayer.grle 2048 x 2048<br>
 townDecoGrass_density.gdm 4096 x 4096
 </p>
 
+
+	<h2>User Interface Image Resolutions</h2>
+
+<p>
+map01_preview.png resolution is 2048 x 1024
+
+pda_map_H.png resolution is what your terrain is, 2048, 4096, 8192. Or is it... 2048 seemed to work fine on larger terrains(?)
+
+map01_preview.png and pda_map_H.png need to be flipped vertically otherwise they are upside down in-game.
+</p>
+
+
+	<h2>Sun Light</h2>
+
+<p>
+Sun / star light is not enough to cover whole massive 16384 x 16384 terrain area, so you must increase the sun settings. Open your map in giants editor, click the sun and change range to 16384. All done. For PMC 32768 Terrain I made the range to 32768.
+</p>
+
+
+	<h2>Skybox Size</h2>
+
+<p>
+I took the maps/sky/ directory from some sample map and edited maps/map01_environment.xml to read &gt;environment filename="maps/sky/ instead of "$data/sky/
+</p>
+
+<p>
+Open sky_day_night.i3d file in giants editor, select sky transformgroup, then change scale x, y and z to 8. Do the same for skyUS_day_night.i3d file too. Now your skybox is enough for 8192 maps as well. For PMC 32768 Terrain I made the scale 16.
+</p>
+
+
+	<h2>Map / Terrain Design Tips</h2>
+
+<p>
+Fences kill game-play.
+</p>
+
+<p>
+For those dark nights put enough lights to your farm and especially on the grain silo area where trucks are coming in with high speed.
+</p>
+
+<p>
+Make fields small but leave large open area around it so players can enlargen them by ploughing if they want.
+</p>
+
+<p>
+Make fields small but symmetrical so players can merge them if they want mega large fields.
+</p>
+
+<p>
+Place large enough hangars / shelters to store huge fleet of implements and vehicles, you dont want to end up all road side grass areas littlered with parked vehicles.
+</p>
+
+<p>
+Decoration tips; few grain silos, maybe seed / fertilizer silos as well and then one barn or hangar type building just like parkers prairie near the animals.
+</p>
+
+<p>
+Near fields its good to have small open areas so you can park your vehicles there, like when you are not taking them back to the farm shelters.
+</p>
+
+<p>
+Nick Welker said that in real life fields do NOT have a 90 degree square corners, watch <a href="https://youtu.be/1ZIGS8eE6xQ?t=2760" target="_blank">his comments on youtube video</a>. So its more work for you as terrain dev but if you want realism, add round(er) corners for your fields.
+</p>
+
 </section>
 
 <!--
@@ -472,8 +596,7 @@ townDecoGrass_density.gdm 4096 x 4096
 -->
 
 <footer>
-<p>Back to <a href="index.php">PMC Farming Simulator root page</a></p>
-<br><br>
+<p><a href="index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>PMC Farming Simulator</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
@@ -18,11 +18,27 @@
 <!-- google ads -->
 <?php include("include/google-ads.php"); ?>
 <h1>Farming Simulator</h1>
-<p>Welcome to Farming Simulator.</p>
+<p>Welcome to PMC Farming Simulator homepage.</p>
 </header>
 
 <section>
-<p><a href="courseplay.php">Courseplay</a>, <a href="settings.php">Settings</a>, <a href="maps.php">Maps</a>, <a href="mods.php">Mods</a>, <a href="guide.php">Guide</a>, <a href="review.php">Review</a>, <a href="downloads.php">Downloads</a>, <a href="history.php">History</a>, <a href="editing.php">Editing</a>, <a href="map-making-tutorial.php">Map Making Tutorial</a>, <a href="links.php">Links</a> and Giant Software official <a href="https://www.farming-simulator.com/">Farming Simulator</a> homepage.
+	<h2>Farming Simulator 17</h2>
+<p>
+<a href="courseplay.php" class="button">Courseplay</a>
+<a href="settings.php" class="button">Settings</a>
+<a href="maps.php" class="button">Maps</a>
+<a href="mods.php" class="button">Mods</a>
+<a href="guide.php" class="button">Guide</a>
+<a href="review.php" class="button">Review</a>
+<a href="downloads.php" class="button">Downloads</a>
+<a href="history.php" class="button">History</a>
+<a href="editing.php" class="button">Editing</a>
+<a href="map-making-tutorial.php" class="button">Map Making Tutorial</a>
+<a href="user-guide-cornbelt-8km-terrain.php" class="button">User Guide: Cornbelt</a>
+<a href="user-guide-north-west-texas-4km-terrain.php" class="button">User Guide: North West Texas</a>
+<a href="stories.php" class="button">Stories</a>
+<a href="links.php" class="button">Links</a>
+<a href="https://www.farming-simulator.com" class="button" target="_blank">Giant Software official Farming Simulator</a>
 </p>
 
 </section>
