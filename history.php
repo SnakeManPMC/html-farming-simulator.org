@@ -24,20 +24,21 @@
 <h2>History of Releases</h2>
 
 <p>
-Farming Simulator 2008 - April 14, 2008.<br>
-Farming Simulator 2009 - August 28, 2009.<br>
-Farming Simulator 2011 - October 29, 2010.<br>
-Farming Simulator 2013 - October 25, 2012.<br>
-Farming Simulator 14 - November 18, 2013.<br>
-Farming Simulator 15 - October 30, 2014.<br>
-Farming Simulator 16 - May 8, 2015.<br>
-Farming Simulator 17 - October 25, 2016.<br>
-Farming Simulator 17 KUHN DLC - February 14th, 2017.<br>
-Farming Simulator 17 Big Bud DLC - May 9th, 2017.<br>
-Farming Simulator 17 Platinum Edition - Nov 14th, 2017.<br>
-Farming Simulator 17 ROPA DLC - March 13th, 2018.<br>
-Farming Simulator 17 Modern Classics DLC - May 9th, 2018.<br>
-Farming Simulator 19 release date (nov 20th) announced - Jul 20th, 2018.
+2008-04-14 Farming Simulator 2008<br>
+2009-08-28 Farming Simulator 2009<br>
+2010-10-29 Farming Simulator 2011<br>
+2012-10-25 Farming Simulator 2013<br>
+2013-11-18 Farming Simulator 14<br>
+2014-10-30 Farming Simulator 15<br>
+2015-05-08 Farming Simulator 16<br>
+2016-10-25 Farming Simulator 17<br>
+2017-02-14 Farming Simulator 17 - KUHN DLC<br>
+2017-05-09 Farming Simulator 17 - Big Bud DLC<br>
+2017-11-14 Farming Simulator 17 - Platinum Edition<br>
+2018-03-13 Farming Simulator 17 - ROPA DLC<br>
+2018-05-09 Farming Simulator 17 - Modern Classics DLC<br>
+2018-07-20 Farming Simulator 19 - release date (nov 20th) announced<br>
+2018-11-20 Farming Simulator 19 + v1.1 day one patch / upgrade
 </p>
 
 </section>
