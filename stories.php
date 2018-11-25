@@ -3321,6 +3321,177 @@ FERTILIZER GANGSTER HAS BEEN BORN! :-D
 1855 shut down FS17 after ONE MONTH of playing all day every day :-)
 </p>
 
+<p>
+Took a few days break to play some <a href="https://www.elitedangerous.net" target="_blank">Elite Dangerous</a> and actually wanted to take longer break as there seems to be no end to this savegame in the near future, but Farming Simulator 19 is upon us in couple of days so I want to do a goodbye gaming sessions with FS17.
+</p>
+
+<p>
+<b>2018-11-17T1920</b> fired up FS17 after playing only elite dangerous. lets do some farming, lets buy the next field. hopefully I'll be farming now until farming simulator 19 is released on next tuesday :)<br>
+1937 canola was on high demand, so took train to sell, sold $600k and $181k, budget now $21.603m<br>
+1945 started harvesting F44<br>
+2105 finished harvesting F44<br>
+2120 started harvesting F08<br>
+2123 started harvesting F51
+</p>
+
+<p>
+Damn its feels good to be back farming ;)
+</p>
+
+<p>
+2304 finished harvesting F08<br>
+2305 started fertilizing F11<br>
+2325 started harvesting F15
+</p>
+
+<p>
+Grain transport will unload into north west railroad silo, this silo as I understand it does not show up in the ESC prices menu, so have to remember to transfer the contents into farm silo or directly to the maplefield mills sell point.
+</p>
+
+<p>
+<b>2018-11-18T0038</b> finished fertilizing F11<br>
+0048 started fertilizing F09<br>
+0110 started fertilizing F10<br>
+0115 finished fertilizing F09<br>
+0117 started fertilizing F45<br>
+0120 finished fertilizing F10<br>
+0147 finished harvesting F15<br>
+0153 finished fertilizing F45<br>
+0154 started harvesting F16<br>
+? finished harvesting F16, forgot to write down heh<br>
+0311 started fertilizing F44<br>
+0335 finished fertilizing F44<br>
+0403 finished harvesting F51<br>
+0407 started harvesting F48<br>
+0458 started harvesting F46<br>
+0630 finished harvesting F48<br>
+0641 finished harvesting F46<br>
+0645 had to call it a night, dead tired already. Was a good comeback to cornbelt from scratch after several days. More to follow tomorrow :)
+</p>
+
+<p>
+1427 back at PMC Gaming, starting up FS17, lets get some farming done :)<br>
+1455 started harvesting F34<br>
+1710 finished harvesting F34<br>
+1713 started harvesting F35<br>
+1912 started fertilizing F48<br>
+1931 started fertilizing F51<br>
+1953 finished fertilizing F48<br>
+2134 finished fertilizing F51<br>
+2137 finished harvesting F35<br>
+2204 I have like 3 million liters of canola and market price is not the highest but decent $4,335 so decided to go sell 1.716 million liter train load of it.<br>
+2227 started to sell, sold 12x $619k, budget now $28.877m.
+</p>
+
+<p>
+Man what a pain selling those train cars were as you waited until the price went up again. I just kept watching FS19 live streams while doing it heh. Was done at 2359 (nice time heh).
+</p>
+
+<p>
+<b>2018-11-19T0003</b> decided to take even more canola for sale as still had 1.3 million liters in farm silo and the price is pretty decent indeed.<br>
+0015 started to sell, sold 5x $619k, budget now $31.976m.
+</p>
+
+<p>
+Its funny to think that wayy wayyy back how many days ago already when I was still playing the first month marathon here, I said to wait until soybeans prices go up... and I am STILL waiting, feels like forever hehe.
+</p>
+
+<p>
+0437 Was somehow super tired so went to take a nap and totally forgot to write it down, anyways woke up and started PMC Gaming back up at this timestamp.<br>
+0520 started harvesting F33
+</p>
+
+<p>
+Right now I'm thinking about logistics, I want a big square fields without bridges or other narrow places between them where I would have to unpack harvester headers. This means the NW corner and south of my farm. F32 is growing barley and it can be plowed to much larger than the owner is selling it for (71 hectares).
+</p>
+
+<p>
+I want to place a big harvester and big bud setup into these regions so they don't have to be driven back and forth as harvester header unpacking gets old real fast and big buds are so damn slow.
+</p>
+
+<p>
+Harvesting some of those smaller fields is pretty much over in this savegame, I mean what is the point of harvesting F10 which is ridiculously small when you have monster fields like F33 and F35 next to it and the new F51 which get you huge loads of grain with one go. Also the F44 and F45 combo is pretty bad because it literally is locked between two bridges.
+</p>
+
+<p>
+Obviously buying big bud setup next to a every two or so fields is overkill, but the NW corner and south of farm is excellent setup locations.
+</p>
+
+<p>
+0547 purchased F02 for $3.836m, F03 for $4.441m, F06 for $7.515m, F07 for $6.005m and F32 for $5.775m, total $27.572m, budget now $4.401m ;)<br>
+0613 started fertilizing F08<br>
+0629 purchased lizard tx 415 barrelcore for $175k, 2x semi-tipper 70000/6 for $70k and dolly ea for $9k, budget now $4.074m
+</p>
+
+<p>
+This tx 415 barrelcore truck is painted white, its my COCAINA truck to haul fertilizer from the SW silo to gunther sell point for that big DOLLAH ;)
+</p>
+
+<p>
+The SW silo has capacity of 5 million liters, I can only imagine what kind of money train it will be to get fertilizer from the factory to the silo and from the silo with a semi truck to gunther to sell. It is going to make just insane amount of money. It is borderline cheating but as I said before I am not editing any files, not exploiting any game bugs etc, this is how Cornbelt developer intended it to be, fertilizer factory in work heh.
+</p>
+
+<p>
+? finished fertilizing F08, forgot to mention what time<br>
+0811 started fertilizing F03<br>
+0830 finished harvesting F33<br>
+0857 finished fertilizing F03<br>
+0900 started fertilizing F02<br>
+0936 Fertilizer market price started to increase a while ago, it was at rock bottom so interesting to see how high it will get<br>
+0949 finished fertilizing F02
+</p>
+
+<p>
+Could not fertilize F07 as it was bought from the AI owner as-is in some weird state, happens often with AI fields. I need to really queue my field purchased and only buy them when they are seeded so I can have money from the crop and then fertilizing works without plowing first.
+</p>
+
+<p>
+1133 was dead tired and went to sleep, my sleeping schedule is really bad now with two 4hrs "nights", hopefully I can restore it with FS19 release ;)
+</p>
+
+<p>
+1724 back at PMC Gaming, fired up FS17, lets continue farming :)<br>
+1731 started plowing F07<br>
+1737 started fertilizing F06<br>
+1740 fertilizer market price broke 10k barrier, its now $10,040. cant wait to start running my cocaina white truck money train into gunther ;)<br>
+1808 started fertilizing F34<br>
+1855 finished fertilizing F06<br>
+1913 started fertilizing F15<br>
+1925 finished fertilizing F34<br>
+1926 started fertilizing F35<br>
+1937 finished fertilizing F15<br>
+1939 started fertilizing F16<br>
+2002 finished fertilizing F16<br>
+2016 finished plowing F07<br>
+2108 finished fertilizing F35<br>
+2113 started fertilizing F33<br>
+2135 started plowing F06<br>
+2208 soybeans market price started to increase in maplefield mills, but I've been disappointed so many times that I wont hold my breath of getting a good price now.<br>
+2213 finished fertilizing F33<br>
+2323 started fertilizing F07<br>
+2359 fertilizer market price stopped increasing at $11,662 which is not the highest but pretty decent for my purpose
+</p>
+
+<p>
+<b>2018-11-20T0012</b> took semi truck of fertilizer for gunther to sell, sold $816k the first 70k liter trailer, after price went back up sold another for $816k.<br>
+0024 finished fertilizing F07<br>
+0039 fertilizer sold trailer for 2x $816k, budget now $7.255m
+</p>
+
+<p>
+Had to bring another truck to help as the one is way too little, I had over 1 million liters fertilizer on the SW silo and train almost full (1 million liters) and manure/slurry tanks stocked up for further fertilizer manufacturing, hehe.
+</p>
+
+<p>
+<b>2018-11-20T0100 Farming Simulator 19 released! :-)</b><br>
+0110 fertilizer sold trailer for 2x $816k, budget now $8.887m<br>
+0111 finished plowing F06
+</p>
+
+<p>
+Selling that truck load of fertilized concluded this play session as Farming Simulator 19 had been downloaded, I'm going to start install and play that now. Remains to be seen if this log entry was the last for this savegame and who knows, maybe for FS17 all together... ;)
+</p>
+
 <!--
 </p>
 
