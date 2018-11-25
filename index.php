@@ -22,23 +22,45 @@
 </header>
 
 <section>
+	<h2>Farming Simulator 19</h2>
+<p>
+<a href="19/contracts.php" class="button">Contracts</a>
+<!-- <a href="19/editing.php" class="button">Editing</a>
+-->
+<a href="19/guide.php" class="button">Guide</a>
+<a href="19/map-making-tutorial.php" class="button">Map Making Tutorial</a>
+<a href="19/maps.php" class="button">Maps</a>
+<a href="19/mods.php" class="button">Mods</a>
+<!-- <a href="19/multiplayer.php" class="button">Multiplayer</a>
+-->
+<a href="19/review.php" class="button">Review</a>
+<!-- <a href="19/settings.php" class="button">Settings</a>
+-->
+</p>
+
+
 	<h2>Farming Simulator 17</h2>
 <p>
 <a href="courseplay.php" class="button">Courseplay</a>
-<a href="settings.php" class="button">Settings</a>
+<a href="downloads.php" class="button">Downloads</a>
+<a href="editing.php" class="button">Editing</a>
+<a href="guide.php" class="button">Guide</a>
+<a href="map-making-tutorial.php" class="button">Map Making Tutorial</a>
 <a href="maps.php" class="button">Maps</a>
 <a href="mods.php" class="button">Mods</a>
-<a href="guide.php" class="button">Guide</a>
 <a href="review.php" class="button">Review</a>
-<a href="downloads.php" class="button">Downloads</a>
-<a href="history.php" class="button">History</a>
-<a href="editing.php" class="button">Editing</a>
-<a href="map-making-tutorial.php" class="button">Map Making Tutorial</a>
+<a href="settings.php" class="button">Settings</a>
+<a href="stories.php" class="button">Stories</a>
 <a href="user-guide-cornbelt-8km-terrain.php" class="button">User Guide: Cornbelt</a>
 <a href="user-guide-north-west-texas-4km-terrain.php" class="button">User Guide: North West Texas</a>
-<a href="stories.php" class="button">Stories</a>
-<a href="links.php" class="button">Links</a>
+</p>
+
+
+	<h2>Farming Simulator</h2>
+<p>
+<a href="history.php" class="button">History</a>
 <a href="https://www.farming-simulator.com" class="button" target="_blank">Giant Software official Farming Simulator</a>
+<a href="links.php" class="button">Links</a>
 </p>
 
 </section>
