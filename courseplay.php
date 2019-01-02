@@ -24,7 +24,7 @@
 	<h2>Courseplay</h2>
 
 <p>
-Download <a href="https://github.com/Courseplay/courseplay" target="_blank">github courseplay</a> and see <a href="http://courseplay.github.com/courseplay/" target="_blank">homepage</a> for manual etc.
+Download <a href="https://github.com/Courseplay/courseplay" target="_blank">github courseplay</a> and for further documentation see <a href="http://courseplay.github.com/courseplay/" target="_blank">homepage</a> for manual etc.
 </p>
 
 <p>
@@ -294,7 +294,7 @@ I trust Courseplay dev team to do a good job, haven't had any issues with latest
 </p>
 
 <p>
-You need <a href="https://eternallybored.org/misc/wget/" target="_blank">WGET (for windows)</a> and <a href="https://www.7-zip.org/download.html" target="_blank">7-Zip Extra: standalone console version</a> for this auto downloader.
+You need <a href="https://eternallybored.org/misc/wget/" target="_blank">WGET</a> (for windows) and also <a href="https://www.7-zip.org/download.html" target="_blank">7-Zip Extra: standalone console version</a> for this auto downloader.
 </p>
 
 <p>
