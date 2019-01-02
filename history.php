@@ -38,7 +38,8 @@
 2018-03-13 Farming Simulator 17 - ROPA DLC<br>
 2018-05-09 Farming Simulator 17 - Modern Classics DLC<br>
 2018-07-20 Farming Simulator 19 - release date (nov 20th) announced<br>
-2018-11-20 Farming Simulator 19 + v1.1 day one patch / upgrade
+2018-11-20 Farming Simulator 19 + v1.1 day one patch / upgrade<br>
+2018-12-12 Farming Simulator 19 - v1.2 update <a href="https://www.farming-simulator.com/changelog-fs19.php?lang=en&country=us" target="_blank">changelog</a>
 </p>
 
 </section>
