@@ -3094,7 +3094,7 @@ Yesterday while seeding I learned a lesson that never ever start seeding or fert
 </p>
 
 <p>
-I set the two steyr multi 4115 with KUHN EMC spreaders to empty their fertilizer tanks in F15 and then I'm going to drive then back to shop and sell them. Just wanted to drive them dry so no fertilizer is lost when selling.
+I set the two steyr multi 4115 with KUHN EMC spreaders to empty their fertilizer tanks in F15 and then I'm going to drive them back to shop and sell them. Just wanted to drive them dry so no fertilizer is lost when selling.
 </p>
 
 <p>
@@ -3253,7 +3253,7 @@ I will continue this savegame, unless farming simulator 19 which is to be releas
 </p>
 
 <p>
-This decision was few days in the making, I was first planning on oct 6th to nove 6th as one month even, but actually its been four weeks today ie one month so this decision today came quite quickly as I was expecting to have few more days to play. Sort of sudden feeling that uh oh am I <i>really</i> ready to get go Cornbelt from scratch so quickly hehe. But nah, its good to stop now. And hey I still have a long day ahead of me, so lets keep farming until the cows come home (or something) ;)
+This decision was few days in the making, I was first planning on oct 6th to nov 6th as one month even, but actually its been four weeks today ie one month so this decision today came quite quickly as I was expecting to have few more days to play. Sort of sudden feeling that uh oh am I <i>really</i> ready to let go Cornbelt from scratch so quickly hehe. But nah, its good to stop now. And hey I still have a long day ahead of me, so lets keep farming until the cows come home (or something) ;)
 </p>
 
 <p>
@@ -3266,7 +3266,7 @@ Now this is really interesting issue... stanton sawmill refinery area has fertil
 </p>
 
 <p>
-Now everybody who has played FS17 knows that the balance is off somehow, the animals just do not produce enough manure/slurry to cover even smaller farm. Therefore we have to use manure/slurry sell point mods. The price of manure/slurry on these mods is extremely low as it should be, I mean its SHIT, who would pay any good money of it hehe.
+Now everybody who has played FS17 knows that the balance is off somehow, the animals just do not produce enough manure/slurry to cover even smaller farm. Therefore we have to use manure/slurry sell point mods. The price of manure/slurry on these mods is extremely low as it should be, I mean it is SHIT, who would pay any good money of it hehe.
 </p>
 
 <p>
@@ -3310,7 +3310,7 @@ FERTILIZER GANGSTER HAS BEEN BORN! :-D
 1320 canola went on high demand on maplefield mills, price was $4800 but unfortunately it was dropping. I went to help auger wagon F11 to speed things up<br>
 1345 took a train with few cars of canola, sold $680k + $680k + $622k, budget now $13.679m<br>
 1418 sold 70k fertilizer for $843k<br>
-1434 train cars sold 663 + 663 + 566? VIDEO<br>
+1434 train cars sold 663 + 663 + 566? Sorry forgot to check, eh.<br>
 1434 sold 70k fertilizer for $843k, budget now $17.258m<br>
 1445 soybeans market price started to increase, but I have been disappointed so many times that I wont have high expectations this time...<br>
 1545 train cars sold $640k + $640k + $600k, budget now $19.136m<br>
