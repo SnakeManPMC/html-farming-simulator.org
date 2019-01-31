@@ -25,6 +25,7 @@
 	<h2>Farming Simulator 19</h2>
 <p>
 <a href="19/contracts.php" class="button">Contracts</a>
+<a href="19/courseplay.php" class="button">Courseplay</a>
 <!-- <a href="19/editing.php" class="button">Editing</a>
 -->
 <a href="19/guide.php" class="button">Guide</a>

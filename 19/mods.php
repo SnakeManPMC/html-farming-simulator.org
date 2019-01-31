@@ -765,6 +765,108 @@ By Dirty
 </p>
 </div>
 
+<div class="mod_release_Vehicle">
+<h2>Player Speed</h2>
+
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+by *TurboStar* | LS-Modcompany
+</p>
+
+<p>
+This mod allows you to set different walking speeds for the farmer. Available speeds: x0.2, x0.5, x0.7, standard, x3, x8, x15, x20
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=121472&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>Disable Vehicle Camera Collision</h2>
+
+<p>
+v1.0 by Giants Software. From modDesc: Disables the vehicles camera collision.
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=112755&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>PlayerActionCamera</h2>
+
+<p>
+v1.0 by Wobster. From modDesc: This mod allows you to move and modify the Field Of View of the player camera by mouse. Use the middle mouse button to control the player height. Use the middle mouse button while holding the right mouse button to control the FOV. In order to reset press the middle mouse button once.
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=118865&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>FastNight</h2>
+
+<p>
+v1.0 by apuehri. From modDesc: The night will pass faster than you think! This mod sets the time scale once in the morning and once in the evening on a certain time scale! "Left-Shift" + "0" calls up the settings menu in which the values can be changed. Settings are saved in the savegame. In addition, the keys "Left-Shift" + "7" / "Left-Shift" + "8" can be used to manually change the time scale in finer steps! Buttons only works outside of vehicles!
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=121026&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>No Crosshair</h2>
+
+<p>
+v1.0 by Kerbo. From modDesc: Disables the crosshair.
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=118304&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>Placeable Solar Panels</h2>
+
+<p>
+v1.0.4 by MechMods, GIANTS Software. From modDesc: Solar panel 750 W.<br>
+Price: 75000 eur<br>
+Income per hour:<br>
+Easy Mode: 205 eur<br>
+Normal Mode: 165 eur<br>
+Hard Mode: 125 eur<br>
+Maintenance: 15 eur / day
+<br><br>
+Solar panel 1500 W.<br>
+Price: 100000 eur<br>
+Income per hour:<br>
+Easy Mode: 410 eur<br>
+Normal Mode: 330 eur<br>
+Hard Mode: 250 eur<br>
+Maintenance: 20 eur / day
+<br><br>
+Solar panel 3000 W.<br>
+Price: 150000 eur<br>
+Income per hour:<br>
+Easy Mode: 820 eur<br>
+Normal Mode: 660 eur<br>
+Hard Mode: 500 eur<br>
+Maintenance: 25 eur / day
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=119623&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
 <!-- category vehicles -->
 </div>
 
