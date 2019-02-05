@@ -24,11 +24,11 @@
 	<h2>Overview</h2>
 
 <p>
-<b>2018-11-25</b> This page is work in progress, will be updated later for example when we get official Giants Editor release etc.
+<b>2019-02-05</b> This page is work in progress, will be updated later for example when we get official Giants Editor release (other than v8.1 beta) etc.
 </p>
 
 <p>
-Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulator 17 (FS17) Map Making Tutorial</a> first because what you see below assumed you know all of that stuff.
+Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulator 17 (FS17) Map Making Tutorial</a> first because what you see below assumes you know all of that FS17 stuff.
 </p>
 
 
@@ -123,6 +123,26 @@ In your modDesc.xml is where the name of the terrain, author and version number 
 <p>
 &lt;maps&gt;&lt;map id="SampleModMap" needs to be unique for every terrain, so <b>do not use "SampleModMap"</b>, instead you must use unique to your terrain like for our example "pmc_sample_2048" etc.
 </p>
+
+
+	<h2>General Terrain Editing Tips</h2>
+
+<p>
+Error LOG is your friend, always check it first before starting to play. Either open log.txt and search for "error" and "warning" or try to see immediate bad errors from the in-game console debug log.
+</p>
+
+<p>
+Do not edit extensive periods in giants editor without testing the terrain in-game because what looks very nice in giants editor might be totally crap/useless in-game, so don't waste your time editing something for hours which you regret the minute you see it in-game. Also try seeding, harvesting, cultivating and plowing to make sure the fields work properly (weight/density images). You can keep giants editor running and just for example robocopy /MIR the updated files into mods dir, that saves some time.
+</p>
+
+<p>
+<b>Field sizes:</b> for the large terrain developers, include smaller fields for the early part of savegame where you start with lower end vehicles when doing missions. If you start by doing missions on 200+ hectare fields... let me tell you, the mission durations make it a world of hurt :)
+</p>
+
+<p>
+Variety is the key, add huge 500+ hecatare and tiny 5 hectare fields, make the terrain interesting, give players options what size of fields to work on etc. Making a huge terrain doesn't mean that there is no tiny fields because sometimes those can be useful, like potato harvests etc.
+</p>
+
 
 <!--
 	<h2></h2>
