@@ -23,7 +23,7 @@
 <section>
 
 <p>
-<b>2018-11-25</b> This page is work in progress.
+<b>2019-02-11</b> This page is work in progress.
 </p>
 
 <p>
@@ -116,7 +116,7 @@ Refer to FS17. With exception that now you can unload fertilizer / seeder and pa
 	<h2>Seed Placeables</h2>
 
 <p>
-No such things in FS19 v1.1 release.
+Several mod makers released seed placeables and Giants Software finally put out their official refill stations in 2019-01-31. Place it down and refill your seed tanks. Note: Refilling using Giants Software seed placeable will cost you a higher price for seed than buying it in BigBags at the Shop and they do not include lime.
 </p>
 
 	<h2>Seed Tenders</h2>
@@ -164,11 +164,19 @@ No such things in FS19 v1.1 release.
 	<h2>Placeable Buildings</h2>
 
 <p>
+A huge change in FS19 compared to the previous games is that you build your own farm using placeables. Terrain developers know that even the sell points are actually placeables just configured through XML files meaning they are not placed into terrain i3d as objects anymore. This is a great new feature to have which gives so much more freedom to players, assuming terrain developer did not place any farm objects.
+</p>
+
+<p>
 Your own farm house is just an decorative object with the sleep option. Sleep is simply 5000x time acceleration with the optional how many hours to sleep dialog. It is nice, but to have 350,000 euro costing huge object for it is total overkill, wait for modders to release fast forward type time acceleration mod instead.
 </p>
 
 <p>
-Every other un-modded game placeable object is decorative without any functions. Some people like to "role-play" I guess that they buy a vehicle hangar / shelter where they park their vehicles, this has no function in-game other than make the player feel happy I guess.
+Farm silo (and farm silo extension) placeables are to hold your grain. Most properly developed terrains do not include farm silos anymore and it is up to players how they want to build their farms including placing down farm silos.
+</p>
+
+<p>
+Selling placeable buildings is done from garage (P), just select the object you want to remove/sell and hit the sell key (ENTER). If you are using mod placeables and are very lazy, you can simply leave the placeable mod(s) out when loading a savegame and then they do not appear in-game, however its recommended to just sell them normally.
 </p>
 
 	<h2>Contracts / Missions</h2>
