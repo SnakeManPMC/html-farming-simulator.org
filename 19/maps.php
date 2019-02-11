@@ -25,7 +25,7 @@
 	<h2>Maps / Terrains</h2>
 
 <p>
-<b>2019-01-31</b> This page is work in progress.
+<b>2019-02-11</b> This page is work in progress.
 </p>
 
 <p>Click the images to open large in new tab.
@@ -84,6 +84,10 @@ Farmland for purchase cheapest 74k, so will be good for those start from scratch
 </p>
 
 <p>
+Got my first courseplay and guidance steering mod testing done in Paradise Farms, it has some issues on v1.0.0.3 but I'm sure Tinman will fix them. Overall I like this terrain a lot, one of the most enjoyable 4km terrains so far.
+</p>
+
+<p>
 <a href="https://ls-portal.eu/paradise-farms-v1-0-0-3/" target="_blank">ls-portal.eu</a>
 </p>
 </div>
@@ -110,7 +114,7 @@ Terrain heightmap looks completely flat. Trees have various object types and the
 </p>
 
 <p>
-Ridiculous looking castles and church or something on the center of the terrain, what is this farm sim or world of warcraft?
+Ridiculous looking castles and church or something on the center of the terrain, what is this farm sim or world of warcraft? :)
 </p>
 
 <p>
@@ -210,7 +214,7 @@ A large square fields (two fields are irregular but still simple 90 degree angle
 </p>
 
 <p>
-Port grain elevator buildings at the center has been copy pasted straight out of ravenport, I do not like lazyness like this, if I want to play ravenport I play ravenport.
+Port grain elevator buildings at the center has been copy pasted straight out of ravenport as you can immediately recognize the layout.
 </p>
 
 <p>
@@ -226,7 +230,7 @@ Lime station marked on the map (havent tested how well it works though). Easily 
 </p>
 
 <p>
-Southern gas station and grain elevator east locations have water / seagull sounds. Spinnery building and walls just looks somehow wrong, looks almost like a castle.
+Southern gas station and grain elevator east locations have water / seagull sounds. Spinnery building and walls makes it look almost like a castle.
 </p>
 
 <p>
@@ -273,6 +277,24 @@ Error: Blocked area map is wrong size for terrain (1024 x 1024) vs (2048 x 2048)
 
 <p>
 <a href="http://www.modhub.us/farming-simulator-2019-mods/fs19-clovercreek-v1-0-0-0/" target="_blank">Modhub.us</a>
+</p>
+</div>
+
+<div class="terrain4km">
+<h2>Flusstal XXL 19</h2>
+
+<a href="images/Map-Flusstal-XXL.png" target="_blank"><img src="images/thumbs/Map-Flusstal-XXL.jpg" alt="Farming Simulator 19 Map - Flusstal XXL" style="width:128px;height:128px;"></a>
+
+<p>
+v2.0.3 by ole22143/edited_parzival. From modDesc: A Hugh Modmap with lagre Fields
+</p>
+
+<p>
+Terrain is very mountain heavy, has busy looking sea port.
+</p>
+
+<p>
+<a href="http://www.modhub.us/farming-simulator-2019-mods/flusstal-xxl-english-v2-0-0-3-26-sell-points-2-0-0-3/" target="_blank">Modhub.us</a>
 </p>
 </div>
 
@@ -432,6 +454,48 @@ Official terrain (mod, heh) by Giants Software.
 
 <p>
 <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117708&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="terrainuntested">
+<h2>Richland County</h2>
+<!--
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 19 Map - ?" style="width:128px;height:128px;"></a>
+-->
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+From mod author: <i>This is Richland County V2. Located near South West Wisconsin.
+<br><br>
+This location has high hills and low valleys.  This is a good map for smaller farming operations, but still can use larger equipment. It has up to 10 farm possibilities, to which gives the option to do what you like.
+<br><br>
+Check out Dairyland Maps on facebook for more future maps.</i>
+</p>
+
+<p>
+<a href="https://www.modland.net/farming-simulator-2019-mods/maps/richland-county-v-2.0.html" target="_blank">Modland.net</a>
+</p>
+</div>
+
+<div class="terrainuntested">
+<h2>Ag Vitkov</h2>
+<!--
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 19 Map - ?" style="width:128px;height:128px;"></a>
+-->
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+From mod author: <i>Map of size 4x4. The map is predominantly hilly to mountainous and is not suitable for lower class machines (they can not handle certain terrain modifications). You will find 16 fields of varying sizes with diverse terrain, a few meadows covered with forest, the need to cut and adjust for hay and grass. There are plenty of trees and land to harvest the wood. On the map there are about 16 purchases and about 4 shopping areas such as horticulture, agri, feed mixer.Where can you buy all fertilizers, seeds, herbicides, lime, cow feed and pork. Most bulk matters have their particles, for example: fertilizer, manure, and no liquid seed. There are two BGAs each loaded with a different capacity and price, the original BGA can handle 150000 liters of buckets and straw, bales and the digestate is 2 million liters. The second is without silage and the 300 pounds can fit into the bung, and the digestate is up to 4 million liters.
+<br><br>
+The map does not include road traffic, trains or boats and not many roads, but it is more likely to be addressed by the main roads of which are slow and more field roads that have different rises are differently inclined and are connected to the main roads.</i>
+</p>
+
+<p>
+<a href="https://www.modland.net/farming-simulator-2019-mods/maps/ag-vitkov-map-v-1.0.0.1.html" target="_blank">Modland.net</a>
 </p>
 </div>
 
