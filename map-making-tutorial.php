@@ -314,25 +314,6 @@ After you tested the map and saved again, those files are regenerated, with the 
 Get it from Giants Developer Network. You should know that Giants Editor will convert PNG to proper either GRLE or GDM when saving a map file.
 </p>
 
-
-	<h2>Dajnet Info Bits</h2>
-
-<p>
-Dajnet used FS15 Leere_4Fach_map (4X sample map) as base.
-</p>
-
-<p>
-Open Goldcrest valley, then file -> export all with files, browse to your MyMap\maps\ directory, give filename map01 and hit save.
-</p>
-
-<p>
-Copy from FS17 data\maps\ directory map01.i3d.colMap.grle, map01.xml, map01_environment.xml, map01_sound.xml, map01_trafficSystem.xml, map01_trainSystem01.xml, map01_trainSystem01.xml and pedestrialSystem.xml files into MyMap\maps\ directory.
-</p>
-
-<p>
-Use GrleConverter to convert GRLE files into PNG images. These PNG images can then be edited and used instead of the GRLE files.
-</p>
-
 <p>
 Convert GRLE (or GDM heh) are cultivator_density and fruit_density. Convert them to PNG and delete the original files, then load your map01 with Giants Editor and just save it, that generates new GRLE/GDM cultivator_density and fruit_density files.
 </p>
@@ -349,10 +330,6 @@ Convert list:
 <li>tipColInfoLayer</li>
 <li>townDecoGrass_density</li>
 </ul>
-
-<p>
-<a href="https://youtu.be/z-NhFDwV_84?t=2828" target="_blank">16X map skybox fix</a>
-</p>
 
 
 	<h2>Giants Forum</h2>
