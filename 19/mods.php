@@ -567,19 +567,27 @@ Capacity: 48000 liter
 </div>
 
 <div class="mod_release_Vehicle">
-<h2>FS19_DashTime.zip</h2>
+<h2>DashTime</h2>
 
 <p>
-doesnt work, its default key binded to 0 which is vehicle honk, it kick in 1200x time acceleration and bugs often that it gets stuck and it fast forwards like a day even though you are not pressing 0 button at all.
+v1.0 by Haverdaden. From ModDesc: Farming Simulator 19 - DashTime
+</p>
+
+<p>
+Does not work, its default key binded to 0 which is vehicle honk, it kicks in 1200x time acceleration and bugs often that it gets stuck and it fast forwards like a day even though you are not pressing 0 button at all. Avoid this mod.
 </p>
 </div>
 
 
 <div class="mod_release_Vehicle">
-<h2>Fast Forward 6K v 1.0</h2>
+<h2>Fast Forward 6K</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by Kerbo. From modDesc: Farming Simulator 19 - Fast Forward 6K (Left Ctrl + R).
+</p>
+
+<p>
+Works as advertised, hit CTRL-R and you speed up to 6000x time accelleration, whoosh! ;)
 </p>
 
 <p>
@@ -817,6 +825,10 @@ v1.0 by apuehri. From modDesc: The night will pass faster than you think! This m
 </p>
 
 <p>
+For those who want automatic night time accelleration this is excellent mod. You can setup time when night starts, how much time accelleration to use from 1x to 300x, then setup when day time starts and same settings there. Works very well.
+</p>
+
+<p>
 <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=121026&title=fs2019" target="_blank">Modhub</a>
 </p>
 </div>
@@ -867,8 +879,65 @@ Maintenance: 25 eur / day
 </p>
 </div>
 
+<div class="mod_release_Vehicle">
+<h2>SpeedControl</h2>
+
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+This mod adds 3 speed memory to vehicles. With the buttons 1,2,3 the respective speed memory is selected and activated. With Numpad + / - the speed of the selected speed memory can be changed. The buttons can be customized in the game options.
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=125190&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>Placeable Refill Tanks</h2>
+
+<p>
+v1.0 by GIANTS Software. From modDesc: Seed, solid fertilizer, liquid fertilizer and herbicide tanks which are placeable on the map.
+</p>
+
+<p>
+Note: Refilling will cost you a higher price for seed/fertilizer/herbicide than buying it in BigBags/pallets/etc at the Shop. For some odd reason these refill tanks do NOT include lime, which unfortunately means you should probably just get some community made refill station pack instead.
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=125329&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>Guidance Steering</h2>
+
+<p>
+v1.0 by Wopster. From modDesc: Guidance Steering
+</p>
+
+<p>
+Guidance Steering is essentially FS19 GPS mod. Default keyboard shortcuts:<br>
+CTRL-S Show lines in GUI<br>
+ALT-E Set point<br>
+ALT-R Auto width<br>
+ALT-- Decrease width<br>
+ALT-+ Increase width<br>
+ALT-X Enable steering<br>
+ALT-PAGEDOWN Shift left<br>
+ALT-PAGEUP Shift right
+</p>
+
+<p>
+<a href="https://github.com/stijnwop/guidanceSteering" target="_blank">Github</a>
+</p>
+</div>
+
 <!-- category vehicles -->
 </div>
+
 
 <!--
 <div class="mod_release_Vehicle">
