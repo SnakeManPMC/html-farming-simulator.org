@@ -935,6 +935,45 @@ ALT-PAGEUP Shift right
 </p>
 </div>
 
+<div class="mod_release_Vehicle">
+<h2>Manual Attaching</h2>
+
+<p>
+v1.0 by kenny456, Burner. From modDesc: script for manual attaching all implements, cutters and trailers.
+</p>
+
+<p>
+Gives error in the log, but seems to work ok on one time I tested it.
+</p>
+
+<p>
+<a href="https://www.modland.net/farming-simulator-2019-mods/developer-tools/manual-attaching-v-1.0.html" target="_blank">Modland.net</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>Real Dirt Color</h2>
+
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+Real Dirt Color changes all vehicles/tools dirt color to the surrounding enviroment.<br>
+- 10 color variations including: Brown Dirt, Brown Mud, Red Dirt, Red Mud, Grass, Chaff, Manure, Slurry, Lime, and Snow.<br>
+- Colors are blended back and forth using a variable speed.<br>
+- 2 modes available via xml settings file: "Simple mode" and "Independent wheel mode".
+</p>
+
+<p>
+v1.0.0.5 is still buggy with error log entries spammed over and over which cause stutter.
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=123560&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
 <!-- category vehicles -->
 </div>
 
