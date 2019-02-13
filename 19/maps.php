@@ -25,7 +25,7 @@
 	<h2>Maps / Terrains</h2>
 
 <p>
-<b>2019-02-11</b> This page is work in progress.
+<b>2019-02-13</b> This page is work in progress.
 </p>
 
 <p>Click the images to open large in new tab.
@@ -496,6 +496,24 @@ The map does not include road traffic, trains or boats and not many roads, but i
 
 <p>
 <a href="https://www.modland.net/farming-simulator-2019-mods/maps/ag-vitkov-map-v-1.0.0.1.html" target="_blank">Modland.net</a>
+</p>
+</div>
+
+<div class="terrainuntested">
+<h2>Hardin County Kentucky</h2>
+<!--
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 19 Map - ?" style="width:128px;height:128px;"></a>
+-->
+<p>
+v2.0 by Farmerjon9660. From modDesc: Hardin County, Kentucky
+</p>
+
+<p>
+2km terrain. Apparently this author "Farmerjon9660" is a real life farmer in kentucky, he has youtube channel as well <a href="https://www.youtube.com/user/Farmerjon9660" target="_blank">youtube.com/user/Farmerjon9660</a>
+</p>
+
+<p>
+<a href="http://www.modhub.us/farming-simulator-2019-mods/hardin-county-kentucky-v2/" target="_blank">Modhub.us</a>
 </p>
 </div>
 
