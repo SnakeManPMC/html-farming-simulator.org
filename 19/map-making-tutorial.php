@@ -509,11 +509,19 @@ nameIndicatorIndex is fieldMapIndicator -> index path, the last number (it shoul
 </p>
 
 <p>
-Once you have created your first field, check that it works in-game, then you can simply select transformgroup field01 and CTRL-D duplicate / copy paste it and rename it to field02. Repeat this to as many fields you need to create (obviously increasing the fieldXX number every time).
+First use scripts -> FS19 -> map -> toggle render field areas. Place corner01_1 as bottom left, corner01_02 as top left and corner01_03 as top right. This forms a rectangle shape, you can move these transformgroups around to shape the field area as you please.
 </p>
 
 <p>
-Special shaped corners for fields are done with simply adding more corner01_* transformgroups and placing them so that they create a new shape for your field. Again obviously doing corner01_, corner02_, corner03_ etc increasing the cornerXX_ number.
+To add more corner01 pieces allows you to create more complex fields, you can simply CTRL-D duplicate/copypaste them as there is no technical reason to name them properly, game recognizes dozen "corner01_1" pieces just fine. Add as many you need to form a complex and detailed field, I dont know if there is a limit for these, highest what I've used so far was like 10 so not that many.
+</p>
+
+<p>
+You do not need to rename the cornerXX, not even fieldXX transformgroups as game will load them fine, however please name fieldXX ones properly because who wants to see 50+ "field" transformgroups without any idea which is which heh.
+</p>
+
+<p>
+Once you have created your first field, check that it works in-game, then you can simply select transformgroup field01 and CTRL-D duplicate / copy paste it and rename it to field02. Repeat this to as many fields you need to create (obviously increasing the fieldXX number every time).
 </p>
 
 <p>
