@@ -47,7 +47,11 @@ They do feel much better now than missions in FS17 mostly because no time limit 
 </p>
 
 <p>
-<b>FS19 v1.1</b> Sowing contracts are buggy, almost every time you click on them they disappear in v1.1 release. This most likely will be fixed very soon (so by the time you read this, it <i>hopefully</i> has already been fixed).
+It is best to own your vehicles or lease them by yourself and not from the contracts menu because when your vehicle gets maintenance wear down you cannot repair the contracts-leased vehicle, it just doesn't show up on your garage leased menu. This was on v1.2 game engine, perhaps giants will fix this in future upgrades who knows.
+</p>
+
+<p>
+Original game design is to allow only one active contract, however there is <a href="mods.php" target="_blank">a "multiple missions" mod which allows you to take many contracts</a> at the same time.
 </p>
 
 </section>
