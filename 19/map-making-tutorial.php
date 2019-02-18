@@ -580,7 +580,7 @@ $moddir$ is case-sensitive.
 </p>
 
 <p>
-Placing trees will require new savegame career start, trees will not show up in your existing savegame made when you had no trees.
+Placing trees will require new savegame career start, trees will not show up in your existing savegame made when you had no trees. When you change heightmap (DEM) during your career savegame, you must unfortunately start a new career as heightmap image is copied to savegame dir. If you copy / update heightmap into your savegame dir then vehicles are still kept in their original elevations, meaning if you changed elevations then vehicles are floating in the air or buried underground. So new savegame is required with heightmap edits.
 </p>
 
 <p>
@@ -589,6 +589,38 @@ You should not resize images like _farmland.grle after painting it using tools t
 
 <p>
 Grass or other general foliage should be placed first when you are creating a brand new terrain, its far easier to put fields, roads etc special foliage (or erase foliage) on these small areas than to paint grass between fields and roads etc as its really frustrating to carefully place that grass to avoid overlap where grass should not be present.
+</p>
+
+<p>
+If you are making authentic real world data terrain then look google street view photos to help you place objects to where they are in real life, or at least as close as possible. Its not possible to do 100 percent authentic terrain because the lacking environment engine and objects available, but you can do very good work by using google street view photos.
+</p>
+
+<p>
+Make sure your terrain has few very small or cheap properties / land so that players starting from scratch (like 0 money, 0 vehicles and 0 land) can easily buy them after doing few contracts with leased vehicles. If your first land/property costs 10 million, that is a lot of contract work for players to do, maybe the cheapest field should be mere few hundred thousands to get player started on their own farm more easily. For example a new player cannot use placeables if he does not own any land.
+</p>
+
+<p>
+Splines are shown in-game, so in GE you need to either delete or sink them under ground or set to invisible mode.
+</p>
+
+<p>
+GE -> attributes -> transform -> translate Y is not above terrain level, its absolute elevation, 0 does not mean its aligned to the ground (unless terrain height happens to be 0 at that point).
+</p>
+
+<p>
+Info layer painting for farmland will be very difficult if you stack field definitions right next to each other and there is supposed to be farmland / property line beween them.
+</p>
+
+<p>
+The maximum number of crops in densityMapHeightTypes is 31, if you add more you will crash the game.
+</p>
+
+<p>
+16km terrain you need to GE edit the Sun, use GE -> sun -> attributes -> light -> range, put it to like 20000 value or so, well beyond 16384 (I think, not confirmed this 2019-02-15).
+</p>
+
+<p>
+defaultVehicles.xml sets the vehicles for career start. It will set types, coordinates and rotation. Check example from fs19root/sdk/mapde/defaultvehicles.xml, then just grab the new coordinates using GE. Look for different vehicles types from fs19root/data/vehicles/ etc dirs. Make sure you do not add dollar sign for the filename="$data as the other xml's use, this doesnt work for defaultvehicles.xml, apparently it is some bug. Change the xml to be like this: &lt;vehicle filename="data/
 </p>
 
 
