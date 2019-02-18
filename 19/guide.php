@@ -185,6 +185,18 @@ Selling placeable buildings is done from garage (P), just select the object you 
 Please refer to <a href="contracts.php">contracts page</a> for further details.
 </p>
 
+	<h2>Vehicle Maintenance</h2>
+
+<p>
+You can repair vehicles even when they are being used in the fields. Go to garage (P), select your vehicle and then you get the option to repair it (default key X), it costs money but at least the slowing down vehicle starts to operate at normal speeds again.
+</p>
+
+	<h2>Adding New Mods</h2>
+
+<p>
+Never ever add brand new mod to your important career savegame, not matter how reputable mod authors release it is, always test new mods on some brand new savegame where you cannot lose any progress if a mod breaks down.
+</p>
+
 <!--
 	<h2>Market Prices</h2>
 	<h2>Animals</h2>
