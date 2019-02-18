@@ -974,6 +974,106 @@ v1.0.0.5 is still buggy with error log entries spammed over and over which cause
 </p>
 </div>
 
+<div class="mod_release_Vehicle">
+<h2>John Deere 2730</h2>
+
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+Width: 8M<br>
+Price: 93,314eur<br>
+Function: Plow<br>
+HP Required: 550HP min<br>
+Original JBL Modding, Conversion FS19 West Central Modding FS19.
+</p>
+
+<p>
+<a href="http://www.modhub.us/farming-simulator-2019-mods/john-deere-2730-v1-0-0-0/" target="_blank">Modhub.us</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>John Deere DN345</h2>
+
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+Needed Power: 385<br>
+Working Width: 32<br>
+Price: 135000<br>
+Brand: JOHN DEERE<br>
+Category: fertilizer Spreaders
+</p>
+
+<p>
+<a href="https://ls-portal.eu/john-deere-dn345-v1-1/" target="_blank">ls-portal.eu</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>Brent 1594 Grain Cart</h2>
+
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+Screw conveyor trailer Brent 1594 Grain Cart.<br>
+Color: Blue, Green, Red<br>
+Price: 69700<br>
+Credits: Custom Modding, conv.Niknab
+</p>
+
+<p>
+Gives error:
+<p>
+<pre>
+I3D file offers '2' objects, but '1' components have been loaded!
+</pre>
+
+<p>
+Tyres shine like they are polished metal. Has ridiculously fast unloading which is unrealistic. Better wait for someone else to port this over properly.
+</p>
+
+<p>
+<a href="https://www.modland.net/farming-simulator-2019-mods/trailers/brent-1594-grain-cart-v-2.0.html" target="_blank">Modland.net</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>VehicleExplorer</h2>
+
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+<a href="https://github.com/sperrgebiet/FS19_VehicleExplorer" target="_blank">Github</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>Brochard EV 2200</h2>
+
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+Price: 198.000eur<br>
+Working width: 15m<br>
+Capacity: 70 000l
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=121207&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
 <!-- category vehicles -->
 </div>
 
