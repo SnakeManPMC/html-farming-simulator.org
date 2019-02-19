@@ -298,6 +298,52 @@ Terrain is very mountain heavy, has busy looking sea port.
 </p>
 </div>
 
+<div class="terrain4km">
+<h2>Ag Vitkov</h2>
+
+<a href="images/Map-Ag-Vitkov.png" target="_blank"><img src="images/thumbs/Map-Ag-Vitkov.jpg" alt="Farming Simulator 19 Map - Ag Vitkov" style="width:128px;height:128px;"></a>
+
+<p>
+v1.0.0.1 by Ledy. From modDesc: Agrodružstvo Vítkov Open Beta. Map for Extreme Farmers.
+</p>
+
+<p>
+From mod author: <i>Map of size 4x4. The map is predominantly hilly to mountainous and is not suitable for lower class machines (they can not handle certain terrain modifications). You will find 16 fields of varying sizes with diverse terrain, a few meadows covered with forest, the need to cut and adjust for hay and grass. There are plenty of trees and land to harvest the wood. On the map there are about 16 purchases and about 4 shopping areas such as horticulture, agri, feed mixer.Where can you buy all fertilizers, seeds, herbicides, lime, cow feed and pork. Most bulk matters have their particles, for example: fertilizer, manure, and no liquid seed. There are two BGAs each loaded with a different capacity and price, the original BGA can handle 150000 liters of buckets and straw, bales and the digestate is 2 million liters. The second is without silage and the 300 pounds can fit into the bung, and the digestate is up to 4 million liters.
+<br><br>
+The map does not include road traffic, trains or boats and not many roads, but it is more likely to be addressed by the main roads of which are slow and more field roads that have different rises are differently inclined and are connected to the main roads.</i>
+</p>
+
+<p>
+While its 4km terrain oddly I dont feel like its large terrain at all, there is no way I could imagine driving a big bud here as here are so much trees and unrealistic mountains. Edges of the terrain are covered with mountains in the distance.
+</p>
+
+<p>
+Overall I get the feeling that this terrain dev really loved placing detailed objects, its not british map claustrophobic detailed but there sure are a lot of trees and a big city etc. Fields are quite large so in that sense large scale farming is possible. This is a basic nice looking farmsim "map" even though its not a terrain which I would use in my big bud farming operations.
+</p>
+
+<p>
+<a href="https://www.modland.net/farming-simulator-2019-mods/maps/ag-vitkov-map-v-1.0.0.1.html" target="_blank">Modland.net</a>
+</p>
+</div>
+
+<div class="terrain4km">
+<h2>Western Australia</h2>
+
+<a href="images/Map-Western-Australia.png" target="_blank"><img src="images/thumbs/Map-Western-Australia.jpg" alt="Farming Simulator 19 Map - Western Australia" style="width:128px;height:128px;"></a>
+
+<p>
+v1.0 by oliba DecanKane dasAlex. From modDesc: Western Australia.
+</p>
+
+<p>
+Huge fields from one edge to the other, no empty space between roads and fields, flat feeling terrain and it just feels really large. You can definitely do some large scale farming.
+</p>
+
+<p>
+<a href="http://www.modhub.us/farming-simulator-2019-mods/western-australia-v1-0-0-0/" target="_blank">Modhub.us</a>
+</p>
+</div>
+
 <!-- end of wrapper4km -->
 </div>
 
@@ -422,25 +468,11 @@ v1.0.0.1 by Stevie. From modDesc: Fenton Forest By Stevie.
 </p>
 </div>
 
-<!-- end of wrapper2km -->
-</div>
-
-
-<!--
-
-untested stuff, basically we list just what we find from google or the ZIP on our hard disk
-
--->
-
-<div class="wrapperuntested">
-<h2>Untested Terrains</h2>
-
-<div class="terrainuntested">
+<div class="terrain2km">
 <h2>Estancia Lapacho</h2>
 
-<!--
 <a href="images/Map-Estancia-Lapacho.png" target="_blank"><img src="images/thumbs/Map-Estancia-Lapacho.jpg" alt="Farming Simulator 19 Map - Estancia Lapacho" style="width:128px;height:128px;"></a>
--->
+
 <p>
 v1.0.1 by GIANTS Software. From modDesc: Welcome to the Estancia Lapacho!
 </p>
@@ -457,13 +489,13 @@ Official terrain (mod, heh) by Giants Software.
 </p>
 </div>
 
-<div class="terrainuntested">
+<div class="terrain2km">
 <h2>Richland County</h2>
-<!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 19 Map - ?" style="width:128px;height:128px;"></a>
--->
+
+<a href="images/Map-Richland-County.png" target="_blank"><img src="images/thumbs/Map-Richland-County.jpg" alt="Farming Simulator 19 Map - Richland County" style="width:128px;height:128px;"></a>
+
 <p>
-v by . From modDesc:
+v2.0 by Dairyland Maps. From modDesc: Richland County V2. This is Richland County, WI. By Dairyland Maps.
 </p>
 
 <p>
@@ -475,41 +507,33 @@ Check out Dairyland Maps on facebook for more future maps.</i>
 </p>
 
 <p>
+Very nice looking terrain, getting that american feeling out of it. I could really enjoy playing here if it was 4km.
+</p>
+
+<p>
 <a href="https://www.modland.net/farming-simulator-2019-mods/maps/richland-county-v-2.0.html" target="_blank">Modland.net</a>
 </p>
 </div>
 
-<div class="terrainuntested">
-<h2>Ag Vitkov</h2>
-<!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 19 Map - ?" style="width:128px;height:128px;"></a>
--->
-<p>
-v by . From modDesc:
-</p>
-
-<p>
-From mod author: <i>Map of size 4x4. The map is predominantly hilly to mountainous and is not suitable for lower class machines (they can not handle certain terrain modifications). You will find 16 fields of varying sizes with diverse terrain, a few meadows covered with forest, the need to cut and adjust for hay and grass. There are plenty of trees and land to harvest the wood. On the map there are about 16 purchases and about 4 shopping areas such as horticulture, agri, feed mixer.Where can you buy all fertilizers, seeds, herbicides, lime, cow feed and pork. Most bulk matters have their particles, for example: fertilizer, manure, and no liquid seed. There are two BGAs each loaded with a different capacity and price, the original BGA can handle 150000 liters of buckets and straw, bales and the digestate is 2 million liters. The second is without silage and the 300 pounds can fit into the bung, and the digestate is up to 4 million liters.
-<br><br>
-The map does not include road traffic, trains or boats and not many roads, but it is more likely to be addressed by the main roads of which are slow and more field roads that have different rises are differently inclined and are connected to the main roads.</i>
-</p>
-
-<p>
-<a href="https://www.modland.net/farming-simulator-2019-mods/maps/ag-vitkov-map-v-1.0.0.1.html" target="_blank">Modland.net</a>
-</p>
-</div>
-
-<div class="terrainuntested">
+<div class="terrain2km">
 <h2>Hardin County Kentucky</h2>
-<!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 19 Map - ?" style="width:128px;height:128px;"></a>
--->
+
+<a href="images/Map-Hardin-County-Kentucky.png" target="_blank"><img src="images/thumbs/Map-Hardin-County-Kentucky.jpg" alt="Farming Simulator 19 Map - Hardin County Kentucky" style="width:128px;height:128px;"></a>
+
 <p>
 v2.0 by Farmerjon9660. From modDesc: Hardin County, Kentucky
 </p>
 
 <p>
-2km terrain. Apparently this author "Farmerjon9660" is a real life farmer in kentucky, he has youtube channel as well <a href="https://www.youtube.com/user/Farmerjon9660" target="_blank">youtube.com/user/Farmerjon9660</a>
+Apparently this author "Farmerjon9660" is a real life farmer in kentucky, he has youtube channel as well <a href="https://www.youtube.com/user/Farmerjon9660" target="_blank">youtube.com/user/Farmerjon9660</a>
+</p>
+
+<p>
+Trees are copy pasted all without randomization. Huge forests that take a lot of farming field space. Irregular shaped fields, looks like they are made out of google maps or earth satellite image. However no fields registered (field definitions broken or missing). Only one field is registered and its well off, it stands out where it shouldnt be like across forest.
+</p>
+
+<p>
+Definitely getting that nice american feeling. Hopefully this terrain will get further tweaks as it has potential for nice american 2km terrain.
 </p>
 
 <p>
@@ -517,19 +541,18 @@ v2.0 by Farmerjon9660. From modDesc: Hardin County, Kentucky
 </p>
 </div>
 
-<div class="terrainuntested">
-<h2>Western Australia</h2>
-<!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 19 Map - ?" style="width:128px;height:128px;"></a>
--->
-<p>
-v by . From modDesc:
-</p>
-
-<p>
-<a href="http://www.modhub.us/farming-simulator-2019-mods/western-australia-v1-0-0-0/" target="_blank">Modhub.us</a>
-</p>
+<!-- end of wrapper2km -->
 </div>
+
+
+<!--
+
+untested stuff, basically we list just what we find from google or the ZIP on our hard disk
+
+-->
+
+<div class="wrapperuntested">
+<h2>Untested Terrains</h2>
 
 <!-- end of untested wrapper -->
 </div>
