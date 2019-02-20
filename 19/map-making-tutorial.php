@@ -623,6 +623,26 @@ The maximum number of crops in densityMapHeightTypes is 31, if you add more you 
 defaultVehicles.xml sets the vehicles for career start. It will set types, coordinates and rotation. Check example from fs19root/sdk/mapde/defaultvehicles.xml, then just grab the new coordinates using GE. Look for different vehicles types from fs19root/data/vehicles/ etc dirs. Make sure you do not add dollar sign for the filename="$data as the other xml's use, this doesnt work for defaultvehicles.xml, apparently it is some bug. Change the xml to be like this: &lt;vehicle filename="data/
 </p>
 
+<p>
+Upgrade v1.3 new feature seems to be the usage of "$mapdir$" (points to current terrain root dir). In earlier mapSA was still used "$moddir$FS19_EstanciaLapacho/".
+</p>
+
+<p>
+Real world data heightmap can look very ugly in GE, you need to smooth out the jagged elevations in either L3DT, Wilbur or GE itself. I used 0.1 values for opacity, hardness and value, then 500m large round brush and smoothed out until the jagged parts were mostly gone. You could also use photoshop/gimp and add gaussian blur to the grayscale heightmap image.
+</p>
+
+<p>
+The Giants engine calculates float predominantly with single precision (~7 digits). You can see just in GE that 1.00000 has become 0.99999 or 1.00001 in the saved i3d. Not very much but can be sufficient for some precision issues.
+</p>
+
+<p>
+Satellite texture for PDA map painting tip: you should paint the fields as they are in farming simulator because once you plow the fields you can see the background PDA image on the map view, this looks odd if the satellite is with some real life crop imagery even though you just harvested or ploughed etc.
+</p>
+
+<p>
+Placing objects is easier if you use google/maps satellite view to see where and what sort of buildings or trees etc are in your terrain area. Street view photos are excellent resource to get the feeling what the real life location is, however these photos are not usually available other than urban areas or large highways.
+</p>
+
 
 	<h2>Adding Selling Points</h2>
 
@@ -742,7 +762,7 @@ When you change _density image resolution you must run GE -> scripts -> fs19 -> 
 	<h2>Real World Data Terrain</h2>
 
 <p>
-2019-02-11 this is very much work in progress, but decided to write down what I can today.
+2019-02-20 this is very much work in progress, but decided to write down what I can today.
 </p>
 
 <p>
@@ -750,11 +770,30 @@ The tools we use are Global Mapper, Terra Incognita and L3DT. Unfortunately glob
 </p>
 
 <p>
-FS19 terrains use 2 meters per pixel heightmap resolution.
+FS19 terrains use 2 meters per pixel heightmap resolution. SRTM heightmap resolution is 30 meters which is awfully low for FS19, but for world wide coverage its best and easiest option to use. For american terrains you should use the United States Elevation Data (NED) 10m resolution which gives great results for FS19.
 </p>
 
 <p>
-Start L3DT and load heightmap.asc, then use CTRL-E export and choose PNG file. You should smooth or blur the heightmap a bit, L3DT is great for this but I guess GE works as well. SRTM heightmap resolution is 30 meters which is awfully low for FS19, but its best and easiest option to use.
+This is the steps I use to generate real world data terrain source files:<br>
+- choose location using google/maps terrain view so you can see the fields<br>
+- click map, pin is inserted, click the bottom center new dialog, copy paste lat/lon coordinates<br>
+- global mapper online sources world street map, view -> zoom view -> zoom to spacing -> view spacing selection 10, fits 8km grid with plenty of free space around<br>
+- global mapper CTRL-HOME insert coordinates, find the spot<br>
+- global mapper create 4096 or 8192 user created feature grid<br>
+- global mapper open online data -> u.s. data -> united states elevation data (NED) (10m resolution)<br>
+- global mapper export heightmap<br>
+- global mapper export kmz<br>
+- terra incognita map source -> openstreetmap -> zoom level 500km<br>
+- terra incognita file -> load waypoints,tracks -> kmz<br>
+- terra incognita full screen, zoom into kmz black rectangle (8km is ok with openstreetmap 250m 4m/px but 16km is 500m 8m/ps), draw selection rectangle<br>
+- terra incognita waypoints,tracks -> visible to disable kmz black rectangle<br>
+- terra incognita map source -> esri arcgis, zoom level 17<br>
+- terra incognita download oziexplorer map format<br>
+- global mapper open -> oziexplorer .map/.jpg satellite imagery<br>
+- global mapper file -> export -> export raster/image format -> png -> file type 24-bit rgb, sample spacing 1, export to bounds -> crop to selected area feature(s)<br>
+- l3dt file -> import -> heightfield, choose your heightmap.asc<br>
+- l3dt operations -> heightfield -> resize heightfield, use 2049 for 4km and 4097 for 8km terrain etc<br>
+- l3dt CTRL-E -> file format -> PNG -> map_dem.png
 </p>
 
 
