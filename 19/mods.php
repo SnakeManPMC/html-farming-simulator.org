@@ -1045,10 +1045,27 @@ Tyres shine like they are polished metal. Has ridiculously fast unloading which 
 </div>
 
 <div class="mod_release_Vehicle">
-<h2>VehicleExplorer</h2>
+<h2>Vehicle Explorer</h2>
 
 <p>
-v by . From modDesc:
+v0.9.0.6 by sperrgebiet. From modDesc: This is a revamp of the good old VehicleSort from FS17. For beginners: VehicleExplorer helps you organize your vehicles, by showing you a list which can be organized, well, sorted by you. Besides that it has a couple of additional functionality. See below.
+</p>
+
+<p>
+Controls:<br>
+ALT-V Show/hide vehicle list<br>
+ALT-KeyPad Minus Show/hide config menu<br>
+KeyPad Enter Enter vehicle<br>
+ALT-P Toggle parking<br>
+ALT-KeyPad 5 Select item (for moving the vehicle) or to change values in the config<br>
+ALT-KeyPad 8 Move up in the list/config<br>
+ALT-KeyPad 2 Move down in the list/config<br>
+ALT-1 Move up fast in the list/config<br>
+ALT-2 Move down fast in the list/config<br>
+ALT-R Repair vehicle incl. implements<br>
+TAB Next vehicle; VeEx own switch vehicle implementation (necessary to tab through vehicles in your own order)<br>
+SHIFT-TAB Previous vehicle; VeEx own switch vehicle implementation (necessary to tab through vehicles in your own order)<br>
+Mouse Left: Enter vehicle Mouse Right: Select item/change values in config Mouse Wheel: List up/down
 </p>
 
 <p>
@@ -1071,6 +1088,18 @@ Capacity: 70 000l
 
 <p>
 <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=121207&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>TSA 30000 Universal</h2>
+
+<p>
+v1.0 by Giants, CSS. From modDesc: TSA 30000 universal. ve800 universal. frc universal.
+</p>
+
+<p>
+The storage/transport boxy shaped container tanker holds 900,000 liters, yes nine hundred THOUSAND. OK another unrealistic mod to delete...
 </p>
 </div>
 
