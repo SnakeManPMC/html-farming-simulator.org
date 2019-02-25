@@ -355,7 +355,11 @@ Power: 145HP
 </p>
 
 <p>
-<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117751&title=fs2019" target="_blank">Modhub</a>
+2019-02-21 tested and it is a quality mod, solid small tractor for those small farms or simply small tasks.
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117751&title=fs2019" target="_blank">Modhub</a>
 </p>
 </div>
 
@@ -363,23 +367,23 @@ Power: 145HP
 <h2>Ursus Z586</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by Giants Software. From modDesc: Ursus Z586. Price: 8200eur. Maintenance: 82eur/day
 </p>
 
 <p>
-Price: 8200 eur
+2019-02-21 tested and works OK. Bale wrapper. Selectable option for wrapper color.
 </p>
 
 <p>
-<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117433&title=fs2019" target="_blank">Modhub</a>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117433&title=fs2019" target="_blank">Modhub</a>
 </p>
 </div>
 
 <div class="mod_release_Vehicle">
-<h2>Large multi-silo</h2>
+<h2>Large Multi Silo</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by Pandahma. From modDesc: LargeMultiSilo
 </p>
 
 <p>
@@ -390,15 +394,19 @@ placeable
 </p>
 
 <p>
-<a href="http://www.modhub.us/farming-simulator-2019-mods/large-multi-silo-v1-0/" target="_blank">Modhub.us</a>
+2019-02-21 tested and works OK. Allows more crops storage like potatoes, sugar beet etc. Capacity 500,000 liters. This is the unloading point.
+</p>
+
+<p>
+PMC Essential Mod <a href="http://www.modhub.us/farming-simulator-2019-mods/large-multi-silo-v1-0/" target="_blank">Modhub.us</a>
 </p>
 </div>
 
 <div class="mod_release_Vehicle">
-<h2>Multi silo extension</h2>
+<h2>Multi Silo Extension</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by Pandahma. From modDesc: MultiFarmSiloExtension
 </p>
 
 <p>
@@ -409,7 +417,11 @@ Here is the multi-silo extension as a placeable mod for all fruits currently ava
 </p>
 
 <p>
-<a href="http://www.modhub.us/farming-simulator-2019-mods/multi-silo-extension-v1-0/" target="_blank">Modhub.us</a>
+2019-02-21 tested and works OK. Allows more crops storage like potatoes, sugar beet etc. Capacity 300,000 liters. This is extension to your farm silos (not the unloading point).
+</p>
+
+<p>
+PMC Essential Mod <a href="http://www.modhub.us/farming-simulator-2019-mods/multi-silo-extension-v1-0/" target="_blank">Modhub.us</a>
 </p>
 </div>
 
@@ -465,15 +477,15 @@ v by . From modDesc:
 <h2>Fliegl DPW 180</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by Giants Software. From modDesc: Price: 16.000eur
 </p>
 
 <p>
-Price: 16.000 eur
+2019-02-21 tested and works OK. Has extension option to remove the beginning and end fences so to speak.
 </p>
 
 <p>
-<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=118906&title=fs2019" target="_blank">Modhub</a>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=118906&title=fs2019" target="_blank">Modhub</a>
 </p>
 </div>
 
@@ -481,13 +493,11 @@ Price: 16.000 eur
 <h2>Kverneland Exacta EL</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by Giants Software. From modDesc: Price: 4000eur. Capacity: 700l. Working width: 15m
 </p>
 
 <p>
-Price: 4000 eur<br>
-Capacity: 700 liter<br>
-Working width: 15m<br>
+2019-02-21 tested and works OK. Super small fertilizer spreader.
 </p>
 
 <p>
@@ -499,16 +509,15 @@ Working width: 15m<br>
 <h2>New Holland 8340</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by Giants Software. From modDesc: Price: 85.000eur. Power: 125HP
 </p>
 
 <p>
-Price: 85.000eur<br>
-Power: 125HP
+2019-02-21 tested and works OK. Basic small tractor.
 </p>
 
 <p>
-<a href="https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=119754&title=fs2019" target="_blank">Modhub</a>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=119754&title=fs2019" target="_blank">Modhub</a>
 </p>
 </div>
 
@@ -517,16 +526,15 @@ Power: 125HP
 <h2>Kuhn Planter 3R 12 Rows</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by Giants Software. From modDesc: Price: 54.000eur. Working width: 5.4m
 </p>
 
 <p>
-Price: 54.000eur<br>
-Working width: 5.4m
+2019-02-21 tested and works OK. Nice little planter that lets you plant corn and sunflowers etc.
 </p>
 
 <p>
-<a href="https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=117808&title=fs2019" target="_blank">Modhub</a>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117808&title=fs2019" target="_blank">Modhub</a>
 </p>
 </div>
 
@@ -535,16 +543,15 @@ Working width: 5.4m
 <h2>JCB 435 S</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by Giants Software. From modDesc: Price: 182.000eur. Power: 230HP
 </p>
 
 <p>
-Price: 182.000eur<br>
-Power: 230HP
+2019-02-21 tested and works OK. Nice JCB wheel loader.
 </p>
 
 <p>
-<a href="https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=117427&title=fs2019" target="_blank">Modhub</a>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=117427&title=fs2019" target="_blank">Modhub</a>
 </p>
 </div>
 
@@ -553,7 +560,7 @@ Power: 230HP
 <h2>Fliegl ASS 298</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by Giants software. From modDesc: 
 </p>
 
 <p>
@@ -562,7 +569,11 @@ Capacity: 48000 liter
 </p>
 
 <p>
-<a href="https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=119753&title=fs2019" target="_blank">Modhub</a>
+2019-02-21 tested and works OK. Basic trailer for your truck, selectable wheels.
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=gb&mod_id=119753&title=fs2019" target="_blank">Modhub</a>
 </p>
 </div>
 
@@ -599,16 +610,15 @@ Works as advertised, hit CTRL-R and you speed up to 6000x time accelleration, wh
 <h2>Strautmann SZK 802</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by Agrartechnik Nordeifel. From modDesc: Strautmann SZK 802. Price: 8.000eur. Capacity: 4000-12000l
 </p>
 
 <p>
-Price: 8.000eur<br>
-Capacity: 4000-12000l
+2019-02-21 tested and works OK. Trailer, same kind as stock game but this has the four wheels setup.
 </p>
 
 <p>
-<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=118227&title=fs2019" target="_blank">Modhub</a>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=118227&title=fs2019" target="_blank">Modhub</a>
 </p>
 </div>
 
@@ -616,7 +626,7 @@ Capacity: 4000-12000l
 <h2>RealClock Mod</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by Grisu118 - Vertexdezign, Slivicon. From modDesc: Shows the current real time in the upper right corner.
 </p>
 
 <p>
@@ -629,6 +639,10 @@ Shows the current real time in the upper right corner. This script creates a con
 </ul>
 
 <p>
+2019-02-21 tested and works OK. Works as advertized, shows your local computer time on top right corner of the screen. Writes realClock.xml file into mods directory, not in the modsSettings like it should.
+</p>
+
+<p>
 <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=117935&title=fs2019" target="_blank">Modhub</a>
 </p>
 </div>
@@ -637,13 +651,15 @@ Shows the current real time in the upper right corner. This script creates a con
 <h2>Krone BigX 580</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by Giants Software. From modDesc: Price: 275.000eur. Power: 585HP
 </p>
 
 <p>
-Price: 275.000eur<br>
-Power: 585HP <br>
 Required mods: <a href="https://cdn16.giants-software.com/modHub/storage/00120416/FS19_kroneEasyCollect600_2.zip" target="_blank">FS19_kroneEasyCollect600_2.zip</a>
+</p>
+
+<p>
+2019-02-21 tested and works OK. No idea what this forage thing is, have not done it in FS17 or FS19, yet ;)
 </p>
 
 <p>
@@ -655,13 +671,15 @@ Required mods: <a href="https://cdn16.giants-software.com/modHub/storage/0012041
 <h2>Krone EasyCollect 600</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by Giants Software. From modDesc: Price: 80.000eur. Working width: 6m
 </p>
 
 <p>
-Price: 80.000eur<br>
-Working width: 6m <br>
 Required mods: <a href="https://cdn10.giants-software.com/modHub/storage/00120415/FS19_kroneBiGX580.zip" target="_blank">FS19_kroneBiGX580.zip</a>
+</p>
+
+<p>
+2019-02-21 tested and works OK. Forage header, apparently should work on the Krone bigX 580.
 </p>
 
 <p>
@@ -673,7 +691,7 @@ Required mods: <a href="https://cdn10.giants-software.com/modHub/storage/0012041
 <h2>Fueltank 5000l</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by VertexDezign - Niggels. From modDesc: The 5000 liter fueltank suites best for your small farm. The small footprint allows to place the fueltank even in the smalles areas. Save the long way to the next fuelstation.
 </p>
 
 <p>
@@ -681,7 +699,11 @@ The 5000 liter fueltank suites best for your small farm. The small footprint all
 </p>
 
 <p>
-<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=118063&title=fs2019" target="_blank">Modhub</a>
+2019-02-21 tested and works OK. Solid little placeable fuel tank where you can refuel your vehicles. Yes this placeable doesnt need fuel carried over to it, this basically creates fuel out of thin air. Just wanted to be clear about the function of this placeable, I thought first this just <i>stores</i> the fuel.
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=118063&title=fs2019" target="_blank">Modhub</a>
 </p>
 </div>
 
@@ -715,7 +737,11 @@ v by . From modDesc:
 </ul>
 
 <p>
-<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=118999&title=fs2019" target="_blank">Modhub</a>
+2019-02-21 tested and works OK.
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=118999&title=fs2019" target="_blank">Modhub</a>
 </p>
 </div>
 
@@ -939,15 +965,23 @@ ALT-PAGEUP Shift right
 <h2>Manual Attaching</h2>
 
 <p>
-v1.0 by kenny456, Burner. From modDesc: script for manual attaching all implements, cutters and trailers.
+v1.0 by kenny456, Burner. From modDesc: Script for manual attaching all implements, cutters and trailers.
 </p>
 
 <p>
-Gives error in the log, but seems to work ok on one time I tested it.
+Keyboard shortcuts:<br>
+Q attach / detach implement<br>
+X attach / detach PTO<br>
+SHIFT-A mode(?)<br>
+CTRL-A help menu
+</p>
+
+</p>
+2019-02-21 tested and works OK. Manual attaching is great, gives you more personal intimate feeling to the implements as its just not hit Q and everything is done. Note: on my previous tests it did give error in the log, but today it did not, go figure. Maybe its some specific mod conflict I dont know, will have to track it down.
 </p>
 
 <p>
-<a href="https://www.modland.net/farming-simulator-2019-mods/developer-tools/manual-attaching-v-1.0.html" target="_blank">Modland.net</a>
+PMC Essential Mod <a href="https://www.modland.net/farming-simulator-2019-mods/developer-tools/manual-attaching-v-1.0.html" target="_blank">Modland.net</a>
 </p>
 </div>
 
@@ -955,18 +989,17 @@ Gives error in the log, but seems to work ok on one time I tested it.
 <h2>Real Dirt Color</h2>
 
 <p>
-v by . From modDesc:
+v1.0.0.5 by ViperGTS96. From modDesc: Real Dirt Color changes all vehicles/tools dirt color to the surrounding enviroment.
 </p>
 
 <p>
-Real Dirt Color changes all vehicles/tools dirt color to the surrounding enviroment.<br>
 - 10 color variations including: Brown Dirt, Brown Mud, Red Dirt, Red Mud, Grass, Chaff, Manure, Slurry, Lime, and Snow.<br>
 - Colors are blended back and forth using a variable speed.<br>
 - 2 modes available via xml settings file: "Simple mode" and "Independent wheel mode".
 </p>
 
 <p>
-v1.0.0.5 is still buggy with error log entries spammed over and over which cause stutter.
+2019-02-21 tested and works OK.
 </p>
 
 <p>
@@ -987,6 +1020,10 @@ Price: 93,314eur<br>
 Function: Plow<br>
 HP Required: 550HP min<br>
 Original JBL Modding, Conversion FS19 West Central Modding FS19.
+</p>
+
+<p>
+2019-02-21 tested and unfortunately it gives errors in the log, also when you purchase it will be placed partly buried underground like wheels and the connecting arm. Not a properly ported mod, will wait for future updates.
 </p>
 
 <p>
@@ -1100,6 +1137,241 @@ v1.0 by Giants, CSS. From modDesc: TSA 30000 universal. ve800 universal. frc uni
 
 <p>
 The storage/transport boxy shaped container tanker holds 900,000 liters, yes nine hundred THOUSAND. OK another unrealistic mod to delete...
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>Money Tool</h2>
+
+<p>
+v1.0 by MX11. From modDesc: ?
+</p>
+
+<p>
+This Mod adds 1.000.000 $ to your account by pressing the keys CTRL + ALT + 0. In multiplayer, a player must first join a farm.
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=119312&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>Manure Trading System</h2>
+
+<p>
+v1.0 by Holger Sengstock. From modDesc: ?
+</p>
+
+<p>
+This set consists of two placeable objects.
+</p>
+
+<p>
+At the MANURE SHOP you can buy manure for fertilization or resale. With the MANURE TRADER, you can sell the excess manure from your stables, or resell the previously acquired manure.
+</p>
+
+<p>
+You can find the placeable objects from this mod among the placeable objects in the miscellaneous category. You can place these objects freely on the areas of the map, as far as they belong to you.
+</p>
+
+<p>
+The Manure Shop and the Manure Trader are available in the Easy or Profi Mode. In the Easy Mode you can buy or sell the Manure on the Front of the Object. For loading and unloading in the Profi Mode version please drive into the heap.
+</p>
+
+<p>
++ the objects are also displayed in the PDA and you can jump directly to them<br>
++ at the Manure Trader, there are now and again great demands for manure
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=123649&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>GrowthControl</h2>
+
+<p>
+v1.0 by apuehri|LS-Modcompany. From modDesc: ?
+</p>
+
+<p>
+This mod allows to set the plant- and weed growth time according to your own ideas, it is also possible to adjust the yield and seed consumption! (all adjustments in the "growthcontrol.xml" in the savegame). You can also use "Shift-Left" + "Y" keys to display the approximate remaining time of the current growth step!
+</p>
+
+<p>
+V1.0.0.0:<br>
++ FS19 first implementation, integration multiplayer, adding weed control<br>
+Keyboard shortcuts:<br>
+SHIFT-Z view growth times on/off
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=123966&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>Bredal F2WS4000</h2>
+
+<p>
+v1.0 by GIANTS Software. From modDesc:
+</p>
+
+<p>
+Price: 28.000eur<br>
+Capacity: 4000l<br>
+Working width: 24m
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=126260&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>Composite Machine Sheds</h2>
+
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+The machineshed package includes four different sizes from a 3 door 24m wide up to a 6 door 48m wide variant. It can handle big machines up to 16m in length. It is fully equipped with electric sectional doors and a light installation.
+</p>
+
+<p>
+2019-02-21 tested and works OK. Includes machine sheds of 3 to 6 door versions. Features doors that open and light switch on/off for those dark nights.
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=118802&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>Large Grain Storages</h2>
+
+<p>
+v1.0 by VertexDezign. From modDesc: Two large grain storages, including room to store your mashinery.
+</p>
+
+<p>
+2019-02-21 tested and works OK. Two versions metal and wood (red and green paint). Has animated doors and switchable lights. This is pure physical grain storage, no virtual possibility to store thousands of liters, you can only dump grain here and when it gets physically full then its... well, full.
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=120525&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>FS19_liquidManure_placeable.zip</h2>
+
+<p>
+v2018-11-20 by Giants BDBSSB. From modDesc: BD Liquid Manure Tank.
+</p>
+
+<p>
+2019-02-21 tested and works OK. Nice little round tank to refill your slurry spreaders.
+</p>
+
+<p>
+PMC Essential Mod - PMCTODO add link?
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>Root Crop Storage</h2>
+
+<p>
+v1.0 by Dogface. From modDesc: This building is for storage of Potatoes and Beets. This building functions like a Silo or Hayloft, but for root crops. The building and conveyor belts are authentic to how root crops are actually stored.
+</p>
+
+<p>
+Price: 90000 eur<br>
+Capacity: 300000 l<br>
+Maintenance: 40 eur / day
+</p>
+
+<p>
+2019-02-21 tested and works OK. Capacity 300,000 liters.
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=120549&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>FS19_Strohlager_cc.zip</h2>
+
+<p>
+v1.2.2 by Hasco. From modDesc: Straw storage.
+</p>
+
+<p>
+2019-02-21 tested and gives 8 cant load sample/resource errors to the log, better wait for fixed version. Capacity 500,000 liters. Stores grass, hay, straw, silage and woodchips. Animated door.
+</p>
+
+<p>
+PMCTODO link?
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>VehicleInspector.zip</h2>
+
+<p>
+v1.45 Beta by HappyLooser. From modDesc: VehicleInspector
+</p>
+
+<p>
+Keyboard shortcuts:<br>
+F2 ?
+</p>
+
+<p>
+2019-02-21 tested and works OK. Shows glance type status info on top left corner of the screen. No apparent configuration options.
+</p>
+
+<p>
+PMCTODO link?
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>Lime Station</h2>
+
+<p>
+v1.0 by stefan1997. From modDesc: With this free placeable lime silo you can fill your lime spreader directly at the Farm.
+</p>
+
+<p>
+2019-02-21 tested and works OK. Basic lime station placeable from trusted giants modhub.
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=118989&title=fs2019" target="_blank">Modhub</a>
+</p>
+</div>
+
+<div class="mod_release_Vehicle">
+<h2>New Holland BigBaler 1290</h2>
+
+<p>
+v by Giants Software. From modDesc: New Holland BigBaler 1290
+</p>
+
+<p>
+Price: 155000 eur<br>
+Max. working speed: 20 kph<br>
+Required power: 160 hp
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=125445&title=fs2019" target="_blank">Modhub</a>
 </p>
 </div>
 
