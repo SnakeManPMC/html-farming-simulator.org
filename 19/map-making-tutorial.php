@@ -160,6 +160,30 @@ It is absolute nightmare to port FS17 terrain to FS19 depending how complex it i
 Also lets not forget that if you don't have permission to port, then why bother spending all that hard work for something you cannot release to the public.
 </p>
 
+<p>
+Giants Editor v8.1 has file -> open mod option, this is basic porting of FS17 terrains.
+</p>
+
+<p>
+Port to GE:
+</p>
+<ul>
+<li>Cornbelt</li>
+<li>Parkers Prairie</li>
+</ul>
+
+<p>
+Fail:
+</p>
+<ul>
+<li>North West Texas ports but doesnt load in GE after that</li>
+<li>Newlin GE loads a moment then just simply stops, the porting process is incomplete, only small number of dirs/files is copied over</li>
+</ul>
+
+<p>
+This is however not one click solution, you hopefully get terrain loading into GE but it is far from playable in FS19, much work needs to be done to fully port it even to make it load up without errors.
+</p>
+
 
 	<h3>FS19 Simple Port Tutorial</h3>
 
@@ -475,6 +499,11 @@ Triggers like sellpoints and shop etc need to have unused layer value painted to
 Water area should not be painted as purchaseable land (dunno why?).
 </p>
 
+<p>
+Giants Editor v8.1 final info layer painting, the layer value drop-down is not working for me (known issue). hmm looks like the drop-down works to tick the info channel boxes... but when you paint it has not effect, what you must do to fix this is just to untick one of the numbers and tick it back again, then your painting works... <i>usually...</i> you should experiment and see how it works for you.
+</p>
+
+
 
 	<h2>modDesc.xml</h2>
 
@@ -540,6 +569,10 @@ You could say that this would be lazy terrain developer method as making simple 
 Courseplay recognizes the foliage layer plowed/cultivated etc terrain type, NOT the field definition, at least I believe this is how courseplay/game works? So make sure you do not paint the foliage layer as plowed/cultivated land but that umm what was it the odd looking brown colored terrain type (no idea, the one seen in FS17 cornbelt heh)? :)
 </p>
 
+<p>
+Creating fields is quicker if you just call the first "field" without any numbering and once you have finished making all of them its easier to rename them all in one go. This usually applies to my own workflow where I make placeholders for all the fields at one go, then tweak them to precision later. Also I find it quicker to edit field numbering directly in the name.i3d xml file, but thats just me who's so used to text editing heh.
+</p>
+
 
 	<h2>General Terrain Editing Tips</h2>
 
@@ -588,6 +621,10 @@ You should not resize images like _farmland.grle after painting it using tools t
 </p>
 
 <p>
+Howto paint grass? Use foliage layer painting -> foliage layer -> grass, foliage channels 1 and 6, now you paint fully grown grass. The drop down has list of foliage growth stages.
+</p>
+
+<p>
 Grass or other general foliage should be placed first when you are creating a brand new terrain, its far easier to put fields, roads etc special foliage (or erase foliage) on these small areas than to paint grass between fields and roads etc as its really frustrating to carefully place that grass to avoid overlap where grass should not be present.
 </p>
 
@@ -600,7 +637,7 @@ Make sure your terrain has few very small or cheap properties / land so that pla
 </p>
 
 <p>
-Splines are shown in-game, so in GE you need to either delete or sink them under ground or set to invisible mode.
+Splines O key to close the loop, if you do not want to create a loop do not hit O key. Arrow keys cycle through the vertices in a spline. Splines are shown in-game, so in GE you need to either delete or sink them under ground and/or set to invisible mode.
 </p>
 
 <p>
@@ -641,6 +678,10 @@ Satellite texture for PDA map painting tip: you should paint the fields as they 
 
 <p>
 Placing objects is easier if you use google/maps satellite view to see where and what sort of buildings or trees etc are in your terrain area. Street view photos are excellent resource to get the feeling what the real life location is, however these photos are not usually available other than urban areas or large highways.
+</p>
+
+<p>
+Place bushes around roads, they have no geometry but give a nice look. American locations add those old style telephone / electric wire poles.
 </p>
 
 
@@ -944,6 +985,9 @@ sandWet04_weight.png PNG 2048x2048+0+0 PseudoClass 256c 8-bit 4.2Ki<br>
 waterPuddle01_weight.png PNG 2048x2048+0+0 PseudoClass 256c 8-bit 4.2Ki
 </p>
 
+<p>
+_weight files RGB black is off and white is on, meaning everything that is painted white will be that particular _weight type like asphalt or sand or grass etc. But you cannot paint them in GIMP, it just doesn't work as GE v8.1 does not show anything and when saving it overwrites them all black again.
+</p>
 
 	<h2>Density Image Resolutions</h2>
 

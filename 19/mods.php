@@ -976,7 +976,7 @@ SHIFT-A mode(?)<br>
 CTRL-A help menu
 </p>
 
-</p>
+<p>
 2019-02-21 tested and works OK. Manual attaching is great, gives you more personal intimate feeling to the implements as its just not hit Q and everything is done. Note: on my previous tests it did give error in the log, but today it did not, go figure. Maybe its some specific mod conflict I dont know, will have to track it down.
 </p>
 
