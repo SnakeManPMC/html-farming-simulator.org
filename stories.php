@@ -28,7 +28,7 @@
 These are various stories of game plays we had with Farming Simulator 17 (FS17). Time stamps I use here are UTC.
 </p>
 
-	<h2>Nort West Texas All The Fields</h2>
+	<h2>North West Texas All The Fields</h2>
 
 <p>
 I got FS17 in may 2017, played on goldcrest valley of course but my first user made custon terrain was <a href="maps.php">North West Texas</a> by Txzar. I played what I recall over 400 hours of it. After I discovered how useless grind the hard level is I started to play on easy level and my goal was to not use money cheats and buy all the fields.
@@ -73,7 +73,7 @@ locked off by fence for even slightly wide vehicles (but you can go around in SE
 </p>
 
 <p>
-Did a lot of twitch live streaming while playing, a lot of Big Bud, SPSL9 and Seed Hawk usage with courseplay. But it was sometime june or early july when I finally got all the fields purchased.
+Did a lot of twitch live streaming while playing, a lot of Big Bud, SPSL9 and Seed Hawk usage with courseplay.
 </p>
 
 
@@ -91,7 +91,7 @@ I can't remember the specifics now as it was so many months back, but I believe 
 </p>
 
 <p>
-To recap the goals: purchase, plough, fertilize, seed and harvest every field in newlin texas. Today I own F15 through F22. I'm trying to puchase fields next to each other and if possible through in number order (but that is often not possible as fields are scattered all over) however I want to save the massive F23 to last as its the crown jewel heh.
+To recap the goals: purchase, plough, fertilize, seed and harvest every field in newlin texas. Today I own F15 through F22. I'm trying to puchase fields next to each other and if possible in sequential order (but that is often not possible as fields are scattered all over) however I want to save the massive F23 to last as its the crown jewel heh.
 </p>
 
 <p>
@@ -209,7 +209,7 @@ F30:<br>
 </p>
 
 <p>
-Result: 2018-09-23T1030hrs discovered that the whole damn northern and NE edge of the map is CUT OFF BY FUCKING FENCES, so decided that this is it... I went and deleted the map and my savegame I've been working this far. No more, I will not go through this kind of bullshit when playing a game.
+Result: 2018-09-23T1030hrs discovered that the whole northern and NE edge of the map is cut off by fences, so decided to stop playing and deleted this savegame as it was so frustrating.
 </p>
 
 
@@ -3489,7 +3489,7 @@ Had to bring another truck to help as the one is way too little, I had over 1 mi
 </p>
 
 <p>
-Selling that truck load of fertilized concluded this play session as Farming Simulator 19 had been downloaded, I'm going to start install and play that now. Remains to be seen if this log entry was the last for this savegame and who knows, maybe for FS17 all together... ;)
+Selling that truck load of fertilizer concluded this play session as Farming Simulator 19 had been downloaded, I'm going to start install and play that now. Remains to be seen if this log entry was the last for this savegame and who knows, maybe for FS17 all together... ;)
 </p>
 
 <!--
