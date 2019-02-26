@@ -35,8 +35,7 @@
 <!-- <a href="19/multiplayer.php" class="button">Multiplayer</a>
 -->
 <a href="19/review.php" class="button">Review</a>
-<!-- <a href="19/settings.php" class="button">Settings</a>
--->
+<a href="19/settings.php" class="button">Settings</a>
 </p>
 
 
