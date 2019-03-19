@@ -40,7 +40,8 @@
 2018-07-20 Farming Simulator 19 - release date (nov 20th) announced<br>
 2018-11-20 Farming Simulator 19 + v1.1 day one patch / upgrade<br>
 2018-12-12 Farming Simulator 19 - v1.2 update <a href="https://www.farming-simulator.com/changelog-fs19.php?lang=en&country=us" target="_blank">changelog</a><br>
-2019-03-04 Farming Simulator 19 - Anderson Group Equipment Pack DLC announced (release date 2019-03-26)
+2019-03-04 Farming Simulator 19 - Anderson Group Equipment Pack DLC announced (release date 2019-03-26)<br>
+2018-03-19 Farming Simulator 19 - v1.3 update <a href="https://www.farming-simulator.com/changelog-fs19.php?lang=en&country=us" target="_blank">changelog</a>
 </p>
 
 </section>
