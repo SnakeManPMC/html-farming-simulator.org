@@ -1176,6 +1176,26 @@ Error: Terrain weight map 'roughDirt01_weight.png' incorrect format. Must be 8bi
 </p>
 
 
+	<h2>Gimp fruit_density Road Painting</h2>
+
+<p>
+How to convert asphalt01_weight road image to grass removing fruit_density image, assuming fruit_density is all RGB 130,0,0 painted as grass. This guide assumes you have already converted fruit_density.gdm to png image format.
+</p>
+
+<p>
+- load fruit_density.png and asphalt01_weight.png in gimp<br>
+- set asphalt01_weight image -> mode -> RGB<br>
+- SHIFT-O select by color, click the road white pixel, all white pixels are now selected<br>
+- select -> grow -> 5<br>
+- select -> shink -> 3, use any numbers here to make the selected area match your road as much as possible<br>
+- CTRL-C, select fruit_density image and CTRL-V, RMB pasted selection -> to new layer<br>
+- unselect the selection (roads), colors -> map -> color exchange, set white RBG 255,255,255 to black RGB 0,0,0<br>
+- pasted layer RMB -> merge down<br>
+- file -> overwrite fruit_density.png<br>
+All done ;)
+</p>
+
+
 <!--
 	<h2></h2>
 
