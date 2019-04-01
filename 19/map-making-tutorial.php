@@ -1024,6 +1024,18 @@ mapUS_farmland.png PNG 1024x1024+0+0 PseudoClass 256c 8-bit 19.7Ki<br>
 tipColInfoLayer.png PNG 1024x1024+0+0 PseudoClass 256c 8-bit 22.3Ki
 </p>
 
+
+	<h2>Object View Distance</h2>
+
+<p>
+Object view distance, how far out it is drawn, in GE is called clip distance under attributes -> transform -> clip distance. CBJ midwest buildings pack and even giants farm silos use 1,000,000 value, no idea what this value means other than "large". Odd thing though that giants silos do not after all show up very far away, hmm. However clip distance definitely is what controls how far out your model will be rendered.
+</p>
+
+<p>
+CBJ midwest buildings can be seen from the other side of the terrain (and I do mean 8km x 8km one), which is great but I'm always concerned about performance issues, so far in my testing the mentioned buildings cause no issues.
+</p>
+
+
 <!--
 	<h2></h2>
 
