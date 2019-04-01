@@ -1036,6 +1036,21 @@ CBJ midwest buildings can be seen from the other side of the terrain (and I do m
 </p>
 
 
+	<h2>Heightmap</h2>
+
+<p>
+Heightmap or Digital Elevation Map (DEM) as its called in FS19, is the terrain elevations in grayscale png image format.
+</p>
+
+<p>
+The data in the heightmap is a 16bit value, encoded in the red and green channel of the image. This means the final value can be calculated as: (red&lt;&lt;8) + green.
+</p>
+
+<p>
+The GIANTS Editor and the engine also support 16bit png images. For example you can create the in photoshop / gimp by switching to grayscale and 16bits / channel.
+</p>
+
+
 <!--
 	<h2></h2>
 
