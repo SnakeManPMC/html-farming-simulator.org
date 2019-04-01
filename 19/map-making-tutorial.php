@@ -1012,7 +1012,7 @@ waterPuddle01_weight.png PNG 2048x2048+0+0 PseudoClass 256c 8-bit 4.2Ki
 </p>
 
 <p>
-_weight files RGB black is off and white is on, meaning everything that is painted white will be that particular _weight type like asphalt or sand or grass etc. But you cannot paint them in GIMP, it just doesn't work as GE v8.1 does not show anything and when saving it overwrites them all black again.
+_weight files RGB black is off and white is on, meaning everything that is painted white will be that particular _weight type like asphalt or sand or grass etc.
 </p>
 
 	<h2>Density Image Resolutions</h2>
@@ -1117,6 +1117,25 @@ GE scripts paint_terrain_by_spline2.lua <a href="https://www.fs-uk.com/forum/ind
 
 <p>
 Numbers are: 4 grass, 28 cobblestone kinda, 34 gravel, 56 kinda asfalt very light color, 80 asfalt. note that if your main spline start point is rotated like -90 then the LUA will make oddly very narrow texture paint line, so dont rotate the main spline start.
+</p>
+
+
+	<h2>Environmental Sounds</h2>
+
+<p>
+If you do not use your own _sound.* files then you inherit the mapDE/mapUS environmental sounds like birds, water, wind, etc. See below how to add custom _sound.* file setup to your terrain.
+</p>
+
+<p>
+- copy mapDE_sound.i3d and mapDE_sound.xml files from fs19_root/data/maps/ directory to your terrain maps/ directory<br>
+- rename mapDE_sound.* files to your terrain name like name_sound.* (one of ours is PMC_Iowa_Ringsted_8km_sound.* so its not "name" literally, its just for examples sake)<br>
+- GE edit name_sound.i3d and remove the sounds you dont need, you can also move or add sounds<br>
+- edit name_sound.xml and change filename="$data/maps/mapDE_sound.i3d" to filename="maps/name_sound.i3d"<br>
+- edit maps/name.xml and change &lt;sounds filename="$data/maps/mapDE_sound.xml" /> to &lt;sounds filename="maps/name_sound.xml" /&gt;
+</p>
+
+<p>
+All done, now your terrain will play the sounds from your maps/name_sound.i3d file, so no more ocean sounds in middle of the terrain in fields etc (assuming you removed the water sounds).
 </p>
 
 
