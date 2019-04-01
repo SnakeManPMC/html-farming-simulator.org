@@ -718,6 +718,19 @@ Field and forest / trees edge needs <b>at least a tractor width</b> of space so 
 When you resize density image resolutions, you need to re-create collision map.
 </p>
 
+<p>
+If you do not make cultivator_density fields, then any land you own in career start will be WITHOUT FIELDS. Now this can be good or a bad thing depending what you want. Overall and fitting to the standard game-play, you should paint cultivator_density or have default farm property be land that has no fields (like the actual farm house / silo area) and have player purchase land plots for fields so the AI has already created the fields.
+</p>
+
+<p>
+Field definitions and cultivator_density field edges should be straight, if they are free hand jagged and wild, for example using guidancesteering looks unprofessional as the field edge goes where ever except straight.
+</p>
+
+<p>
+Bushes are not real objects, they are actually painted into terrain. GE -> terrain editing -> foliage layer painting -> foliage layer -> bush01, layer state -> state 1 (etc). Then just use terrain foliage paint mode and paint. Do not use too large brush or strong values as these bushes are placed very "agressively" to the terrain.
+</p>
+
+
 	<h2>Adding Selling Points</h2>
 
 <p>
