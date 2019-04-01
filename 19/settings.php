@@ -64,6 +64,19 @@ gsToggleFlightAndNoHUDMode. Use playerspeedmod which allows you to move the came
 Now press J to enable/disable flying and Q key to increase and E key to decrease altitude. O key disables HUD so you dont need to use external mods for that either.
 </p>
 
+	<h2>Graphics Settings</h2>
+
+<p>
+These are the lowest settings you can set with in-game options:
+</p>
+<pre>
+&lt;viewDistanceCoeff&gt;0.500000&lt;/viewDistanceCoeff&gt;
+&lt;lodDistanceCoeff&gt;0.500000&lt;/lodDistanceCoeff&gt;
+&lt;terrainLODDistanceCoeff&gt;0.500000&lt;/terrainLODDistanceCoeff&gt;
+&lt;foliageViewDistanceCoeff&gt;0.500000&lt;/foliageViewDistanceCoeff&gt;
+&lt;tyreTracksSegmentsCoeff&gt;0.000000&lt;/tyreTracksSegmentsCoeff&gt;
+</pre>
+
 </section>
 
 <footer>
