@@ -665,7 +665,7 @@ Upgrade v1.3 new feature seems to be the usage of "$mapdir$" (points to current 
 </p>
 
 <p>
-Real world data heightmap can look very ugly in GE, you need to smooth out the jagged elevations in either L3DT, Wilbur or GE itself. I used 0.1 values for opacity, hardness and value, then 500m large round brush and smoothed out until the jagged parts were mostly gone. You could also use photoshop/gimp and add gaussian blur to the grayscale heightmap image.
+Real world data heightmap can look very ugly in GE, you need to smooth out the jagged elevations in either L3DT, Wilbur or GE itself. I used 0.1 values for opacity, hardness and value, then 500m large round brush and smoothed out until the jagged parts were mostly gone. You could also use photoshop / gimp and add gaussian blur to the grayscale heightmap image. For proper one click solution, read below about US NED Heightmap.
 </p>
 
 <p>
@@ -710,6 +710,13 @@ Bale sale point is just a defaultItems.xml placeable, pure virtual thing, its up
 &lt;item mapBoundId="sellingStationBales" className="SellingStationPlaceable" filename="data/placeables/mapUS/sellingStationBales/sellingStationBales.xml" position="COORDINATES" rotation="0 0 0" /&gt;
 </pre>
 
+<p>
+Field and forest / trees edge needs <b>at least a tractor width</b> of space so you get enjoyable game-play. Anything less and your players get frustrated with another stupid map with trees next to the field blocking vehicles and especially hired worker driven vehicles.
+</p>
+
+<p>
+When you resize density image resolutions, you need to re-create collision map.
+</p>
 
 	<h2>Adding Selling Points</h2>
 
@@ -1259,6 +1266,19 @@ exit
 You need to replace the C:\FS19_Projects\USA_Texas_Rowena_8km\ path to where you placed your grayscale heightmap DEM image, if its in the current dir then remove that line completely. Also edit the PMC_Texas_Rowena_8km_dem.png to whatever file name you use. Once you have darkened the heightmap png just load the terrain up in GE and inspect how it looks, it might require in-game check where you get better sense of the elevations when you drive tractor or just walk around.
 </p>
 
+
+	<h2>AI Planted Crop Types</h2>
+
+<p>
+If you want to control what crop types the AI will plant for example we customized Garden City Iowa so that AI only plants corn and soybeans.
+</p>
+
+<p>
+- copy &lt;fs19_root&gt;\data\maps\maps_fruitTypes.xml to your terrain maps\ dir<br>
+- rename maps_fruitTypes.xml to name_fruitTypes.xml<br>
+- edit name.xml change &lt;!-- &lt;fruitTypes filename="$data/maps/maps_fruitTypes.xml" /&gt; --&gt; to &lt;fruitTypes filename="maps/name_fruitTypes.xml" /&gt;<br>
+- edit name_fruitTypes.xml and change useForFieldJob="true" to false for the crop types you dont want AI to plant
+</p>
 
 <!--
 	<h2></h2>
