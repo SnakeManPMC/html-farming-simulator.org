@@ -1332,6 +1332,68 @@ Using 2km x 2km terrain example transform translate coordinates, edges are:<br>
 For 4km terrain use -2048, for 8km -4096 etc.
 </p>
 
+
+	<h2>Traffic System</h2>
+
+<p>
+Traffic system means pedestrian, people walking around and cars driving around in a loop. Terrain includes visibility hidden transformgroup (TG) named splines. TG splines has sub TG's trafficSystem and pedestrianSystem. Below examples are from mapUS.i3d file.
+</p>
+
+<p>
+trafficSystem has trafficLoop01 through 04 splines (assuming we can place any number of splines here?). Sub TG parkedCars which has TG's called parkedCars placed into parking lot spots.
+</p>
+
+<p>
+trafficLoop01 spline E control vertex needs to be next to S so the spline will form a loop. When vehicle gets to E it can proceed to S right away. You could also hit O key to close the loop. Check the log file for errors if your spline is not accepted.
+</p>
+
+<p>
+trafficSystem attributes onCreate: TrafficSystem.onCreate and xmlFile: $data/maps/mapUS_trafficSystem.xml
+</p>
+
+<p>
+pedestrianSystem has pedestrianLoop01 and 02.
+</p>
+
+<p>
+pedestrianLoop01 is the same type as trafficLoop01.
+</p>
+
+<p>
+pedestrianSystem attributes onCreate: PedestrianSystem.onCreate and xmlFile: $data/maps/mapUS_pedestrianSystem.xml
+</p>
+
+<p>
+mapUS traffic and pedestrian splines are not closed, but appears you can close them if you wish (please confirm! 2019-03-27).
+</p>
+
+
+	<h2>Train System</h2>
+
+<p>
+This is for the standard looping and player drivable train where you can TAB into.
+</p>
+
+<p>
+&lt;fs19_root&gt;\data\placeables\mapUS\trainSystem\trainSystem.i3d contains transformgroup trainSystem which has one hidden spline called track01, then railroadCrossing01 through 09.
+</p>
+
+<p>
+mapUS_items.xml:
+</p>
+<pre>
+&lt;item mapBoundId="trainSystem" className="TrainPlaceable" filename="data/placeables/mapUS/trainSystem/trainSystem.xml" position="0 0 0" rotation="0 0 0" /&gt;
+</pre>
+
+<p>
+- create transformgroup trainSystem, do not move it, leave it to 0,0,0 coordinates<br>
+- create spline called track01 into trainSystem transformgroup, make it hidden by setting visibility off<br>
+- when finished creating track01 control vertexes, close the loop with O key<br>
+- select trainSystem export selection, save it as trainSystem.i3d, then delete trainSystem transformgroup<br>
+- place trainSystem.xml next to your trainSystem.i3d file
+</p>
+
+
 <!--
 	<h2></h2>
 
