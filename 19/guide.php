@@ -49,15 +49,15 @@ Three different game modes for three difficulty levels at the same time.
 </ul>
 
 <p>
-New farmer: start with basic farm, fields, vehicles and equipment. Quite limited, small scale I would say.
+New farmer: start with basic farm, fields, vehicles and equipment. Quite limited, small scale I would say. By default adds random amount of crops into your farm silos at career start.
 </p>
 
 <p>
-Farm-manager: start with nothing except 1.250 million of money. You need to decide what land and vehicles to buy.
+Farm-manager: start with nothing except 1.250 million of money. You need to decide what land and vehicles to buy. Multiplayer farm manager mode starts with 250,000 loan (so 1 million of own money).
 </p>
 
 <p>
-Start from scratch: start with nothing and very limited money, prices (and vehicle maintenance costs?) are the toughest.
+Start from scratch: start with nothing and very limited money, prices (and vehicle maintenance costs?) are the most toughest.
 </p>
 
 <p>
@@ -73,7 +73,7 @@ You only need to plough after harvesting corn or sugar cane etc odd crops, there
 	<h2>Lime</h2>
 
 <p>
-You can see lime field status on the map-view. Lime is a product which you purchase and spread to your fields using solid fertilizer spreader.
+You can see lime field status on the map-view. Lime is a product which you purchase and spread to your fields using solid fertilizer spreader. Using stock game Bredal spreader expends lime at incredible high rate, all you do is drive to refill heh.
 </p>
 
 	<h2>Seeding</h2>
@@ -92,7 +92,7 @@ Refer to FS17. And to note that even the same buggy or bad design for crops grow
 	<h2>Weeds</h2>
 
 <p>
-Weeds grow on fields (after fertilizing?), they take away nutrients from your actual crops so therefore are very harmful for the grain yield. You must kill weeds either mechanically by a weeder or chemically by a pesticide sprayer.
+Weeds grow on fields (after fertilizing?), they take away nutrients from your actual crops so therefore are very harmful for the yield. You must kill weeds either mechanically by a weeder or chemically by a pesticide sprayer.
 </p>
 
 <p>
@@ -116,19 +116,19 @@ Refer to FS17. With exception that now you can unload fertilizer / seeder and pa
 	<h2>Seed Placeables</h2>
 
 <p>
-Several mod makers released seed placeables and Giants Software finally put out their official refill stations in 2019-01-31. Place it down and refill your seed tanks. Note: Refilling using Giants Software seed placeable will cost you a higher price for seed than buying it in BigBags at the Shop and they do not include lime.
+Several mod makers released seed placeables and Giants Software finally put out their official refill stations in 2019-01-31. Place it down and refill your seed tanks. Note: Refilling using Giants Software seed placeable will cost you a higher price for seed than buying it in BigBags at the Shop and they do not include lime. Lime placeable is not included possibly due ravenport and felsbrunn having hardcoded lime station in the terrain.
 </p>
 
 	<h2>Seed Tenders</h2>
 
 <p>
-There is now a official game vehicle as seed tender which we did not have in FS17.
+There is now a official game vehicle as seed tender which we did not have in FS17. You can use grain carts as seed tenders just as in FS17.
 </p>
 
 	<h2>Unloading Fertilizer/Seeder</h2>
 
 <p>
-You can now unload your fertilizer and seeder. When you unload them there will be pallet(s) created next to the implement which you can then refill back to the same or other implements etc.
+You can now unload your fertilizer, seeder and lime spreader. When you unload them there will be pallet(s) created next to the implement which you can then refill back to the same or other implements etc.
 </p>
 
 	<h2>Train</h2>
@@ -168,7 +168,7 @@ A huge change in FS19 compared to the previous games is that you build your own 
 </p>
 
 <p>
-Your own farm house is just an decorative object with the sleep option. Sleep is simply 5000x time acceleration with the optional how many hours to sleep dialog. It is nice, but to have 350,000 euro costing huge object for it is total overkill, wait for modders to release fast forward type time acceleration mod instead.
+Your own farm house is just an decorative object with the sleep option. Sleep is simply 5000x time acceleration with the optional how many hours to sleep dialog. It is nice, but to have 350,000 euro costing huge object for it is total overkill, better to use fast forward type time acceleration mod instead.
 </p>
 
 <p>
@@ -195,6 +195,32 @@ You can repair vehicles even when they are being used in the fields. Go to garag
 
 <p>
 Never ever add brand new mod to your important career savegame, not matter how reputable mod authors release it is, always test new mods on some brand new savegame where you cannot lose any progress if a mod breaks down.
+</p>
+
+	<h2>Ambient Birds</h2>
+
+<p>
+v1.2 has a bug or rather engine issue that makes the wildlife birds and even your pet dog to walk on vertical walls and roofs of placeables. We will see if this gets fixed in the future. Just wanted to let you know that yes this is a known engine v1.2 bug / issue and not related to any modders editing.
+</p>
+
+	<h2>Liquid Transport</h2>
+
+<p>
+Liquid transport in FS19 stock vehicles do not include anything for liquid fertilizer or herbicide transport. You can purchase liquid fertilizer pallets and then load them into low loader for transport but that is not really a liquid transport in the sense we are talking about here. You should search for <a href="mods.php">FS19 mods</a> for a nice liquid transport solution.
+</p>
+
+	<h2>Slurry Spreader</h2>
+
+<p>
+Slurry transport. Stock vehicles in the slurry tanks category offer Garant Kotte FRC field container with 55,000 liter capacity, Garant Kotte TSA 30000 tanker trailer for trucks to pull with 30,000 liter capacity.
+</p>
+
+<p>
+You can park the field container to the field you are fertilizing, then transport slurry from your slurry pit into this container using tanker trailer.
+</p>
+
+<p>
+The downside of slurry spreader is that there are not narrow tire options, it will cut crops. Also game-play related downside is that while in FS17 slurry spreading was viable option and fun, now in FS19 giants have totally ruined with the rate its expended, you literally go from 100% to 50% capacity under a minute, totally crazy.
 </p>
 
 <!--
