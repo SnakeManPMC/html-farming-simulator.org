@@ -1051,6 +1051,25 @@ The GIANTS Editor and the engine also support 16bit png images. For example you 
 </p>
 
 
+	<h2>Import Vehicle Shop</h2>
+
+<p>
+Vehicle shop is possibly one of the most important objects because if you cant buy vehicles... you cant do nothing except walking around. Vehicle shop is the 3D model building which is just cosmetic eyecandy without any function and then the transformgroups which create the functionality.
+</p>
+
+<p>
+Open mapUS.i3d and select gameplay -> vehicleShopGameplay and then file -> export selection, choose directory and use the same vehicleShopGameplay.i3d filename to save.
+</p>
+
+<p>
+Select placeholders -> vehicleSellingPoint and export to like vehicleShopTriggers.i3d or similar name.
+</p>
+
+<p>
+Now you are ready to import these into your own terrain, place them as you please. Only thing to be careful is to set the storePlace1Start and storePlace1End so that there are no other objects in the way. There are total of three storePlace?Start transformgroups.
+</p>
+
+
 <!--
 	<h2></h2>
 
