@@ -1070,6 +1070,30 @@ Now you are ready to import these into your own terrain, place them as you pleas
 </p>
 
 
+	<h2>Lua Scripts</h2>
+
+<p>
+GE scripts paint_terrain_by_spline2.lua <a href="https://www.fs-uk.com/forum/index.php?topic=205310.0" target="_blank">fs-uk.com/forum topic</a>
+</p>
+
+<pre>
+--[[ gray looking asphalt (not very dark tar colored) --]]
+	local mLayerId = 80
+	local mLayerIdL = 80
+    local mLayerIdR = 80
+    local mSideCount = 4
+--[[ dirt gravel brown --]]
+	local mLayerId = 00
+	local mLayerIdL = 00
+    local mLayerIdR = 00
+    local mSideCount = 2
+</pre>
+
+<p>
+Numbers are: 4 grass, 28 cobblestone kinda, 34 gravel, 56 kinda asfalt very light color, 80 asfalt. note that if your main spline start point is rotated like -90 then the LUA will make oddly very narrow texture paint line, so dont rotate the main spline start.
+</p>
+
+
 <!--
 	<h2></h2>
 
