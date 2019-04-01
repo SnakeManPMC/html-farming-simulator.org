@@ -684,6 +684,32 @@ Placing objects is easier if you use google/maps satellite view to see where and
 Place bushes around roads, they have no geometry but give a nice look. American locations add those old style telephone / electric wire poles.
 </p>
 
+<p>
+Satellite image to GE map view: use <a href="https://www.fs-uk.com/mods/view/36154/any-sign-any-size-any-shape" target="_blank">fs-uk.com any sign any size any shape model</a>, save your satellite image over back_of_sign_a.png and then import back_of_sign_a.i3d model. Scale it in attributes window, put your terrain size like 2km is 2048, 4km is 4096, 8km is 8192 etc, type in scale Z and Z: 4096 but leave scale Y as 1. When you want to disable/hide this model, use attributes -> translate Y and make it like -5 value which puts it five meters underground (assuming blank flat heightmap). You can also use visibility tick box to turn it on and off, however turning it invisible still causes objects to align to this plane if you have it higher than 0 meters elevation and that plane while invisible it still exist in-game, so move the plane -5 meters elevation. For a release version terrain you need to delete this as it has no use in-game.
+</p>
+
+<p>
+Road splines before you start to create these you need to check from google/maps which roads are asphalt and dirt/gravel. On Iowa Garden City I proceeded to create the road network almost completely and plan was to organize the splines later to asphalt/dirt categories, well it just happens that this location has two roads that turn from asphalt into dirt at one point so my single spline for it doesn't work, I had to go back and delete parts of the spline and create another one for the different road type. So always check google/maps before starting to create splines to avoid this problem.
+</p>
+
+<p>
+When choosing a new terrain location, never include roads that have only connection to the outside terrain. For example a farm right at the edge of the terrain where its road connection leads to outside terrain only, leaving players no way to drive into that farm. This is kind of difficult to explain without a screenshot, PMC Texas Rowena north-north-west edge has two farms/locations that have no connecting roads, only roads lead to outside terrain. Also do not include farms that are right at the terrain edge or worse where the farm is cut in half by the edge, those are very bad for enjoyable game-play as you cant really operate in the edge.
+</p>
+
+<p>
+Gas station is just a 3d model in terrain i3d, then you setup defaultItems.xml placeable for this gas station like:
+</p>
+<pre>
+&lt;item mapBoundId="gasStation" className="BuyingStationPlaceable" filename="data/placeables/mapUS/gasStation/gasStation.xml" position="COORDINATES" rotation="0 0 0" /&gt;
+</pre>
+
+<p>
+Bale sale point is just a defaultItems.xml placeable, pure virtual thing, its up to you what to place in that location and add the warning trigger markers to the ground:
+</p>
+<pre>
+&lt;item mapBoundId="sellingStationBales" className="SellingStationPlaceable" filename="data/placeables/mapUS/sellingStationBales/sellingStationBales.xml" position="COORDINATES" rotation="0 0 0" /&gt;
+</pre>
+
 
 	<h2>Adding Selling Points</h2>
 
