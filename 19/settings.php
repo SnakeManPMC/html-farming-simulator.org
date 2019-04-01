@@ -38,6 +38,32 @@ In your FS19 shortcut add -restart startup parameter. Open game.xml and change &
 Open inputBinding.xml and seach for TAKE_SCREENSHOT, then replace it with &lt;binding device="KB_MOUSE_DEFAULT" input="" axisComponent="+" neutralInput="0" index="1"/&gt;
 </p>
 
+	<h2>Developer Mode</h2>
+
+<p>
+See <a href="../settings.php">FS17 Settings</a> page how to activate developer mode.
+</p>
+
+<p>
+Commands: gsCheatMoney adds 10 million cheat money. gsCheatMoney NUMBER adds specific number of money.
+</p>
+
+<p>
+gsAddBale straw drops star square bale in front of you, additional repeated commands drop more. use "straw", "silage". Use "silage true" to drop square silage bale.
+</p>
+
+<p>
+gsCheatSilo wheat 100 adds 100 liters wheat to your farm silo.
+</p>
+
+<p>
+gsToggleFlightAndNoHUDMode. Use playerspeedmod which allows you to move the camera really fast. Use tilde ` to bring up console, type "gsT" and then hit tab until you get gsToggleFlightAndNoHUDMode and then hit enter to activate it.
+</p>
+
+<p>
+Now press J to enable/disable flying and Q key to increase and E key to decrease altitude. O key disables HUD so you dont need to use external mods for that either.
+</p>
+
 </section>
 
 <footer>
