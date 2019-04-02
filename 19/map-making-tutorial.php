@@ -1548,6 +1548,27 @@ Error (mapdir$/maps/placeables/farmSilos/farmSiloLarge.xml): No storeData found.
 You can fix it by not using $mapdir$ in modDesc.xml
 </p>
 
+<p>
+defaultItems.xml created placeable farmSiloLarge gets random liters of crops placed in it at career start. You can configure how these crops are created when you add "storage" property in your defaultItems.xml file in the farmSiloLarge location.
+</p>
+<pre>
+&lt;item className="SiloPlaceable" filename="data/placeables/farmSilos/farmSiloLarge.xml" position="COORDINATES" rotation="0 0 0" defaultFarmProperty="true" farmId="1"&gt;
+	&lt;storage index="1" farmId="1"&gt;
+		&lt;node fillType="WHEAT" fillLevel="0"/&gt;
+		&lt;node fillType="BARLEY" fillLevel="0"/&gt;
+		&lt;node fillType="OAT" fillLevel="0"/&gt;
+		&lt;node fillType="CANOLA" fillLevel="0"/&gt;
+		&lt;node fillType="SUNFLOWER" fillLevel="0"/&gt;
+		&lt;node fillType="SOYBEAN" fillLevel="0"/&gt;
+		&lt;node fillType="MAIZE" fillLevel="0"/&gt;
+	&lt;/storage&gt;
+&lt;/item&gt;
+</pre>
+
+<p>
+Adjust the tillType's for crops you need. Also you can set fillLevel to high amounts as well.
+</p>
+
 <!--
 	<h2></h2>
 
