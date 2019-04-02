@@ -1533,6 +1533,21 @@ And farmSiloLarge.xml:
 Above XML would put capacity to 9 million liters per crop type.
 </p>
 
+<p>
+modDesc.xml storeItems cannot include $moddir$ or $mapdir$, they do not work. modDesc storeItems defaults already to your terrain root directory, so only use "maps/path1/path2/filename.xml" naming.
+</p>
+
+<p>
+If you get the following error:
+</p>
+<pre>
+Error: Failed to open xml file 'mapdir$/maps/placeables/farmSilos/farmSiloLarge.xml'.
+Error (mapdir$/maps/placeables/farmSilos/farmSiloLarge.xml): No storeData found. StoreItem will be ignored!
+</pre>
+<p>
+You can fix it by not using $mapdir$ in modDesc.xml
+</p>
+
 <!--
 	<h2></h2>
 
