@@ -1569,6 +1569,26 @@ defaultItems.xml created placeable farmSiloLarge gets random liters of crops pla
 Adjust the tillType's for crops you need. Also you can set fillLevel to high amounts as well.
 </p>
 
+
+	<h2>Custom Crop Icons</h2>
+
+<p>
+maps/maps_fillTypes.xml
+</p>
+<pre>
+&lt;map&gt;
+    &lt;fillTypes&gt;
+ 	&lt;fillType name="WHEAT" title="$l10n_fillType_wheat" showOnPriceTable="true" pricePerLiter="0.337" &gt;
+            &lt;image hud="maps/huds/hud_fill_wheat.png" hudSmall="maps/huds/hud_fill_wheat_sml.png" /&gt;
+            &lt;physics massPerLiter="0.78" maxPhysicalSurfaceAngle="15" /&gt;
+            &lt;pallet filename="$data/objects/pallets/fillablePallet/fillablePallet.xml" /&gt;
+        &lt;/fillType&gt;
+</pre>
+<p>
+hud_fill_wheat.png PNG 256x256+0+0 DirectClass 8-bit 9.7Ki<br>
+hud_fill_wheat_sml.png PNG 64x64+0+0 DirectClass 8-bit 1.3Ki
+</p>
+
 <!--
 	<h2></h2>
 
