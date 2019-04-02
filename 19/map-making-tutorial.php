@@ -484,7 +484,7 @@ You must paint the whole terrain, every single pixel, leave no pixels unpainted 
 </p>
 
 <p>
-When you mouse over existing painted layer and hit CTRL-R, it will select that info channel layer value for you.
+When you mouse over existing painted layer and hit CTRL-R, it will select that info channel layer value for you. Note that if you have just used the drop down menus then CTRL-R doesn't work because the "focus" is on the other dialog and not in your 3D viewport (yeah, its weird).
 </p>
 
 <p>
@@ -500,9 +500,16 @@ Water area should not be painted as purchaseable land (dunno why?).
 </p>
 
 <p>
-Giants Editor v8.1 final info layer painting, the layer value drop-down is not working for me (known issue). hmm looks like the drop-down works to tick the info channel boxes... but when you paint it has not effect, what you must do to fix this is just to untick one of the numbers and tick it back again, then your painting works... <i>usually...</i> you should experiment and see how it works for you.
+Giants Editor v8.1 final info layer painting, the layer value drop-down is not working for me (known issue). hmm looks like the drop-down works to tick the info channel boxes... but when you paint it has no effect, what you must do to fix this is just to untick one of the numbers and tick it back again, then your painting works... <i>usually...</i> you should experiment and see how it works for you.
 </p>
 
+<p>
+_farmland.grle 1024 resolution is WAY TOO LOW for 8km terrains, in GE doing farmland info layer is like painting with lego blocks, you cannot do fields that are close to each other with that resolution, bump it to at least bare minimum 2048 but probably to 4096 to get good accurate results. Check in-game lands X view startup lag if you increase the size to 4096 because that seems to cause that well known FS17 8km terrain "ESC map lag" which is really ennoying. Fields close together is a common problem with real world data terrains.
+</p>
+
+<p>
+Unconfirmed tip, or rather idea: resize your _farmland.grle (well, png) to 4096 while you're painting it in GE farmland info layer to have some accuracy, then once you're done resize it back to 2048 for in-game use without the mapview lag. Maybe this works, maybe it doesn't, needs testing...
+</p>
 
 
 	<h2>modDesc.xml</h2>
