@@ -107,7 +107,7 @@ Moon rises at the sky, however cloudless sky at night with the moon causes "glow
 </p>
 
 <p>
-Sounds from the environment have been greatly improved from FS17, now you can hear birds, insects (like those night insects chirping) etc, it sounds very nice as opposed to the previous about nothing sound environment. And as mentioned rain sounds now better with occational thunder rumble. It brings the environment alive much more than quiet one. However for example the bird and dog sounds are randomly created which causes some really odd stuff like owl sound in middle of the open terrain (no trees) or dog sound in the forest (whe would a dog be doing alone in the woods heh). Also the sounds are spawned relative to camera position, often times this is high up behind a vehicle so like dog is parking in the sky, err what? hehe.
+Sounds from the environment have been greatly improved from FS17, now you can hear birds, insects (like those night insects chirping) etc, it sounds very nice as opposed to the previous about nothing sound environment. And as mentioned rain sounds now better with occational thunder rumble. It brings the environment alive much more than quiet one. However for example the bird and dog sounds are randomly created which causes some really odd stuff like owl sound in middle of the open terrain (no trees) or dog sound in the forest (why would a dog be doing alone in the woods heh). Also the sounds are spawned relative to camera position, often times this is high up behind a vehicle so like dog is parking in the sky, err what? hehe.
 </p>
 
 
@@ -131,10 +131,6 @@ Inside sound in the vehicle cab is muffled, it is much more lower volume than ou
 
 <p>
 Vehicles like tractors are nicely animated inside the cab, your seat smoothly bumps up and down with suspension which gives really nice and smooth feeling ride and very much "alive or real" feeling tractor (difficult to explain).
-</p>
-
-<p>
-TrackIR 5 with pro clip when you turn your head to the side... the view is tilted which is extremely bad, kind of disorienting. In FS17 the head view / camera movement was fine, why did they break it like this I do not know. I tried to look at options but cant find anything related to this, there is one 3rd person camera following terrain thing but it didn't fix it (or I saw any other change either). I would have to say they have almost ruined the experience for TrackIR users with this, although I assume its the same if you use only mouse to move your head view camera (don't know). I try to avoid watching very far to the sides let alone fully back now, its just that bad.
 </p>
 
 
