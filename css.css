@@ -1,5 +1,5 @@
 
-/* every page? */
+/* mobile size first, 100% viewport and basic fonts etc */
 body
 {
 	background: black;
@@ -9,11 +9,22 @@ body
 	font-size: 16px;
 
 	text-align: left;
-	width: 50%;
+	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 }
 
+/* desktop browser size to only 50% */
+@media only screen and (min-width: 768px)
+{
+	body
+	{
+		width: 50%;
+		font-size: 16px;
+	}
+}
+
+/* pre tag wrapping, mostly for mobile devices */
 pre
 {
 	white-space: pre-wrap;
