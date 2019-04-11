@@ -24,11 +24,11 @@
 	<h2>Overview</h2>
 
 <p>
-<b>2019-02-11</b> This page is work in progress, will be updated later for example when we get official Giants Editor release (v8.1 final was released 2019-02-09) etc.
+<b>2019-04-11</b> This page is work in progress, will be updated later.
 </p>
 
 <p>
-Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulator 17 (FS17) Map Making Tutorial</a> first because what you see below assumes you know all of that FS17 stuff.
+Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulator 17 (FS17) Map Making Tutorial</a> first because what you see below assumes you know all of that FS17 stuff. Also <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC youtube FS19 playlist</a> has some Giants Editor (GE) videos.
 </p>
 
 
