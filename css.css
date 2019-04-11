@@ -44,19 +44,6 @@ pre
 	white-space: pre-wrap;
 }
 
-/* no idea what this is */
-.small
-{
-	/* 75% of the baseline */
-	font-size: 12px;
-}
-
-.large
-{
-	/* 125% of the baseline */
-	font-size: 20px;
-}
-
 /* header h1 */
 h1
 {
@@ -101,7 +88,7 @@ footer
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
-	font-size: 16px;
+	font-size: 20px;
 }
 
 /*
