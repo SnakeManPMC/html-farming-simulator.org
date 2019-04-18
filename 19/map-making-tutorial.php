@@ -644,7 +644,7 @@ Make sure your terrain has few very small or cheap properties / land so that pla
 </p>
 
 <p>
-Splines O key to close the loop, if you do not want to create a loop do not hit O key. Arrow keys cycle through the vertices in a spline. Splines are shown in-game, so in GE you need to either delete or sink them under ground and/or set to invisible mode.
+Splines O key to close the loop, if you do not want to create a loop do not hit O key. Arrow keys cycle through the vertices in a spline. Control vertex align to ground is PGN-Down. Splines are shown in-game, so in GE you need to either delete or sink them under ground and/or set to invisible mode.
 </p>
 
 <p>
