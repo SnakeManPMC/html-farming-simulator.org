@@ -737,8 +737,12 @@ Field definitions and cultivator_density field edges should be straight, if they
 Bushes are not real objects, they are actually painted into terrain. GE -> terrain editing -> foliage layer painting -> foliage layer -> bush01, layer state -> state 1 (etc). Then just use terrain foliage paint mode and paint. Do not use too large brush or strong values as these bushes are placed very "agressively" to the terrain.
 </p>
 
+<p>
+Gimp XCF image format files are reconigzed as PNG's by the engine, they show up in the error log as PNGs, so do not copy them into your mod directories.
+</p>
 
-	<h2>Adding Selling Points</h2>
+
+	<h2>Adding Sale Points</h2>
 
 <p>
 - GE file -> import -> FS19_root -> data -> placeables -> mapDE -> sellingstationgeneric<br>
