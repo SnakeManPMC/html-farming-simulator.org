@@ -32,6 +32,7 @@
 <a href="19/map-making-tutorial.php" class="button">Map Making Tutorial</a>
 <a href="19/maps.php" class="button">Maps</a>
 <a href="19/mods.php" class="button">Mods</a>
+<a href="19/pmc-terrains.php" class="button">PMC Terrains</a>
 <!-- <a href="19/multiplayer.php" class="button">Multiplayer</a>
 -->
 <a href="19/review.php" class="button">Review</a>
