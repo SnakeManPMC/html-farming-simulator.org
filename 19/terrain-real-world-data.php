@@ -24,10 +24,6 @@
 	<h2>Real World Data Terrain</h2>
 
 <p>
-2019-02-20 this is very much work in progress, but decided to write down what I can today.
-</p>
-
-<p>
 The tools we use are Global Mapper, Terra Incognita and L3DT. Unfortunately global mapper is a commercial software about $500. Please read <a href="https://pmc.editing.wiki/doku.php?id=arma3:terrain:real-world-data-tutorial" target="_blank">PMC Editing Wiki: ArmA 3 Real World Data Terrain Tutorial</a> how to use these tools to get satellite texture and SRTM heightmap.
 </p>
 
@@ -41,6 +37,7 @@ This is the steps I use to generate real world data terrain source files:<br>
 - click map, pin is inserted, click the bottom center new dialog, copy paste lat/lon coordinates<br>
 - global mapper online sources world street map, view -> zoom view -> zoom to spacing -> view spacing selection 10, fits 8km grid with plenty of free space around<br>
 - global mapper CTRL-HOME insert coordinates, find the spot<br>
+- global mapper switch to UTM projection<br>
 - global mapper create 4096 or 8192 user created feature grid<br>
 - global mapper open online data -> u.s. data -> united states elevation data (NED) (10m resolution)<br>
 - global mapper export heightmap<br>
@@ -54,7 +51,6 @@ This is the steps I use to generate real world data terrain source files:<br>
 - global mapper open -> oziexplorer .map/.jpg satellite imagery<br>
 - global mapper file -> export -> export raster/image format -> png -> file type 24-bit rgb, sample spacing 1, export to bounds -> crop to selected area feature(s)<br>
 - l3dt file -> import -> heightfield, choose your heightmap.asc<br>
-- l3dt operations -> heightfield -> resize heightfield, use 2049 for 4km and 4097 for 8km terrain etc<br>
 - l3dt CTRL-E -> file format -> PNG -> map_dem.png
 </p>
 
