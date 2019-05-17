@@ -37,6 +37,7 @@
 -->
 <a href="19/review.php" class="button">Review</a>
 <a href="19/settings.php" class="button">Settings</a>
+<a href="19/stories.php" class="button">Stories</a>
 </p>
 
 

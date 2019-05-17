@@ -25,10 +25,6 @@
 
 	<h2>USA Iowa Garden City 8km</h2>
 
-<p>
-<b>Important note:</b> on 2019-05-05 we had to delete this terrain due mercator projection error causing it to be wrong dimensions. This terrain will be re-created when we get around to it. Satellite image PDA you see here is currently wrong dimensions and will be fixed later.
-</p>
-
 <a href="images/USA-Iowa-Garden-City-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Iowa-Garden-City-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Garden City, Iowa, USA" style="float:right;width:256px;height:256px;"></a>
 
 <p>
@@ -37,10 +33,6 @@ USA Iowa Garden City 8km <a href="https://www.google.com/maps/@42.2455548,-93.39
 
 <p>
 This terrain was made out of suggestion by few Iowa guys from Giants discord #modding channel.
-</p>
-
-<p>
-Includes players farm done with placeables and sale point for bales.
 </p>
 
 <pre>

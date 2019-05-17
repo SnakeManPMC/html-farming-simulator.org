@@ -25,10 +25,6 @@
 
 	<h2>USA Minnesota Elrosa 8km</h2>
 
-<p>
-<b>Important note:</b> on 2019-05-05 we had to delete this terrain due mercator projection error causing it to be wrong dimensions. This terrain will be re-created when we get around to it. Satellite image PDA you see here is currently wrong dimensions and will be fixed later.
-</p>
-
 <a href="images/USA-Minnesota-Elrosa-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Minnesota-Elrosa-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Elrosa, Minnesota, USA" style="float:right;width:256px;height:256px;"></a>
 
 <p>

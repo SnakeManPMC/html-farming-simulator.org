@@ -25,10 +25,6 @@
 
 	<h2>USA North Dakota Greendale 4km</h2>
 
-<p>
-<b>Important note:</b> on 2019-05-05 we had to delete this terrain due mercator projection error causing it to be wrong dimensions. This terrain will be re-created when we get around to it. On 2019-05-06 Greendale base files were created and its now working without fields + objects in FS19. Satellite image is the new re-created one.
-</p>
-
 <a href="images/USA-North-Dakota-Greendale-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-North-Dakota-Greendale-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA" style="float:right;width:256px;height:256px;"></a>
 
 <p>

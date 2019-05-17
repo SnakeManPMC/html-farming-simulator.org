@@ -76,15 +76,16 @@ Heightmap is accurate to 10 meter resolution but Farming Simulator 19 (FS19) onl
 <p><a href="pmc-kentucky-middleton-8km.php">PMC Kentucky Middleton 8km</a></p>
 <p><a href="pmc-minnesota-elrosa-8km.php">PMC Minnesota Elrosa 8km</a></p>
 <p><a href="pmc-minnesota-lowry-8km.php">PMC Minnesota Lowry 8km</a></p>
+<p><a href="pmc-montana-shelby-8km.php">PMC Montana Shelby 8km</a></p>
+<p><a href="pmc-north-dakota-fairmount-8km.php">PMC North Dakota Fairmount 8km</a></p>
+<p><a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a></p>
+<p><a href="pmc-north-dakota-sonora-8km.php">PMC North Dakota Sonora 8km</a></p>
+<p><a href="pmc-ohio-westhope-8km.php">PMC Ohio Westhope 8km</a></p>
+<p><a href="pmc-ohio-wheatville-8km.php">PMC Ohio Wheatville 8km</a></p>
 <p><a href="pmc-texas-hereford-16km.php">PMC Texas Hereford 16km</a></p>
 <p><a href="pmc-texas-red-springs-8km.php">PMC Texas Red Springs 8km</a></p>
 <p><a href="pmc-texas-rockwood-8km.php">PMC Texas Rockwood 8km</a></p>
 <p><a href="pmc-texas-rowena-8km.php">PMC Texas Rowena 8km</a></p>
-<p><a href="pmc-montana-welker-farms-8km.php">PMC Montana Welker Farms 8km</a></p>
-<p><a href="pmc-north-dakota-fairmount-8km.php">PMC North Dakota Fairmount 8km</a></p>
-<p><a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a></p>
-<p><a href="pmc-north-dakota-sonora-8km.php">PMC North Dakota Sonora 8km</a></p>
-<p><a href="pmc-ohio-wheatville-4km.php">PMC Ohio Wheatville 4km</a></p>
 <!--
 <p><a href="pmc-.php">PMC </a></p>
 -->
@@ -291,6 +292,16 @@ Included fields:
 
 <p>
 Includes small forest area for logging. Grain silo bin with 10,000 liters of all (or at least many) crop types.
+</p>
+
+	<h2>PMC Eternal Sugar Beet Damnation 32km</h2>
+
+<p>
+Started off as a joke during Optic_killshot's twitch live stream when we were hauling endless loads of sugar beets. So during one of this streams I started to create this terrain and when it was done couple of hours later we tested it on multiplayer (Optic_killshot hosted) with Optic and Swath. We had a great fun doing so pretty much laughing all the time about how hysterically huge this terrain is.
+</p>
+
+<p>
+Terrain has vehicle shop and one sale point in the center, then one enormous sugar beet field surrounding it covering the whole 32km x 32km terrain area from one edge to another. Oddly enough, this terrain actually works. Watch beginning from roghly 4h 47min part <a href="https://www.twitch.tv/videos/423730468" target="_blank">Optic_killshot twitch VOD</a> (notice that this VOD will disappear by twitch auto delete after some time).
 </p>
 
 <!--
