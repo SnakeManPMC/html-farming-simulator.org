@@ -60,6 +60,10 @@ Heightmap is accurate to 10 meter resolution but Farming Simulator 19 (FS19) onl
 </p>
 
 <p>
+Please note that field hectare count comes from field definition rectangle and not from the actual cultivator_density area, every field listed in individual terrain pages is larger in-game (some are tiny amount and others maybe three four times the sizes).
+</p>
+
+<p>
 <b>Roads</b> are just painted textures not a real objects as most terrains do. For example our roads are just asphalt texture, dirt/gravel texture without any center line or anything.
 </p>
 
@@ -80,6 +84,7 @@ Heightmap is accurate to 10 meter resolution but Farming Simulator 19 (FS19) onl
 <p><a href="pmc-north-dakota-fairmount-8km.php">PMC North Dakota Fairmount 8km</a></p>
 <p><a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a></p>
 <p><a href="pmc-north-dakota-sonora-8km.php">PMC North Dakota Sonora 8km</a></p>
+<p><a href="pmc-north-dakota-wahpeton-16km.php">PMC North Dakota Wahpeton 16km</a></p>
 <p><a href="pmc-ohio-westhope-8km.php">PMC Ohio Westhope 8km</a></p>
 <p><a href="pmc-ohio-wheatville-8km.php">PMC Ohio Wheatville 8km</a></p>
 <p><a href="pmc-texas-hereford-16km.php">PMC Texas Hereford 16km</a></p>
