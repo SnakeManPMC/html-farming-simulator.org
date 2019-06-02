@@ -25,18 +25,27 @@
 
 	<h2>USA Texas Rockwood 8km</h2>
 
-<a href="images/USA-Texas-Rockwood-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Texas-Rockwood-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Rockwood, Texas, USA" style="float:right;width:256px;height:256px;"></a>
-
 <p>
 USA Texas Rockwood 8km <a href="https://www.google.com/maps/@31.5217821,-99.3755983,8192m/data=!3m1!1e3" target="_blank">google/maps</a>
 </p>
+
+<div>
+<p style="font-size: 10px;">
+Click for larger image
+</p>
+<a href="images/USA-Texas-Rockwood-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Texas-Rockwood-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Rockwood, Texas, USA" style="padding: 3px 15px;width:256px;height:256px;"></a>
+
+<a href="images/USA-Texas-Rockwood-Fields.jpg" target="_blank"><img src="images/thumbs/USA-Texas-Rockwood-Fields.jpg" alt="Farming Simulator 19 Terrain - Rockwood, Texas, USA. Fields" style="padding: 3px 15px;width:256px;height:256px;"></a>
+
+<a href="images/USA-Texas-Rockwood-Farmland.jpg" target="_blank"><img src="images/thumbs/USA-Texas-Rockwood-Farmland.jpg" alt="Farming Simulator 19 Terrain - Rockwood, Texas, USA. Farmland" style="padding: 3px 15px;width:256px;height:256px;"></a>
+</div>
 
 <p>
 This terrain was the second we did right after learning the basics with North Dakota Greendale 4km. Not all of the terrain is covered with fields as many of them do look kind of not field looking, we will have to research it more and figure out later.
 </p>
 
 <p>
-Smallest field: 0.270 ha, largest field 65.777 ha.
+Fields smallest: 0.270 ha, largest 65.777 ha.
 </p>
 <pre>
 Field 1 (field01) : 42.024 ha
