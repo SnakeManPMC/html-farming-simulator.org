@@ -35,9 +35,9 @@ Click for larger image
 </p>
 <a href="images/USA-Texas-Rockwood-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Texas-Rockwood-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Rockwood, Texas, USA" style="padding: 3px 15px;width:256px;height:256px;"></a>
 
-<a href="images/USA-Texas-Rockwood-Fields.jpg" target="_blank"><img src="images/thumbs/USA-Texas-Rockwood-Fields.jpg" alt="Farming Simulator 19 Terrain - Rockwood, Texas, USA. Fields" style="padding: 3px 15px;width:256px;height:256px;"></a>
+<a href="images/USA-Texas-Rockwood-8km-Fields.jpg" target="_blank"><img src="images/thumbs/USA-Texas-Rockwood-8km-Fields.jpg" alt="Farming Simulator 19 Terrain - Rockwood, Texas, USA. Fields" style="padding: 3px 15px;width:256px;height:256px;"></a>
 
-<a href="images/USA-Texas-Rockwood-Farmland.jpg" target="_blank"><img src="images/thumbs/USA-Texas-Rockwood-Farmland.jpg" alt="Farming Simulator 19 Terrain - Rockwood, Texas, USA. Farmland" style="padding: 3px 15px;width:256px;height:256px;"></a>
+<a href="images/USA-Texas-Rockwood-8km-Farmland.jpg" target="_blank"><img src="images/thumbs/USA-Texas-Rockwood-8km-Farmland.jpg" alt="Farming Simulator 19 Terrain - Rockwood, Texas, USA. Farmland" style="padding: 3px 15px;width:256px;height:256px;"></a>
 </div>
 
 <p>
