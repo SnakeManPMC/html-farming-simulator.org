@@ -39,6 +39,10 @@ This is a 8km x 8km terrain. Been watching many <a href="https://www.youtube.com
 Field size info to be added upon terrain re-creation.
 </pre>
 
+<p>
+Gimp painted cultivator_density image <a href="https://cdn.discordapp.com/attachments/557685453801914379/585803676904325130/FS19-Ohio-Westhope-8km-2019-06-05T1212.jpg" target="_blank">FS19-Ohio-Westhope-8km-2019-06-05T1212.jpg</a>.
+</p>
+
 </section>
 
 <footer>
