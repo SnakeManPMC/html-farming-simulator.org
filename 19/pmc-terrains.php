@@ -98,7 +98,7 @@ Please note that field hectare count comes from field definition rectangle and n
 	<h2>Fictional</h2>
 
 <p>
-These are fictional free hand created terrains, not based on any real world location or anything like that. 2019-03-05 these are all ported from FS17 (except 2km sandbox and PMC Farm Lab).
+These are fictional free hand created terrains, not based on any real world location or anything like that. 2019-03-05 these are all ported from FS17 (except 2km sandbox, PMC Eternal Sugar Beet Damnation 32km and PMC Farm Lab).
 </p>
 
 	<h2>MyMap 2km Sandbox</h2>
@@ -118,7 +118,7 @@ MyMap_4km
 </p>
 
 <p>
-Flat heightmap. Ported from FS17 but without the single field and vehicle shop. This is pretty useless as is 2019-02-17. FS17 version was one of my first terrains I made when learning the first steps, the field is huge like 1008 hectares I think and some youtube videos was made of that harvest(?).
+Flat heightmap. Ported from FS17 but without the single field and vehicle shop. This is pretty useless as is 2019-02-17. FS17 version was one of my first terrains I made when learning the first steps, the field is huge like 1008 hectares I think and some youtube videos was made of that harvest.
 </p>
 
 	<h2>MyMap 8km</h2>
@@ -162,15 +162,11 @@ MyMap_16km
 </p>
 
 <p>
-Heightmap is some mapDE crap resize, needs to be replaced/flattened. Ported from FS17, you might have seen videos from july 2018 where we demoed this terrain in action. This is the mega terrain with 2800 hectare field. I recall in FS17 I created the nice animal areas in this one (obviously not included in this version). FS17 videos: <a href="https://www.youtube.com/watch?v=1V9m8Pm439M" target="_blank">2018-07-10</a>
+Heightmap is some mapDE crap resize, needs to be replaced/flattened. Ported from FS17, you might have seen videos from july 2018 where we demoed this terrain in action. This is the mega terrain with 2800 hectare field. I recall in FS17 I created the nice animal areas in this one (obviously not included in FS19 version). FS17 videos: <a href="https://www.youtube.com/watch?v=1V9m8Pm439M" target="_blank">2018-07-10</a>
 </p>
 
 <p>
 This was the most developed terrain in FS17 back in late summer of 2018. Would be nice to finish this for FS19.
-</p>
-
-<p>
-2019-02-17T2239 incredible stutter when big bud spsl-9 plowing F10, like it went to red colored FPS in the counter, almost second freezes every few seconds heh. This is because 16384 res weight/density images hehe, fixed 2019-02-17T2302.
 </p>
 
 <pre>
@@ -302,11 +298,11 @@ Includes small forest area for logging. Grain silo bin with 10,000 liters of all
 	<h2>PMC Eternal Sugar Beet Damnation 32km</h2>
 
 <p>
-Started off as a joke during Optic_killshot's twitch live stream when we were hauling endless loads of sugar beets. So during one of this streams I started to create this terrain and when it was done couple of hours later we tested it on multiplayer (Optic_killshot hosted) with Optic and Swath. We had a great fun doing so pretty much laughing all the time about how hysterically huge this terrain is.
+Started off as a joke during Optic_killshot's twitch live stream when we were hauling endless loads of sugar beets on Hankinson, ND. So during one of this streams I started to create this terrain and when it was done couple of hours later we tested it on multiplayer (Optic_killshot hosted) with Optic and Swath. We had a great fun doing so pretty much laughing all the time about how hysterically huge this terrain is.
 </p>
 
 <p>
-Terrain has vehicle shop and one sale point in the center, then one enormous sugar beet field surrounding it covering the whole 32km x 32km terrain area from one edge to another. Oddly enough, this terrain actually works. Watch beginning from roghly 4h 47min part <a href="https://www.twitch.tv/videos/423730468" target="_blank">Optic_killshot twitch VOD</a> (notice that this VOD will disappear by twitch auto delete after some time).
+Terrain has vehicle shop and one sale point in the center, then one enormous sugar beet field surrounding it covering the whole 32km x 32km terrain area from one edge to another. Oddly enough, this terrain actually works. Watch beginning from roghly 4h 47min part <a href="https://www.twitch.tv/videos/423730468" target="_blank">Optic_killshot twitch VOD</a> (notice that this VOD will disappear by twitch auto delete after some time). In voice comms you hear Optic_killshot and Swath.
 </p>
 
 <!--
