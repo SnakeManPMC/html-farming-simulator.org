@@ -23,12 +23,12 @@
 <section>
 <p>Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
-	<h2>USA Kentucky Middleton 8km</h2>
+	<h2>PMC Kentucky Middleton 8km</h2>
 
 <a href="images/USA-Kentucky-Middleton-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Kentucky-Middleton-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Middleton, Kentucky, USA" style="float:right;width:256px;height:256px;"></a>
 
 <p>
-USA Kentucky Middleton 8km <a href="https://www.google.com/maps/@36.74581,-86.7386427,16968m/data=!3m1!1e3" target="_blank">google/maps</a>
+PMC Kentucky Middleton 8km <a href="https://www.google.com/maps/@36.74581,-86.7386427,16968m/data=!3m1!1e3" target="_blank">google/maps</a>
 </p>
 
 <p>

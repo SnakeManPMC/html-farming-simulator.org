@@ -23,12 +23,12 @@
 <section>
 <p>Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
-	<h2>USA Minnesota Elrosa 8km</h2>
+	<h2>PMC Minnesota Elrosa 8km</h2>
 
 <a href="images/USA-Minnesota-Elrosa-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Minnesota-Elrosa-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Elrosa, Minnesota, USA" style="float:right;width:256px;height:256px;"></a>
 
 <p>
-USA Minnesota Elrosa 8km <a href="https://www.google.com/maps/@45.5645842,-94.9515951,10495m/data=!3m1!1e3" target="_blank">google/maps</a>
+PMC Minnesota Elrosa 8km <a href="https://www.google.com/maps/@45.5645842,-94.9515951,10495m/data=!3m1!1e3" target="_blank">google/maps</a>
 </p>
 
 <p>

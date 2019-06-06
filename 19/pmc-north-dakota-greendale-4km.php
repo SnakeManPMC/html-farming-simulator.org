@@ -23,12 +23,12 @@
 <section>
 <p>Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
-	<h2>USA North Dakota Greendale 4km</h2>
+	<h2>PMC North Dakota Greendale 4km</h2>
 
 <a href="images/USA-North-Dakota-Greendale-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-North-Dakota-Greendale-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA" style="float:right;width:256px;height:256px;"></a>
 
 <p>
-USA North Dakota Greendale 4km <a href="https://www.google.com/maps/@46.0182883,-96.7800014,4096m/data=!3m1!1e3" target="_blank">google/maps</a>
+PMC North Dakota Greendale 4km <a href="https://www.google.com/maps/@46.0182883,-96.7800014,4096m/data=!3m1!1e3" target="_blank">google/maps</a>
 </p>
 
 <p>

@@ -23,7 +23,7 @@
 <section>
 <p>Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
-	<h2>USA Montana Shelby 8km</h2>
+	<h2>PMC Montana Shelby 8km</h2>
 
 <p>
 This terrain prior to may 2019 re-design was called "PMC Montana Welker Farms 8km" but was renamed to be uniform with our other terrains.
@@ -32,7 +32,7 @@ This terrain prior to may 2019 re-design was called "PMC Montana Welker Farms 8k
 <a href="images/USA-Montana-Shelby-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Montana-Shelby-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Shelby, Montana, USA" style="float:right;width:256px;height:256px;"></a>
 
 <p>
-USA Montana Shelby 8km <a href="https://www.google.com/maps/@48.5309788,-111.8102701,7016m/data=!3m1!1e3" target="_blank">google/maps</a>
+PMC Montana Shelby 8km <a href="https://www.google.com/maps/@48.5309788,-111.8102701,7016m/data=!3m1!1e3" target="_blank">google/maps</a>
 </p>
 
 <p>

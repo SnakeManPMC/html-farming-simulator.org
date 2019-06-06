@@ -23,16 +23,12 @@
 <section>
 <p>Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
-	<h2>USA North Dakota Wahpeton 16km</h2>
+	<h2>PMC North Dakota Wahpeton 16km</h2>
 
 <a href="images/USA-North-Dakota-Wahpeton-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-North-Dakota-Wahpeton-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Wahpeton, North Dakota, USA" style="float:right;width:256px;height:256px;"></a>
 
 <p>
-USA North Dakota Wahpeton 16km <a href="https://www.google.com/maps/@46.2737351,-96.6913753,16384m/data=!3m1!1e3" target="_blank">google/maps</a>
-</p>
-
-<p>
-Smallest Field 148: 0.211 ha and largest Field 187: 209.237 ha.
+PMC North Dakota Wahpeton 16km <a href="https://www.google.com/maps/@46.2737351,-96.6913753,16384m/data=!3m1!1e3" target="_blank">google/maps</a>
 </p>
 
 <p>
@@ -40,6 +36,9 @@ Cultivator_density image painting <a href="https://cdn.discordapp.com/attachment
 field definitions in-game <a href="https://cdn.discordapp.com/attachments/557685453801914379/580117012290994185/FS19-North-Dakota-Wahpeton-16km-2019-05-20T1936.png" target="_blank">FS19-North-Dakota-Wahpeton-16km-2019-05-20T1936.png</a>.
 </p>
 
+<p>
+Smallest Field 148: 0.211 ha and largest Field 187: 209.237 ha.
+</p>
 <pre>
 Field 1 (field) : 18.333 ha
 Field 2 (field) : 26.829 ha

@@ -23,12 +23,12 @@
 <section>
 <p>Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
-	<h2>USA Minnesota Lowry 8km</h2>
+	<h2>PMC Minnesota Lowry 8km</h2>
 
 <a href="images/USA-Minnesota-Lowry-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Minnesota-Lowry-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Lowry, Minnesota, USA" style="float:right;width:256px;height:256px;"></a>
 
 <p>
-USA Minnesota Lowry 8km <a href="https://www.google.com/maps/@45.7208968,-95.5691193,8192m/data=!3m1!1e3" target="_blank">google/maps</a>
+PMC Minnesota Lowry 8km <a href="https://www.google.com/maps/@45.7208968,-95.5691193,8192m/data=!3m1!1e3" target="_blank">google/maps</a>
 </p>
 
 <p>

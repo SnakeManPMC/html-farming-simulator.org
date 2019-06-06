@@ -23,10 +23,10 @@
 <section>
 <p>Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
-	<h2>USA Texas Rockwood 8km</h2>
+	<h2>PMC Texas Rockwood 8km</h2>
 
 <p>
-USA Texas Rockwood 8km <a href="https://www.google.com/maps/@31.5217821,-99.3755983,8192m/data=!3m1!1e3" target="_blank">google/maps</a>
+PMC Texas Rockwood 8km <a href="https://www.google.com/maps/@31.5217821,-99.3755983,8192m/data=!3m1!1e3" target="_blank">google/maps</a>
 </p>
 
 <div>

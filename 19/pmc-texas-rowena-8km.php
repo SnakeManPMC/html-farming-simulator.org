@@ -23,12 +23,12 @@
 <section>
 <p>Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
-	<h2>USA Texas Rowena 8km</h2>
+	<h2>PMC Texas Rowena 8km</h2>
 
 <a href="images/USA-Texas-Rowena-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Texas-Rowena-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA" style="float:right;width:256px;height:256px;"></a>
 
 <p>
-USA Texas Rowena 8km <a href="https://www.google.com/maps/@31.628138,-100.007363,8192m/data=!3m1!1e3" target="_blank">google/maps</a>
+PMC Texas Rowena 8km <a href="https://www.google.com/maps/@31.628138,-100.007363,8192m/data=!3m1!1e3" target="_blank">google/maps</a>
 </p>
 
 <p>

@@ -23,12 +23,12 @@
 <section>
 <p>Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
-	<h2>USA Iowa Ringsted 8km</h2>
+	<h2>PMC Iowa Ringsted 8km</h2>
 
 <a href="images/USA-Iowa-Ringsted-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Iowa-Ringsted-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Ringsted, Iowa, USA" style="float:right;width:256px;height:256px;"></a>
 
 <p>
-USA Iowa Ringsted 8km <a href="https://www.google.com/maps/@43.2551735,-94.6130198,9162m/data=!3m1!1e3" target="_blank">google/maps</a>
+PMC Iowa Ringsted 8km <a href="https://www.google.com/maps/@43.2551735,-94.6130198,9162m/data=!3m1!1e3" target="_blank">google/maps</a>
 </p>
 
 <p>

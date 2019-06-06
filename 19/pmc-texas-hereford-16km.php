@@ -23,10 +23,10 @@
 <section>
 <p>Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
-	<h2>USA Texas Hereford 16km</h2>
+	<h2>PMC Texas Hereford 16km</h2>
 
 <p>
-USA Texas Hereford 16km <a href="https://www.google.com/maps/@35.0290774,-102.8464829,16371m/data=!3m1!1e3" target="_blank">google/maps</a>
+PMC Texas Hereford 16km <a href="https://www.google.com/maps/@35.0290774,-102.8464829,16371m/data=!3m1!1e3" target="_blank">google/maps</a>
 </p>
 
 <div>
