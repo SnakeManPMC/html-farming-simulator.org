@@ -26,7 +26,7 @@
 	<h2>PMC Ohio Westhope 8km</h2>
 
 <p>
-PMC Ohio Westhope 8km <a href="" target="_blank">google/maps</a>
+PMC Ohio Westhope 8km <a href="https://www.google.com/maps/@41.3021489,-83.9676833,8192m/data=!3m1!1e3" target="_blank">google/maps</a>
 </p>
 
 <div>
