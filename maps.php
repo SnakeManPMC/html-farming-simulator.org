@@ -98,7 +98,7 @@ Roads are not painted into the mapview, this makes navigating this huge terrain 
 </p>
 
 <p>
-Highways have some retarded fantasy invisible barrier you cannot across, this makes highways extra useless and frustrating as you have to go around half the terrain just to drive one grain or whatever delivery loop. Just baffling how the dev has decided to do something this stupid to otherwise great looking terrain. See also <a href="https://youtu.be/FbXJSnlfoRA?t=2195" target="_blank">Rudeman53 Gaming comments</a>, its not just me alone thinking that this is "crazy".
+Highways have some invisible barrier you cannot across, this makes highways frustrating as you have to go around half the terrain just to drive one grain or whatever delivery loop. See also <a href="https://youtu.be/FbXJSnlfoRA?t=2195" target="_blank">Rudeman53 Gaming comments</a>.
 </p>
 
 <p>
@@ -110,15 +110,15 @@ Mapview falsely shows you many gas stations... which are not traditional gas sta
 </p>
 
 <p>
-<del>Train oil tanker cars</del> some objects in the train yard are huge performance killers, FPS goes from 60 to 25. Objects like these should not be used...
+<del>Train oil tanker cars</del> some objects in the train yard are huge performance killers, FPS goes from 60 to 25.
 </p>
 
 <p>
-Field 30 has some objects floating above it, looks ugly but does not cause game play issues. Field 17 has railroad tracks running across it, that is really bizarre, how do you expect to work on that field when there is such an obstacle heh.
+Field 30 has some objects floating above it, looks ugly but does not cause game play issues. Field 17 has railroad tracks running across it, that is really odd which prevents you from proper field work.
 </p>
 
 <p>
-On my "from scratch" savegame where I didn't own field 35, I got some bug in field 34 southern and f33 eastern edges as implements say "you dont own this field", you cant sow or harvest right from that edge. This will be fixed when you purchase field 35. This might not be an issue on original savegame files, but I would still consider it a bug. I'm thinking it must be too large field definition on F35 or something.
+On my "from scratch" savegame where I didn't own field 35, I got some bug in field 34 southern and f33 eastern edges as implements say "you dont own this field", you cant seed or harvest right from that edge. This will be fixed when you purchase field 35. This might not be an issue on original savegame files, but I would still consider it a bug. I'm thinking it must be too large field definition on F35 or something.
 </p>
 
 <p>
@@ -130,7 +130,7 @@ Field 37 will freeze courseplay if you try to calculate field edge, not sure wha
 </p>
 
 <p>
-Field 46 has been cut off by fence on purpose so that player has to go around the way terrain dev intended (same as the invisible barrier on the highways), I really do not like this kind of philosophy, its just bad design plain and simple. In fact this fence is like a big middle finger right in your face. Oh and also the only road leading to this field is very curvy and bumpy, I bet courseplay driving trailer truck will get stuck or roll over.
+Field 46 has been cut off by fence on purpose so that player has to go around the way terrain dev intended (same as the invisible barrier on the highways). Also the only road leading to this field is very curvy and bumpy, I bet courseplay driving trailer truck will get stuck or roll over.
 </p>
 
 <p>
@@ -147,7 +147,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 
 <a href="images/Map-Maize.png" target="_blank"><img src="images/thumbs/Map-Maize.jpg" alt="Farming Simulator 17 Map - Maize" style="width:128px;height:128px;"></a>
 
-<p>Just one insane large corn field with your farm (so to speak) in the middle of it with BGA and some stuff. Yes this is 8km map but unless you are some corn megalomaniac... this is not really a proper map heh. All respect for making 8km map, of course, but just hoping there was at least few other fields available (not to mention animals etc).
+<p>Just one insane large corn field with your farm (so to speak) in the middle of it with BGA and some stuff. Yes this is 8km map but unless you are some corn megalomaniac... this is not a normal terrain heh. All respect for making 8km terrain, of course, but just hoping there was at least few other fields available (not to mention animals etc).
 </p>
 </div>
 
@@ -188,13 +188,13 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <p>Some trees have white flickering parts which move when you move, odd.
 </p>
 
-<p>Lighting of sun comes from opposite direction. Looks odd though that sun is rising and shadows come towards it heh.
+<p>Lighting of sun comes from opposite direction. Looks odd though that sun is rising and shadows cast towards it heh.
 </p>
 
-<p>Field 28 has fence around it which also has very narrow gate, so no way to drive large harvester through it, even semi truck has problems with higher speed. Field 34 has only route to it blocked by narrow fence entry which wont allow harvester to pass, well unless you drive it manually. Painful.
+<p>Field 28 has fence around it which also has very narrow gate, so no way to drive large harvester through it, even semi truck has problems with higher speed. Field 34 has only route to it blocked by narrow fence entry which wont allow harvester to pass, well unless you drive it manually.
 </p>
 
-<p>Fields 33 - 35 are cut off from wide vehicle traffic. No way no chance to get wide harvester there because of only one narrow fence entry. Also semi truck trailer geometry clips on the railroad tracks which are just beyond the fence entry. Needs urgent quick fix to remove couple of fence pieces so wide vehicles can pass without problems.
+<p>Fields 33 - 35 are cut off from wide vehicle traffic. No way to get wide harvester there because of only one narrow fence entry. Also semi truck trailer geometry clips on the railroad tracks which are just beyond the fence entry.
 </p>
 
 <p>Tree planting (pallet saplings) with Damcon PL-75 does not work.
@@ -227,7 +227,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <p>Large silos were added in the open gravel area next to field 5.
 </p>
 
-<p>Unfortunately new fences were added around some of the fields, which I assume was made to match the blue lines in the PDA map image what I read Txzar saying being property lines.
+<p>New fences were added around some of the fields, which I assume was made to match the blue lines in the PDA map image what I read Txzar saying being property lines.
 </p>
 </div>
 
@@ -248,19 +248,16 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <p>This map has low and high view distance versions for your to choose (downloads), the higher version requires more powerful hardware.
 </p>
 
-<p>Skybox is animated meaning clouds move, well kind of, its the whole sky with everything thats moving. It is really fast too, very unrealistic looking and all I can hope is that Txzar fixes this on upcoming versions.
+<p>Skybox is animated meaning clouds move, well kind of, its the whole sky with everything thats moving. It is really fast too, very unrealistic looking.
 </p>
 
 <p>Looks like <b>almost every field is blocked by fence and narrow gate</b>, this is devastating effect for enjoyable game-play as you cannot use large equipment and even small equipment gets stuck very easily :-(
 </p>
 
-<p>Field 17 is covered with fences, its like a prison, Big Bud are not allowed to enter. And because of the field shape and the fences, courseplay overloader just wont work :(
+<p>Field 17 is covered with fences. And because of the field shape and the fences, courseplay overloader just wont work. Field 17 has trees so close to the headland that harvester with its pipe out will get stuck.
 </p>
 
-<p>Field 17 has trees so close to the headland that harvester with its pipe out will get stuck :(
-</p>
-
-<p>Field 9 and 28 gate (same as any other?) is this standard model used on many maps, it barely and I mean just barely fits Big Bud through and you will get stuck if you are not really careful. Highly annoying fence gate.
+<p>Field 9 and 28 gate (same as any other?) is this standard model used on many maps, it barely and I mean just barely fits Big Bud through and you will get stuck if you are not really careful.
 </p>
 
 <p>Field 32 has narrow gate and powerline pole right next to the gate.
@@ -278,31 +275,28 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <p>Field 19 is 3.25 hectares, grass and has about dozen trees in it so if you purchase this one it requires some logging work and grass mowing (or just plow directly) before any normal harvest can be done. None of the tree types were supported by ponsse scorpion king of logging, but you could cut them down with a chainsaw.
 </p>
 
-<p>Field 20 is 1.65 hectares, same as field 19. These two fields are separated by nothing more than barbed wire fence (to which is great to have your vehicles get stuck on).
+<p>Field 20 is 1.65 hectares, same as field 19. These two fields are separated by nothing more than barbed wire fence.
 </p>
 
-<p>Nights are like glow in the dark, when north west texas was pitch black dark in cloudy nights newlin is like a light would shine from the sky and light up the place, it looks weird. Skybox at night the stars move in the sky the same speed as clouds in the daytime hehe.
+<p>Nights are like glow in the dark, when north west texas was pitch black dark in cloudy nights newlin is like a light would shine from the sky and light up the place, it looks weird. Skybox at night the stars move in the sky the same speed as clouds in the daytime.
 </p>
 
 <p>Sunrise 0600hrs. Sunset about 2100hrs. It starts to get dark at 1800hrs and it will take two hours at least to darken fully. Nights are as said "glow in the dark" at least in clear weather so you can see pretty easily at night time, its just "a bit dark" thats all. at 0500hrs completely dark, 0508hrs started to notice some fog type shading on the trees in the horizon. 0535hrs sky completely dark but horizon objects start to become increasingly "foggy" or hazed and that morning dew or whatever flying leafs etc is present. 0547hrs sky completely dark. at 0554hrs started to see slight shading on the sky.
 </p>
 
-<p>Pigs and sheeps water trought is inside the fenced area and especially with pigs you have to reverse your tractor there. All I'm thinking is how awesome animal areas there are in north west texas...
+<p>Pigs and sheeps water trought is inside the fenced area and especially with pigs you have to reverse your tractor there.
 </p>
 
 <p>Sorghum, cotton and feed corn crop types. Cotton is harvested with corn header.
 </p>
 
-<p>Animated train (not the one that players can use) on south west corner of the map running diagonally. You can see the train beyond map edge when it turns around, actually flips around which looks ugly. The train passes through way too often, its like constant train traffic which will get really old when you play more than couple of hours and see the train go back and forth for like a thousand times heh. Train should pass perhaps only once an hour or even less, maybe randomly if its possible in FS17.
+<p>Animated train (not the one that players can use) on south west corner of the map running diagonally. You can see the train beyond map edge when it turns around, actually flips around. The train passes through way too often, its like constant train traffic which will get really old when you play more than couple of hours and see the train go back and forth for like a thousand times heh.
 </p>
 
-<p>Train has no collision so there is no issue with your courseplay etc driven vehicles.
+<p>Train has no collision so there is no issue with your courseplay etc driven vehicles. Traffic is quite nasty, as always, but it can be turned off from options so its not a big deal.
 </p>
 
-<p>Traffic is quite nasty, as always, but it can be turned off from options so its not a big deal.
-</p>
-
-<p>Your farm grain silo is located about middle of the map, between fields 12, 32, 9 and 28. Sell points are marked on the map as usual.
+<p>Your farm grain silo is located about middle of the map, between fields 12, 32, 9 and 28. Sale points are marked on the map as usual.
 </p>
 
 <p>You can cut trees (tested few types in one of the big fields) and then plough some nice big fields, but also if you cut too many trees it takes away from the beauty of this map as well so be mindful of that.
@@ -311,7 +305,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <p>Wheat is some new textures and maybe even model, it looks completely different what the stock game wheat, its very bright almost blinding bright color. Also it has really bad shimmering effect when its been harvested.
 </p>
 
-<p>The dust effect is some odd white colored one, looks real bad. The ground dirt in general is not red but kind of reddish, unlike the dark brown as in stock game, no idea if texas ground dirt has such color shading but it kind of looks odd, reminds me of red dirt of vietnam heh.
+<p>The dust effect is some odd white colored one. The ground dirt in general is not red but kind of reddish, unlike the dark brown as in stock game, no idea if texas ground dirt has such color shading but it kind of looks odd, reminds me of red dirt of vietnam heh.
 </p>
 
 <p>Courseplay wont work in field 24, it just refuses to generate a course until you recalculated the field edge path from drive menu, this happens with some other fields as well.
@@ -320,22 +314,19 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <p>Field 24 purchase point has access way to the field... except its so narrow you cannot properly fit big bud through and doubt smaller tractors with implements do any better. However you can pass freely to this field from the NW corner, its wide open there.
 </p>
 
-<p>Field 14 has fence all around it and you have to go through F13 fence gate to get here, heh.
+<p>Field 14 has fence all around it and you have to go through F13 fence gate to get here.
 </p>
 
-<p>Field 21 courseplay hits the fence near that electric or whatever box with a small road and a tree. And on the other side of that spot is a telephone pole where harvester gets stuck.
+<p>Field 21 courseplay hits the fence near that electric box with a small road and a tree. And on the other side of that spot is a telephone pole where harvester gets stuck.
 </p>
 
-<p>Fields that are not defined in giants editor properly, will simply not work. Txzar said in his facebook page that players can plough the fields to their liking and after that they work, that is not true, the field will not register in the game even after you plough it using "allow create fields" option. So fields 1 - 5, 7, 8, 10, 14, 18 and 25 just wont never work until Txzar defines them properly. In fact the whole terrains northern edge (with exception of properly defined field 6) is completely useless.
+<p>Fields that are not defined in giants editor properly, will simply not work. The fields will not register in the game even after you plough it using "allow create fields" option. So fields 1 - 5, 7, 8, 10, 14, 18 and 25 just wont never work.
 </p>
 
-<p>Also field 41 is the last one you can access in NE, big bud cannot pass the gate between fields 41 and 38 rendering 38, 39, 40 and 42 useless as there is no other way to get them, they are all fenced out. Or who knows maybe there is some gap in the fence somewhere but is this farming simulator 17 or lord of the rings, do I have to go into QUEST to find the gap like a lost princess in the fences somewhere, completely ridiculous. Just simply avoid newlin texas <b>beta</b> and hope for the best but expect to be disappointed that Txzar would actually fix these design issues, I mean you dont just accidentally fence off fields like that, this is not a bug this is planned and deliberate act which makes it that much more sad.
+<p>Also field 41 is the last one you can access in NE, big bud cannot pass the gate between fields 41 and 38 rendering 38, 39, 40 and 42 out of reach as there is no other way to get them.
 </p>
 
-<p>Overall Newlin is very bad map with the fences, gates and trees so close to the fields, this is pure horror for courseplay use. Simply said, most fields are bad at best with courseplay, some just dont work at all like field 17 for example.
-</p>
-
-<p>Sorry to say but Newlin Texas <b>beta</b> is not playable, only thing you get is frustrated if you try. I really hope Txzar will fix these issues but unfortunately many of them fall into design decision category so unless he changes the design, this map will always be unusable. I had a good time testing Newlin beta but I'm going back to my old fully working maps like North West Texas and Parkers Prairie where you can have enjoyable gameplay.
+<p>Overall Newlin is very bad with the fences, gates and trees so close to the fields, this is causing issues for courseplay use. Simply said, most fields are bad at best with courseplay, some just dont work at all like field 17 for example.
 </p>
 </div>
 
@@ -344,7 +335,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 
 <a href="images/Map-Rattlesnake-Valley.png" target="_blank"><img src="images/thumbs/Map-Rattlesnake-Valley.jpg" alt="Farming Simulator 17 Map - Rattlesnake Valley" style="width:128px;height:128px;"></a>
 
-<p>Looks OK but still has bit maze alike farm, very narrow roads with geometry blocks on the side so forget Big Bud. Looks like almost all roads have fences which is really bad. North east edge has some rocky mountain side with "level" stuff which is annoying.
+<p>Looks OK but still has bit maze alike farm, very narrow roads with geometry blocks on the side so forget Big Bud. Looks like almost all roads have fences. North east edge has some rocky mountain side with "level" stuff.
 </p>
 </div>
 
@@ -399,7 +390,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 
 <a href="images/Map-Missouri-River-Bottoms-17.png" target="_blank"><img src="images/thumbs/Map-Missouri-River-Bottoms-17.jpg" alt="Farming Simulator 17 Map - Missouri River Bottoms 17" style="width:128px;height:128px;"></a>
 
-<p>Have huge train tracks. Aircrafts, helicopters and blimps flying around (not really sure if that is cool as there are so many of them). Animated horses. Moving trains. Ugly flicker on some of the skybox like "side panel" textures. Map feels little bit too "busy" if you know what I mean.
+<p>Have huge train tracks. Aircrafts, helicopters and blimps flying around (not really sure if that is cool as there are so many of them). Animated horses. Moving trains. Flicker on some of the skybox like "side panel" textures. Map feels little bit too "busy" if you know what I mean.
 </p>
 </div>
 
@@ -435,7 +426,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 
 <a href="images/Map-Sued-Thueringen.png" target="_blank"><img src="images/thumbs/Map-Sued-Thueringen.jpg" alt="Farming Simulator 17 Map - Sued Thueringen" style="width:128px;height:128px;"></a>
 
-<p>On the edges there are a lot of tree texture planes and behind them some low poly tree objects (I believe these are large forest blocks) to take up perfectly good space, some of the planes you can pass through, others can't, I don't get it. Especially in NW corner there is huge area of these low poly tree objects. Seems to me like otherwise perfectly fine looking 4km map was populated with these poor looking low poly tree objects.
+<p>On the edges there are a lot of tree texture planes and behind them some low poly tree objects (I believe these are large forest blocks) to take up perfectly good space, some of the planes you can pass through, others can't. Especially in NW corner there is huge area of these low poly tree objects. Seems to me like otherwise perfectly fine looking 4km map was populated with these poor looking low poly tree objects.
 </p>
 </div>
 
@@ -462,7 +453,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 
 <a href="images/Map-Cherry-Hills-2017.png" target="_blank"><img src="images/thumbs/Map-Cherry-Hills-2017.jpg" alt="Farming Simulator 17 Map - Cherry Hills 2017" style="width:128px;height:128px;"></a>
 
-<p>Nice "skybox" background after map edges. Edges have nice set of forest trees, many tree types and placed randomly which looks very natural. Large forestry logging area in NW corner. Train tracks. Little bit symmetrical map, train tracks and those concrete areas in the edges, not too bad though. Tiny amount of rolling hills mood on the fields (as name should suggest, hills). Few rocky spots with trees between the fields. This map definitely has a lot of trees to cut down if thats your choice. This is good looking map for sure.
+<p>Nice "skybox" background after map edges. Edges have nice set of forest trees, many tree types and placed randomly which looks very natural. Large forestry logging area in NW corner. Little bit symmetrical map, train tracks and those concrete areas in the edges, not too bad though. Tiny amount of rolling hills mood on the fields (as name should suggest, hills). Few rocky spots with trees between the fields. This map definitely has a lot of trees to cut down if thats your choice. This is good looking map for sure.
 </p>
 </div>
 
@@ -487,7 +478,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 
 <a href="images/Map-Sudharz.png" target="_blank"><img src="images/thumbs/Map-Sudharz.jpg" alt="Farming Simulator 17 Map - Sudharz" style="width:128px;height:128px;"></a>
 
-<p>Rolling hills terrain elevations. Huge amount of forest logging areas. This map looks like its made from satellite imagery, but its baffling why half of the map is unfinished. SW corner field also has some red transparent geometry block, must be a bug. So yeah I really hope dev will finish this map as it has great potential.
+<p>Rolling hills terrain elevations. Huge amount of forest logging areas. This map looks like its made from satellite imagery, but half is unfinished. SW corner field also has some red transparent geometry block.
 </p>
 </div>
 
@@ -496,7 +487,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 
 <a href="images/Map-Mig-Map-Germany-Celle.png" target="_blank"><img src="images/thumbs/Map-Mig-Map-Germany-Celle.jpg" alt="Farming Simulator 17 Map - MIG Map MadeInGermany Celle" style="width:128px;height:128px;"></a>
 
-<p>Interesting name, not sure if that MadeInGermany should somehow be in the name, I think its just stupid naming, I bet this maps real name is just Celle, which is location in germany. Ugly off the map well texture I guess, transparent and looking bad. Large amount of 121 fields. Map made out of satellite imagery so it looks great, realistic map. Huge forestry logging area in SE, NE corners and trees cover most of the map edges and field edges. Great looking realistic map overall.
+<p>Interesting name, not sure if that MadeInGermany should somehow be in the name, I bet this maps real name is just Celle, which is location in germany. Not very good off the map well texture I guess, transparent and looking bad. Large amount of 121 fields. Map made out of satellite imagery so it looks great, realistic map. Huge forestry logging area in SE, NE corners and trees cover most of the map edges and field edges. Great looking realistic map overall.
 </p>
 </div>
 
@@ -512,7 +503,7 @@ v1.4.2 by ChillyUK Modding (StrawChewer). From modDesc: Parkers Prairie. Parkers
 <p>Very nice large farm, lots of room to drive vehicles. Map edges are not usual rocky mountain block, but some grassy low hill. Bunch of trees around the edges and fields (trees are placed with variations and random rotation) which is nice. Train tracks which are not animated and don't appear to contain player drivable locomotive either. Readme stated that one of the fields (you own) is 114 hectares. This is very good looking map.
 </p>
 
-<p>Unfortunately Parkers Prairie v1.4.2 still has the pig straw location trigger graphic missing, you have to know (by magic?) where the straw drop-off point is. It is located next to the fence just right of the gate. You just have to use telehandler and slowly drive back and forth with straw bale close to the ground to see where it disappears (or you could use the development mode and F5 to check the trigger location).
+<p>Unfortunately Parkers Prairie v1.4.2 still has the pig straw location trigger graphic missing, you have to know where the straw drop-off point is. It is located next to the fence just right of the gate. You just have to use telehandler and slowly drive back and forth with straw bale close to the ground to see where it disappears (or you could use the development mode and F5 to check the trigger location).
 </p>
 
 <p>Night time in Parkers Prairie is fine, the light levels of the night change according to weather / clouds, sometimes its very dark and most of the time there is enough ambient light that you see to drive vehicles around larger obstacles etc. Very enjoyable night time.
@@ -575,7 +566,7 @@ F41: 55.291 ha
 
 <a href="images/Map-Rocky-Valley.png" target="_blank"><img src="images/thumbs/Map-Rocky-Valley.jpg" alt="Farming Simulator 17 Map - Rocky valley" style="width:128px;height:128px;"></a>
 
-<p>All but N side of the map blocked out by odd rocky mountains and most of the S side as you can see from the ugly german cowboys big-fat-cow logo. Also rocky mountains at the center of map too. Shame they had to ruin good 4km map base doing that. Anyways there are lot of forestry logging possibilities for those who are interested in this map.
+<p>All but N side of the map blocked out by odd rocky mountains and most of the S side as you can see from the ugly german cowboys big-fat-cow logo. Also rocky mountains at the center of map too. Anyways there are lot of forestry logging possibilities for those who are interested in this map.
 </p>
 </div>
 
@@ -584,7 +575,7 @@ F41: 55.291 ha
 
 <a href="images/Map-Plains-And-Simple-Seasons-4x.png" target="_blank"><img src="images/thumbs/Map-Plains-And-Simple-Seasons-4x.jpg" alt="Farming Simulator 17 Map - Plains and Simple Seasons 4x by Stevie" style="width:128px;height:128px;"></a>
 
-<p>Square fields which is always easier for stuff like courseplay. Animals require special foods like sheeps need something called lucerne and cows need something called proteinSilage, I'm not a big fan of these customized fruits or whatever they are called, stick to the standards what everyone knows.
+<p>Square fields which is always easier for stuff like courseplay. Animals require special foods like sheeps need something called lucerne and cows need something called proteinSilage.
 </p>
 
 <p>Overall very solid and nice map.
@@ -603,11 +594,11 @@ v1.5.0.1 by RAND0Msparks. From modDesc: Lincoln Creek. Lincoln Creek, York Count
 </p>
 
 <p>
-Apparently this was private terrain and then leaked to the public, also according to <a href="https://www.modland.net/farming-simulator-2017-mods/maps/lincoln-creek-map.html" target="_blank">nasty modland.net comments</a> this project has been abandoned or just never finished (speculation, also I found no official release of this).
+This was terrain under private testing and then leaked to the public, also according to <a href="https://www.modland.net/farming-simulator-2017-mods/maps/lincoln-creek-map.html" target="_blank">nasty modland.net comments</a> this project has been abandoned or just never finished (speculation, also I found no official release of this). Update; 2019-06-11 Rand0mSparks stopped developing this due the leak.
 </p>
 
 <p>
-This is very nice looking american (nebraska?) 4km terrain. It freezes on loading with one of my other mods (and not a terrain), no idea what.
+This is very nice looking american (nebraska?) 4km terrain.
 </p>
 </div>
 </div>
@@ -680,7 +671,7 @@ This is very nice looking american (nebraska?) 4km terrain. It freezes on loadin
 
 <a href="images/Map-Broxton.png" target="_blank"><img src="images/thumbs/Map-Broxton.jpg" alt="Farming Simulator 17 Map - Broxton" style="width:128px;height:128px;"></a>
 
-<p>Pre placed sheep models. Custom fruits. Artificial barrier on the map edges, not even close to the real end of the map but like 200 coordinates earlier, so 2km map has been made intentionally smaller. Its OK looking I guess, but I can't imagine ever playing on this map.
+<p>Pre placed sheep models. Custom fruits. Artificial barrier on the map edges, not even close to the real end of the map but like 200 coordinates earlier, so 2km map has been made intentionally smaller. Its OK looking I guess.
 </p>
 </div>
 
@@ -701,7 +692,7 @@ This is very nice looking american (nebraska?) 4km terrain. It freezes on loadin
 
 <a href="images/Map-Dutch-Polder.png" target="_blank"><img src="images/thumbs/Map-Dutch-Polder.jpg" alt="Farming Simulator 17 Map - Dutch Polder" style="width:128px;height:128px;"></a>
 
-<p>Quite flat area as Holland should be heh. Artificial border on the edges so I doubt will be playing this because that puts me off. Otherwise nice decent looking map.
+<p>Quite flat area as Holland should be heh. Artificial border on the edges. Otherwise nice decent looking map.
 </p>
 </div>
 
@@ -713,7 +704,7 @@ This is very nice looking american (nebraska?) 4km terrain. It freezes on loadin
 
 <a href="images/Map-FS17-Farming-Legend.png" target="_blank"><img src="images/thumbs/Map-FS17-Farming-Legend.jpg" alt="Farming Simulator 17 Map - FS17 Farming Legend" style="width:128px;height:128px;"></a>
 
-<p>Little bit odd map with the high hills and the water. Not for me, can't imagine playing there.
+<p>Little bit odd map with the high hills and the water.
 </p>
 </div>
 
@@ -725,7 +716,7 @@ This is very nice looking american (nebraska?) 4km terrain. It freezes on loadin
 
 <a href="images/Map-Hagenstedt.png" target="_blank"><img src="images/thumbs/Map-Hagenstedt.jpg" alt="Farming Simulator 17 Map - Hagenstedt" style="width:128px;height:128px;"></a>
 
-<p>Many rocky hills / mountains, seems like tons of geometry blocks for larger vehicles. Many different elevation plateaus, this map looks like anti-Big Bud heh.
+<p>Many rocky hills / mountains, seems like tons of geometry blocks for larger vehicles. Many different elevation plateaus, this is not for large vehicles.
 </p>
 </div>
 
@@ -773,7 +764,7 @@ This is very nice looking american (nebraska?) 4km terrain. It freezes on loadin
 
 <a href="images/Map-Southquebec.png" target="_blank"><img src="images/thumbs/Map-Southquebec.jpg" alt="Farming Simulator 17 Map - Southquebec" style="width:128px;height:128px;"></a>
 
-<p>Field 2 is 50 hectares. Horrible looking rows of trees as they are copy pasted without any rotation variation so they look so fake. Also train tracks are very symmertical which again, looks so fake.
+<p>Field 2 is 50 hectares. Horrible looking rows of trees as they are copy pasted without any rotation variation so they look so bad. Also train tracks are very symmertical.
 </p>
 </div>
 
@@ -872,7 +863,7 @@ This is very nice looking american (nebraska?) 4km terrain. It freezes on loadin
 
 <a href="images/Map-DolgosFalva.png" target="_blank"><img src="images/thumbs/Map-DolgosFalva.jpg" alt="Farming Simulator 17 Map - DolgosFalva" style="width:128px;height:128px;"></a>
 
-<p>No fields registered in the game. Looks like very work in progress map and ugly one at that.
+<p>No fields registered in the game. Looks like very work in progress map.
 </p>
 </div>
 
