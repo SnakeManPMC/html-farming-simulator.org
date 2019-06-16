@@ -25,16 +25,28 @@
 
 	<h2>PMC Texas Rowena 8km</h2>
 
-<a href="images/USA-Texas-Rowena-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Texas-Rowena-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA" style="float:right;width:256px;height:256px;"></a>
-
 <p>
 PMC Texas Rowena 8km <a href="https://www.google.com/maps/@31.628138,-100.007363,8192m/data=!3m1!1e3" target="_blank">google/maps</a>
 </p>
 
+<div>
+<p style="font-size: 10px;">
+Click for larger image
+</p>
+<a href="images/USA-Texas-Rowena-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Texas-Rowena-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA" style="padding: 3px 15px;width:256px;height:256px;"></a>
+
+<a href="images/USA-Texas-Rowena-8km-Fields.jpg" target="_blank"><img src="images/thumbs/USA-Texas-Rowena-8km-Fields.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Fields" style="padding: 3px 15px;width:256px;height:256px;"></a>
+
+<a href="images/USA-Texas-Rowena-8km-Farmland.jpg" target="_blank"><img src="images/thumbs/USA-Texas-Rowena-8km-Farmland.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Farmland" style="padding: 3px 15px;width:256px;height:256px;"></a>
+</div>
+
 <p>
-Just east-south-east from Rowena city in state of Texas.
+This terrain has all the major buildings and utility poles along roads placed (no vegetation yet).
 </p>
 
+<p>
+Fields smallest: 0.336 ha, largest 113.625 ha.
+</p>
 <pre>
 Field 1 (field001) : 3.149 ha
 Field 2 (field002) : 3.149 ha
