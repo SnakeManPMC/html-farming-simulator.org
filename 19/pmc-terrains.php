@@ -24,19 +24,23 @@
 	<h2>Work In Progress</h2>
 
 <p>
-<b>2019-05-05</b> Terrains listed below are work in progress, they are nowhere near finished. For example there is very little of objects like bushes, rocks, trees and buildings etc. These are not finished products!
+2019-06-17 Terrains listed below are work in progress, they are nowhere near finished. For example there is very little of objects like bushes, rocks, trees and buildings etc. These are not finished products!
 </p>
 
 <p>
-See each terrains individual specifications for development progress and if there is none specified then it means there literally are no objects. Every terrain (at least the real world data ones) are functioning properly, field definitions, farmland buy land option, contracts, vehicle shop, sale points, the basic features are there and no errors in the log.
+See each terrains individual specifications for development progress and if there is none specified then it means there literally are no objects. Every terrain (at least the real world data ones) are functioning properly, cultivator_density, field definitions, farmland buy land option, contracts, vehicle shop, sale points, the basic features are there and no errors in the log.
 </p>
 
 <p>
-On 2019-05-05 it was discovered by Optic_killshot that the scale of the fairmount north dakota satellite imagery is all wrong, the roads should have been a mile apart (1.6km) but they were far more. I investigated and quickly figured out that indeed global mapper mercator projection causes some weird distance distortion, meaning when I create 8192 meter grid box it actually comes out very small. Anyways, today I deleted the existing real world data terrains (not fictional ones) and started to re-create them with a <i>proper dimensions</i>. Sucks, but you got to fix your mess. Big thanks for Optic_killshot for pointing out this serious issue for me!
+2019-05-05 it was discovered by Optic_killshot that the scale of the fairmount north dakota satellite imagery is all wrong, the roads should have been a mile apart (1.6km) but they were far more. I investigated and quickly figured out that indeed global mapper mercator projection causes some weird distance distortion, meaning when I create 8192 meter grid box it actually comes out very small like 5.3km or similar. Anyways, today I deleted the existing real world data terrains (not fictional ones) and started to re-create them with a <i>proper dimensions</i> using UTM projection. Sucks, but you got to fix your mess. Big thanks for Optic_killshot for pointing out this serious issue for me!
 </p>
 
 <p>
-<b>Releases</b> as of 2019-05-07 none of the below terrains have been publicly released. The fictional PMC Farm Lab test terrain would be ready to release but just havent got around to it. We are looking for dedicated testers for all the terrains in this page, but we do not want casual dudes who just want to get their hands on the latest terrains without any intent of doing actual testing to help the development.
+2019-06-17 the re-design / re-make project was completed. I went through all the terrains in reversed alphabetical order and re-made then from scratch. Today all of them have the above mentioned features plus Texas Rowena even has all the buildings and utility poles placed as well.
+</p>
+
+<p>
+<b>Releases</b> as of 2019-06-17 none of the below terrains have been publicly released. The fictional PMC Farm Lab test terrain would be ready to release but just havent got around to it. We are looking for dedicated testers for all the terrains in this page.
 </p>
 
 <p>
@@ -46,17 +50,21 @@ For work in progress videos see <a href="https://www.youtube.com/playlist?list=P
 	<h2>Real World Data</h2>
 
 <p>
-These are made out of <a href="http://www.arcgis.com/home/webmap/viewer.html?useExisting=1" target="_blank">ArcGis world imagery</a> satellite imagery and <a href="https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map" target="_blank">US National Elevation Dataset (NED)</a> 10 meter resolution heightmap data. These are real world farming areas, some functionality like vehicle shop and sale points have been placed to suitable locations for FS19 where they would not be in real life.
+These are made out of <a href="http://www.arcgis.com/home/webmap/viewer.html?useExisting=1" target="_blank">ArcGis world imagery</a> satellite imagery or <a href="https://www.fsa.usda.gov/programs-and-services/aerial-photography/imagery-programs/naip-imagery/" target="_blank">US NAIP</a> aerial imagery (we mostly use US NAIP now) and <a href="https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map" target="_blank">US National Elevation Dataset (NED)</a> 10 meter resolution heightmap data. These are real world farming areas, some functionality like vehicle shop and sale points have been placed to suitable locations for FS19 where they would not be in real life.
 </p>
 
 <p>
-Heightmap is accurate to 10 meter resolution but Farming Simulator 19 (FS19) only supports 0 meters to 255 meters elevations, it does not recognize real world locations like UTM projection or any of that. This means that while the heightmap is realistic, it is not exactly like in real life as we had to use unprecise and outdated grayscale image as the heightmap. PMC terrain heightmaps are as good as they can be made out of US NED data.
+Heightmap is accurate to 10 meter resolution but Farming Simulator 19 (FS19) only supports 0 meters to 255 meters elevations, it does not recognize real world locations like UTM projection or any of that. This means that while the heightmap is realistic, it is not exactly like in real life as we had to use unprecise and outdated grayscale image as the heightmap (please forward complaints about outdated technology to Giants Software heh). PMC terrain heightmaps are as good as they can be made out of US NED data.
 </p>
 
 	<h2>Design</h2>
 
 <p>
-<b>Fields</b> (field definitions) are made out of large rectangles which do not cover the satellite texture field edges precisely, this is because we want to allow players to plough their fields larger and to their liking, if they dont want then fine the fields work OK as is. This gives players more opportunities to be creative and just have something to do, always so satisfying feeling when you know it was you who plow shaped that field larger. Cultivated/plowed field edges are painted in gimp (cultivator_density) and cover the actual satellite imagery pretty good, courseplay for example detects this field edge.
+<b>Fields</b> (field definitions) are made out of large rectangles which do not cover the satellite texture field edges precisely, this is because we want to allow players to plough their fields larger and to their liking, if they dont want then fine the fields work OK as is. This gives players more opportunities to be creative and just have something to do, always so satisfying feeling when you know it was you who plow shaped that field larger. We will improve field definition details on a later date but because their nature being mostly cosmetic, their priority is very low.
+</p>
+
+<p>
+However cultivated / plowed field edges are painted in gimp (cultivator_density) and cover the actual satellite imagery pretty good, courseplay for example uses this field edge instead of field definition.
 </p>
 
 <p>
@@ -72,7 +80,11 @@ Please note that field hectare count comes from field definition rectangle and n
 </p>
 
 <p>
-<b>Terrain Size</b> is listed below on each terrain specifically, however mostly we go with 8192 meters x 8192 meters which is 8km x 8km (or just 8km in short) which is very large as we do not like small terrains, we need real world sizes and room to breathe! :)
+If you have any feedback regarding multiplayer farm buildings, please let us know.
+</p>
+
+<p>
+<b>Terrain Size</b> is listed below on each terrain specifically, however mostly we go with 8192 meters x 8192 meters which is 8.1km x 8.1km (or just 8km in short) which is very large as we do not like small terrains, we need real world sizes and room to breathe! :)
 </p>
 
 <p><a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a></p>
@@ -98,61 +110,7 @@ Please note that field hectare count comes from field definition rectangle and n
 	<h2>Fictional</h2>
 
 <p>
-These are fictional free hand created terrains, not based on any real world location or anything like that. 2019-03-05 these are all ported from FS17 (except 2km sandbox, PMC Eternal Sugar Beet Damnation 32km and PMC Farm Lab).
-</p>
-
-	<h2>MyMap 2km Sandbox</h2>
-
-<p>
-MyMap_2km_sandbox
-</p>
-
-<p>
-Flat heightmap. Basically our playground for giants editor, small terrain to quickly test out new ideas or techniques. Not a real playable terrain.
-</p>
-
-	<h2>MyMap 4km</h2>
-
-<p>
-MyMap_4km
-</p>
-
-<p>
-Flat heightmap. Ported from FS17 but without the single field and vehicle shop. This is pretty useless as is 2019-02-17. FS17 version was one of my first terrains I made when learning the first steps, the field is huge like 1008 hectares I think and some youtube videos was made of that harvest.
-</p>
-
-	<h2>MyMap 8km</h2>
-
-<p>
-MyMap_8km
-</p>
-
-<p>
-Flat heightmap. Ported from FS17, you might have seen videos from july 2018 where we demoed this terrain in action. 2019-03-04 fixed pixel smearing on cultivator_density, plowed fields look all good now.
-</p>
-
-<pre>
-Field 1 (field01) : 1009.370 ha
-Field 2 (field02) : 517.980 ha
-Field 3 (field03) : 1574.617 ha
-Field 4 (field04) : 254.783 ha
-Field 5 (field05) : 257.216 ha
-Field 6 (field06) : 252.069 ha
-Field 7 (field07) : 252.069 ha
-Field 8 (field08) : 252.069 ha
-Field 9 (field09) : 252.069 ha
-Field 10 (field10) : 517.980 ha
-Field 11 (field11) : 252.069 ha
-Field 12 (field12) : 48.073 ha
-Field 13 (field13) : 110.934 ha
-Field 14 (field14) : 4.309 ha
-Field 15 (field15) : 4.309 ha
-Field 16 (field16) : 4.301 ha
-Field 17 (field17) : 4.301 ha
-</pre>
-
-<p>
-Includes vehicle shop and four sale points.
+These are fictional free hand created terrains, not based on any real world location or have any geo specific location like america or europe etc.
 </p>
 
 	<h2>MyMap 16km</h2>
@@ -258,16 +216,6 @@ Field 82 (field82) : 636.495 ha
 Includes vehicle shop, four sale points and two small forests.
 </p>
 
-	<h2>MyMap 32km</h2>
-
-<p>
-MyMap_32km
-</p>
-
-<p>
-Flat heightmap. Ported from FS17. No objects included. 2019-03-04 Waterplane added and the odd detail texture setup painted away. Really not sure what test version this is.
-</p>
-
 	<h2>PMC Farm Lab</h2>
 
 <p>
@@ -298,11 +246,19 @@ Includes small forest area for logging. Grain silo bin with 10,000 liters of all
 	<h2>PMC Eternal Sugar Beet Damnation 32km</h2>
 
 <p>
+Largest terrain in Farming Simulator history, size 32 kilometers x 32 kilometers.
+</p>
+
+<p>
 Started off as a joke during Optic_killshot's twitch live stream when we were hauling endless loads of sugar beets on Hankinson, ND. So during one of this streams I started to create this terrain and when it was done couple of hours later we tested it on multiplayer (Optic_killshot hosted) with Optic and Swath. We had a great fun doing so pretty much laughing all the time about how hysterically huge this terrain is.
 </p>
 
 <p>
 Terrain has vehicle shop and one sale point in the center, then one enormous sugar beet field surrounding it covering the whole 32km x 32km terrain area from one edge to another. Oddly enough, this terrain actually works. Watch beginning from roghly 4h 47min part <a href="https://www.twitch.tv/videos/423730468" target="_blank">Optic_killshot twitch VOD</a> (notice that this VOD will disappear by twitch auto delete after some time). In voice comms you hear Optic_killshot and Swath.
+</p>
+
+<p>
+This was made using cultivator and fruit density images from 8km terrain so the fields and crop handling is very inaccurate. Because of the inaccuracy while this terrain technically does work as proven, it is really not suitable for enjoyable game-play. Unless giants fixes their engine to allow better density image accuracy, we are stuck with 16km terrains being the largest enjoyable ones.
 </p>
 
 <!--
