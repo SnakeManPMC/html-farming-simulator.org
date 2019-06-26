@@ -89,6 +89,14 @@ Refer to FS17.
 Refer to FS17. And to note that even the same buggy or bad design for crops growth is still there where half of your field can have different growth stage.
 </p>
 
+<p>
+For large terrains (4km and especially on 8km / 16km) in singleplayer when you time accelerate the field growth stages switch somewhat oddly especially on large terrain size, but on multiplayer it is even worse because on top of the odd stage switching you still have the regular MP field state desync going on. Basically you have to run back and forth across your field you are waiting to switch stages. Extremely annoying.
+</p>
+
+<p>
+Obviously same applies as in SP that if you're in no hurry to use time acceleration this is no issue.
+</p>
+
 	<h2>Weeds</h2>
 
 <p>
