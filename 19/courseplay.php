@@ -84,6 +84,41 @@ pause
 exit
 </pre>
 
+
+	<h2>Courseplay vs Hired Workers</h2>
+
+<p>
+2019-04-27 using courseplay v6.01 build 196
+</p>
+
+<p>
+Hired workers are super simple that can only work on a fields, they do not drive along saved courses like courseplay does.
+</p>
+
+<p>
+Hired workers are multiplayer compatible where courseplay is not (in 2019-04-27, but MP support is planned according to devs). But one could argue that in proper MP with several people you do not need couseplay. In perfect world this is true, but most people seem to be playing with only one other person or perhaps 2-4 or so, that is still very few for real world data terrains and especially if you create separate farms.
+</p>
+
+<p>
+Courseplay vehicle convoy does a good job trying to prevent traffic collisions, hired workers aimlessly collide with each other without anykind of coordination.
+</p>
+
+<p>
+Courseplay can work with multiple tools using vehicle convoy feature, where hired workers mostly work in pairs. If you need to use more than two vehicles then you must split the field to two sections and send two vehicles to one section and another two vehicles to another, hired workers work best in even numbers like 2, 4, 6, 8 (although 8 would be only for the most insanely large fields). If you split field up for combine harvesters and set them off at opposite ends of the field, then grain cart needs to drive long distances back and forth between combines, larger the field longer the driving distance ie wasted time.
+</p>
+
+<p>
+Combining with hired workers force your grain cart to drive into the fruit, or you to take the time to stop hired worker, back out the combine from the fruit, unload to grain cart, align combine back to the track and set off new hired worker. This is so cumbersome on large fields when you have to do this dozens of times.
+</p>
+
+<p>
+Hired workers cost money where courseplay can be setup to not pay any fees (for cheapo farmers heh).
+</p>
+
+<p>
+Courseplay has bad 30FPS performance causing issue with multiple vehicles running, havent been able to track it down to which vehicles/implements cause this. Hired workers cause hosted MP performance to go from 60fps to 30fps, same as courseplay. Hmm so does courseplay use "guided hired workers" or something so the same performance issue applies?
+</p>
+
 </section>
 
 <footer>
