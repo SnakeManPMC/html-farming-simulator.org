@@ -145,7 +145,7 @@ Includes small forest area for logging. Grain silo bin with 10,000 liters of all
 	<h2>PMC Eternal Sugar Beet Damnation 32km</h2>
 
 <p>
-Largest terrain in Farming Simulator history, size 32 kilometers x 32 kilometers.
+Largest terrain in Farming Simulator history, size 32 kilometers x 32 kilometers. Field 1 (field01) : 107,331.031 ha
 </p>
 
 <p>
