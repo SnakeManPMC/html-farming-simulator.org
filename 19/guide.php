@@ -90,6 +90,22 @@ Refer to FS17. And to note that even the same buggy or bad design for crops grow
 </p>
 
 <p>
+Crop growth stages and weeds are switched through the terrain from north to south (top to down) direction and it does not matter when did you seed/plant, you could be even seeding at the moment the switch happens and then half of your field switches while you're still seeding the second half.
+</p>
+
+<p>
+These events are triggered according to time, it depends how many hours one growth stage is per crops (this can be configured by terrain developer). Once the time is up growth stage or weeds are switched.
+</p>
+
+<p>
+You cant do anything about it, like choose the right time to seed/plant. Well unless you use growth control mod which shows you how many hours for the next growth stage switch, then guess you could wait until it happens before starting seeding if its important to you to avoid the half field growing while you're still seeding.
+</p>
+
+<p>
+This is no big deal once you understand how it works. It is what it is, maybe giants comes up with better way to handle this like individual field basis in the future, until that, just know how it works and deal with it.
+</p>
+
+<p>
 For large terrains (4km and especially on 8km / 16km) in singleplayer when you time accelerate the field growth stages switch somewhat oddly especially on large terrain size, but on multiplayer it is even worse because on top of the odd stage switching you still have the regular MP field state desync going on. Basically you have to run back and forth across your field you are waiting to switch stages. Extremely annoying.
 </p>
 
