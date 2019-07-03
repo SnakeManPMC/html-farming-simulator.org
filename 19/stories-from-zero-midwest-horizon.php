@@ -343,7 +343,7 @@ Decided to seed soybeans so I wont run out of space in the tiny farm silo right 
 </p>
 
 <p>
-1002 Well that break turned out to be a bit longer, joined <a href="https://www.twitch.tv/optic_killshot" target="_blank">Optic_killshot's FS19 server</a> to play for few hours :)<br>
+1002 Well that break turned out to be a bit longer, joined someone else to play MP for few hours :)<br>
 1003 Fired FS19 back up, lets continue farming, well err, in my own savegame in singleplayer heh.<br>
 1008 Started fertilizing F02, contract.<br>
 1014 Finished fertilizing F02, contract, collected contract reward 9.5k.<br>
@@ -409,9 +409,7 @@ Canola is growing, its in-game 2345hrs so lets time accelerate until something h
 0607 Finished fertilizing F69, contract, collected contract reward 30.2k.<br>
 0612 Started fertilizing F39, contract.<br>
 0621 Finished fertilizing F39, contract, collected contract reward 12.1k.<br>
-0625 Started fertilizing F66, contract.<br>
-0636 Optic_killshot live stream and MP started :)<br>
-0947 Optic_killshot live stream and MP finished.
+0625 Started fertilizing F66, contract.
 </p>
 
 <p>
@@ -444,12 +442,7 @@ Budget now 474.1k nice. I think its land purchasing time. Decided to purchase la
 </p>
 
 <p>
-<b>2019-05-09T0447</b> Back at PMC Gaming, starting up FS19, its time to farm. But as soon as I got FS19 booted up... Optic_killshot notified me in discord that their MP server is up, haha, ok guess I'm playing in Hankinson North Dakota then :)<br>
-1057 Ended MP session in Hankinson server with Optic_killshot
-</p>
-
-<p>
-1124 Finally started FS19 up, back to MY farm hehe!<br>
+<b>2019-05-09T1124</b> Finally started FS19 up, lets continue.<br>
 1125 Started harvesting canola F80<br>
 1310 Finished harvesting canola F80
 </p>
@@ -490,7 +483,7 @@ Yield for F80 canola was 60,969 liters. Market price was 2414 in horizon coop an
 </p>
 
 <p>
-<b>2019-05-10T1203</b> Already played several hours in Optic_killshot's MP server, but now fired up FS19 with midwest horizon, lets continue farming.
+<b>2019-05-10T1203</b> Fired up FS19 with midwest horizon, lets continue farming.
 </p>
 
 <p>
@@ -530,11 +523,11 @@ On this harvest got total of 61,498 liters canola out of F80.
 </p>
 
 <p>
-<b>2019-05-11T1208</b> Played MP in Hankinson, ND, Optic_killshot's dedicated server all night, now its time to fire up midwest horizon and continue start from zero career :)
+<b>2019-05-11T1208</b> Time to fire up midwest horizon and continue start from zero career :)
 </p>
 
 <p>
-Soon after starting to play in Optic's dedicated I decided that from tomorrow on I'll continue editing full time and leave playing as secondary only when I get so tired of editing for the current day that I want to relax a bit by playing. Basically what I want to do is to edit like one week straight 16hrs day full intensity (more details from <a href="pmc-terrains.php">PMC Terrains</a> page) and stop wasting time by playing.
+I decided that from tomorrow on I'll continue editing full time and leave playing as secondary only when I get so tired of editing for the current day that I want to relax a bit by playing. Basically what I want to do is to edit like one week straight 16hrs day full intensity (more details from <a href="pmc-terrains.php">PMC Terrains</a> page) and stop wasting time by playing.
 </p>
 
 <p>
