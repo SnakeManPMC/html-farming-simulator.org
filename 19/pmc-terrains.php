@@ -32,7 +32,7 @@ See each terrains individual specifications for development progress and if ther
 </p>
 
 <p>
-2019-05-05 it was discovered by Optic_killshot that the scale of the fairmount north dakota satellite imagery is all wrong, the roads should have been a mile apart (1.6km) but they were far more. I investigated and quickly figured out that indeed global mapper mercator projection causes some weird distance distortion, meaning when I create 8192 meter grid box it actually comes out very small like 5.3km or similar. Anyways, today I deleted the existing real world data terrains (not fictional ones) and started to re-create them with a <i>proper dimensions</i> using UTM projection. Sucks, but you got to fix your mess. Big thanks for Optic_killshot for pointing out this serious issue for me!
+2019-05-05 there was an issue with terrain scale being off, I started a huge project of re-design / re-make of all our terrains from ground up, I used no existing files, it was a total re-make.
 </p>
 
 <p>
@@ -149,11 +149,11 @@ Largest terrain in Farming Simulator history, size 32 kilometers x 32 kilometers
 </p>
 
 <p>
-Started off as a joke during Optic_killshot's twitch live stream when we were hauling endless loads of sugar beets on Hankinson, ND. So during one of this streams I started to create this terrain and when it was done couple of hours later we tested it on multiplayer (Optic_killshot hosted) with Optic and Swath. We had a great fun doing so pretty much laughing all the time about how hysterically huge this terrain is.
+This enormous 32km x 32km terrain started as kind of a joke, like would it work, could I do this. The goal was never to create properly done terrain with all the sale points, roads, fields and all that, this is more like a technology demonstration that such huge size works, with some limitations like density image low resolution.
 </p>
 
 <p>
-Terrain has vehicle shop and one sale point in the center, then one enormous sugar beet field surrounding it covering the whole 32km x 32km terrain area from one edge to another. Oddly enough, this terrain actually works. Watch beginning from roghly 4h 47min part <a href="https://www.twitch.tv/videos/423730468" target="_blank">Optic_killshot twitch VOD</a> (notice that this VOD will disappear by twitch auto delete after some time). In voice comms you hear Optic_killshot and Swath.
+Terrain has vehicle shop and one sale point in the center, then one enormous sugar beet field surrounding it covering the whole 32km x 32km terrain area from one edge to another. Oddly enough, this terrain actually works (within the mentioned limits).
 </p>
 
 <p>
