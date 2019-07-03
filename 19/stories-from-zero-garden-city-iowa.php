@@ -613,7 +613,7 @@ Decided to install Kotte Universal Pack so I can haul liquid fertilizer to field
 </p>
 
 <p>
-0025 Shut down FS19 for today, was still watching SinisterSockz twitch live stream when they tested Optic_Killshot's Hankinson North Dakota 4km terrain, but was too tired of playing.
+0025 Shut down FS19 for today, was still watching SinisterSockz twitch live stream when they tested 4km terrain, but was too tired of playing.
 </p>
 
 <p>
@@ -1891,7 +1891,7 @@ But I must say that playing, mostly the harvesting constant grain cart driving a
 </p>
 
 <p>
-<b>2019-05-06T0332</b> Last night Optic_Killshot pointed out that <a href="pmc-north-dakota-fairmount-8km.php" target="_blank">North Dakota Fairmount 8km</a> terrain scale is off. Long story short I made a big mistake when creating the terrains initially which applies to every FS19 real world data terrain I've made and now I had to DELETE and re-create all of them. This includes PMC Iowa Garden City 8km as well, so this means that this story will end right here, at the moment of writing this I have already deleted the project source directory and the zip I used to play. This story ends here.
+<b>2019-05-06T0332</b> Last night discovered that <a href="pmc-north-dakota-fairmount-8km.php" target="_blank">North Dakota Fairmount 8km</a> terrain scale is off. Long story short I made a big mistake when creating the terrains initially which applies to every FS19 real world data terrain I've made and now I had to DELETE and re-create all of them. This includes PMC Iowa Garden City 8km as well, so this means that this story will end right here, at the moment of writing this I have already deleted the project source directory and the zip I used to play. This story ends here.
 </p>
 
 <p>
