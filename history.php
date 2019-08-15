@@ -37,11 +37,15 @@
 2017-11-14 Farming Simulator 17 - Platinum Edition<br>
 2018-03-13 Farming Simulator 17 - ROPA DLC<br>
 2018-05-09 Farming Simulator 17 - Modern Classics DLC<br>
-2018-07-20 Farming Simulator 19 - release date (nov 20th) announced<br>
-2018-11-20 Farming Simulator 19 + v1.1 day one patch / upgrade<br>
+2018-07-20 Farming Simulator 19 - Release date (2018-11-20) announced<br>
+2018-11-20 Farming Simulator 19 - Released + v1.1 day one patch / upgrade<br>
 2018-12-12 Farming Simulator 19 - v1.2 update <a href="https://www.farming-simulator.com/changelog-fs19.php?lang=en&country=us" target="_blank">changelog</a><br>
 2019-03-04 Farming Simulator 19 - Anderson Group Equipment Pack DLC announced (release date 2019-03-26)<br>
-2018-03-19 Farming Simulator 19 - v1.3 update <a href="https://www.farming-simulator.com/changelog-fs19.php?lang=en&country=us" target="_blank">changelog</a>
+2019-03-19 Farming Simulator 19 - v1.3 update <a href="https://www.farming-simulator.com/changelog-fs19.php?lang=en&country=us" target="_blank">changelog</a><br>
+2019-03-26 Farming Simulator 19 - Anderson Group Equipment Pack DLC released<br>
+2019-06-18 Farming Simulator 19 - v1.4.1 update <a href="https://www.farming-simulator.com/changelog-fs19.php?lang=en&country=us" target="_blank">changelog</a><br>
+2019-07-23 Farming Simulator 19 - John Deere Cotton DLC released<br>
+2019-07-29 Farming Simulator 19 - Platinum Expansion (Claas vehicles) announced (release date 2019-10-22)
 </p>
 
 </section>
