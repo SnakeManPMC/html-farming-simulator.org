@@ -43,7 +43,8 @@
 2019-03-04 Farming Simulator 19 - Anderson Group Equipment Pack DLC announced (release date 2019-03-26)<br>
 2019-03-19 Farming Simulator 19 - v1.3 update <a href="https://www.farming-simulator.com/changelog-fs19.php?lang=en&country=us" target="_blank">changelog</a><br>
 2019-03-26 Farming Simulator 19 - Anderson Group Equipment Pack DLC released<br>
-2019-06-18 Farming Simulator 19 - v1.4.1 update <a href="https://www.farming-simulator.com/changelog-fs19.php?lang=en&country=us" target="_blank">changelog</a><br>
+2019-06-18 Farming Simulator 19 - v1.4 update <a href="https://www.farming-simulator.com/changelog-fs19.php?lang=en&country=us" target="_blank">changelog</a><br>
+2019-07-11 Farming Simulator 19 - v1.4.1 update <a href="https://www.farming-simulator.com/changelog-fs19.php?lang=en&country=us" target="_blank">changelog</a><br>
 2019-07-23 Farming Simulator 19 - John Deere Cotton DLC released<br>
 2019-07-29 Farming Simulator 19 - Platinum Expansion (Claas vehicles) announced (release date 2019-10-22)
 </p>
