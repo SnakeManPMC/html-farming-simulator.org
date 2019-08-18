@@ -1421,7 +1421,7 @@ I have to assume garden city F138 definition is somehow bad, will have to look i
 2309 Sold 2x 50.9k.<br>
 2329 Finished harvesting barley F138<br>
 2336 Sold remaining barley, but was ALT-TABbed when it happened so dunno how much. Budget now 423.4k<br>
-2342 Finished cultivating F02 and F03
+2342 Finished cultivating F02 and F03<br>
 2354 Started lime spreading F53<br>
 2358 Started to haul wheat for sale. Sale point 6 buys at 1207 price, is also other side of the terrain again heh.
 </p>
