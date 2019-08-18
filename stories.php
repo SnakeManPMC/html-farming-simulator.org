@@ -1053,7 +1053,7 @@ Harvesting field 9 I already noticed that 42k liters of grain carrying capacity 
 </p>
 
 <p>
-I have always known that the price drops when you sell, we all do, but I was kind of surprised that even with this train method you have not enough time even to move the train forward one train car lenght when the price has already gone done. For some reason I had the impression that it drops several minutes after the sale but I guess not. When you look at first 404k the last full car was $39k less, now thats no chump change, you could buy nice small implements or even cheap vehicle with that amount already.
+I have always known that the price drops when you sell, we all do, but I was kind of surprised that even with this train method you have not enough time even to move the train forward one train car lenght when the price has already gone down. For some reason I had the impression that it drops several minutes after the sale but I guess not. When you look at first 404k the last full car was $39k less, now thats no chump change, you could buy nice small implements or even cheap vehicle with that amount already.
 </p>
 
 <p>
@@ -1846,7 +1846,7 @@ That damn F35 is causing problems for every direction, I have to buy it next jus
 - gregoire besson trailed lifter $15k<br>
 - gregoire besson spsl 9 with slatted moldboards $132k<br>
 - seed hawk xl toolbar 84ft $290k<br>
-- seed hawk 980 air cart with real twin wheels $190k<br>
+- seed hawk 980 air cart with rear twin wheels $190k<br>
 - flexicoil st820 $186k<br>
 ===<br>
 $1.242m
@@ -2024,7 +2024,7 @@ Rebooted FS17 and added Big Brute sprayer mod as I wanted to try it out for a lo
 2x gregoire besson trailed lifter $15k<br>
 2x gregoire besson spsl 9 with slatted moldboards $132k<br>
 2x seed hawk xl toolbar 84ft $290k<br>
-2x seed hawk 980 air cart with real twin wheels $190k<br>
+2x seed hawk 980 air cart with rear twin wheels $190k<br>
 2x flexicoil st820 $186k<br>
 ===<br>
 $2.484m
