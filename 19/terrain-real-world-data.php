@@ -28,7 +28,7 @@ The tools we use are Global Mapper, Terra Incognita and L3DT. Unfortunately glob
 </p>
 
 <p>
-FS19 terrains use 2 meters per pixel heightmap resolution. SRTM heightmap resolution is 30 meters which is awfully low for FS19, but for world wide coverage its best and easiest option to use. For american terrains you should use the United States Elevation Data (NED) 10m resolution which gives great results for FS19.
+FS19 terrains use 2 meters per pixel heightmap resolution. SRTM heightmap resolution is 30 meters which is awfully low for FS19, but for world wide coverage its best and easiest option to use. For american terrains you should use the United States National Elevation Data (NED) 10m resolution which gives great results for FS19.
 </p>
 
 <p>
