@@ -62,6 +62,7 @@ Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulat
 <p><a href="terrain-custom-crop-icons.php">Custom Crop Icons</a></p>
 <p><a href="terrain-giants-game-mode-review.php">Giants Game Mode Review</a></p>
 <p><a href="terrain-savegame-update.php">Savegame Update</a></p>
+<p><a href="terrain-howto-create-16km.php">HOWTO Create 16.3km Terrain</a></p>
 <!--
 <p><a href="terrain-.php"></a></p>
 -->
