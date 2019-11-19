@@ -589,6 +589,944 @@ Between 1400hrs and 1429hrs I had some chow, the last time I checked canola pric
 Right after finishing F05 I shut down FS19, been up over 16hrs almost all of it playing so time to call it a night even though I'm not really tired yet. Tomorrow... well if I can stick to my plan there will be no playing, just editing. We'll see how it goes. So hopefully next entry to this midwest horizon start from zero story comes after a loong while :)
 </p>
 
+	<h2>After The Break</h2>
+
+<p>
+<b>2019-10-12</b> I got this urge to play some very small scale farming with seasons in ravenport. Yes I know ravenport haha the joke of the community but I just wanted something familiar and very small, I have savegames in all the megalodon PMC terrains but I was not so committed to FS19 playing that I would start to spend 4hrs+ on average field work.
+</p>
+
+<p>
+Downloaded Midwest Horizon v1.1 <a href="http://www.modhub.us/farming-simulator-2019-mods/midwest-horizon-v1-1-0-0/" target="_blank">modhub.us</a> as I was thinking that even though it is 4km so not the tiny default size, its still very nice small detailed terrain where I might get that kind of moderate tiny feeling what I was looking for in ravenport.
+</p>
+
+<p>
+Basically all I want to do is very very small scale farming very relaxed just for 5-10min quick fun to drive tractor around, the exact opposite what the 16km terrain monster 500ha field work is. If I'd want to dig really deep into FS19 I would be playing in my own extremely large terrains.
+</p>
+
+<p>
+I feel midwest horizon is large compared to ravenport so not what I want (I want tiny small scale quick fun), but lets think of it this way that midwest horizon is not ravenport shit and I don't have to buy all the farmlands right away or not at all.
+</p>
+
+<p>
+Really difficult to explain what I mean, I made a promise to never again play in ravenport after the initial seasons test, so continuing to play there would be lame but at the same time midwest horizon size wise is right there with PMC North Dakota Greendale 4km so its not any 5-10min quick fun game-play.
+</p>
+
+<p>
+Anyways.
+</p>
+
+<p>
+My previous savegame4 is start from zero, without seasons as it was not released back then. Txzar wrote in v1.1 release that it requires new savegame. New savegame is fine but I need to definitely port over my vehicles, farmlands and money.
+</p>
+
+<p>
+I was considering just deleting the start from zero and beginning a new "farm manager" mode career because I'm not sure if I want to play more than couple of minutes, hours or days.
+</p>
+
+<p>
+Savegame porting for xml works: vehicles, farmland, farms and items. When you copy over environment it will fail, makes FS19 go nuts, it just doesn't work with seasons. Or perhaps you could first port the terrain only v1.0 to v1.1 savegame, only after that adding seasons porting to it, but oh well I already deleted the original environment so thats that.
+</p>
+
+<p>
+Around 0605hrs started midwest horizon v1.1 with ported start from zero savegame to seasons. It was just the second field I started to work on, F04, which already gave me half an hour ETA on courseplay... THIS is what I wanted to avoid with very small scale quick fun farming... I wanted to have quick 5-10min fun, now I'm spending frigging half an hour on single field haha, oh well, thats darn farmsim for ya buddy ;)
+</p>
+
+<p>
+0635 started to catch up on youtube farming videos by watching first welkers farm video I have not seen since I took a break from FS19. Man there is going to be hours of videos to watch now, oh well with FS19 courseplay running... I got nothing better to do haha ;)
+</p>
+
+<p>
+0648 started to spread lime to F04, courseplay ETA 49min heh<br>
+0733 done spreading lime to F04<br>
+0735 started spreading lime to F05<br>
+0743 finished spreading lime to F05<br>
+0750 started fertilizing F05<br>
+0757 finished fertilizing F05
+</p>
+
+<p>
+I must say midwest horizon doesn't give me that small scale tiny quick fun farming feeling same as ravenport, even these F04, F05 and F80 feels too large for such quick fun. Yes I know, ravenport is not proper hardcore farmsim stuff, but hey that is what I wanted so... yeah.
+</p>
+
+<p>
+0758 started seeding canola to F05<br>
+0824 finished seeding canola to F05<br>
+0825 started seeding canola to F04, courseplay ETA 2h 35min... uh oh, FS19 time sink strikes back, the horror... <b>the horror...</b> ;)<br>
+1035 finished seeding canola to F04
+</p>
+
+<p>
+1037 Decided to call it a night, too tired. Honestly not sure if I continue tomorrow, it was fun kinda now to take a break from elite exploring, but I mostly just watched welker farms videos instead of playing as courseplay did all the playing as usual hehe :)
+</p>
+
+<p>
+2005 woke up, had a days first meal and now back at PMC Gaming, lets continue farming Midwest Horizons.<br>
+2008 Started seeding canola F80, courseplay ETA 29min.<br>
+</p>
+
+<p>
+But minute or two later PMC Gaming windows went haywire due electrical spike hardware glitch (long story), it did not recognize my mouse and was just weird, had to hard reset the computer.
+</p>
+
+<p>
+2023 Alright started again, canola to F80, courseplay ETA 29min.
+</p>
+
+<p>
+Again computer went haywire with mouse moving causing windows beep sounds and strange issues like that, I have never seen windows do that.
+</p>
+
+<p>
+2110 Continuing seeding canola manually now, reset courseplay secondary action back to right mouse button. No idea if that was the issue.<br>
+? Finished seeding canola F80<br>
+2120 Started spraying herbicide to F80<br>
+2135 Finished spraying herbicide to F80<br>
+2137 Started spraying herbicide to F04, courseplay ETA 50min heh<br>
+2227 Finished spraying herbicide to F04<br>
+2228 Started spraying herbicide to F05<br>
+2235 Finished spraying herbicide to F05
+</p>
+
+<p>
+01/early-spring so now all fields are fertilized, limed, seeded canola and herbicide sprayed. Now we just wait for crops to grow.
+</p>
+
+<p>
+Exited FS19 to configure keyboard controls a bit due the HOTAS shuffle.
+</p>
+
+<p>
+2253 Started fertilizing F80<br>
+2302 Finished fertilizing F80<br>
+2304 Started fertilizing F04, courseplay ETA 23min
+</p>
+
+<p>
+Noticed that F04 and F05 has weeds in them, umm how did that happen after I herbicide sprayed all the fields?
+</p>
+
+<p>
+2326 Finished fertilizing F04<br>
+2330 Started fertilizing F05<br>
+2334 Finished fertilizing F05
+</p>
+
+<p>
+So NOW all the fields are fully fertilized and growing :)
+</p>
+
+<p>
+Some time accelerating to get crops to grow, weeds still keep growing which I have to say is some kind of savegame porting bug, so I just have to take the weed hit for now (too lazy to weed them for second time) and this savegame should return to normal after next harvest.
+</p>
+
+<p>
+01/early-summer weeds are growing, F04 is quite peppered with them. Going to wait few more days and then go spray them, I think, we'll see.
+</p>
+
+<p>
+03/early-summer bored, lets go take care of the weeds (while watching youtube farming videos hehe)
+</p>
+
+<p>
+<b>2019-10-13T0142</b> Started spraying F80<br>
+0157 Finished spraying F80<br>
+0200 Started spraying F04, courseplay ETA 48min<br>
+0250 Finished spraying F04<br>
+0259 Started spraying F05<br>
+0308 Finished spraying F05
+</p>
+
+<p>
+04/mid-summer in-game 0620hrs canola crops were ready to harvest, aayeah! :)
+</p>
+
+<p>
+0325 Started harvesting canola F80, courseplay ETA 56min<br>
+0352 Sold canola for 47.8k, had to sell it directly from combine to grain trailer to sell point because my farm bin silo is full.<br>
+0425 Sold trailer full of canola but messed up the dump so it did it in two dumps, budget now 198k<br>
+0437 Finished harvesting canola F80<br>
+0439 Started harvesting canola F04<br>
+0454 Sold canola for 45.8k<br>
+0516 Sold canola for 46.8k<br>
+0554 Sold canola for 46.2k<br>
+0619 Sold canola for 45.8k<br>
+0644 Sold canola for 45.4k<br>
+0703 Sold canola for 45k<br>
+0732 Sold canola for 44.9k
+</p>
+
+<p>
+This F04 is not even that big of a field yet but man has it taken HOURS to harvest it with john deere T560 combine using 7.6m header. So much time spent playing is EXACTLY what I wanted to avoid in the first place, all I wanted was 5-10min quick fun... well this is not quick, I started to harvest this field on 0439hrs and still <b>three hours later</b> I'm going it. Oh wow is this that you call a quick fun?
+</p>
+
+<p>
+0752 Sold canola for 44.5k<br>
+0756 Finished harvesting canola F04<br>
+0757 Started harvesting canola F05<br>
+0823 Sold canola for 44.5k<br>
+0829 Finished harvesting canola F05<br>
+0832 Sold canola for 12.2k
+</p>
+
+<p>
+Budget now 619.4k quite nice.
+</p>
+
+<p>
+My quick 5-10min fun has turned into couple of full days of playing (almost), so I've had my fun now, I can already see the horror that time sink game-play style approaching, I cannot get back into wasting my time playing like that, I just cant. So I'm not going to rage quit but will park the vehicles, save game and exit nicely, then backup savegame files. After that I'm done playing FS19 again, I cant waste my time, sorry.
+</p>
+
+<p>
+0839 Repaired combine and header, budget now 617.5k. Time to call it a loooong night for FS19.
+</p>
+
+<p>
+<b>2019-10-15T0300</b> Back in FS19, lets continue where we left off.
+</p>
+
+<p>
+Yes I know that I wrote above that going to take a long break... but FS19 v1.5.1 patch is to be released today and I just could not resist playing hehe, oh well.
+</p>
+
+<p>
+0305 Started lime spreading F80<br>
+0322 Finished lime spreading F80<br>
+0332 Started fertilizing F80<br>
+0341 Finished fertilizing F80<br>
+0344 Started fertilizing F04<br>
+0409 Finished fertilizing F04<br>
+0411 Started fertilizing F05<br>
+? Finished fertilizing F05
+</p>
+
+<p>
+Sold pronto seeder and leased amazon condor 15001 seeder, I need to get seed to the ground quicker.
+</p>
+
+<p>
+0434 Started seeding soybeans F80, courseplay ETA 17min, pretty nice.<br>
+0438 Sold canola for 44.4k<br>
+0441 Sold canola for 44.4k<br>
+0444 Sold canola for 44.4k<br>
+0447 Sold canola for 10k<br>
+0450 Sold joskin trailer and 100k liter grain bin silo, will have to get a larger ones. Budget now 923.1k
+</p>
+
+<p>
+Biggest limitation in my farm right now was the grain bin silo, it was the giants default placeable of 100k liters which was already full of canola. I wanted to upgrade into PMC large farm bin silo which holds 10 million liters, so sold the canola and the small bin silo.
+</p>
+
+<p>
+0504 Finished seeding soybeans F80<br>
+0506 Started seeding soybeans F04, courseplay ETA 1h 50min uuh ;)<br>
+0536 Purchased small land lot between F77 through F79 for 69.2k<br>
+0538 Purchased PMC large grain bin silo (capacity 10 million liters) for 180k
+</p>
+
+<p>
+This small land lot is just north from my fields, its a nice place to stamp down that large farm bin silo and I can even add few extra storage bins for it. Now I don't have to worry about silo capacity but just keep farming and storing the valuable crops for the time when market prices are the highest. With this fleet of equipment I have now, 10 million liter silo capacity lasts forever heh.
+</p>
+
+<p>
+0543 Purchased strautmann aperion 3401 trailer for 65k<br>
+0545 Started fertilizing F80<br>
+0552 Finished fertilizing F80<br>
+0621 Finished seeding soybeans F04<br>
+0623 Started seeding soybeans F05<br>
+0633 Finished seeding soybeans F05<br>
+0638 Purchased hardi navigator 6000 sprayer for 115k<br>
+0639 Started fertilizing F04, courseplay ETA 25min<br>
+0645 Sold kuhn sprayer and tank<br>
+0704 Finished fertilizing F04<br>
+0705 Started fertilizing F05<br>
+0709 Finished fertilizing F05
+</p>
+
+<p>
+Now all fields were seeded soybeans and fertilized to 66% stage, next is to wait until fields get germinated and grow first stage so get to fertilize one last time.
+</p>
+
+<p>
+06/mid-summer in-game 0641hrs fields got germinated and are now growing. Also noticed one tiny spec of weeds in F04.
+</p>
+
+<p>
+0724 Field growth stage changed, green small plants appeared. Okay lets fertilize some more.<br>
+0725 Started fertilizing F80<br>
+0733 Finished fertilizing F80<br>
+0735 Started fertilizing F04, courseplay ETA 25min<br>
+0759 Finished fertilizing F04<br>
+0800 Started fertilizing F05<br>
+0805 Finished fertilizing F05
+</p>
+
+<p>
+Now all fields are fully fertilized and growing. Time accelleration commences until possible herbicide spraying.
+</p>
+
+<p>
+05/mid-autumn in-game 0834hrs (real life 0828hrs hehe) soybeans are ready to harvest with minimum of weeds, very nice!
+</p>
+
+<p>
+Now I just need to decide what kind of solution I take for combine, I really do not want spend endless hours harvesting with that one john deere T560. Decided to sell the T560 and buy S790.
+</p>
+
+<p>
+0832 Sold john deere T560 and header<br>
+0833 Purchased john deere S790 for 390k and macdon fd75 header for 82.7k
+</p>
+
+<p>
+Now I got some harvesting power heh.
+</p>
+
+<p>
+0837 Started harvesting soybeans F80, courseplay ETA 32min<br>
+0915 Finished harvesting soybeans F80
+</p>
+
+<p>
+Got 54,001 liters of soybeans out of F80.
+</p>
+
+<p>
+0917 Started harvesting soybeans F04<br>
+1059 Finished harvesting soybeans F04
+</p>
+
+<p>
+Uh oh that took a while, close to two hours... that is not quick fun. But I guess this is just continuing the Start From Zero now instead of 5-10min quick fun heh.
+</p>
+
+<p>
+1103 Started harvesting soybeans F05<br>
+1115 Finished harvesting soybeans F05
+</p>
+
+<p>
+That's it, all done, all soybean crops harvested.
+</p>
+
+<p>
+Soybean harvest for F04 185,695 liters and F05 26,788 liters.
+</p>
+
+<p>
+1123 Saved game and exited, enough farming for tonight.
+</p>
+
+<p>
+2218 Upgraded FS19 to v1.5.1 where the changelog didn't have much of interesting stuff, except the AI memory leak. No idea what that means in practice though, someone in giants forums speculated that could that fix the performance loss when AI hired workers (courseplay) is running (edit: it most certainly did not).
+</p>
+
+<p>
+2259 Started FS19 v1.5.1 for the first time. Lets continue growing our farm, will be interesting to see today how we proceed.
+</p>
+
+<p>
+Here is the recap; I own now F04, F05 and F80, plus the land lot where the farm bin silo is placed, got 266.4k liters of soybeans, current budget 337.3k hmm, I'm thinking should I do one more harvest with this setup or try to buy more land or upgrade equipment.
+</p>
+
+<p>
+I really don't like the two hour courseplay ETA's no matter how much youtube farming videos I have to watch to catch up, its just such a waste of time to fiddle your thumbs while game-play takes hours. In two hours I could get so much elite exploring or arma3 editing or playing done that its just shameful waste of time to spend so long doing FS19 field work. Anyways.
+</p>
+
+<p>
+Decided to buy a seeder as previously I just leased it. Then it was time to do the remaining fieldwork for the winter so we are as ready as possible next spring for the next seeding. Or maybe I'll do fallow year dunno.
+</p>
+
+<p>
+2314 Purchased amazone condor 15001 seeder for 224k<br>
+2316 Started fertilizing F80<br>
+2324 Finished fertilizing F80<br>
+2326 Started fertilizing F04, courseplay ETA 25min<br>
+2354 Finished fertilizing F04<br>
+2356 Started fertilizing F05<br>
+<b>2019-10-16T0002</b> Finished fertilizing F05
+</p>
+
+<p>
+Now.. well I could herbicide spray the fields but I rather just wait and see what happens with the weeds in the spring. So lets time accelerate to the next year then :)
+</p>
+
+<p>
+0041 Accepted contract for fertilizing F12 and F15<br>
+0042 Started fertilizing F12, contract.<br>
+0051 Finished fertilizing F12, contract, collected contract reward 15.8k.<br>
+0052 Started fertilizing F15, contract.<br>
+0059 Finished fertilizing F15, contract, collected contract reward 5.2k.
+</p>
+
+<p>
+Then it was time accelerating through one year :)
+</p>
+
+<p>
+03/early-summer soybean prices were sky high and they wont go higher than that according to the seasons market price history, its time to sell. Currently horizion coop pays 3779 per thousand liters, lets start hauling. Budget before starting to sell 129.6k
+</p>
+
+<p>
+0132 Sold soybeans for 196.5k<br>
+0140 Sold soybeans for 196.5k<br>
+0147 Sold soybeans for 196.5k<br>
+0151 Sold soybeans for 196.5k<br>
+0156 Sold soybeans for 196.5k<br>
+0202 Sold soybeans for 24.5k
+</p>
+
+<p>
+After selling budget 1.136 million! :)
+</p>
+
+<p>
+07/late-summer soybean planting season was over and I was looking at some AI owned soybean fields to buy, F03, F06 and F78 are interesting. My combine harvester is the weak link now, perhaps even sprayer too, so getting more fields does really not help in my productivity as existing fields already take hours to combine but I bet the money I get from the new field soybeans would easily pay extra combine harvester which would be really helpful.
+</p>
+
+<p>
+0226 Purchased land lot with F78 in it for 431.7k, F06 for 347.4k and F03 for 291k. Budget now 66.4k heh<br>
+</p>
+
+<p>
+F78 is a big one and needs fertilization.
+</p>
+
+<p>
+0234 Started fertilizing F78, courseplay ETA 34min<br>
+0305 Finished fertilizing F78<br>
+0307 Started fertilizing F03, courseplay ETA 13min<br>
+0320 Finished fertilizing F03<br>
+0321 Started fertilizing F06, courseplay ETA 17min<br>
+0336 Finished fertilizing F06
+</p>
+
+<p>
+Then it was herbicide spraying time, all of my new fields have a quite bit patches of weed in them, so lets get those taken care of.
+</p>
+
+<p>
+0352 Started spraying F78, courseplay ETA 34min<br>
+0423 Finished spraying F78<br>
+0425 Started spraying F03, courseplay ETA 13min<br>
+0437 Finished spraying F03<br>
+0439 Started spraying F06, courseplay ETA 17min<br>
+0454 Finished spraying F06
+</p>
+
+<p>
+Then time accelerating waiting for crops to grow, I cannot fertilize more because the fields are already in the last growth stage, next is ready to harvest stage.
+</p>
+
+<p>
+0509 All fields are ready to harvest, but its raining heh<br>
+0525 Rain ended in 03/early-autumn 1000hrs in-game time, fields dried up its time to harvest.<br>
+0526 Started harvesting soybeans F06, courseplay ETA 47min<br>
+0618 Finished harvesting soybeans F06<br>
+0622 Started harvesting soybeans F03, courseplay ETA 37min
+</p>
+
+<p>
+F06 harvest got me 70,796 liters of soybeans.
+</p>
+
+<p>
+0705 Finished harvesting soybeans F03
+</p>
+
+<p>
+F03 harvest got me 56,171 liters of soybeans (total in bin now 126,967 liters).
+</p>
+
+<p>
+0711 Leased another S790 and macdon FD75 header ;)<br>
+0713 Started harvesting soybeans F78, courseplay ETA 50min, 2x tools<br>
+0809 Returned leased S790 and macdon header<br>
+0813 Finished harvesting soybeans F78
+</p>
+
+<p>
+F78 harvest got me 210,278 liters of soybeans (total in bin now 337,245 liters).
+</p>
+
+<p>
+0816 Alright time to call it a night, was some good farming today. We'll see when I continue.
+</p>
+
+<p>
+<b>2019-10-18T0710</b> Back at Midwest Horizon, its kind of late in the day for me but lets see if we can still do some nice farming.
+</p>
+
+<p>
+0717 Started fertilizing F06, courseplay ETA 12min<br>
+0731 Finished fertilizing F06<br>
+0732 Started fertilizing F03, courseplay ETA 10min<br>
+0745 Finished fertilizing F03<br>
+0747 Started fertilizing F78, courseplay ETA 30min<br>
+0816 Finished fertilizing F78<br>
+0821 Started lime spreading F06, courseplay ETA 26min<br>
+0842 Finished lime spreading F06
+</p>
+
+<p>
+0846 Time to call it a night, was a really late start today so got energy only for such quick fieldwork.
+</p>
+
+<p>
+<b>2019-10-19T1530</b> Yikes back at FS19, forgot to write starting time down but I haven't done anything else than time accelerating 6000 speed so not much story to tell. Looking forward for the spring season and starting to seed new crops.<br>
+1538 Season switched to 01/early-spring.<br>
+1548 Started seeding canola F78, courseplay ETA 53min
+</p>
+
+<p>
+Looks like courseplay v6.01.611 cant handle backing up that amazone condor 15001 seeder, it always messes it up, I noticed this already version or two ago and have a "last good version" batch file I can use. Will have to revert to that last good version again on the next game restart.
+</p>
+
+<p>
+Because courseplay is such a nuisance (it actually does more harm than good) decided to switch to GPS at least it stops at the end of a row, then I can quickly turn the tractor around where courseplay would take forever and in this particular case it didn't even work with the backing up.
+</p>
+
+<p>
+1637 Too tired have to call it a night, this was a really short farming set now, more tomorrow.
+</p>
+
+<p>
+<b>2019-10-20T0145</b> PMC Gaming booted up, back in FS19, back in farming.<br>
+0154 Finished seeding canola F78<br>
+0156 Started seeding canola F80, courseplay ETA 17min
+</p>
+
+<p>
+Adjusted courseplay turn radius from auto 16m to manual 18m and now the amazone condor 15001 turns work again, go figure.
+</p>
+
+<p>
+0218 Finished seeding canola F80<br>
+0221 Started seeding canola F04, courseplay ETA 1h 7min<br>
+0325 Finished seeding canola F04<br>
+0326 Started seeding canola F03, courseplay ETA 25min<br>
+0353 Finished seeding canola F03<br>
+0355 Started seeding canola F01, GPS
+</p>
+
+<p>
+F01 had withered sugar beets so I just went lazily and seeded canola on top of it as condor 15001 cultivates as well. I wanted to get a plow and real cultivator to properly plow this field under with fertilization etc but don't have the money, oh well lets do it this way for now.
+</p>
+
+<p>
+0415 Finished seeding canola F01<br>
+0416 Started seeding canola F05, courseplay ETA 12min<br>
+0427 Finished seeding canola F05<br>
+0428 Started seeding canola F06, courseplay ETA 34min<br>
+0501 Finished seeding canola F06
+</p>
+
+<p>
+And that wrapped up the planting season for this spring. Not sure what I put down as double crop, we'll see.
+</p>
+
+<p>
+Next we are going to fertilize the fields and then comes time acceleration. At that point we start to see weeds growing so we have to decide if we go spray them. Once enough days go by then we get into soybeans selling day, it should be roughly first day of mid-summer. Then we get a lot of money from the 337k liters of soybeans, depending on the sell price. Money which is then used to purchase at least powerful tractor to pull cultivator, I'd also like to buy a second combine but we'll have to see how much money we'll make from the sales.
+</p>
+
+<p>
+0504 Started fertilizing F80, courseplay ETA 8min<br>
+</p>
+
+<p>
+Speaking of weeds, first medium size patch already appeared on F80 when I was fertilizing it. I have been quite lucky with weeds as so little of them have appeared, although I did blanked spray the whole fields previously if I recall correctly.
+</p>
+
+<p>
+0513 Finished fertilizing F80<br>
+0517 Started fertilizing F78, courseplay ETA 28min<br>
+0519 Started fertilizing F03, GPS<br>
+0532 Finished fertilizing F03<br>
+0533 Started fertilizing F01, GPS<br>
+0541 Finished fertilizing F01<br>
+0542 Started fertilizing F05, GPS<br>
+0545 Finished fertilizing F78<br>
+0548 Finished fertilizing F05<br>
+0549 Started fertilizing F04, courseplay ETA 30min<br>
+0550 Started fertilizing F06, courseplay ETA 15min<br>
+0606 Finished fertilizing F06<br>
+0615 Finished fertilizing F04
+</p>
+
+<p>
+All fields are done as much as I can do for now (well ok besides herbicide spraying). So now its the first time acceleration phase to the first field growth stage change, then we do some more fertilizing.
+</p>
+
+<p>
+0639 in 05/mid-spring fields germinated overnight. Alright time to start fertilizing some more.
+</p>
+
+<p>
+0640 Started fertilizing F04, courseplay ETA 27min<br>
+0642 Started fertilizing F05, courseplay ETA 5min<br>
+0646 Finished fertilizing F05<br>
+0646 Started fertilizing F06, courseplay ETA 15min<br>
+0701 Finished fertilizing F06<br>
+0707 Finished fertilizing F04<br>
+0709 Started fertilizing F03, courseplay ETA 10min<br>
+0720 Finished fertilizing F03<br>
+0720 Started fertilizing F01, courseplay ETA 9min<br>
+0728 Finished fertilizing F01<br>
+0729 Started fertilizing F80, courseplay ETA 11min<br>
+0739 Finished fertilizing F80<br>
+0740 Started fertilizing F78, courseplay ETA 28min<br>
+0808 Finished fertilizing F78
+</p>
+
+<p>
+Okay all work done (well besides possible herbicide spraying), now its time to skip ahead to the soybean selling time with those good market prices :)
+</p>
+
+<p>
+08/late-spring looks like F78 and F80 are getting fair amount of weeds. I'll keep monitoring them.
+</p>
+
+<p>
+04/mid-summer is here and the best day/time to sell soybeans. Currently in-game 0611hrs soybean market price is 3725 in horizion coop. Time to start haulin' :)
+</p>
+
+<p>
+Just as I started hauling soybeans for sell the current canola crops switched to harvest ready, uh oh I completely missed that in my soybean sell excitement, now my fields are somewhat weeded. Weeds are not too bad but yeah F78 northern part and F80 looked sort of nasty, oh well next time I'll keep a better handle on things, this kind of slipped away from me now heh. Anyways lets get to hauling grain...
+</p>
+
+<p>
+So to recap we got 337,245 liters of soybeans and currently the market price is 3725 per thousand liters. Thats pretty nice set to sell.
+</p>
+
+<p>
+0832 Sold soybeans for 193.7k<br>
+0838 Sold soybeans for 193.7k<br>
+0843 Sold soybeans for 193.7k<br>
+0848 Sold soybeans for 193.7k<br>
+0854 Sold soybeans for 193.7k<br>
+0859 Sold soybeans for 193.7k<br>
+0902 Ran out of soybeans in the farm bin silo, only got 25.2k liters, last haul<br>
+0905 Sold soybeans for 94k
+</p>
+
+<p>
+Budget now 1.266 million, yeah! :)
+</p>
+
+<p>
+Soybeans market price did not drop at all during selling, it remained solid 3725. Next is some vehicle purchases, I definitely need cultivator and tractor to pull it, I'm going to get my workhorse big bud 450 and john deere 2410 5 section cultivator (flexicoil would be nice but its more expensive). Also I need another combine so that these harvests get done quicker.
+</p>
+
+<pre>
+- cultivator 400hp 20m john deere 2410 5 section 75k
+- tractor to pull cultivator big bud 450 with gps and twin wheels 252k
+</pre>
+<p>
+0916 Purchased above list for 327k, budget now 939.5k<br>
+</p>
+
+<pre>
+- header 13.7m macdon fd75 draper 45ft 82k
+- harvester john deere s790 with no extras 390k
+</pre>
+<p>
+0917 Purchased above list, budget now 466.8k
+</p>
+
+<p>
+0926 Was about to start harvesting canola 04/mid-summer in-game 0714hrs but crops were too wet, ok we wait for them to dry up...
+</p>
+
+<p>
+0927 Started harvesting canola F78, courseplay ETA 52min, 2x combines<br>
+1032 Finished harvesting canola F78<br>
+1034 Started harvesting canola F80, 2x combines<br>
+1039 Started cultivating F78, courseplay ETA 41min<br>
+1054 Finished harvesting canola F80<br>
+1103 Started harvesting canola F04, courseplay ETA 49min, 2x combines<br>
+1132 Finished cultivating F78<br>
+1133 Started cultivating F80, courseplay ETA 13min<br>
+1150 Finished cultivating F80<br>
+1200 Started harvesting canola F03, courseplay ETA 23min, 2x combines<br>
+1202 Finished harvesting canola F04<br>
+1202 Started cultivating F04, courseplay ETA 39min<br>
+1229 Finished harvesting canola F03<br>
+1229 Started harvesting canola F01, courseplay ETA min, 2x combines<br>
+1252 Finished cultivating F04<br>
+1253 Started cultivating F03, courseplay ETA 17min<br>
+1300 Finished harvesting canola F01<br>
+1313 Finished cultivating F03<br>
+1315 Started cultivating F01, courseplay ETA 12min<br>
+? Started harvesting canola F05, courseplay ETA min, 2x combines<br>
+1328 Finished harvesting canola F05<br>
+1328 Started harvesting canola F06, courseplay ETA 24min, 2x combines<br>
+1333 Finished cultivating F01<br>
+1339 Started cultivating F05, courseplay ETA 6min<br>
+1348 Finished cultivating F05<br>
+1417 Finished harvesting canola F06<br>
+1417 Started cultivating F06, courseplay ETA 20min<br>
+1440 Finished cultivating F06
+</p>
+
+<p>
+That's it, all done for today. Or is it? hmm. Not tired yet so lets continue some fertilizing and watching more youtube farming videos.
+</p>
+
+<p>
+1503 Started fertilizing F78, courseplay ETA 26min<br>
+1531 Finished fertilizing F78<br>
+1533 Started fertilizing F80, courseplay ETA 9min<br>
+1541 Finished fertilizing F80<br>
+1543 Started fertilizing F04, courseplay ETA 27min<br>
+1610 Finished fertilizing F04<br>
+1611 Started fertilizing F03, courseplay ETA 10min<br>
+1622 Finished fertilizing F03<br>
+1622 Started fertilizing F01, courseplay ETA 9min<br>
+1630 Finished fertilizing F01<br>
+1631 Started fertilizing F05, courseplay ETA 5min<br>
+1637 Finished fertilizing F05<br>
+1638 Started fertilizing F06, courseplay ETA 15min<br>
+1651 Finished fertilizing F06
+</p>
+
+<p>
+Alright its time to call it a night, been up over 16hrs already most of it farming in Midwest Horizon having great fun.
+</p>
+
+<p>
+<b>2019-10-21T0006</b> Back in FS19, lets continue farming.
+</p>
+
+<p>
+0012 Started lime spreading F78, courseplay ETA 39min<br>
+0013 Started cultivating F06, courseplay ETA 20min<br>
+0038 Finished cultivating F06<br>
+0041 Started cultivating F03, courseplay ETA 17min<br>
+0056 Finished lime spreading F78<br>
+0057 Started lime spreading F04, courseplay ETA 40min<br>
+0100 Finished cultivating F03<br>
+0103 Started cultivating F80, courseplay ETA 14min<br>
+0120 Finished cultivating F80
+</p>
+
+<p>
+0126 Was too tired had to go back to sleep, just one of those days... more farming after few more hours of sleep.
+</p>
+
+<p>
+0523 Nap done and had a nice meal, time to get back to farming. Lets continue lime spreading...
+</p>
+
+<p>
+0536 Finished lime spreading F04<br>
+0538 Started lime spreading F01, courseplay ETA 14min<br>
+0555 Finished lime spreading F01<br>
+0556 Started lime spreading F05, courseplay ETA 14min<br>
+0607 Finished lime spreading F05<br>
+0608 Started lime spreading F06, courseplay ETA 29min
+</p>
+
+<p>
+Was not planning on spreading lime to F06 as it didn't really require it, but it had so many patches of lime required due seasons crops failing patches that it kept annoying me, so here we go lets blanket it with lime, be done with it.
+</p>
+
+<p>
+The crops failed patches created by seasons is great... but they basically cause you to cultivate after each harvest so you can clean them off. For example on withered crops lime will not stick, only fertilizer sticks through all the patches created by seasons. Its really annoying to have these patches in the field after harvest while working on the next one.
+</p>
+
+<p>
+While lime spreading was running it was time to buy some vehicles.
+</p>
+
+<pre>
+- auger wagon 300hp brent 1596 53k liter 118k
+- trailer krampe sb II 30/1070 78k
+- truck lizard hulk with paint 146k
+</pre>
+<p>
+0630 Purchased above list for 342k
+</p>
+
+<p>
+I was really struggling with the almost beginner level grain trailer, on the last harvest it was really painful to use. Now with the truck and proper auger wagon I can harvest normally, unloading the combines with auger wagon while truck is hauling a load to the farm bin silo.
+</p>
+
+<p>
+When time comes to sell my crops, the truck and trailer does proper job on it unlike tractor (with twin wheels that it wont fit horizion coop hehe). I wanted to buy wilson trailer but because using courseplay I cant as it would only fill one hopper, thats why I use krampe.
+</p>
+
+<p>
+0638 Finished lime spreading F06<br>
+0644 In-game 04/mid-summer 2128hrs so time acceleration until morning light<br>
+0646 Started fertilizing F80, courseplay ETA 11min<br>
+0656 Finished fertilizing F80<br>
+0658 Started fertilizing F78, courseplay ETA 27min<br>
+0724 Finished fertilizing F78<br>
+0726 Started fertilizing F04, courseplay ETA 27min<br>
+0751 Finished fertilizing F04<br>
+0752 Started fertilizing F03, courseplay ETA 9min<br>
+0804 Finished fertilizing F03, started fertilizing F01, courseplay ETA 8min<br>
+0812 Finished fertilizing F01<br>
+0814 Started fertilizing F05, courseplay ETA 5min<br>
+0821 Finished fertilizing F05, started fertilizing F06, courseplay ETA 13min<br>
+0833 Finished fertilizing F06
+</p>
+
+<p>
+All done now in preparation for seeding. Two days left in soybeans planting season but was thinking of not to push it and just time accelerate to canola selling day, do some selling and then time accelerate rest of the year until spring.
+</p>
+
+<p>
+But eventually decided to go for it and seed soybeans, never done that so late in the seeding season (05/mid-summer 0800hrs) so will be interesting to see if they get harvest ready before winter kills them off. They should grow ok.
+</p>
+
+<p>
+0843 Started seeding soybeans F78, courseplay ETA 52min<br>
+0947 Finished seeding soybeans F78, started seeding soybeans F80, courseplay ETA 21min<br>
+1009 Finished seeding soybeans F80<br>
+1010 Started seeding soybeans F04, courseplay ETA 1h 1min<br>
+1113 Finished seeding soybeans F04<br>
+1114 Started seeding soybeans F03, courseplay ETA 22min<br>
+1139 Finished seeding soybeans F03<br>
+1140 Started seeding soybeans F01, courseplay ETA 29min<br>
+1200 Finished seeding soybeans F01<br>
+1201 Started seeding soybeans F05, courseplay ETA 10min<br>
+1212 Finished seeding soybeans F05<br>
+1217 Started seeding soybeans F06, courseplay ETA 31min<br>
+1249 Finished seeding soybeans F06
+</p>
+
+<p>
+Soybeans have been seeded, aayeah! I hope after the next grain sell I have enough money to buy better seeding equipment and perhaps even corn planter so that future seeding seasons go by quickly, this amazone condor 15001 is quite nice medium size seeder but once you start to stack up those hectares on big fields... yeah its not so nice anymore.
+</p>
+
+<p>
+1254 Started fertilizing F78, courseplay ETA 26min<br>
+1321 Finished fertilizing F78, started fertilizing F80, courseplay ETA 9min<br>
+1331 Finished fertilizing F80<br>
+1332 Started fertilizing F04, courseplay ETA 25min<br>
+1357 Finished fertilizing F04
+</p>
+
+<p>
+1358 It was time to call it a night, still have to do some other stuff before bedtime and its been quite long day already, got some good farming done.
+</p>
+
+<p>
+<b>2019-10-22T0311</b> FS19 started up, lets continue farming. Oh btw Claas DLC / Platinum Edition got released today (I dont have it yet).
+</p>
+
+<p>
+0312 Started fertilizing F03, courseplay ETA 9min<br>
+0322 Finished fertilizing F03<br>
+0323 Started fertilizing F01, courseplay ETA 8min<br>
+0333 Finished fertilizing F01<br>
+0334 Started fertilizing F05, courseplay ETA 5min<br>
+0339 Finished fertilizing F05, started fertilizing F06, courseplay ETA 14min<br>
+0351 Finished fertilizing F06
+</p>
+
+<p>
+Soybean seeding is complete with full fertilization. Now its just time accelerating keeping an eye on weed growth, then when canola selling day comes we make some money.
+</p>
+
+<p>
+Not sure when our soybeans will be ready, they were seeded really late so hopefully they are harvest ready before winter kills them off, it possibly could be around the time canola selling day comes. Will be interesting to see.
+</p>
+
+<p>
+06/mid-summer in-game 1520hrs fields got germinated succesfully, thats odd as I recall germination happens midnight, hmm maybe the growth stage change still is only applied according to seeding time or something, dunno.
+</p>
+
+<p>
+03/early-autumn in-game 0713hrs very few weeds have grown so far, five small patches in F06 rest are clean. We are now already well into soybeans harvest season but obviously ours is still very much growing, they arent even flowering yet.
+</p>
+
+<p>
+Decided to go herbicide spray F06 by cherry picking only the weed patches. That was done quick, took couple of minutes.
+</p>
+
+<p>
+04/mid-autumn in-game 0810hrs fields are ready to harvest! wow that happened much sooner than I expected, nice. Okay, lets start harvesting then :)
+</p>
+
+<p>
+Looking forward to this harvest with truck trailer and auger wagon, will be fun to start farming like normal people :)
+</p>
+
+<p>
+0500 Started harvesting soybeans F06, courseplay ETA 24min, 2x tools
+</p>
+
+<p>
+After all those harvests with the crap beginner type trailer oh man did it feel good to be running proper auger wagon and truck with trailer :)
+</p>
+
+<p>
+0526 Finished harvesting soybeans F06<br>
+0527 Started harvesting soybeans F05, courseplay ETA 8min, 2x tools<br>
+0537 Finished harvesting soybeans F05<br>
+0544 Started harvesting soybeans F04, 2x tools
+</p>
+
+<p>
+Using massey ferguson 7726 with 270hp to pull brent 1596 auger wagon which requires 400hp, you can <i>really</i> feel how underpowered the tractor is. It pulls it, sure... but you really appreciate something with proper horsepower like fendt 1050.
+</p>
+
+<p>
+0632 Finished harvesting soybeans F04<br>
+0634 Started harvesting soybeans F03, courseplay ETA 21min, 2x tools<br>
+0656 Finished harvesting soybeans F03<br>
+0657 Started harvesting soybeans F01, courseplay ETA 14min, 2x tools<br>
+0714 Finished harvesting soybeans F01<br>
+0718 Started harvesting soybeans F80, courseplay ETA 17min, 2x tools<br>
+0735 Finished harvesting soybeans F80<br>
+0737 Started harvesting soybeans F78, courseplay ETA 52min, 2x tools<br>
+0838 Finished harvesting soybeans F78
+</p>
+
+<p>
+And that's it, soybean harvest is done! :)
+</p>
+
+<p>
+Now I have 901.8k liters of canola and 683.9k liters of soybeans. That is going to make me some serious amount of money to develop my farm heh. Next its just time accelerating until we are in the canola selling day.
+</p>
+
+<p>
+Missed the highest selling day because I was waiting for the price to increase some more, looks like the specific day is when you get the highest price you just have to take what price you get, or wait for the next year for better luck. Price was indeed 2200 but dropped when I time accelerated some more. Oh well now have to sell for 2058 per thousand liters.
+</p>
+
+<p>
+Budget before selling 51.7k and today in-game is 02/early-winter.
+</p>
+
+<p>
+0903 Sold canola for 121.4k<br>
+0906 Sold canola for 121.4k (missed it when ALT-TABbed to watch youtube farming videos heh)<br>
+0911 Sold canola for 121.4k<br>
+0915 Sold canola for 121.4k<br>
+0919 Sold canola for 121.4k<br>
+0923 Sold canola for 121.4k<br>
+0927 Sold canola for 121.4k<br>
+0931 Sold canola for 121.4k<br>
+0935 Sold canola for 121.4k<br>
+0939 Sold canola for 121.4k<br>
+0943 Sold canola for 121.4k<br>
+0947 Sold canola for 121.2k, price dropped to 2055<br>
+0951 Sold canola for 121.2k<br>
+0955 Sold canola for 121.2k<br>
+0959 Sold canola for 121.2k, this was the last full trailer load<br>
+1003 Sold 16.8k liters of canola for 34.6k
+</p>
+
+<p>
+All canola sold from farm bin silo. Budget after selling 1.907 million! :)
+</p>
+
+<p>
+Right now I'm going to take a break from Midwest Horizon Start From Zero career and play one of the <a href="pmc-terrains.php">PMC terrains</a> instead.
+</p>
+
 </section>
 
 <footer>
