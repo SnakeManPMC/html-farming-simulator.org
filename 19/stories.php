@@ -58,7 +58,7 @@ Land prices also depend on which terrain you play, they might be really affordab
 </p>
 
 <p>
-I dont like the farm manager and (giants) start from scratch game modes with 1 million and 500k of money, its no start from scratch its start as millionaire hehe.
+I don't like the farm manager and (giants) start from scratch game modes with 1 million and 500k of money, its no start from scratch its start as millionaire hehe.
 </p>
 
 <p>
@@ -71,6 +71,10 @@ What do you guys think, is it too hardcore to start from complete zero in FS19?
 
 <p>
 <a href="stories-from-zero-midwest-horizon.php" class="button">Midwest Horizon. Start From Zero</a>
+</p>
+
+<p>
+<a href="stories-from-zero-grande-gardens.php" class="button">Grande Gardens. Start From Zero</a>
 </p>
 
 </section>
