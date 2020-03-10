@@ -51,9 +51,7 @@
 2019-10-22 Farming Simulator 19 - Platinum Edition (Claas DLC) released<br>
 2020-02-20 Farming Simulator 19 - Bourgault DLC announced<br>
 2020-02-27 Farming Simulator 19 - Platinum Edition (Claas DLC) v1.2 patch released <a href="https://forum.giants-software.com/viewtopic.php?f=876&t=159368" target="_blank">changelog</a><br>
-<!--
 2020-03-10 Farming Simulator 19 - Bourgault DLC <a href="https://www.farming-simulator.com/dlc-detail.php?lang=en&country=us&dlc_id=fs19bourgault" target="_blank">Bourgault DLC</a><br>
--->
 </p>
 
 </section>
