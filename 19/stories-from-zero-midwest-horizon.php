@@ -380,7 +380,7 @@ This soybean harvest got me 47,721 liters where canola brought in 60k liters. Mu
 </p>
 
 <p>
-Budget now 410.3k which is pretty nice amount indeed. The combine of mine is pretty bad with 5m header, the next step up woulb be John Deere T560 with 7.6m header but I think overall I need more fields as my fertilizing, spraying and even seeding capability is mostly fine.
+Budget now 410.3k which is pretty nice amount indeed. The combine of mine is pretty bad with 5m header, the next step up would be John Deere T560 with 7.6m header but I think overall I need more fields as my fertilizing, spraying and even seeding capability is mostly fine.
 </p>
 
 <p>
