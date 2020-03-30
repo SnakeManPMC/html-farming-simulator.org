@@ -23,7 +23,7 @@
 <section>
 
 <p>
-<b>2019-02-11</b> This page is work in progress.
+<b>2020-03-30</b> Updated.
 </p>
 
 <p>
@@ -33,7 +33,7 @@ Please read <a href="../guide.php">FS17 Guide</a> first as we do not repeat the 
 	<h2>Gameplay Tips</h2>
 
 <p>
-You can resize the user interface UI from the main menu options (not while game, ie savegame is running), like if you want to make it obnoxiously large or very tiny you can do that now. Nothing better than the new transparent UI style which is reduced in size, you hardly need hide HUD mod after this heh. If you make the UI smallest as possible, it also makes 9 key map windows quite small.
+You can resize the user interface UI from the main menu options (not while game, ie savegame is running), like if you want to make it obnoxiously large or very tiny you can do that now. Nothing better than the new transparent UI style which is reduced in size, you hardly need hide HUD mod after this heh. If you make the UI smallest possible, it also makes 9 key map windows quite small.
 </p>
 
 	<h2>Difficulty Options</h2>
@@ -64,6 +64,10 @@ Start from scratch: start with nothing and very limited money, prices (and vehic
 Note: you can achieve the same thing by editing savegame directorys XML files like if you want to create "start from scratch" game mode for easy difficulty level. Considering this, the only unique or special thing in the new career game modes is the difficulty level.
 </p>
 
+<p>
+Difficulty level for economy can be changed at any time from the in-game menu while playing.
+</p>
+
 	<h2>Plowing</h2>
 
 <p>
@@ -73,7 +77,7 @@ You only need to plough after harvesting corn or sugar cane etc odd crops, there
 	<h2>Lime</h2>
 
 <p>
-You can see lime field status on the map-view. Lime is a product which you purchase and spread to your fields using solid fertilizer spreader. Using stock game Bredal spreader expends lime at incredible high rate, all you do is drive to refill heh.
+You can see lime field status on the map-view. Lime is a product which you purchase and spread to your fields using solid fertilizer spreader. Using stock game Bredal spreader expends lime at incredible high rate, all you do is drive to refill heh. Note: if you use variable spray mod you can tweak lime spreading to game-play enjoyable level.
 </p>
 
 	<h2>Seeding</h2>
@@ -116,7 +120,7 @@ Obviously same applies as in SP that if you're in no hurry to use time accelerat
 	<h2>Weeds</h2>
 
 <p>
-Weeds grow on fields (after fertilizing?), they take away nutrients from your actual crops so therefore are very harmful for the yield. You must kill weeds either mechanically by a weeder or chemically by a pesticide sprayer.
+Weeds grow on fields (after fertilizing?), they take away nutrients from your actual crops so therefore are very harmful for the yield. You must kill weeds either mechanically by a weeder or chemically by a herbicide sprayer.
 </p>
 
 <p>
@@ -196,7 +200,7 @@ Your own farm house is just an decorative object with the sleep option. Sleep is
 </p>
 
 <p>
-Farm silo (and farm silo extension) placeables are to hold your grain. Most properly developed terrains do not include farm silos anymore and it is up to players how they want to build their farms including placing down farm silos.
+Farm silo (and farm silo extension) placeables are to hold your grain. Most properly developed terrains do not include farm silos anymore and it is up to players how they want to build their farms including placing down farm silos, with obvious exception being many real world data terrains.
 </p>
 
 <p>
@@ -218,7 +222,7 @@ You can repair vehicles even when they are being used in the fields. Go to garag
 	<h2>Adding New Mods</h2>
 
 <p>
-Never ever add brand new mod to your important career savegame, not matter how reputable mod authors release it is, always test new mods on some brand new savegame where you cannot lose any progress if a mod breaks down.
+Never ever add brand new mod to your important career savegame, no matter how reputable mod authors release it is, always test new mods on some brand new savegame where you cannot lose any progress if a mod has errors and ruins your savegame.
 </p>
 
 	<h2>Ambient Birds</h2>
@@ -244,7 +248,25 @@ You can park the field container to the field you are fertilizing, then transpor
 </p>
 
 <p>
-The downside of slurry spreader is that there are not narrow tire options, it will cut crops. Also game-play related downside is that while in FS17 slurry spreading was viable option and fun, now in FS19 giants have totally ruined with the rate its expended, you literally go from 100% to 50% capacity under a minute, totally crazy.
+The downside of slurry spreader is that there are no narrow tire options, it will cut crops. Also game-play related downside is that while in FS17 slurry spreading was viable option and fun, now in FS19 giants have totally ruined with the rate its expended, you literally go from 100% to 50% capacity under a minute, totally crazy.
+</p>
+
+	<h2>Purchasing Fields With Crops</h2>
+
+<p>
+Actually this should be "purchasing LAND with fields which have crops" :)
+</p>
+
+<p>
+I purchased Midwest Horizon F77 for 684.3k, this field is 32.68ha in size (land lot is 34.63ha). It had weeded and unfertilized soybeans growing, when harvested the yield was 219,054 liters.
+</p>
+
+<p>
+If we calculate lets say 3750 market price the amount of money the crop was worth, it comes to 219 x 3750 == 821.2k, then if we subtract the field price 684.3k - 821.2k == 136,950k final outcome.
+</p>
+
+<p>
+I don't know why anyone would want to buy a land lot without soybeans growing on it, the harvested crop will pay the land for you.
 </p>
 
 <!--
