@@ -27,7 +27,7 @@ Contracts (or missions as they were called in FS17).
 </p>
 
 <p>
-In the easy mode (left most career start option) the contracts don't pay much, you get like lets say 44,000 which sounds on paper pretty good... but then you have to plant / harvest potatoes for 15 hectares which takes damn hours and hours...
+In the New Farmer game-mode on ravenport the contracts don't pay much, you get like lets say 44,000 which sounds on paper pretty good... but then you have to plant / harvest potatoes for 15 hectares which takes damn hours and hours...
 </p>
 
 <p>
@@ -35,7 +35,7 @@ There are some contracts which pay few hundreds and you got to be thinking that 
 </p>
 
 <p>
-Contracts have no time limit, take as long as you want. World around you will not freeze anymore, so if you have fields with crops planted they do grow while you are doing contracts. You can use own vehicles / equipment or lease, if you lease the vehicles will de-spawn once the contract is completed. You can stop doing a contract and leave the field, contract will not abort until you complete or cancel it.
+Contracts have no time limit, take as long as you want. World around you will not freeze anymore like in FS17, so if you have fields with crops planted they do grow while you are doing contracts. You can use own vehicles / equipment or lease (called borrow), if you lease the vehicles will de-spawn once the contract is completed. You can stop doing a contract and leave the field, contract will not abort until you complete or cancel it.
 </p>
 
 <p>
@@ -51,7 +51,19 @@ It is best to own your vehicles or lease them by yourself, not to borrow from co
 </p>
 
 <p>
-Original game design is to allow only one active contract, however there is <a href="mods.php" target="_blank">a "multiple missions" mod which allows you to take many contracts</a> at the same time.
+If you take a contract with borrowed vehicles then those vehicles most likely are need of maintenance. So for example cultivating contract where tractor is so need of repairs that it can only pull 12km/h instead of the maximum speed of 15km/h, that makes a huge difference in a large field cultivating contract.
+</p>
+
+<p>
+With borrowed vehicles be careful not to use VehicleExplorer mod's repair feature because it charges money from you and your account goes to negative if you do not have enough money.
+</p>
+
+<p>
+If you lease (not borrow) cultivating equipment and do large cultivating contracts, the hourly lease fees can bleed all your money so that you end up in the lease costing more than the profit from the contract. In other words you are paying money to cultivate someone elses field for free, thats not fun. Overall avoid cultivating contracts they just aren't paying enough.
+</p>
+
+<p>
+Original game design is to allow only one active contract, however there is <a href="mods.php" target="_blank">a "multiple missions" mod</a> which allows you to take many contracts at the same time.
 </p>
 
 	<h2>8km Terrain Contract Experiences</h2>
@@ -61,7 +73,7 @@ Original game design is to allow only one active contract, however there is <a h
 </p>
 
 <p>
-Harvest contracts take forever and potatoes & sugar beet stuff is no brainer (meaning, dont do then as it takes forever). Harvesting 25ha field with Case IH 9240 with 3162 TerraFlex Draper 45ft header takes HOURS.
+Harvest contracts take forever and potatoes & sugar beet stuff is no brainer (meaning, don't do then as it takes forever). Harvesting 25ha field with Case IH 9240 with 3162 TerraFlex Draper 45ft header takes HOURS.
 </p>
 
 <p>
@@ -107,7 +119,7 @@ Not really contracts guide more like terrain info, but on 8km x 8km terrain the 
 	<h2>Large Terrains</h2>
 
 <p>
-In general I dont think giants fully planned how contracts scale up in large terrains, they optimized them for 2km sized felsbrunn and ravenport with those tiny garden fields, when you start doing contracts on 4km, 8km or the monster 16km terrains with realistic / huge fields... its definitely a different situation.
+In general I don't think giants fully planned how contracts scale up in large terrains, they optimized them for 2km sized felsbrunn and ravenport with those tiny garden fields, when you start doing contracts on 4km, 8km or the monster 16km terrains with realistic / huge fields... its definitely a different situation.
 </p>
 
 <p>
