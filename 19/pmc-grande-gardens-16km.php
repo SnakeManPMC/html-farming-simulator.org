@@ -26,7 +26,7 @@
 	<h2>PMC Grande Gardens 16km</h2>
 
 <p>
-Fictional terrain, no reference to any real world location or anything, this is completely man made custom terrain. It will have however that feeling of american style farming as everything is large scale and buildings will be american. This terrain was previously known as "MyMap_16km".
+Fictional terrain, no reference to any real world location, this is completely man made custom terrain. However it will have american style farming feeling of as everything is large scale and buildings will be american. This terrain was previously known as "MyMap_16km".
 </p>
 
 <div>
@@ -41,11 +41,11 @@ Click for larger image
 </div>
 
 <p>
-This terrain was ported from FS17, you might have seen videos from july 2018 where we demoed this terrain in action. This is the mega terrain with 2800 hectare field. I recall in FS17 I created the nice animal areas in this one (obviously not included in FS19 version). FS17 videos: <a href="https://www.youtube.com/watch?v=1V9m8Pm439M" target="_blank">PMC 16km Terrain Development 2018-07-10 Farming Simulator 17</a>. This was our most developed terrain in FS17 back in late summer of 2018. Would be nice to finish this for FS19.
+This terrain was ported from FS17, you might have seen videos from july 2018 where we demoed this terrain in action. This is the mega terrain with 2800 hectare field. I recall in FS17 I created the nice animal areas in this one (obviously not included in FS19 version). FS17 videos: PMC first ever 16.3km terrain in-game Farming Simulator 17 <a href="https://www.youtube.com/watch?v=-oHDt15nzUo" target="_blank">16384 Meter Size Terrain 2018-07-09</a> and <a href="https://www.youtube.com/watch?v=1V9m8Pm439M" target="_blank">PMC 16km Terrain Development 2018-07-10</a>. This was our most developed terrain in FS17 back in late summer of 2018. Would be nice to finish this for FS19.
 </p>
 
 <p>
-Heightmap is brand new L3DT generated nice smooth rolling hills type with plenty of different elevations but still not too rough that farming vehicles and equipment can operate nice and easy (or mostly easy heh).
+Heightmap is brand new L3DT generated nice smooth rolling hills type with plenty of different elevations but still not too rough that farming vehicles and equipment can operate nice and easy (or mostly easy heh). Some of the fields have breath taking views across the large farming landscape.
 </p>
 
 <p>
@@ -153,7 +153,7 @@ Field 98 (field98) : 3.901 ha
 </pre>
 
 <p>
-Includes vehicle shop and ten sale points.
+Includes vehicle shop and ten selling points.
 </p>
 
 </section>
