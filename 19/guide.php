@@ -23,7 +23,7 @@
 <section>
 
 <p>
-<b>2020-03-30</b> Updated.
+<b>2020-04-10</b> Updated.
 </p>
 
 <p>
@@ -77,8 +77,13 @@ You only need to plough after harvesting corn or sugar cane etc odd crops, there
 	<h2>Lime</h2>
 
 <p>
-You can see lime field status on the map-view. Lime is a product which you purchase and spread to your fields using solid fertilizer spreader. Using stock game Bredal spreader expends lime at incredible high rate, all you do is drive to refill heh. Note: if you use variable spray mod you can tweak lime spreading to game-play enjoyable level.
+You can see lime field status on the map-view. Lime is a product which you purchase and spread to your fields using solid fertilizer spreader. Lime must be spread before seeding.
 </p>
+
+<p>
+Using stock game Bredal spreader expends lime at incredible high rate, all you do is drive to refill heh. Note: if you use variable spray mod you can tweak lime spreading to game-play enjoyable level.
+</p>
+
 
 	<h2>Seeding</h2>
 
