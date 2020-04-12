@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>PMC Terrains Farming Simulator 19 - PMC Tactical</title>
+<title>PMC Terrains Farming Simulator 19 - PMC Farming</title>
 <LINK href="pmc-terrains.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC Terrains Farming Simulator 19 - PMC Tactical">
-<META name="keywords" content="Terrain, Farming, Simulator, PMC, Tactical">
+<META name="description" content="PMC Terrains Farming Simulator 19 - PMC Farming">
+<META name="keywords" content="Terrain, Farming, Simulator, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -24,15 +24,19 @@
 	<h2>Work In Progress</h2>
 
 <p>
-2019-06-17 Terrains listed below are work in progress, they are nowhere near finished. For example there is very little of objects like bushes, rocks, trees and buildings etc. These are not finished products!
+<b>2020-04-13</b> PMC Texas Rowena 8km basic object placement (buildings, utility poles, trees) is complete! :)
 </p>
 
 <p>
-See each terrains individual specifications for development progress and if there is none specified then it means there literally are no objects. Every terrain (at least the real world data ones) are functioning properly, cultivator_density, field definitions, farmland buy land option, contracts, vehicle shop, sale points, the basic features are there and no errors in the log.
+Terrains listed below are work in progress, they are not finished. For example there is very little of objects like bushes, rocks, trees and buildings etc. These are not finished products!
 </p>
 
 <p>
-2019-05-05 there was an issue with terrain scale being off, I started a huge project of re-design / re-make of all our terrains from ground up, I used no existing files, it was a total re-make.
+See each terrains individual specifications for development progress and if there is none specified then it means there are no objects beside vehicle shop + selling points. Every terrain (at least the real world data ones) are functioning properly, cultivator_density, field definitions, farmland buy land option, contracts, vehicle shop, selling points, the basic features are there and no errors in the log.
+</p>
+
+<p>
+For work in progress videos see <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC Farming Simulator 19 youtube playlist</a>.
 </p>
 
 <p>
@@ -40,11 +44,15 @@ See each terrains individual specifications for development progress and if ther
 </p>
 
 <p>
-<b>Releases</b> as of 2019-06-17 none of the below terrains have been publicly released. The fictional PMC Farm Lab test terrain would be ready to release but just havent got around to it. We are looking for dedicated testers for all the terrains in this page.
+2019-05-05 there was an issue with terrain scale being off, I started a huge project of re-design / re-make of all our terrains from ground up, I used no existing files, it was a total re-make.
 </p>
 
 <p>
-For work in progress videos see <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC FS19 youtube playlist</a>.
+2019-02-02 FS19 terrain development studies begun, I had earlier experience from 2018 doing FS17 terrains so it was not a fresh start.
+</p>
+
+<p>
+<b>Releases</b> none of the below terrains have been publicly released. The fictional PMC Farm Lab test terrain would be ready to release but just havent got around to it. We are looking for dedicated testers for all the terrains in this page.
 </p>
 
 	<h2>Real World Data</h2>

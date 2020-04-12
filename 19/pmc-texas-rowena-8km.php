@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Texas Rowena 8km Farming Simulator 19 - PMC Tactical</title>
+<title>Texas Rowena 8km Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Texas Rowena 8km Farming Simulator 19 - PMC Tactical">
-<META name="keywords" content="Terrain, Texas Rowena 8km, PMC, Tactical">
+<META name="description" content="Texas Rowena 8km Farming Simulator 19 - PMC Farming">
+<META name="keywords" content="Terrain, Texas Rowena 8km, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,7 +17,7 @@
 <header>
 <!-- google ads -->
 <?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Tactical Farming Simulator Terrain Texas Rowena 8km</b></h1>
+<h1><b>PMC Texas Rowena 8km - Farming Simulator 19 Terrain</b></h1>
 </header>
 
 <section>
@@ -41,7 +41,25 @@ Click for larger image
 </div>
 
 <p>
-This terrain has all the major buildings and utility poles along roads placed (no vegetation yet).
+Screenshots from development: <a href="https://cdn.discordapp.com/attachments/557685453801914379/576695192023728157/FS19-Texas-Rowena-8km-2019-05-11T0858.png" target="_blank">Gimp cultivator density</a>, <a href="https://cdn.discordapp.com/attachments/557685453801914379/576931181166329857/FS19-Texas-Rowena-8km-2019-05-12T0035.png" target="_blank">cultivated land in-game</a>, <a href="https://cdn.discordapp.com/attachments/557685453801914379/576981214041341965/FS19-Texas-Rowena-8km-2019-05-12T0355.png" target="_blank">fields states in-game</a>. <a href="https://cdn.discordapp.com/attachments/557685453801914379/695250080814596177/PMC-Texas-Rowena-8km-2020-04-02T1138.png" target="_blank">Objects placed on 2020-04-02T1138</a> and <a href="https://cdn.discordapp.com/attachments/557685453801914379/697164449022476328/PMC-Texas-Rowena-8km-2020-04-07T1920.png" target="_blank">Object placement 2020-04-07</a>.
+<br><br>
+Game-play 2020:<br>
+<a href="https://cdn.discordapp.com/attachments/557685453801914379/695278712739856415/PMC-Texas-Rowena-8km-2020-04-02T1424.png" target="_blank">Object placement inspection 2020-04-02T1424</a><br>
+<a href="https://cdn.discordapp.com/attachments/557685453801914379/697242052429217842/PMC-Texas-Rowena-8km-2020-04-08T0027.png" target="_blank">Farmlands painted in GIMP 2020-04-08</a><br>
+<a href="https://cdn.discordapp.com/attachments/557685453801914379/697252616173912084/PMC-Texas-Rowena-8km-2020-04-08T0110.jpg" target="_blank">LOD view distance settings (game.xml) of 5, increases how far objects are drawn, in this case trees</a><br>
+<a href="https://cdn.discordapp.com/attachments/557685453801914379/697300062253875230/PMC-Texas-Rowena-8km-2020-04-08T0408.png" target="_blank">Game.xml LOD view distance values 5, 2020-04-08</a><br>
+<a href="https://cdn.discordapp.com/attachments/557685453801914379/697928628800847912/PMC-Texas-Rowena-8km-2020-04-09T2134.png" target="_blank">Birds eye view of seeding 2020-04-09</a><br>
+<a href="https://cdn.discordapp.com/attachments/557685453801914379/697928681276047370/PMC-Texas-Rowena-8km-2020-04-09T2155.jpg" target="_blank">Lurker view of seeding 2020-04-09</a><br>
+<a href="https://cdn.discordapp.com/attachments/557685453801914379/698760589631029278/PMC-Texas-Rowena-8km-2020-04-12T0500.jpg" target="_blank">Big Bud 450 with John Deere 2623</a><br>
+<a href="https://cdn.discordapp.com/attachments/557685453801914379/698786425457606656/PMC-Texas-Rowena-8km-2020-04-12T0642.jpg" target="_blank">John Deere 9RX with 2680H High Performance disk</a>.
+</p>
+
+<p>
+Video: <a href="https://www.youtube.com/watch?v=uoPcKmqCrF4" target="_blank">Terrain WIP Tour 2020-04-08</a>.
+</p>
+
+<p>
+This terrain has basic buildings, utility poles and trees placed. Basic object placement is complete, more tweaks follow after game-play testing has produced results. See the above game-play 2020 screenshots for details.
 </p>
 
 <p>
@@ -208,10 +226,6 @@ Field 157 (field157) : 4.743 ha
 Field 158 (field158) : 14.301 ha
 Field 159 (field159) : 13.640 ha
 </pre>
-
-<p>
-Development screenshots; <a href="https://cdn.discordapp.com/attachments/557685453801914379/576695192023728157/FS19-Texas-Rowena-8km-2019-05-11T0858.png" target="_blank">Gimp cultivator density</a>, <a href="https://cdn.discordapp.com/attachments/557685453801914379/576931181166329857/FS19-Texas-Rowena-8km-2019-05-12T0035.png" target="_blank">cultivated land in-game</a> and <a href="https://cdn.discordapp.com/attachments/557685453801914379/576981214041341965/FS19-Texas-Rowena-8km-2019-05-12T0355.png" target="_blank">fields states in-game</a>.
-</p>
 
 </section>
 
