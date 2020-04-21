@@ -63,6 +63,10 @@ This terrain has basic buildings, utility poles and trees placed. Basic object p
 </p>
 
 <p>
+Fields 145, <a href="screenshots/PMC-Texas-Rowena-8km-2020-04-13T0424.jpg" target="_blank">148 and 149 have utility poles</a> going through, see <a href="https://www.google.com/maps/@31.5788321,-100.0020704,237m/data=!3m1!1e3" target="_blank">google/maps reference</a>. This is realistic feature, terrain has been built like it is in real world, however FS19 wise utility poles in middle of the field are <a href="screenshots/PMC-Texas-Rowena-8km-2020-04-14T0702.jpg" target="_blank">a huge issue for hired workers / courseplay</a>. We just wanted to be clear that this is NOT a bug, its intended feature, this is real world data terrain and if there are utility poles in real world they appear in PMC Texas Rowena 8km terrain as well.
+</p>
+
+<p>
 Fields smallest: 0.336 ha, largest 113.625 ha.
 </p>
 <pre>
