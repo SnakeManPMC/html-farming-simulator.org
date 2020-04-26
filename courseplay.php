@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Farming Simulator Courseplay - PMC Tactical</title>
+<title>Farming Simulator Courseplay - PMC Farming</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="Farming Simulator Courseplay - PMC Tactical">
-<META name="keywords" content="Farming, Simulator, Courseplay, PMC, Tactical">
+<META name="description" content="Farming Simulator Courseplay - PMC Farming">
+<META name="keywords" content="Farming, Simulator, Courseplay, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,11 +17,15 @@
 <header>
 <!-- google ads -->
 <?php include("include/google-ads.php"); ?>
-<h1><b>PMC Tactical Farming Simulator Courseplay</b></h1>
+<h1><b>PMC Farming Simulator Courseplay</b></h1>
 </header>
 
 <section>
 	<h2>Courseplay</h2>
+
+<p>
+<b>Farming Simulator 17</b>, please note that the below github link in 2020-04-26 has new commits/releases for FS19 version.
+</p>
 
 <p>
 Download <a href="https://github.com/Courseplay/courseplay" target="_blank">github courseplay</a> and for further documentation see <a href="http://courseplay.github.com/courseplay/" target="_blank">homepage</a> for manual etc.
