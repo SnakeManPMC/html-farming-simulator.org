@@ -25,15 +25,32 @@
 
 	<h2>PMC North Dakota Wahpeton 16km</h2>
 
-<a href="images/USA-North-Dakota-Wahpeton-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-North-Dakota-Wahpeton-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Wahpeton, North Dakota, USA" style="float:right;width:256px;height:256px;"></a>
-
 <p>
 PMC North Dakota Wahpeton 16km <a href="https://www.google.com/maps/@46.2737351,-96.6913753,16384m/data=!3m1!1e3" target="_blank">google/maps</a>
 </p>
 
+<div>
+<p style="font-size: 10px;">
+Click for larger image
+</p>
+<a href="images/PMC-North-Dakota-Wahpeton-Satellite-PDA.png" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Wahpeton-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Wahpeton, North Dakota, USA" style="padding: 3px 15px;width:256px;height:256px;"></a>
+
+<a href="images/PMC-North-Dakota-Wahpeton-16km-Fields.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Wahpeton-16km-Fields.jpg" alt="Farming Simulator 19 Terrain - Wahpeton, North Dakota, USA. Fields" style="padding: 3px 15px;width:256px;height:256px;"></a>
+
+<a href="images/PMC-North-Dakota-Wahpeton-16km-Farmland.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Wahpeton-16km-Farmland.jpg" alt="Farming Simulator 19 Terrain - Wahpeton, North Dakota, USA. Farmland" style="padding: 3px 15px;width:256px;height:256px;"></a>
+
+</div>
+
 <p>
-Cultivator_density image painting <a href="https://cdn.discordapp.com/attachments/557685453801914379/579685079970742292/FS19-North-Dakota-Wahpeton-16km-2019-05-19T1459.jpg" target="_blank">FS19-North-Dakota-Wahpeton-16km-2019-05-19T1459.jpg</a>, 
-field definitions in-game <a href="https://cdn.discordapp.com/attachments/557685453801914379/580117012290994185/FS19-North-Dakota-Wahpeton-16km-2019-05-20T1936.png" target="_blank">FS19-North-Dakota-Wahpeton-16km-2019-05-20T1936.png</a>.
+Cultivator_density image painting in GIMP <a href="https://cdn.discordapp.com/attachments/557685453801914379/579685079970742292/FS19-North-Dakota-Wahpeton-16km-2019-05-19T1459.jpg" target="_blank">2019-05-19T1459.jpg</a>, in-game cultivated land <a href="https://cdn.discordapp.com/attachments/557685453801914379/580092290480209922/FS19-North-Dakota-Wahpeton-16km-2019-05-20T1757.png" target="_blank">2019-05-20T1757.png</a>, field definitions in-game <a href="https://cdn.discordapp.com/attachments/557685453801914379/580117012290994185/FS19-North-Dakota-Wahpeton-16km-2019-05-20T1936.png" target="_blank">2019-05-20T1936.png</a>.
+</p>
+
+<p>
+Video <a href="https://www.youtube.com/watch?v=L0aebflF100" target="_blank">PMC North Dakota Wahpeton 16km Creating Field Definitions 2019-05-20</a>.
+</p>
+
+<p>
+See also our other 16.3km x 16.3km terrains <a href="pmc-grande-gardens-16km.php">PMC Grande Gardens 16km</a> and <a href="pmc-texas-hereford-16km.php">PMC Texas Hereford 16km</a>.
 </p>
 
 <p>
