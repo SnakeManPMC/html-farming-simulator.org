@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Porting FS17 Terrain Farming Simulator 19 - PMC Tactical</title>
+<title>Porting FS17 Terrain Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Porting FS17 Terrain Farming Simulator 19 - PMC Tactical">
-<META name="keywords" content="Terrain, Porting FS17 Terrain, PMC, Tactical">
+<META name="description" content="Porting FS17 Terrain Farming Simulator 19 - PMC Farming">
+<META name="keywords" content="Terrain, Porting FS17 Terrain, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,7 +17,7 @@
 <header>
 <!-- google ads -->
 <?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Tactical Farming Simulator Terrain Porting FS17 Terrain</b></h1>
+<h1><b>PMC Farming Simulator Terrain Porting FS17 Terrain</b></h1>
 </header>
 
 <section>

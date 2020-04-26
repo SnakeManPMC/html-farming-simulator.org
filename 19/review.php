@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>PMC Farming Simulator 19 Review - PMC Tactical</title>
+<title>PMC Farming Simulator 19 Review - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC Farming Simulator 19 Review - PMC Tactical">
-<META name="keywords" content="Farming, Simulator, Review, PMC, Tactical">
+<META name="description" content="PMC Farming Simulator 19 Review - PMC Farming">
+<META name="keywords" content="Farming, Simulator, Review, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 

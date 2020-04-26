@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>North Dakota Wahpeton 16km Farming Simulator 19 - PMC Tactical</title>
+<title>North Dakota Wahpeton 16km Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="North Dakota Wahpeton 16km Farming Simulator 19 - PMC Tactical">
-<META name="keywords" content="Terrain, North Dakota Wahpeton 16km, PMC, Tactical">
+<META name="description" content="North Dakota Wahpeton 16km Farming Simulator 19 - PMC Farming">
+<META name="keywords" content="Terrain, North Dakota Wahpeton 16km, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,7 +17,7 @@
 <header>
 <!-- google ads -->
 <?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Tactical Farming Simulator Terrain North Dakota Wahpeton 16km</b></h1>
+<h1><b>PMC Farming Simulator Terrain North Dakota Wahpeton 16km</b></h1>
 </header>
 
 <section>

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Real World Data Terrain Farming Simulator 19 - PMC Tactical</title>
+<title>Real World Data Terrain Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Real World Data Terrain Farming Simulator 19 - PMC Tactical">
-<META name="keywords" content="Terrain, Real World Data, PMC, Tactical">
+<META name="description" content="Real World Data Terrain Farming Simulator 19 - PMC Farming">
+<META name="keywords" content="Terrain, Real World Data, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,7 +17,7 @@
 <header>
 <!-- google ads -->
 <?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Tactical Farming Simulator Real World Data Terrain</b></h1>
+<h1><b>PMC Farming Simulator Real World Data Terrain</b></h1>
 </header>
 
 <section>
