@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>PMC Farming Stories - PMC Tactical</title>
+<title>PMC Farming Stories - PMC Farming</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC Farming Stories - PMC Tactical">
-<META name="keywords" content="Farming, Stories, PMC, Tactical">
+<META name="description" content="PMC Farming Stories - PMC Farming">
+<META name="keywords" content="Farming, Stories, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,7 +17,7 @@
 <header>
 <!-- google ads -->
 <?php include("include/google-ads.php"); ?>
-<h1><b>PMC Tactical Farming Simulator 17 Stories</b></h1>
+<h1><b>PMC Farming Simulator 17 Stories</b></h1>
 </header>
 
 <section>
@@ -3492,11 +3492,6 @@ Had to bring another truck to help as the one is way too little, I had over 1 mi
 Selling that truck load of fertilizer concluded this play session as Farming Simulator 19 had been downloaded, I'm going to start install and play that now. Remains to be seen if this log entry was the last for this savegame and who knows, maybe for FS17 all together... ;)
 </p>
 
-<!--
-</p>
-
-<p>
--->
 </section>
 
 <footer>

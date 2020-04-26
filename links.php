@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Farming Simulator Links - PMC Tactical</title>
+<title>Farming Simulator Links - PMC Farming</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="Farming Simulator - PMC Tactical">
-<META name="keywords" content="Farming Simulator, PMC, Tactical">
+<META name="description" content="Farming Simulator - PMC Farming">
+<META name="keywords" content="Farming Simulator, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -36,19 +36,15 @@
 </p>
 
 <p>
-<a href="http://www.modhub.us/category/farming-simulator-2017-mods/maps/" target="_blank">modhub.us, maps</a><br>
-<a href="https://fs-uk.com/mods/list/category/5/1/" target="_blank">fs-uk.com, maps?</a><br>
+<a href="http://www.modhub.us/category/farming-simulator-2017-mods/maps/" target="_blank">modhub.us, FS17 terrains</a><br>
 <a href="https://www.modhoster.com/" target="_blank">modhoster.com</a><br>
-<a href="https://www.modland.net/farming-simulator-2017-mods/maps/" target="_blank">modland.net, maps</a><br>
+<a href="https://www.modland.net/farming-simulator-2017-mods/maps/" target="_blank">modland.net, FS17 terrains</a><br>
 <a href="https://github.com/DeckerMMIV?tab=repositories" target="_blank">DeckerMMIV github</a><br>
 <a href="http://modcentral.co.uk/resources/categories/farming-simulator-2017.187/" target="_blank">modcentral.co.uk/fs17</a><br>
 <a href="http://pvmods.enjin.com/home/m/31719950" target="_blank">pvmods</a><br>
 <a href="http://www.blacksheep-modding.com/" target="_blank">blacksheep-modding.com</a><br>
 <a href="https://nld-farmers.nl/" target="_blank">nld-farmers.nl</a><br>
 <a href="https://www.facebook.com/StevieFSMods/" target="_blank">StevieFSMods (facebook)</a><br>
-<a href="http://www.farming2015mods.com/category/farming-simulator-2017-mods/fs-17-maps/" target="_blank">farming2015mods.com, maps</a><br>
-<a href="http://www.fsmods17.com/category/farming-simulator-17-mods/fs17-maps/" target="_blank">fsmods17.com</a><br>
-<a href="http://www.ls17mods.com/" target="_blank">ls17mods.com</a>
 </p>
 
 <p>

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Farming Simulator 17 Map Making Tutorial - PMC Tactical</title>
+<title>Farming Simulator 17 Map Making Tutorial - PMC Farming</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="Farming Simulator 17 Map Making Tutorial - PMC Tactical">
-<META name="keywords" content="Farming, Simulator, Map, Making, Tutorial, PMC, Tactical">
+<META name="description" content="Farming Simulator 17 Map Making Tutorial - PMC Farming">
+<META name="keywords" content="Farming, Simulator, Map, Making, Tutorial, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,7 +17,7 @@
 <header>
 <!-- google ads -->
 <?php include("include/google-ads.php"); ?>
-<h1><b>PMC Tactical Farming Simulator 17 Map Making Tutorial</b></h1>
+<h1><b>PMC Farming Simulator 17 Map Making Tutorial</b></h1>
 </header>
 
 <section>
@@ -57,7 +57,7 @@ CTRL-B then LMB duplicate selected object(s) where the mouse cursor is at LMB pr
 </p>
 
 <p>
-PDA Camera. Create new scenegraph item of camera (Create -> Camera), in attributes window transform name it to PDAcamera or something. Use translate Y: 4000 and rotate X: -90. Translate Y is your map size, so for 2x maps use 2000, for 4x maps use 4000 and for 16x maps use 8000.
+PDA Camera. Create new scenegraph item of camera (Create -> Camera), in attributes window transform name it to PDAcamera or something. Use translate Y: 4000 and rotate X: -90. Translate Y is your map size, so for 2km maps use 2000, for 4km maps use 4000 and for 8km maps use 8000.
 </p>
 
 <p>
@@ -339,7 +339,7 @@ the default size of the map01_dem.png is 1k: 1025x1025.
 </p>
 
 <p>
-So for a 4x map you need to scale that file to 2k: 2049x2049 and for a 16x map to 4k: 4097x4097
+So for a 4km map you need to scale that file to 2k: 2049x2049 and for a 8km map to 4k: 4097x4097
 </p>
 
 <p>
@@ -351,7 +351,7 @@ unitsPerPixel has value of two by default. Edit the map with a texteditor and se
 </p>
 
 <p>
-<a href="https://forum.giants-software.com/viewtopic.php?f=824&t=89809&p=693929#p693929" target="_blank">german language forum post about some 16x map shaders</a>.
+<a href="https://forum.giants-software.com/viewtopic.php?f=824&t=89809&p=693929#p693929" target="_blank">german language forum post about some 8km map shaders</a>.
 </p>
 
 	<h2>Map Starter Money</h2>

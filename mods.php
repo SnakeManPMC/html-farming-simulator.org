@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Farming Simulator Mods - PMC Tactical</title>
+<title>Farming Simulator Mods - PMC Farming</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="Farming Simulator Mods - PMC Tactical">
-<META name="keywords" content="Farming Simulator Mods, PMC, Tactical">
+<META name="description" content="Farming Simulator Mods - PMC Farming">
+<META name="keywords" content="Farming Simulator Mods, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,7 +17,7 @@
 <header>
 <!-- google ads -->
 <?php include("include/google-ads.php"); ?>
-<h1><b>PMC Tactical Farming Simulator Mods</b></h1>
+<h1><b>PMC Farming Simulator Mods</b></h1>
 </header>
 
 <section>
