@@ -125,7 +125,7 @@ Obviously same applies as in SP that if you're in no hurry to use time accelerat
 	<h2>Weeds</h2>
 
 <p>
-Weeds grow on fields (after fertilizing?), they take away nutrients from your actual crops so therefore are very harmful for the yield. You must kill weeds either mechanically by a weeder or chemically by a herbicide sprayer.
+Weeds grow on fields after harvest, they take away nutrients from your actual crops so therefore are very harmful for the yield. You must kill weeds either mechanically by a weeder or chemically by a herbicide sprayer.
 </p>
 
 <p>
@@ -138,6 +138,18 @@ If weeds grow too large along with your crops, you cannot get rid of them with t
 
 <p>
 You cannot see (easily or maybe at all) weeds on field that is on the first two growth stages, you must check soil composition colors for a pink color to spot weeds.
+</p>
+
+<p>
+You cannot spray a field if its darker "wet" color, either herbicide or fertilizer.
+</p>
+
+<p>
+If you herbicide spray so your field turns darker color and next try to spread/spray fertilizer it does not work. The dark "wet" field color is a good marker of when you cannot fertilize. Its the same other way around if you first fertilize you cannot immediately herbicide spray you must cultivate or spread lime or wait for crop growth stage to switch in between.
+</p>
+
+<p>
+So after you harvest, first fertilize. You can obviously herbicide spray -> cultivate -> fertilize as usual. It is recommended to herbicide spray when you get crop green plants growth stage switch.
 </p>
 
 	<h2>Seed Pallets</h2>
