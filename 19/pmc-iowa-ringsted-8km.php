@@ -17,7 +17,7 @@
 <header>
 <!-- google ads -->
 <?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Farming Simulator Terrain Iowa Ringsted 8km</b></h1>
+<h1><b>PMC Iowa Ringsted 8km - Farming Simulator 19 Terrain</b></h1>
 </header>
 
 <section>

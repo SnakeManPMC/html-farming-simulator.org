@@ -17,7 +17,7 @@
 <header>
 <!-- google ads -->
 <?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Farming Simulator Terrain North Dakota Wahpeton 16km</b></h1>
+<h1><b>PMC North Dakota Wahpeton 16km - Farming Simulator 19 Terrain</b></h1>
 </header>
 
 <section>
