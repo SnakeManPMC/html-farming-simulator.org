@@ -67,6 +67,10 @@ Fields 145, <a href="screenshots/PMC-Texas-Rowena-8km-2020-04-13T0424.jpg" targe
 </p>
 
 <p>
+New Farmer game-mode starter vehicles: Fendt 313 Vario with narrow tires. Case Optum 300 CVX with wide tires and weights. Massey Ferguson MF Activa 7347 S. Massey Ferguson FreeFlow 7.6m. Agroliner TAW 30. Capello Diamant HS8 6m. Lemken Titan 18 4.9m. Horsch Tiger 6 DT 6m. Horsch Pronto 9 DC 9m. Lemken Azurit 9 6m. Lemken Solitair 23 2000 liters. Kuhn Deltis 1302 MTA3 21m. Kuhn PF 1500 1500 liters. Bredal K105 with spreader extension. PMC Farm Silo Large 10 million liters. PMC Farm Silo Extension 1 million liters. CBJ Midwest 72x150 White Shed. Easy Shed 2. Product: 4 seed pallets, 4 fertilizer pallets, 2 lime pallets, 2 herbicide tanks.
+</p>
+
+<p>
 Fields smallest: 0.336 ha, largest 113.625 ha.
 </p>
 <pre>
