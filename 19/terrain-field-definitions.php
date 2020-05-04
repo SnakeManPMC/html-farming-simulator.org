@@ -4,7 +4,7 @@
 <title>Field Definitions Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Field Definitions Farming Simulator 19 - PMC Farming">
-<META name="keywords" content="Terrain, Field Definitions, PMC, Farming">
+<META name="keywords" content="Terrain, Field, Definitions, PMC, Farming, Simulator">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -51,31 +51,39 @@ To add more corner01 pieces allows you to create more complex fields, you can si
 </p>
 
 <p>
-You do not need to rename the cornerXX, not even fieldXX transformgroups as game will load them fine, however please name fieldXX ones properly because who wants to see 50+ "field" transformgroups without any idea which is which heh.
+Reference: mapUS has 26 field definitions, 12 of them have only one corner piece. Most corner pieces are on F17 which has 8, others have around 2-4. mapDE has 33 field definitions, 21 of them have only one corner piece. most corner pieces are on F05, F06, F09 and F25 which have 4.
 </p>
 
 <p>
-Once you have created your first field, check that it works in-game, then you can simply select transformgroup field01 and CTRL-D duplicate / copy paste it and rename it to field02. Repeat this to as many fields you need to create (obviously increasing the fieldXX number every time).
+You do not need to rename the cornerXX, not even fieldXX transformgroups as game will load them just fine, however please name fieldXX ones properly because who wants to see 50+ "field" transformgroups without any idea which is which heh. Not naming them saves a lot of editing time though.
 </p>
 
 <p>
-General terrain and field design tip:
+Once you have created your first field, check that it works in-game, then you can simply select transformgroup field01 and CTRL-D duplicate / copy paste it and move it to correct location. Repeat this to as many fields you need to create.
 </p>
 
 <p>
-Paint the fields into terrain normally with proper edges, but only create standard rectangle box field definitions. This way players can buy the fields and enlarge them by using plowing implement, giving them something nice to do, or they can of course leave them as is.
+General terrain and field design tips:
 </p>
 
 <p>
-You could say that this would be lazy terrain developer method as making simple rectangle field definition takes one CTRL-D while detailed several cornerXX pieces requiring field takes much longer.
+<a href="terrain-cultivator_density-gimp.php">GIMP paint the fields into cultivator_density</a> normally with proper edges, but only create simple rectangle box field definitions. This saves a lot of editing time and gives fully working in-game functionality.
 </p>
 
 <p>
-Courseplay recognizes the foliage layer plowed/cultivated etc terrain type, NOT the field definition, at least I believe this is how courseplay/game works? So make sure you do not paint the foliage layer as plowed/cultivated land but that umm what was it the odd looking brown colored terrain type (no idea, the one seen in FS17 cornbelt heh)? :)
+You could say that this would be lazy terrain developer method as making simple rectangle field definition takes one CTRL-D while detailed several cornerXX pieces requiring field takes much longer, possibly hours (of wasted time heh) per field.
 </p>
 
 <p>
-Creating fields is quicker if you just call the first "field" without any numbering and once you have finished making all of them its easier to rename them all in one go. This usually applies to my own workflow where I make placeholders for all the fields at one go, then tweak them to precision later. Also I find it quicker to edit field numbering directly in the name.i3d xml file, but thats just me who's so used to text editing heh.
+Courseplay recognizes the cultivator_density cultivated/plowed terrain type, NOT the field definition, but if you have no field definition at all then courseplay "cannot find" the field.
+</p>
+
+<p>
+Creating fields is quicker if you just call the first "field" without any numbering and once you have finished making all of them its easier to rename them all in one go, if you so choose. This usually applies to my own workflow where I make placeholders for all the fields at one go, then tweak them to precision later. Also I find it quicker to edit field numbering directly in the name.i3d xml file, but thats just me who's so used to text editing heh.
+</p>
+
+<p>
+Youtube videos (not tutorials) showing me creating field definitions: <a href="https://www.youtube.com/watch?v=pduoexeyr9A" target="_blank">Giants Editor v8.1 Creating Field Definitions 2019-02-12</a> and <a href="https://www.youtube.com/watch?v=L0aebflF100" target="_blank">PMC North Dakota Wahpeton 16km Creating Field Definitions 2019-05-20</a>.
 </p>
 
 </section>
