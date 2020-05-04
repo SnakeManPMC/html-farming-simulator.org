@@ -24,7 +24,7 @@
 	<h2>Lua Scripts</h2>
 
 <p>
-GE scripts paint_terrain_by_spline2.lua <a href="https://www.fs-uk.com/forum/index.php?topic=205310.0" target="_blank">fs-uk.com/forum topic</a>. This one works with mapDE files:
+GE scripts paint_terrain_by_spline2.lua works with mapDE files:
 </p>
 
 <pre>
