@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Gimp Paint cultivator_density Image Farming Simulator 19 - PMC Farming</title>
+<title>GIMP Paint cultivator_density Image Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Gimp Paint cultivator_density Image Farming Simulator 19 - PMC Farming">
-<META name="keywords" content="Terrain, Gimp Paint cultivator_density Image, PMC, Farming">
+<META name="description" content="GIMP Paint cultivator_density Image Farming Simulator 19 - PMC Farming">
+<META name="keywords" content="Terrain, GIMP, Paint, cultivator_density, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,14 +17,14 @@
 <header>
 <!-- google ads -->
 <?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Farming Simulator Terrain Gimp Paint cultivator_density Image</b></h1>
+<h1><b>PMC Farming Simulator Terrain GIMP Paint cultivator_density Image</b></h1>
 </header>
 
 <section>
-	<h2>Gimp Paint Fields</h2>
+	<h2>GIMP Paint Fields</h2>
 
 <p>
-Paint fields in GIMP using satellite texture as base. Paint cultivated or plowed fields. GE is extremely bad software to use so painting fields using it is a torture, it is far better to paint them in gimp.
+Paint fields in GIMP using satellite texture as base. Paint cultivated or plowed fields. GE is extremely bad software to use so painting fields using it is a torture, it is far better to paint them in GIMP.
 </p>
 
 <p>
@@ -32,19 +32,36 @@ cultivator_density uses cultivated land RGB 1,0,0 and ploughed land RGB 2,0,0 co
 </p>
 
 <p>
-This image assumes you have high resolution satellite image for real world data terrain available, use 8192 x 8192 resolution for 8km and 4096 x 4096 resolution for 4km terrains.
+cultivator_density image assumes you have high resolution satellite image for real world data terrain available, use 8192 x 8192 resolution for 8km and 4096 x 4096 resolution for 4km terrains.
 </p>
 
 <p>
-- open satellite image in gimp, create fields layer and paint fields as some bright color like red<br>
-- resize to cultivator_density resolution (usually smaller), background RGB 0,0,0 and red color to RGB 1,0,0 export to cultivator_density.png<br>
+- open satellite image in gimp, <a href="https://docs.gimp.org/en/gimp-using-layers.html" target="_blank">create fields layer</a> and paint fields as some bright color like red RGB 255,0,0<br>
+- <a href="https://docs.gimp.org/en/plug-in-exchange.html" target="_blank">change colors</a> background RGB 0,0,0 and red color to RGB 1,0,0 export to cultivator_density.png<br>
 - replace RGB 0,0,0 with RGB 130,0,0 and RGB 1,0,0 with RGB 0,0,0 export to fruit_density.png<br>
+- save satellite image + painted fields as XCF so you can later make tweaks if necessary<br>
 - edit terrainname.i3d GDM to PNG on these two density images<br>
-- GE load terrainname.i3d and verify that fields are painted without grass in them, save<br>
+- GE load terrainname.i3d and verify that fields are painted without grass in them<br>
+- save and exit<br>
+- edit terrainname.i3d PNG to GDM on these two density images<br>
+- delete PNG images of these two density images (not GDM, be careful)
 </p>
 
 <p>
-Idea: why not screenshot GE top-down view with field rectangles visible, then just gimp resize it to like 4096 res, color replace the blue with RGB 1,0,0 to create cultivated fields almost automatically? Hmm :)
+Pencil you paint the fields must be HARD EDGE. It cannot have antialiasing or any other "smoothing" features on, do not use soft edge pencil, paint brush etc. We don't want smearing pixels appear in the painted image. If there are such smear pixels other than RGB 1,0,0 or 2,0,0 then they appear as random crop types etc which you do not want. Reference <a href="https://docs.gimp.org/2.10/en/gimp-tool-pencil.html" target="_blank">docs.gimp.org - Pencil tool</a>.
+</p>
+
+<p>
+fruit_density image we exported mostly as RGB 130,0,0 is mapUS grass everywhere except on painted fields.
+</p>
+
+<p>
+Youtube video (not tutorial): <a href="https://www.youtube.com/watch?v=KwRsKoVGasQ" target="_blank">Gimp Painting Cultivator Density Texas Red Springs 8km 2019-05-16</a>.
+</p>
+
+<p>
+Some reference images: <a href="https://i.imgur.com/fBxK68p.jpg" target="_blank">Texas Red Springs I believe</a>, 
+<a href="https://cdn.discordapp.com/attachments/245423404822298625/553205625086017537/FS19_Cultivated_Fields_Painted_In_GIMP_2019-03-07T1320.jpg" target="_blank">2019-03-07T1320</a>, <a href="https://cdn.discordapp.com/attachments/245423404822298625/553223007129305088/FS19_Cultivated_Fields_Painted_In_GIMP_2019-03-07T1429.jpg" target="_blank">2019-03-07T1429</a>, <a href="https://cdn.discordapp.com/attachments/245423404822298625/553323212449120271/FS19_Cultivated_Fields_Painted_In_GIMP_2019-03-07T2106.jpg" target="_blank">2019-03-07T2106</a> and <a href="https://cdn.discordapp.com/attachments/557685453801914379/700102099752714250/GIMP-Properly-Colored-Cultivator-Density-Field-Areas.png" target="_blank">GIMP properly colored cultivator_density field areas</a>.
 </p>
 
 </section>
