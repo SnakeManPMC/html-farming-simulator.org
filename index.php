@@ -3,8 +3,8 @@
 <head>
 <title>PMC Farming Simulator</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="Farming Simulator">
-<META name="keywords" content="Farming Simulator">
+<META name="description" content="PMC Farming Simulator">
+<META name="keywords" content="PMC, Farming, Simulator">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,24 +17,23 @@
 <header>
 <!-- google ads -->
 <?php include("include/google-ads.php"); ?>
-<h1>Farming Simulator</h1>
+<h1>PMC Farming Simulator</h1>
 <p>Welcome to PMC Farming Simulator homepage.</p>
 </header>
 
 <section>
 	<h2>Farming Simulator 19</h2>
 <p>
+<!-- <a href="19/editing.php" class="button">Editing</a> -->
+<!-- <a href="19/multiplayer.php" class="button">Multiplayer</a> -->
+<a href="19/pmc-terrains.php" class="button">PMC Terrains</a>
 <a href="19/contracts.php" class="button">Contracts</a>
 <a href="19/courseplay.php" class="button">Courseplay</a>
-<!-- <a href="19/editing.php" class="button">Editing</a>
--->
+<a href="19/equipment-vehicle-prices.php" class="button">Equipment Vehicle Prices</a>
 <a href="19/guide.php" class="button">Guide</a>
 <a href="19/map-making-tutorial.php" class="button">Map Making Tutorial</a>
 <a href="19/maps.php" class="button">Maps</a>
 <a href="19/mods.php" class="button">Mods</a>
-<a href="19/pmc-terrains.php" class="button">PMC Terrains</a>
-<!-- <a href="19/multiplayer.php" class="button">Multiplayer</a>
--->
 <a href="19/review.php" class="button">Review</a>
 <a href="19/settings.php" class="button">Settings</a>
 <a href="19/stories.php" class="button">Stories</a>

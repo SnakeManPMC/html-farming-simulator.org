@@ -60,7 +60,7 @@
   <loc>https://www.farming-simulator.org/19/courseplay.php</loc>
 </url>
 <url>
-  <loc>https://www.farming-simulator.org/19/editing.php</loc>
+  <loc>https://www.farming-simulator.org/19/equipment-vehicle-prices.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/19/guide.php</loc>
@@ -70,9 +70,6 @@
 </url>
 <url>
   <loc>https://www.farming-simulator.org/19/mods.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/19/multiplayer.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/19/review.php</loc>
@@ -162,7 +159,7 @@
   <loc>https://www.farming-simulator.org/19/terrain-real-world-data.php</loc>
 </url>
 <url>
-  <loc>https://www.farming-simulator.org/19/terrain-sale-points.php</loc>
+  <loc>https://www.farming-simulator.org/19/terrain-selling-points.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/19/terrain-savegame-update.php</loc>
