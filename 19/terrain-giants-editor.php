@@ -32,6 +32,10 @@ Giants Editor (GE) got v8.1 release on 2019-02-09, new features were toggle opti
 </p>
 
 <p>
+Giants Editor (GE) got v8.2 release on 2019-11-22. Some nice fixes for terrain editing.
+</p>
+
+<p>
 Use file -> preferences -> viewport -> interactive placement scale variance. This will set the object placing using CTRL-B with random scale.
 </p>
 
@@ -45,6 +49,10 @@ Converting old terrain. Use file -> open mod, then browse to your terrains modDe
 
 <p>
 When you change _density image resolution you must run GE -> scripts -> fs19 -> map -> create ground collision map.
+</p>
+
+<p>
+Large terrain support for GE by using <a href="downloads/GE.Setup.8km.16km.32km.Terrain.Scripts.2020-05-05.7z">GE.Setup.8km.16km.32km.Terrain.Scripts.2020-05-05.7z</a>. This includes 8km, 16km and 32km scripts. Unpack 7zip to scripts directory, start GE, load a huge terrain, then run one of these scripts and your terrain is properly rendered in scenegraph.
 </p>
 
 </section>
