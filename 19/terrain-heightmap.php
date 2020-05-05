@@ -40,7 +40,7 @@ mapDE and mapUS are 2km x 2km terrains with heightmap image size of 1024 x 1024 
 </p>
 
 <p>
-See also <a href="terrain-heightscale.php">heightScale</a>.
+See also <a href="terrain-unitsperpixel.php">unitsPerPixel</a> and <a href="terrain-heightscale.php">heightScale</a>.
 </p>
 
 </section>
