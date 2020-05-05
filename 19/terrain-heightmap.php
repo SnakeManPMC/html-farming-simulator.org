@@ -24,7 +24,7 @@
 	<h2>Heightmap</h2>
 
 <p>
-Heightmap or Digital Elevation Map (DEM) as its called in FS19, is the terrain elevations in grayscale png image format.
+Heightmap or Digital Elevation Map (DEM) as its called in FS19, is the terrain elevations in 16bit grayscale png image format.
 </p>
 
 <p>
@@ -36,7 +36,11 @@ The GIANTS Editor and the engine also support 16bit png images. For example you 
 </p>
 
 <p>
-2km x 2km terrain heightmap image size is 1024 x 1024 resolution (or 1025 with the extra pixel). 4km is 2048. 8km is 4096. 16km is 8192 and 32km is 16384. You can prepare your heightmap as standard size of 2048, 4096 etc and let GE automatically add the extra pixel upon first load/save.
+mapDE and mapUS are 2km x 2km terrains with heightmap image size of 1024 x 1024 resolution (or 1025 with the extra pixel). You can prepare your heightmap as standard size of 1024, 2048, 4096 etc and let GE automatically add the extra pixel upon first load/save.
+</p>
+
+<p>
+See also <a href="terrain-heightscale.php">heightScale</a>.
 </p>
 
 </section>
