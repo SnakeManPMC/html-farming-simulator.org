@@ -49,7 +49,6 @@ Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulat
 <p><a href="terrain-giants-game-mode-review.php">Giants Game Mode Review</a></p>
 <p><a href="terrain-global-mapper-painted-roads.php">Global Mapper Painted Roads</a></p>
 <p><a href="terrain-heightmap.php">Heightmap</a></p>
-<p><a href="terrain-heightmap-smoothing.php">Heightmap Smoothing</a></p>
 <p><a href="terrain-heightscale.php">heightScale</a></p>
 <p><a href="terrain-howto-create-16km.php">HOWTO Create 16.3km Terrain</a></p>
 <p><a href="terrain-lua-scripts.php">LUA Scripts</a></p>
