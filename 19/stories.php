@@ -31,7 +31,7 @@ Back in Farming Simulator 17 I started to write down what kind of careers I play
 See our older <a href="../stories.php">FS17 stories</a> page how it all got started.
 </p>
 
-	<h2>PMC Start From Scratch Background</h2>
+	<h2>PMC Start From Zero Background</h2>
 
 <p>
 Back in FS17 I started my own "start from scratch" career (on Cornbelt) by editing savegame files removing <i>everything</i> I owned and reset loan to zero as well. No fields, no vehicles, no loan and no money. Then I started to do missions until had enough money to buy vehicles and the first field.
@@ -75,6 +75,10 @@ What do you guys think, is it too hardcore to start from complete zero in FS19?
 
 <p>
 <a href="stories-from-zero-grande-gardens.php" class="button">Grande Gardens. Start From Zero</a>
+</p>
+
+<p>
+<a href="stories-seasons-review.php" class="button">Seasons Review (for large terrains)</a>
 </p>
 
 </section>
