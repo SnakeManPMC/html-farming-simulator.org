@@ -78,6 +78,10 @@ What do you guys think, is it too hardcore to start from complete zero in FS19?
 </p>
 
 <p>
+<a href="stories-from-zero-north-dakota-greendale.php" class="button">North Dakota, Greendale. Start From Zero</a>
+</p>
+
+<p>
 <a href="stories-seasons-review.php" class="button">Seasons Review (for large terrains)</a>
 </p>
 
