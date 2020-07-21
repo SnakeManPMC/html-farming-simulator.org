@@ -52,6 +52,12 @@
 2020-02-20 Farming Simulator 19 - Bourgault DLC announced<br>
 2020-02-27 Farming Simulator 19 - Platinum Edition (Claas DLC) v1.2 patch released <a href="https://forum.giants-software.com/viewtopic.php?f=876&t=159368" target="_blank">changelog</a><br>
 2020-03-10 Farming Simulator 19 - Bourgault DLC <a href="https://www.farming-simulator.com/dlc-detail.php?lang=en&country=us&dlc_id=fs19bourgault" target="_blank">Bourgault DLC</a><br>
+2020-06-09 Farming Simulator 19 - v1.6 update <a href="https://forum.giants-software.com/viewtopic.php?f=876&t=168062" target="_blank">changelog</a><br>
+2020-06-16 Farming Simulator 19 - Kverneland & Vicon Equipment Pack <a href="https://www.farming-simulator.com/dlc-detail.php?&dlc_id=fs19kverneland" target="_blank">Kverneland DLC</a><br>
+2020-07-19 Farming Simulator 19 - Alpine Terrain DLC announced <a href="https://www.farming-simulator.com/newsArticle.php?lang=en&country=us&news_id=166" target="_blank">news</a><br>
+<!--
+2020-11-12 Farming Simulator 19 - Alpine Terrain DLC release
+-->
 </p>
 
 </section>
