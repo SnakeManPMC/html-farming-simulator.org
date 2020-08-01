@@ -55,6 +55,7 @@
 2020-06-09 Farming Simulator 19 - v1.6 update <a href="https://forum.giants-software.com/viewtopic.php?f=876&t=168062" target="_blank">changelog</a><br>
 2020-06-16 Farming Simulator 19 - Kverneland & Vicon Equipment Pack <a href="https://www.farming-simulator.com/dlc-detail.php?&dlc_id=fs19kverneland" target="_blank">Kverneland DLC</a><br>
 2020-07-19 Farming Simulator 19 - Alpine Terrain DLC announced <a href="https://www.farming-simulator.com/newsArticle.php?lang=en&country=us&news_id=166" target="_blank">news</a><br>
+2020-07-31 Farming Simulator 19 - Precision Farming Project announced <a href="https://www.farming-simulator.com/newsArticle.php?lang=en&country=us&news_id=162" target="_blank">news</a><br>
 <!--
 2020-11-12 Farming Simulator 19 - Alpine Terrain DLC release
 -->
