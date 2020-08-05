@@ -24,7 +24,7 @@
 	<h2>Work In Progress</h2>
 
 <p>
-<b>2020-04-13</b> PMC Texas Rowena 8km basic object placement (buildings, utility poles, trees) is complete! :)
+<b>2020-08-05</b> PMC Texas Rowena 8km New Farmer game-mode play testing has finished. Terrain v0.1.9 works really nice now.
 </p>
 
 <p>
@@ -37,6 +37,10 @@ See each terrains individual specifications for development progress and if ther
 
 <p>
 For work in progress videos see <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC Farming Simulator 19 youtube playlist</a>.
+</p>
+
+<p>
+2020-04-13 PMC Texas Rowena 8km basic object placement (buildings, utility poles, trees) is complete! :)
 </p>
 
 <p>
@@ -58,17 +62,17 @@ For work in progress videos see <a href="https://www.youtube.com/playlist?list=P
 	<h2>Real World Data</h2>
 
 <p>
-These are made out of <a href="http://www.arcgis.com/home/webmap/viewer.html?useExisting=1" target="_blank">ArcGis world imagery</a> satellite imagery or <a href="https://www.fsa.usda.gov/programs-and-services/aerial-photography/imagery-programs/naip-imagery/" target="_blank">US National Agriculture Imagery Program (NAIP)</a> aerial imagery (we mostly use US NAIP now) and <a href="https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map" target="_blank">US National Elevation Dataset (NED)</a> 10 meter resolution heightmap data. These are real world farming areas, some functionality like vehicle shop and sale points have been placed to suitable locations for FS19 where they would not be in real life.
+These are made out of <a href="http://www.arcgis.com/home/webmap/viewer.html?useExisting=1" target="_blank">ArcGis world imagery</a> satellite imagery or <a href="https://www.fsa.usda.gov/programs-and-services/aerial-photography/imagery-programs/naip-imagery/" target="_blank">US National Agriculture Imagery Program (NAIP)</a> aerial imagery (we mostly use US NAIP now) and <a href="https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map" target="_blank">US National Elevation Dataset (NED)</a> 10 meter resolution heightmap data. These are real world farming areas, some functionality like vehicle shop and sell points have been placed to suitable locations for FS19 where they would not be in real life.
 </p>
 
 <p>
-Heightmap is accurate to 10 meter resolution but Farming Simulator 19 (FS19) only supports 0 meters to 255 meters elevations, it does not recognize real world locations like UTM projection or any of that. This means that while the heightmap is realistic, it is not exactly like in real life as we had to use unprecise and outdated grayscale image as the heightmap (please forward complaints about outdated technology to Giants Software heh). PMC terrain heightmaps are as good as they can be made out of US NED data.
+Heightmap is accurate to 10 meter resolution which means that the heightmap has realistic elevations. PMC terrain heightmaps are as good as they can be made out of US NED data.
 </p>
 
 	<h2>Design</h2>
 
 <p>
-<b>Fields</b> (field definitions) are made out of large rectangles which do not cover the satellite texture field edges precisely, this is because we want to allow players to plough their fields larger and to their liking, if they dont want then fine the fields work OK as is. This gives players more opportunities to be creative and just have something to do, always so satisfying feeling when you know it was you who plow shaped that field larger. We will improve field definition details on a later date but because their nature being mostly cosmetic, their priority is very low.
+<b>Fields</b> (field definitions) are made out of large rectangles which do not cover the satellite texture field edges precisely. We will improve field definition details on a later date but because their nature being mostly cosmetic, their priority is very low.
 </p>
 
 <p>
@@ -80,11 +84,11 @@ Please note that field hectare count comes from field definition rectangle and n
 </p>
 
 <p>
-<b>Roads</b> are just painted textures not a real objects as most terrains do. For example our roads are just asphalt texture, dirt/gravel texture without any center line or anything.
+<b>Roads</b> are just painted textures not a real objects as most terrains do. For example our roads are just asphalt texture, dirt/gravel texture without any center line or anything. In the future we would like to add road meshes.
 </p>
 
 <p>
-<b>Farms</b> like player farm is empty so that player can build it himself using placeables. This also goes to other farms in the terrain to allow players in multiplayer to create several different farms. We are still finding our way, the game-play design for this like should we leave the terrain mostly empty of buildings or should we FS17 alike spoon feed players their pre-built farms... difficult question as so many players like different things.
+<b>Farms</b> like player farm is built using placeables, if players want they can sell the placeables to remove all buildings/bin-silos. This also goes to few other farms in the terrain to allow players in multiplayer to create several different farms. We are still finding our way, the game-play design for this like should we leave the terrain mostly empty of buildings or should we FS17 alike spoon feed players their pre-built farms... difficult question as so many players like different things.
 </p>
 
 <p>
@@ -92,7 +96,11 @@ If you have any feedback regarding multiplayer farm buildings, please let us kno
 </p>
 
 <p>
-<b>Terrain Size</b> is listed below on each terrain specifically, however mostly we go with 8192 meters x 8192 meters which is 8.1km x 8.1km (or just 8km in short) which is very large as we do not like small terrains, we need real world sizes and room to breathe! :)
+<b>Terrain Size</b> is listed below on each terrain specifically, however mostly we go with 8192 meters x 8192 meters which is 8.1 kilometers x 8.1 kilometers (or just 8km in short) which is very large as we do not like small terrains, we need real world sizes and room to breathe! :)
+</p>
+
+<p>
+Below green texts are links, click them to open more detailed terrain pages with screenshots etc.
 </p>
 
 <p><a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a></p>
@@ -157,15 +165,15 @@ Largest terrain in Farming Simulator history, size 32 kilometers x 32 kilometers
 </p>
 
 <p>
-This enormous 32km x 32km terrain started as kind of a joke, like would it work, could I do this. The goal was never to create properly done terrain with all the sale points, roads, fields and all that, this is more like a technology demonstration that such huge size works, with some limitations like density image low resolution.
+This enormous 32km x 32km terrain started as kind of a joke, like would it work, could I do this. The goal was never to create properly done terrain with all the sell points, roads, fields and all that, this is more like a technology demonstration that such huge size works, with some limitations like density images low resolution.
 </p>
 
 <p>
-Terrain has vehicle shop and one sale point in the center, then one enormous sugar beet field surrounding it covering the whole 32km x 32km terrain area from one edge to another. Oddly enough, this terrain actually works (within the mentioned limits).
+Terrain has vehicle shop and one sell point in the center, then one enormous sugar beet field surrounding it covering the whole 32km x 32km terrain area from one edge to another. Oddly enough, this terrain actually works (within the mentioned limits).
 </p>
 
 <p>
-This was made using cultivator and fruit density images from 8km terrain so the fields and crop handling is very inaccurate. Because of the inaccuracy while this terrain technically does work as proven, it is really not suitable for enjoyable game-play. Unless giants fixes their engine to allow better density image accuracy, we are stuck with 16km terrains being the largest enjoyable ones.
+This was made using cultivator and fruit density images from 8km terrain so the fields and crop handling is very inaccurate. Because of the inaccuracy while this terrain technically does work as proven, it is really not suitable for enjoyable game-play. Unless giants fixes their engine to allow better density image accuracy, we are stuck with about 15km - 20km terrains being the largest enjoyable ones.
 </p>
 
 <!--
