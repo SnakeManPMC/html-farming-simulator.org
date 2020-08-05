@@ -43,7 +43,7 @@ Click for larger image
 <p>
 Screenshots from development: <a href="https://cdn.discordapp.com/attachments/557685453801914379/576695192023728157/FS19-Texas-Rowena-8km-2019-05-11T0858.png" target="_blank">Gimp cultivator density</a>, <a href="https://cdn.discordapp.com/attachments/557685453801914379/576931181166329857/FS19-Texas-Rowena-8km-2019-05-12T0035.png" target="_blank">cultivated land in-game</a>, <a href="https://cdn.discordapp.com/attachments/557685453801914379/576981214041341965/FS19-Texas-Rowena-8km-2019-05-12T0355.png" target="_blank">fields states in-game</a>. <a href="https://cdn.discordapp.com/attachments/557685453801914379/695250080814596177/PMC-Texas-Rowena-8km-2020-04-02T1138.png" target="_blank">Objects placed on 2020-04-02T1138</a> and <a href="https://cdn.discordapp.com/attachments/557685453801914379/697164449022476328/PMC-Texas-Rowena-8km-2020-04-07T1920.png" target="_blank">Object placement 2020-04-07</a>.
 <br><br>
-Game-play 2020:<br>
+Screenshots from game-play 2020:<br>
 <a href="https://cdn.discordapp.com/attachments/557685453801914379/695278712739856415/PMC-Texas-Rowena-8km-2020-04-02T1424.png" target="_blank">Object placement inspection 2020-04-02T1424</a><br>
 <a href="https://cdn.discordapp.com/attachments/557685453801914379/697242052429217842/PMC-Texas-Rowena-8km-2020-04-08T0027.png" target="_blank">Farmlands painted in GIMP 2020-04-08</a><br>
 <a href="https://cdn.discordapp.com/attachments/557685453801914379/697252616173912084/PMC-Texas-Rowena-8km-2020-04-08T0110.jpg" target="_blank">LOD view distance settings (game.xml) of 5, increases how far objects are drawn, in this case trees</a><br>
@@ -63,7 +63,7 @@ This terrain has basic buildings, utility poles and trees placed. Basic object p
 </p>
 
 <p>
-Fields 145, <a href="screenshots/PMC-Texas-Rowena-8km-2020-04-13T0424.jpg" target="_blank">148 and 149 have utility poles</a> going through, see <a href="https://www.google.com/maps/@31.5788321,-100.0020704,237m/data=!3m1!1e3" target="_blank">google/maps reference</a>. This is realistic feature, terrain has been built like it is in real world, however FS19 wise utility poles in middle of the field are <a href="screenshots/PMC-Texas-Rowena-8km-2020-04-14T0702.jpg" target="_blank">a huge issue for hired workers / courseplay</a>. We just wanted to be clear that this is NOT a bug, its intended feature, this is real world data terrain and if there are utility poles in real world they appear in PMC Texas Rowena 8km terrain as well.
+Fields 141, 145, <a href="screenshots/PMC-Texas-Rowena-8km-2020-04-13T0424.jpg" target="_blank">148 and 149 have utility poles</a> going through, see <a href="https://www.google.com/maps/@31.5788321,-100.0020704,237m/data=!3m1!1e3" target="_blank">google/maps reference</a>. This is realistic feature, terrain has been built like it is in real world, utility poles have geometry so vehicles will collide with them however cultivator_density and field definitions have been edited to create empty spot around utility poles which courseplay avoids. See <a href="https://www.youtube.com/watch?v=-4xmqo6cXq4" target="_blank">Courseplay on PMC Texas Rowena 8km field 145, avoiding utility poles. 2020-07-31</a> video of how it works.
 </p>
 
 <p>
