@@ -374,7 +374,7 @@ Budget now 275.6k, thats pretty nice. Now I can buy any of the sprayers except r
 </p>
 
 <p>
-Goint to fertilize F04 using courseplay while waiting for new fertilizing contracts and usually planning the next move heh (watching twitch live stream on the background too heh).
+Going to fertilize F04 using courseplay while waiting for new fertilizing contracts and usually planning the next move heh (watching twitch live stream on the background too heh).
 </p>
 
 <p>
@@ -584,7 +584,7 @@ Uh oh amazone pantera 4502 is dreadfully slow, I had no idea 15km/h is that slow
 </p>
 
 <p>
-Road speed is 53km/h so that is decent at least, my initial claas arion tractor is deadfully slow like 40km/h heh.
+Road speed is 53km/h so that is decent at least, my initial claas arion tractor is dreadfully slow like 40km/h heh.
 </p>
 
 <p>
@@ -822,7 +822,7 @@ Was really tired of playing, not sleepy tired or exhausted of playing but just d
 </p>
 
 <p>
-Coronavirus COVID-19 spreads agross the planet and I feel so good to just stay indoors playing Farming Simulator 19 :)
+Coronavirus COVID-19 spreads across the planet and I feel so good to just stay indoors playing Farming Simulator 19 :)
 </p>
 
 <p>
@@ -933,11 +933,11 @@ Repayed bank loan a bit, current loan balance 110k. Was getting a bit exhausted 
 </p>
 
 <p>
-Was thinking that I'm going to switch into my own field crop work only, no time to do fertilizer contracts anymore. Its kind of like what is my specialty countracts or developing my own farm fields heh. I want to enjoy my own farm fields instead of someone elses fields. Sure money is made by doing contracts but it just somehow feel foreign, like I'm dissing my own farm. Kind of difficult to explain.
+Was thinking that I'm going to switch into my own field crop work only, no time to do fertilizer contracts anymore. Its kind of like what is my specialty countracts or developing my own farm fields heh. I want to enjoy my own farm fields instead of someone elses fields. Sure money is made by doing contracts but it just somehow feels foreign, like I'm dissing my own farm. Kind of difficult to explain.
 </p>
 
 <p>
-Today is 07/late-autumn, barley selling day is approaching and I need to sell those off to get a little money. Then I need to time accelerate until next year early-spring, purchase seeder and well then just start to see canola to my own fields.
+Today is 07/late-autumn, barley selling day is approaching and I need to sell those off to get a little money. Then I need to time accelerate until next year early-spring, purchase seeder and well then just start to seed canola to my own fields.
 </p>
 
 <p>
@@ -1034,7 +1034,7 @@ This field only took about 1k liters of seed, but yeah F06 is so tiny, it was he
 </p>
 
 <p>
-30.5m wider seeder was great but the 13km/h speed wasnt heh, oh well I believe this still went many times quicker than if I had bought the 9m wide pronto seeder.
+30.5m wide seeder was great but the 13km/h speed wasnt heh, oh well I believe this still went many times quicker than if I had bought the 9m wide pronto seeder.
 </p>
 
 <p>
@@ -1337,7 +1337,7 @@ Uah finally all the preparation field work done for the next seasons corn planti
 </p>
 
 <p>
-0703hrs Need to do some chores so shut down FS19 and hopefully will return later today<br>
+0703 Need to do some chores so shut down FS19 and hopefully will return later today<br>
 1024 Back at PMC Gaming, corn planting continues
 </p>
 
