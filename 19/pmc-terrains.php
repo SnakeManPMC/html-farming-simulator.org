@@ -66,7 +66,7 @@ These are made out of <a href="http://www.arcgis.com/home/webmap/viewer.html?use
 </p>
 
 <p>
-Heightmap is accurate to 10 meter resolution which means that the heightmap has realistic elevations. PMC terrain heightmaps are as good as they can be made out of US NED data.
+Heightmap is accurate to 10 meter resolution. This means that the heightmap has realistic elevations. PMC terrain heightmaps are as good as they can be made out of US NED data.
 </p>
 
 	<h2>Design</h2>
