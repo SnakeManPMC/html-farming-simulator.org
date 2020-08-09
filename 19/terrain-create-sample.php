@@ -24,13 +24,18 @@
 	<h2>Create Sample Terrain</h2>
 
 <p>
+<b>2020-08-09</b> Updated.
+</p>
+
+<p>
 Don't download sample mod maps as they usually contain all kinds of "good stuff" the author wants you to have and quickly gets outdated. Instead just create sample terrain by yourself from the latest up to date game data available, anytime.
 </p>
 
 <p>
-- start giants editor v8.1 (final)<br>
-- file -> new mod from game -> map: sample mod map 1<br>
-- delete all transformgroups with original terrain objects in them, basically only leave terrain and careerstartpoint<br>
+- start giants editor v8.2 (at the time of writing this)<br>
+- file -> new mod from game -> map: sample mod map 1 (1 is mapDE felsbrunn, 2 is mapUS ravenport)<br>
+- working directory dialog is where you want to save/export this new terrain copy (do NOT save to "my documents")<br>
+- delete all transformgroups with original terrain objects in them, basically only leave terrain and careerStartPoint<br>
 - save and exit
 </p>
 
