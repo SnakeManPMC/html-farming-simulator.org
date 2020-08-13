@@ -24,7 +24,7 @@
 	<h2>Work In Progress</h2>
 
 <p>
-<b>2020-08-05</b> PMC Texas Rowena 8km New Farmer game-mode play testing has finished. Terrain v0.1.9 works really nice now.
+<b>2020-08-07</b> PMC Texas Rowena 8km sent to other people for testing, release as soon as testers give all OK.
 </p>
 
 <p>
@@ -37,6 +37,10 @@ See each terrains individual specifications for development progress and if ther
 
 <p>
 For work in progress videos see <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC Farming Simulator 19 youtube playlist</a>.
+</p>
+
+<p>
+2020-08-05 PMC Texas Rowena 8km New Farmer game-mode play testing has finished. Terrain v0.1.9 works really nice now.
 </p>
 
 <p>
