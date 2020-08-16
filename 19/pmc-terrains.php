@@ -24,7 +24,7 @@
 	<h2>Work In Progress</h2>
 
 <p>
-<b>2020-08-07</b> PMC Texas Rowena 8km sent to other people for testing, release as soon as testers give all OK.
+<b>2020-08-16</b> PMC North Dakota Greedale 4km basic object placement (buildings, utility poles, trees) is complete! :)
 </p>
 
 <p>
@@ -37,6 +37,14 @@ See each terrains individual specifications for development progress and if ther
 
 <p>
 For work in progress videos see <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC Farming Simulator 19 youtube playlist</a>.
+</p>
+
+<p>
+2020-08-13 PMC North Dakota Greendale 4km sent to other people for testing, release as soon as testers give all OK.
+</p>
+
+<p>
+2020-08-07 PMC Texas Rowena 8km sent to other people for testing, release as soon as testers give all OK.
 </p>
 
 <p>
