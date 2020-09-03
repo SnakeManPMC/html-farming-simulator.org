@@ -19,7 +19,7 @@
 <?php include("../include/google-ads.php"); ?>
 <h1><b>PMC Farming Simulator 19 Multiplayer</b></h1>
 <p>
-<b>2020-08-26T10:16:00Z</b> Updated.
+<b>2020-09-03T06:38:00Z</b> Updated.
 </p>
 </header>
 
@@ -42,7 +42,7 @@ Download <a href="https://drive.google.com/drive/folders/1HwronaE_vZw9m-TqCQjxJa
 </p>
 
 <p>
-Server is running PMC North Dakota Greendale 4km <b>v0.2.1</b>. Note that this is NOT the latest 7zip currently in google/drive. Make sure you load FS19 up with v0.2.1 first. This terrain is not public, so you have to get it from the private link given to you in discord.
+Server is running PMC North Dakota Greendale 4km <b>v0.2.3</b>. Note that this is NOT the latest 7-zip currently in google/drive. Make sure you load FS19 up with v0.2.3 first. This terrain is not public, so you have to get it from the private link given to you in discord.
 </p>
 
 
@@ -77,6 +77,10 @@ Check on PMC discord #farming_simulator channel if the server is up or down. If 
 
 <p>
 <b>Crop Destruction</b>. Do not drive into growing crops as PMC server has crop destruction on. You can drive on fields that have no plants growing, you could even drive on them when plants grow on FIRST STAGE of growth, but on second stage I believe you start to destroy crops, so no driving on crops. Remember when you are combining that if you type into chat you cannot hit S or 3 keys to stop your combine, you need to ESC or enter out of the chat dialog first. Its very common to see combine becoming full and driving into crop destroying it while operator is typing into chat. Good rule of thumb is; stop typing into chat when you are 90 percent full.
+</p>
+
+<p>
+<b>Combine operators responsibility</b> is not to drive on crops and take pipe out of the fruit when full, that's it. Combine does not chase grain cart, grain cart chases combine I guess thats why grain carts are also called chaser wagons. Combine operator need to pay attention when driving with GPS track, GPS will not stop the combine when its full, its extremely easy to drive into crop when getting full so you must pay close attention.
 </p>
 
 <p>
