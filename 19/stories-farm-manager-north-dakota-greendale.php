@@ -1473,6 +1473,73 @@ As I said earlier today I'm going to savegame this Bourgault DLC test career now
 1607 Signing off and heading towards another PMC Terrain :)
 </p>
 
+
+	<h2>PMC North Dakota Greendale 4km Savegame Finished</h2>
+
+<p>
+Return to Greendale. After I finished object placement to <a href="pmc-texas-rowena-8km.php">PMC Texas Rowena 8km</a> and New Farmer game-mode savegame, it was time to edit some PMC North Dakota Greendale 4km again. Mainly because it was the most developed terrain at this time.
+</p>
+
+<p>
+I edited bunch of stuff, terrain basically got a whole rework with ugly tree placement and heightmap replaced, new objects added, farmland (buy land) upgraded, tons of bugs fixed etc.
+</p>
+
+<p>
+Took this previously single player Farm Manager savegame and upgraded it to multiplayer, then invited guys from PMC discord and private terrain testing team to join me. I created hosted server for us to play on.
+</p>
+
+<p>
+All this time guys who joined the server were floydno9, fscommando, NCsimfarmer and Runsliketurtle (note: only floydno9 and ncsimfarmer were on the server at the same time). My thanks goes to all of these guys who joined in this savegame and to help test this terrain, especially ncsimfarmer. I had great time playig with all of you. Thanks guys!
+</p>
+
+<p>
+Of course I ended up also playing alone on the server on many days because other guys were no show, this is no fault of theirs because nobody can keep up with my hardcore pace of playing (also irregular sleeping cycle had me playing morning EU time when US guys were already sleeping). For example the last day of this savegame was crazy 16hrs non stop madness gaming session which I ended up doing alone due being up in EU time.
+</p>
+
+<p>
+<b>2020-08-06T1435</b> Loaded this savegame up.
+</p>
+
+<p>
+<b>2020-08-06T1452</b> Started twitch live stream. Changed to new PMC North Dakota Fairmount Seasons GEO and 24 days season lenght. Change to 24 day season was from the lessons learned on PMC Texas Rowena 8km where my soybeans withered before got them off the fields with 9 day season.
+</p>
+
+<p>
+Then there was tons of youtube videos and twitch live streams. I did not write this traditional text story at all in this point which is kind of shame really as I like these text based stories, text to read, google and other search engines to find (from youtube you cannot search video by its contents like whats shown IN a video).
+</p>
+
+<p>
+I downloaded all twitch live stream video on demand err videos and uploaded them to youtube, everything that was 4k 60fps recorded are now in PMC youtube channel, check <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC FS19 youtube playlist</a> for "PMC North Dakota Greendale 4km VERSION Terrain MP Test Part NUMBER, DATE Farming Simulator 19" (replace version, number and date, obviously). Sorry I have not made a playlist specifically for this savegame so you have to wade through our full FS19 playlist heh.
+</p>
+
+<p>
+<b>2020-08-12T0248</b> Had upgraded terrain to a new version (I think this was v0.2.1) and ported savegame to it. Sold my soybeans without video/stream and now budget 3.948 million.
+</p>
+
+<p>
+v0.2.1 was used on the server for weeks even though v0.2.2 and v0.2.3 were put to testing. I believe it was late as 2020-09-01 when server was upgraded with v0.2.3, cant remember, I'm kicking myself now for not documenting these, sorry :(
+</p>
+
+<p>
+<b>2020-09-03T22:34:00Z</b> Finished my second savegame in FS19, PMC North Dakota Greendale 4km bought all land and harvested all fields. Savegame duration 281 hours.
+</p>
+
+<p>
+Was awesome feeling to finish my second savegame for FS19 PMC terrain! :)
+</p>
+
+<p>
+I backupped my savegames, required mods and stored them to safe place for all time. Will be so cool to one day come visit this savegame for nostalgia reasons heh.
+</p>
+
+<p>
+This story ends here as there is nothing to do in this savegame anymore, all land is bought and all fields harvested. I simply see no reason to continue playing on this savegame, perhaps my mind changes in the years to come, maybe some new mods are released or I can somehow but some new features into the terrain... I highly doubt it, a savegame with all fields harvested is just "done".
+</p>
+
+<p>
+Was great time spending 281 hours playing in PMC North Dakota Greendale 4km, got some great video footage to show and this text right here heh. Hope you enjoyed :-)
+</p>
+
 </section>
 
 <footer>
