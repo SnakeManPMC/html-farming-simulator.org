@@ -19,7 +19,7 @@
 <?php include("../include/google-ads.php"); ?>
 <h1><b>PMC Farming Simulator 19 Multiplayer</b></h1>
 <p>
-<b>2020-09-03T06:38:00Z</b> Updated.
+<b>2020-09-08T10:56:00Z</b> Updated.
 </p>
 </header>
 
@@ -34,17 +34,21 @@ PMC runs server for testing our own terrains, its name is "PMC Terrains". We nev
 	<h2>Mods Download</h2>
 
 <p>
-This is not private link, its a convenience location for all the mods used in PMC Terrains server. Some of the mods like courseplay.zip and guidanceSteering.zip are updated frequenty and most likely have different hash than yours so you could not join the server, download them here and then you can. You are fine to use mods like CBJ Midwest Buildings Pack, Seasons etc from elsewhere as such stable mods do not change hash etc, however to reduce frustration of searching mods, they are located all here.
+This is not a private link, its a convenience location for all the mods used in PMC Terrains server. Some of the mods like courseplay.zip and guidanceSteering.zip are updated frequenty and most likely have different hash than yours so you could not join the server, download them here and then you can. You are fine to use mods like CBJ Midwest Buildings Pack, Seasons etc from elsewhere as such stable mods do not change hash etc, however to reduce frustration of searching mods, they are located all here.
 </p>
 
 <p>
 Download <a href="https://drive.google.com/drive/folders/1HwronaE_vZw9m-TqCQjxJaGhAAwgf4it?usp=sharing" target="_blank">drive.google</a>.
 </p>
 
+<!--
 <p>
-Server is running PMC North Dakota Greendale 4km <b>v0.2.3</b>. Note that this is NOT the latest 7-zip currently in google/drive. Make sure you load FS19 up with v0.2.3 first. This terrain is not public, so you have to get it from the private link given to you in discord.
+Server is running terrain <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a> <b>v0.2.3</b>. Note that this is NOT the latest 7-zip currently in google/drive. Make sure you load FS19 up with v0.2.3 first. This terrain has not been released yet, so you have to get it from the private link given to you in discord.
 </p>
-
+-->
+<p>
+Server is running terrain <a href="pmc-grande-gardens-16km.php">PMC Grande Gardens 16km</a> <b>v0.1.4</b>. This terrain has not been released yet, so you have to get it from the private link given to you in discord.
+</p>
 
 	<h2>Joining</h2>
 
@@ -64,7 +68,7 @@ Check on PMC discord #farming_simulator channel if the server is up or down. If 
 </p>
 
 <p>
-<b>My Ping</b>. Your ping is listed as milliseconds (ms), you can find it from the top right corner of mini map (hotkey 9). Average US to EU ping is about 100ms, this is perfectly fine for FS19 gaming.
+<b>My Ping</b>. Your ping is listed as milliseconds (ms), you can find it from the top right corner of mini map (hotkey 9). Average US to EU ping is about 100ms, this is perfectly fine for FS19 multiplayer gaming.
 </p>
 
 <p>
