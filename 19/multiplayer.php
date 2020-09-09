@@ -31,6 +31,13 @@ PMC runs server for testing our own terrains, its name is "PMC Terrains". We nev
 </p>
 
 
+	<h2>Required DLCs</h2>
+
+<p>
+<a href="https://www.farming-simulator.com/dlc-detail.php?lang=en&country=us&dlc_id=fs19platinum" target="_blank">Platinum Expansion</a> aka Claas DLC and <a href="https://www.farming-simulator.com/dlc-detail.php?lang=en&country=us&dlc_id=fs19bourgault" target="_blank">Bourgault DLC</a>.
+</p>
+
+
 	<h2>Mods Download</h2>
 
 <p>
