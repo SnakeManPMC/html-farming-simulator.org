@@ -58,10 +58,7 @@
 2020-07-19 Farming Simulator 19 - Alpine Terrain DLC announced <a href="https://www.farming-simulator.com/newsArticle.php?lang=en&country=us&news_id=166" target="_blank">news</a><br>
 2020-07-31 Farming Simulator 19 - Precision Farming Project announced <a href="https://www.farming-simulator.com/newsArticle.php?lang=en&country=us&news_id=162" target="_blank">news</a><br>
 2020-11-05 Farming Simulator 19 - v1.7.1 update <a href="https://farming-simulator.com/newsArticle.php?news_id=193" target="_blank">news</a><br>
-
-<!--
-2020-11-12 Farming Simulator 19 - Alpine Terrain DLC release
--->
+2020-11-12 Farming Simulator 19 - Alpine Terrain DLC release <a href="https://www.farming-simulator.com/newsArticle.php?lang=en&country=us&news_id=191" target="_blank">news</a><br>
 </p>
 
 </section>
