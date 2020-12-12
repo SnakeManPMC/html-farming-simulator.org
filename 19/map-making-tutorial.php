@@ -59,6 +59,7 @@ Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulat
 <p><a href="terrain-real-world-data.php">Real World Data Terrain</a></p>
 <p><a href="terrain-savegame-update.php">Savegame Update</a></p>
 <p><a href="terrain-selling-points.php">Selling Points</a></p>
+<p><a href="terrain-soil-types.php">Soil Types for Precision Farming</a></p>
 <p><a href="terrain-traffic-system.php">Traffic System</a></p>
 <p><a href="terrain-train-system.php">Train System</a></p>
 <p><a href="terrain-unitsperpixel.php">unitsPerPixel</a></p>
