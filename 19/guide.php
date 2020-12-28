@@ -23,14 +23,14 @@
 <section>
 
 <p>
-<b>2020-04-10</b> Updated.
+<b>2020-12-28</b> Updated.
 </p>
 
 <p>
 Please read <a href="../guide.php">FS17 Guide</a> first as we do not repeat the same stuff here unless it has been changed.
 </p>
 
-	<h2>Gameplay Tips</h2>
+	<h2>Gameplay Tips User Interface</h2>
 
 <p>
 You can resize the user interface UI from the main menu options (not while game, ie savegame is running), like if you want to make it obnoxiously large or very tiny you can do that now. Nothing better than the new transparent UI style which is reduced in size, you hardly need hide HUD mod after this heh. If you make the UI smallest possible, it also makes 9 key map windows quite small.
@@ -57,7 +57,7 @@ Farm-manager: start with nothing except 1.250 million of money. You need to deci
 </p>
 
 <p>
-Start from scratch: start with nothing and very limited money, prices (and vehicle maintenance costs?) are the most toughest.
+Start from scratch: start with nothing and very limited money, prices (and vehicle maintenance costs?) are the most expensive.
 </p>
 
 <p>
@@ -107,7 +107,7 @@ These events are triggered according to time, it depends how many hours one grow
 </p>
 
 <p>
-You cant do anything about it, like choose the right time to seed/plant. Well unless you use growth control mod which shows you how many hours for the next growth stage switch, then guess you could wait until it happens before starting seeding if its important to you to avoid the half field growing while you're still seeding.
+You cant do anything about it, like choose the right time to seed/plant. Well unless you use growth control mod which shows you how many hours for the next growth stage switch, then guess you could wait until it happens before starting seeding if its important to you to avoid the half field growing while you're still seeding. Also Seasons mod completely removes crops growth issues when using real/normal game time (I have played with seasons since its release and yet to see mixed crop growth).
 </p>
 
 <p>
@@ -115,11 +115,11 @@ This is no big deal once you understand how it works. It is what it is, maybe gi
 </p>
 
 <p>
-For large terrains (4km and especially on 8km / 16km) in singleplayer when you time accelerate the field growth stages switch somewhat oddly especially on large terrain size, but on multiplayer it is even worse because on top of the odd stage switching you still have the regular MP field state desync going on. Basically you have to run back and forth across your field you are waiting to switch stages. Extremely annoying.
+For large terrains (over 3km and especially those larger than 10km) in singleplayer when you time accelerate the field growth stages switch somewhat oddly especially on large terrain size, but on multiplayer it is even worse because on top of the odd stage switching you still have the regular MP field state desync going on. Basically you have to run back and forth across your field you are waiting to switch stages. Extremely annoying.
 </p>
 
 <p>
-Obviously same applies as in SP that if you're in no hurry to use time acceleration this is no issue.
+Obviously same applies as in single player that if you're in no hurry to use time acceleration this is no issue.
 </p>
 
 	<h2>Weeds</h2>
@@ -252,6 +252,10 @@ v1.2 has a bug or rather engine issue that makes the wildlife birds and even you
 
 <p>
 Liquid transport in FS19 stock vehicles do not include anything for liquid fertilizer or herbicide transport. You can purchase liquid fertilizer pallets and then load them into low loader for transport but that is not really a liquid transport in the sense we are talking about here. You should search for <a href="mods.php">FS19 mods</a> for a nice liquid transport solution.
+</p>
+
+<p>
+<b>Fuel Transport</b>. Thundercreek FST990 capacity is 3750 liters, can be pulled with giants pickup 1978 model just fine. On level straight road pickup reaches 121km/h but across fields its merely half of that.
 </p>
 
 	<h2>Slurry Spreader</h2>
