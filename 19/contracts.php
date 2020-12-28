@@ -21,9 +21,13 @@
 </header>
 
 <section>
-	<h2>Overview</h2>
+	<h2>Contracts Overview</h2>
 <p>
 Contracts (or missions as they were called in FS17).
+</p>
+
+<p>
+Making money with contracts? Get Bredal K165 solid fertilizer spreader with extensions and take fertilizing contracts. Field work gets done quite quickly, not too many fertilizer refills and the contracts pay a lot of money.
 </p>
 
 <p>
@@ -69,7 +73,7 @@ Original game design is to allow only one active contract, however there is <a h
 	<h2>8km Terrain Contract Experiences</h2>
 
 <p>
-<b>2019-04-17</b> These are thoughts while playing PMC Iowa Garden City 8km start from zero. See background info for large terrains from <a href="pmc-terrains.php">PMC Terrains</a> page.
+<b>2019-04-17</b> These are thoughts while playing <a href="stories-from-zero-garden-city-iowa.php">PMC Iowa Garden City 8km Start From Zero</a>. See background info for large terrains from <a href="pmc-terrains.php">PMC Terrains</a> page.
 </p>
 
 <p>
@@ -77,7 +81,7 @@ Harvest contracts take forever and potatoes & sugar beet stuff is no brainer (me
 </p>
 
 <p>
-Check distances. If you need to drive your vehicle to the other side of 8km terrain, its no fun. If you choose to take harvest contact with first the field being in the other side of the terrain and sale point to the opposite... imagine how much driving you'll be doing. This is obviously no issue if you love trucking :)
+Check distances. If you need to drive your vehicle to the other side of 8km terrain, its no fun. If you choose to take harvest contact with first the field being in the other side of the terrain and sell point to the opposite... imagine how much driving you'll be doing. This is obviously no issue if you love trucking :)
 </p>
 
 <p>
@@ -85,7 +89,7 @@ Harvest contract you get the 100% complete notification and option to collect th
 </p>
 
 <p>
-Cheat from neighbors field. I was doing harvest contract on F105, I accidentally clipped F107 which is right next to it and to my surprise the combine did harvest that small snippet. You can harvest PARTS of the other field which is on the same land lot as your assigned field. Just harvest your assigned field and then the next one as far as you reach and take the crops to the best selling sale point, or the one you have been assigned to. You'll get the money from the sale. This is somewhat cheat but its within the giants field definition guidelines and you could just consider yourself lucky if you have contract to a field that has similar crop type field next to it (header can cut).
+Cheat from neighbors field. I was doing harvest contract on F105, I accidentally clipped F107 which is right next to it and to my surprise the combine did harvest that small snippet. You can harvest PARTS of the other field which is on the same land lot as your assigned field. Just harvest your assigned field and then the next one as far as you reach and take the crops to the best selling sell point, or the one you have been assigned to. You'll get the money from the sell. This is somewhat cheat but its within the giants field definition guidelines and you could just consider yourself lucky if you have contract to a field that has similar crop type field next to it (header can cut).
 </p>
 
 <p>
