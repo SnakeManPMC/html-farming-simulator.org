@@ -52,7 +52,7 @@
 <div class="terrain8km">
 <h2>Broad Acres</h2>
 
-<a href="images/Map-Broad-Acres.png" target="_blank"><img src="images/thumbs/Map-Broad-Acres.jpg" alt="Farming Simulator 17 Map - Broad Acres" style="width:128px;height:128px;"></a>
+<a href="images/Map-Broad-Acres.png" target="_blank"><img src="images/thumbs/Map-Broad-Acres.jpg" alt="Farming Simulator 17 Map - Broad Acres" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Every single field is surrounded with fences that are <b>tightly</b> right next to the fields edge AND the fences have gates which you must open, gates where you cant drive Big Bud tractor through :(
 </p>
@@ -70,7 +70,7 @@
 <div class="terrain8km">
 <h2>CornBelt</h2>
 
-<a href="images/Map-CornBelt.png" target="_blank"><img src="images/thumbs/Map-CornBelt.jpg" alt="Farming Simulator 17 Map - Cornbelt" style="width:128px;height:128px;"></a>
+<a href="images/Map-CornBelt.png" target="_blank"><img src="images/thumbs/Map-CornBelt.jpg" alt="Farming Simulator 17 Map - Cornbelt" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>
 v1.0.2 by Kastor_Ger. From modDesc: CornBelt. Willkommen im CornBelt.
@@ -145,7 +145,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain8km">
 <h2>FS_2017_Maize_Map_16x</h2>
 
-<a href="images/Map-Maize.png" target="_blank"><img src="images/thumbs/Map-Maize.jpg" alt="Farming Simulator 17 Map - Maize" style="width:128px;height:128px;"></a>
+<a href="images/Map-Maize.png" target="_blank"><img src="images/thumbs/Map-Maize.jpg" alt="Farming Simulator 17 Map - Maize" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Just one insane large corn field with your farm (so to speak) in the middle of it with BGA and some stuff. Yes this is 8km map but unless you are some corn megalomaniac... this is not a normal terrain heh. All respect for making 8km terrain, of course, but just hoping there was at least few other fields available (not to mention animals etc).
 </p>
@@ -154,7 +154,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain8km">
 <h2>Dakota 16 (version A3)</h2>
 
-<a href="images/Map-Dakota-16x.png" target="_blank"><img src="images/thumbs/Map-Dakota-16x.jpg" alt="Farming Simulator 17 Map - Dakota 16" style="width:128px;height:128px;"></a>
+<a href="images/Map-Dakota-16x.png" target="_blank"><img src="images/thumbs/Map-Dakota-16x.jpg" alt="Farming Simulator 17 Map - Dakota 16" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Total of 126 fields registered (courseplay finds). View of the map looks very busy. Has airport. Feels like a huge place with many interesting locations. Some of the fields are bit off, like corn across a road etc. Overall though its a bit rough map and would need just a little bit of fine tweaking.
 </p>
@@ -171,7 +171,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>North West Texas</h2>
 
-<a href="images/Map-North-West-Texas.png" target="_blank"><img src="images/thumbs/Map-North-West-Texas.jpg" alt="Farming Simulator 17 Map - North West Texas" style="width:128px;height:128px;"></a>
+<a href="images/Map-North-West-Texas.png" target="_blank"><img src="images/thumbs/Map-North-West-Texas.jpg" alt="Farming Simulator 17 Map - North West Texas" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>North West Texas by Txzar
 </p>
@@ -204,7 +204,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>North West Texas Revisited Beta</h2>
 
-<a href="images/Map-North-West-Texas-Revisited.png" target="_blank"><img src="images/thumbs/Map-North-West-Texas-Revisited.jpg" alt="Farming Simulator 17 Map - North West Texas Revisited (beta)" style="width:128px;height:128px;"></a>
+<a href="images/Map-North-West-Texas-Revisited.png" target="_blank"><img src="images/thumbs/Map-North-West-Texas-Revisited.jpg" alt="Farming Simulator 17 Map - North West Texas Revisited (beta)" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>North West Texas Revisited Beta by Txzar
 </p>
@@ -234,7 +234,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>Newlin</h2>
 
-<a href="images/Map-Newlin.png" target="_blank"><img src="images/thumbs/Map-Newlin.jpg" alt="Farming Simulator 17 Map - Newlin" style="width:128px;height:128px;"></a>
+<a href="images/Map-Newlin.png" target="_blank"><img src="images/thumbs/Map-Newlin.jpg" alt="Farming Simulator 17 Map - Newlin" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Newlin by Txzar
 </p>
@@ -333,7 +333,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>Rattlesnake Valley</h2>
 
-<a href="images/Map-Rattlesnake-Valley.png" target="_blank"><img src="images/thumbs/Map-Rattlesnake-Valley.jpg" alt="Farming Simulator 17 Map - Rattlesnake Valley" style="width:128px;height:128px;"></a>
+<a href="images/Map-Rattlesnake-Valley.png" target="_blank"><img src="images/thumbs/Map-Rattlesnake-Valley.jpg" alt="Farming Simulator 17 Map - Rattlesnake Valley" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Looks OK but still has bit maze alike farm, very narrow roads with geometry blocks on the side so forget Big Bud. Looks like almost all roads have fences. North east edge has some rocky mountain side with "level" stuff.
 </p>
@@ -342,7 +342,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>Greatfields</h2>
 
-<a href="images/Map-Greatfields.png" target="_blank"><img src="images/thumbs/Map-Greatfields.jpg" alt="Farming Simulator 17 Map - Greatfields" style="width:128px;height:128px;"></a>
+<a href="images/Map-Greatfields.png" target="_blank"><img src="images/thumbs/Map-Greatfields.jpg" alt="Farming Simulator 17 Map - Greatfields" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Insane 600ha field haha! On quick glance looks great. Huge mountrain edge "skybox" backdrop texture planes, looks massive. Large hillside on S-SW part. Extremely large forestry logging area in NW corner.
 </p>
@@ -354,7 +354,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>Saxonia</h2>
 
-<a href="images/Map-Saxonia.png" target="_blank"><img src="images/thumbs/Map-Saxonia.jpg" alt="Farming Simulator 17 Map - Saxonia" style="width:128px;height:128px;"></a>
+<a href="images/Map-Saxonia.png" target="_blank"><img src="images/thumbs/Map-Saxonia.jpg" alt="Farming Simulator 17 Map - Saxonia" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Train tracks. Very nice map which includes large fields and level terrain. Airbase is also included where Tornado jets are taking off and landing, very cool.
 </p>
@@ -363,7 +363,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>Loess Hill Country</h2>
 
-<a href="images/Map-Loess-Hill-Country.png" target="_blank"><img src="images/thumbs/Map-Loess-Hill-Country.jpg" alt="Farming Simulator 17 Map - Loess Hill Country" style="width:128px;height:128px;"></a>
+<a href="images/Map-Loess-Hill-Country.png" target="_blank"><img src="images/thumbs/Map-Loess-Hill-Country.jpg" alt="Farming Simulator 17 Map - Loess Hill Country" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>A bit more narrower roads again, seems to have no missions. Extremely mild rolling hills theme going on. Some forest spots. Few odd fields with some sort of bush type trees there.
 </p>
@@ -372,7 +372,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>Germantown</h2>
 
-<a href="images/Map-Germantown.png" target="_blank"><img src="images/thumbs/Map-Germantown.jpg" alt="Farming Simulator 17 Map - Germantown" style="width:128px;height:128px;"></a>
+<a href="images/Map-Germantown.png" target="_blank"><img src="images/thumbs/Map-Germantown.jpg" alt="Farming Simulator 17 Map - Germantown" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Incredible 148 fields. Small rolling hills theme going on. A lot of forestry logging trees around. Train tracks. Some rocky small hills (very small spots). Very nice looking european terrain.
 </p>
@@ -388,7 +388,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>Missouri River Bottoms 17</h2>
 
-<a href="images/Map-Missouri-River-Bottoms-17.png" target="_blank"><img src="images/thumbs/Map-Missouri-River-Bottoms-17.jpg" alt="Farming Simulator 17 Map - Missouri River Bottoms 17" style="width:128px;height:128px;"></a>
+<a href="images/Map-Missouri-River-Bottoms-17.png" target="_blank"><img src="images/thumbs/Map-Missouri-River-Bottoms-17.jpg" alt="Farming Simulator 17 Map - Missouri River Bottoms 17" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Have huge train tracks. Aircrafts, helicopters and blimps flying around (not really sure if that is cool as there are so many of them). Animated horses. Moving trains. Flicker on some of the skybox like "side panel" textures. Map feels little bit too "busy" if you know what I mean.
 </p>
@@ -397,7 +397,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>County Line FS17</h2>
 
-<a href="images/Map-County-Line-FS17.png" target="_blank"><img src="images/thumbs/Map-County-Line-FS17.jpg" alt="Farming Simulator 17 Map - County Line FS17" style="width:128px;height:128px;"></a>
+<a href="images/Map-County-Line-FS17.png" target="_blank"><img src="images/thumbs/Map-County-Line-FS17.jpg" alt="Farming Simulator 17 Map - County Line FS17" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Animated horses. Moving train. Some forest logging areas. Dirt and paved roads. Very nice looking map, I would say top quality with a quick look.
 </p>
@@ -406,7 +406,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>Dondiego Map Ls17</h2>
 
-<a href="images/Map-Dondiego-Map-Ls17.png" target="_blank"><img src="images/thumbs/Map-Dondiego-Map-Ls17.jpg" alt="Farming Simulator 17 Map - Dondiego Map Ls17" style="width:128px;height:128px;"></a>
+<a href="images/Map-Dondiego-Map-Ls17.png" target="_blank"><img src="images/thumbs/Map-Dondiego-Map-Ls17.jpg" alt="Farming Simulator 17 Map - Dondiego Map Ls17" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Map edges are covered with rocky mountain barrier. Total of 72 fields. Dirt and paved roads. Quite bit of forestry logging. Very nice open areas for Big Bud usage, not sure about some of the bridge choke points though. Overall flat terrain elevations. This is a good looking map.
 </p>
@@ -415,7 +415,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>Monchwinkel - Landkreis Oder-Spree</h2>
 
-<a href="images/Map-Monchwinkel.png" target="_blank"><img src="images/thumbs/Map-Monchwinkel.jpg" alt="Farming Simulator 17 Map - Monchwinkel" style="width:128px;height:128px;"></a>
+<a href="images/Map-Monchwinkel.png" target="_blank"><img src="images/thumbs/Map-Monchwinkel.jpg" alt="Farming Simulator 17 Map - Monchwinkel" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Total of 91 fields. Many trees around the fields and some forests areas too, seems to have more of those "round" non-pine trees which name I don't know. Train tracks for players and animated trains in N edge and NW corner. Edges of the map has nice buffer area of sparse round trees. Feels very much like european germany terrain. This is nice looking map, perhaps more looking like a ArmA 3 terrain than FS17 farming map.
 </p>
@@ -424,7 +424,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>Sued Thueringen</h2>
 
-<a href="images/Map-Sued-Thueringen.png" target="_blank"><img src="images/thumbs/Map-Sued-Thueringen.jpg" alt="Farming Simulator 17 Map - Sued Thueringen" style="width:128px;height:128px;"></a>
+<a href="images/Map-Sued-Thueringen.png" target="_blank"><img src="images/thumbs/Map-Sued-Thueringen.jpg" alt="Farming Simulator 17 Map - Sued Thueringen" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>On the edges there are a lot of tree texture planes and behind them some low poly tree objects (I believe these are large forest blocks) to take up perfectly good space, some of the planes you can pass through, others can't. Especially in NW corner there is huge area of these low poly tree objects. Seems to me like otherwise perfectly fine looking 4km map was populated with these poor looking low poly tree objects.
 </p>
@@ -433,7 +433,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>The Moris Land</h2>
 
-<a href="images/Map-The-Moris-Land.png" target="_blank"><img src="images/thumbs/Map-The-Moris-Land.jpg" alt="Farming Simulator 17 Map - The Moris Land" style="width:128px;height:128px;"></a>
+<a href="images/Map-The-Moris-Land.png" target="_blank"><img src="images/thumbs/Map-The-Moris-Land.jpg" alt="Farming Simulator 17 Map - The Moris Land" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Huge fields, definitely Big Bud country heh. Field 19 has incredible expandability. SW corner has insanely large forestry logging area. Quite flat terrain. Skybox ends too soon in SE and NW corners. This looks like very nice map indeed.
 </p>
@@ -442,7 +442,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>Wisconsin Illinois Border</h2>
 
-<a href="images/Map-Wisconsin-Illinois-Border.png" target="_blank"><img src="images/thumbs/Map-Wisconsin-Illinois-Border.jpg" alt="Farming Simulator 17 Map - Wisconsin Illinois Border" style="width:128px;height:128px;"></a>
+<a href="images/Map-Wisconsin-Illinois-Border.png" target="_blank"><img src="images/thumbs/Map-Wisconsin-Illinois-Border.jpg" alt="Farming Simulator 17 Map - Wisconsin Illinois Border" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Moderately flat terrain, small bumbs here and there. Large forest logging area west central and north edges. Large fields and open areas, feels like a Big Bud country. This is very nice basic map indeed.
 </p>
@@ -451,7 +451,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>Cherry Hills 2017</h2>
 
-<a href="images/Map-Cherry-Hills-2017.png" target="_blank"><img src="images/thumbs/Map-Cherry-Hills-2017.jpg" alt="Farming Simulator 17 Map - Cherry Hills 2017" style="width:128px;height:128px;"></a>
+<a href="images/Map-Cherry-Hills-2017.png" target="_blank"><img src="images/thumbs/Map-Cherry-Hills-2017.jpg" alt="Farming Simulator 17 Map - Cherry Hills 2017" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Nice "skybox" background after map edges. Edges have nice set of forest trees, many tree types and placed randomly which looks very natural. Large forestry logging area in NW corner. Little bit symmetrical map, train tracks and those concrete areas in the edges, not too bad though. Tiny amount of rolling hills mood on the fields (as name should suggest, hills). Few rocky spots with trees between the fields. This map definitely has a lot of trees to cut down if thats your choice. This is good looking map for sure.
 </p>
@@ -467,7 +467,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>Kernstadt 2017</h2>
 
-<a href="images/Map-Kernstadt-2017.png" target="_blank"><img src="images/thumbs/Map-Kernstadt-2017.jpg" alt="Farming Simulator 17 Map - Kernstadt 2017" style="width:128px;height:128px;"></a>
+<a href="images/Map-Kernstadt-2017.png" target="_blank"><img src="images/thumbs/Map-Kernstadt-2017.jpg" alt="Farming Simulator 17 Map - Kernstadt 2017" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Small edge rocky mountain blocks but that is not too bad. Some forestry logging area in S-SW. Train tracks. Large forest area in N at some odd elevated terrain level. Very wild terrain in N-NE corner. Terrain elevations for rest of the areas is very smooth, only minor changes, looks good. This is overall good looking map if we forget the odd rocky corner area.
 </p>
@@ -476,7 +476,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>Sudharz</h2>
 
-<a href="images/Map-Sudharz.png" target="_blank"><img src="images/thumbs/Map-Sudharz.jpg" alt="Farming Simulator 17 Map - Sudharz" style="width:128px;height:128px;"></a>
+<a href="images/Map-Sudharz.png" target="_blank"><img src="images/thumbs/Map-Sudharz.jpg" alt="Farming Simulator 17 Map - Sudharz" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Rolling hills terrain elevations. Huge amount of forest logging areas. This map looks like its made from satellite imagery, but half is unfinished. SW corner field also has some red transparent geometry block.
 </p>
@@ -485,7 +485,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>MIG Map MadeInGermany Celle</h2>
 
-<a href="images/Map-Mig-Map-Germany-Celle.png" target="_blank"><img src="images/thumbs/Map-Mig-Map-Germany-Celle.jpg" alt="Farming Simulator 17 Map - MIG Map MadeInGermany Celle" style="width:128px;height:128px;"></a>
+<a href="images/Map-Mig-Map-Germany-Celle.png" target="_blank"><img src="images/thumbs/Map-Mig-Map-Germany-Celle.jpg" alt="Farming Simulator 17 Map - MIG Map MadeInGermany Celle" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Interesting name, not sure if that MadeInGermany should somehow be in the name, I bet this maps real name is just Celle, which is location in germany. Not very good off the map well texture I guess, transparent and looking bad. Large amount of 121 fields. Map made out of satellite imagery so it looks great, realistic map. Huge forestry logging area in SE, NE corners and trees cover most of the map edges and field edges. Great looking realistic map overall.
 </p>
@@ -494,7 +494,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <div class="terrain4km">
 <h2>Parkers Prairie</h2>
 
-<a href="images/Map-Parkers-Prairie.png" target="_blank"><img src="images/thumbs/Map-Parkers-Prairie.jpg" alt="Farming Simulator 17 Map - Parkers Prairie" style="width:128px;height:128px;"></a>
+<a href="images/Map-Parkers-Prairie.png" target="_blank"><img src="images/thumbs/Map-Parkers-Prairie.jpg" alt="Farming Simulator 17 Map - Parkers Prairie" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>
 v1.4.2 by ChillyUK Modding (StrawChewer). From modDesc: Parkers Prairie. Parkers Prairie.USA.
@@ -564,7 +564,7 @@ F41: 55.291 ha
 <div class="terrain4km">
 <h2>Rocky Valley</h2>
 
-<a href="images/Map-Rocky-Valley.png" target="_blank"><img src="images/thumbs/Map-Rocky-Valley.jpg" alt="Farming Simulator 17 Map - Rocky valley" style="width:128px;height:128px;"></a>
+<a href="images/Map-Rocky-Valley.png" target="_blank"><img src="images/thumbs/Map-Rocky-Valley.jpg" alt="Farming Simulator 17 Map - Rocky valley" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>All but N side of the map blocked out by odd rocky mountains and most of the S side as you can see from the ugly german cowboys big-fat-cow logo. Also rocky mountains at the center of map too. Anyways there are lot of forestry logging possibilities for those who are interested in this map.
 </p>
@@ -573,7 +573,7 @@ F41: 55.291 ha
 <div class="terrain4km">
 <h2>Plains and Simple Seasons 4X by Stevie</h2>
 
-<a href="images/Map-Plains-And-Simple-Seasons-4x.png" target="_blank"><img src="images/thumbs/Map-Plains-And-Simple-Seasons-4x.jpg" alt="Farming Simulator 17 Map - Plains and Simple Seasons 4x by Stevie" style="width:128px;height:128px;"></a>
+<a href="images/Map-Plains-And-Simple-Seasons-4x.png" target="_blank"><img src="images/thumbs/Map-Plains-And-Simple-Seasons-4x.jpg" alt="Farming Simulator 17 Map - Plains and Simple Seasons 4x by Stevie" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Square fields which is always easier for stuff like courseplay. Animals require special foods like sheeps need something called lucerne and cows need something called proteinSilage.
 </p>
@@ -586,7 +586,7 @@ F41: 55.291 ha
 <h2>Lincoln Creek</h2>
 
 <!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " loading="lazy" style="width:128px;height:128px;"></a>
 -->
 
 <p>
@@ -657,7 +657,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Alberta Canada</h2>
 
-<a href="images/Map-Alberta-Canada.png" target="_blank"><img src="images/thumbs/Map-Alberta-Canada.jpg" alt="Farming Simulator 17 Map - Alberta Canada" style="width:128px;height:128px;"></a>
+<a href="images/Map-Alberta-Canada.png" target="_blank"><img src="images/thumbs/Map-Alberta-Canada.jpg" alt="Farming Simulator 17 Map - Alberta Canada" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Nice and clean simple map, open smooth areas and large looking fields, no large hills in fact the map is almost completely flat which is not a bad thing.
 </p>
@@ -669,7 +669,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <p>Broxton. According to readme its based on 70's Broxton/Duckington area in south west Cheshire England.
 </p>
 
-<a href="images/Map-Broxton.png" target="_blank"><img src="images/thumbs/Map-Broxton.jpg" alt="Farming Simulator 17 Map - Broxton" style="width:128px;height:128px;"></a>
+<a href="images/Map-Broxton.png" target="_blank"><img src="images/thumbs/Map-Broxton.jpg" alt="Farming Simulator 17 Map - Broxton" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Pre placed sheep models. Custom fruits. Artificial barrier on the map edges, not even close to the real end of the map but like 200 coordinates earlier, so 2km map has been made intentionally smaller. Its OK looking I guess.
 </p>
@@ -678,7 +678,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Crampton Isle</h2>
 
-<a href="images/Map-Crampton-Isle.png" target="_blank"><img src="images/thumbs/Map-Crampton-Isle.jpg" alt="Farming Simulator 17 Map - Crampton Isle" style="width:128px;height:128px;"></a>
+<a href="images/Map-Crampton-Isle.png" target="_blank"><img src="images/thumbs/Map-Crampton-Isle.jpg" alt="Farming Simulator 17 Map - Crampton Isle" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>What the heck is this? :o Developer didn't want to make even 2km sized map so he made this tiny spot? hehe, damn man...
 </p>
@@ -690,7 +690,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <p>This map is based on an existing area in the Netherlands, where developers father has a farm.
 </p>
 
-<a href="images/Map-Dutch-Polder.png" target="_blank"><img src="images/thumbs/Map-Dutch-Polder.jpg" alt="Farming Simulator 17 Map - Dutch Polder" style="width:128px;height:128px;"></a>
+<a href="images/Map-Dutch-Polder.png" target="_blank"><img src="images/thumbs/Map-Dutch-Polder.jpg" alt="Farming Simulator 17 Map - Dutch Polder" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Quite flat area as Holland should be heh. Artificial border on the edges. Otherwise nice decent looking map.
 </p>
@@ -702,7 +702,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <p>This is map ported from FS11 apparently.
 </p>
 
-<a href="images/Map-FS17-Farming-Legend.png" target="_blank"><img src="images/thumbs/Map-FS17-Farming-Legend.jpg" alt="Farming Simulator 17 Map - FS17 Farming Legend" style="width:128px;height:128px;"></a>
+<a href="images/Map-FS17-Farming-Legend.png" target="_blank"><img src="images/thumbs/Map-FS17-Farming-Legend.jpg" alt="Farming Simulator 17 Map - FS17 Farming Legend" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Little bit odd map with the high hills and the water.
 </p>
@@ -714,7 +714,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <p>This is map ported from FS13 apparently.
 </p>
 
-<a href="images/Map-Hagenstedt.png" target="_blank"><img src="images/thumbs/Map-Hagenstedt.jpg" alt="Farming Simulator 17 Map - Hagenstedt" style="width:128px;height:128px;"></a>
+<a href="images/Map-Hagenstedt.png" target="_blank"><img src="images/thumbs/Map-Hagenstedt.jpg" alt="Farming Simulator 17 Map - Hagenstedt" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Many rocky hills / mountains, seems like tons of geometry blocks for larger vehicles. Many different elevation plateaus, this is not for large vehicles.
 </p>
@@ -723,7 +723,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Islands</h2>
 
-<a href="images/Map-Islands.png" target="_blank"><img src="images/thumbs/Map-Islands.jpg" alt="Farming Simulator 17 Map - Islands" style="width:128px;height:128px;"></a>
+<a href="images/Map-Islands.png" target="_blank"><img src="images/thumbs/Map-Islands.jpg" alt="Farming Simulator 17 Map - Islands" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>What an creative name, hoh. This is actual island with water around it even though you cannot see it from the map overview. Large forestry area in NW.
 </p>
@@ -732,7 +732,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Lone Star</h2>
 
-<a href="images/Map-Lone-Star.png" target="_blank"><img src="images/thumbs/Map-Lone-Star.jpg" alt="Farming Simulator 17 Map - Lone Star" style="width:128px;height:128px;"></a>
+<a href="images/Map-Lone-Star.png" target="_blank"><img src="images/thumbs/Map-Lone-Star.jpg" alt="Farming Simulator 17 Map - Lone Star" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Texas Lone Star, nice Texas flag to keep the spirits up. Many trees so great logging forestry possibilities. Lakes with ducks and fishes is a nice touch. Only 17 fields but they are quite large. Very nice looking map.
 </p>
@@ -744,7 +744,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <p>Yes the name is with underscore.
 </p>
 
-<a href="images/Map-Lost-Islands.png" target="_blank"><img src="images/thumbs/Map-Lost-Islands.jpg" alt="Farming Simulator 17 Map - Lost_Islands" style="width:128px;height:128px;"></a>
+<a href="images/Map-Lost-Islands.png" target="_blank"><img src="images/thumbs/Map-Lost-Islands.jpg" alt="Farming Simulator 17 Map - Lost_Islands" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Tropical palm tree islands connected with bridges. Talking about farming equipment out of place, wow. It would feel so weird farming in this environment.
 </p>
@@ -753,7 +753,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>New Bartelshagen</h2>
 
-<a href="images/Map-New-Bartelshagen.png" target="_blank"><img src="images/thumbs/Map-New-Bartelshagen.jpg" alt="Farming Simulator 17 Map - New Bartelshagen" style="width:128px;height:128px;"></a>
+<a href="images/Map-New-Bartelshagen.png" target="_blank"><img src="images/thumbs/Map-New-Bartelshagen.jpg" alt="Farming Simulator 17 Map - New Bartelshagen" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Very large fields, field 6 is 47 hectares. Map is surrounded by water but it doesn't feel like island, there is artificial edge where the water starts but that is almost on the real map coordinate edge already so its not that limiting factor.
 </p>
@@ -762,7 +762,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Southquebec</h2>
 
-<a href="images/Map-Southquebec.png" target="_blank"><img src="images/thumbs/Map-Southquebec.jpg" alt="Farming Simulator 17 Map - Southquebec" style="width:128px;height:128px;"></a>
+<a href="images/Map-Southquebec.png" target="_blank"><img src="images/thumbs/Map-Southquebec.jpg" alt="Farming Simulator 17 Map - Southquebec" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Field 2 is 50 hectares. Horrible looking rows of trees as they are copy pasted without any rotation variation so they look so bad. Also train tracks are very symmertical.
 </p>
@@ -771,7 +771,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Vogelsberg</h2>
 
-<a href="images/Map-Vogelsberg.png" target="_blank"><img src="images/thumbs/Map-Vogelsberg.jpg" alt="Farming Simulator 17 Map - Vogelsberg" style="width:128px;height:128px;"></a>
+<a href="images/Map-Vogelsberg.png" target="_blank"><img src="images/thumbs/Map-Vogelsberg.jpg" alt="Farming Simulator 17 Map - Vogelsberg" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Umm what? Looking at the map overview... err do I need to say more? :) Anyways the tiny map area is surrounded by rocky mountains which block you from moving further out.
 </p>
@@ -780,7 +780,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Woodshire</h2>
 
-<a href="images/Map-Woodshire.png" target="_blank"><img src="images/thumbs/Map-Woodshire.jpg" alt="Farming Simulator 17 Map - Woodshire" style="width:128px;height:128px;"></a>
+<a href="images/Map-Woodshire.png" target="_blank"><img src="images/thumbs/Map-Woodshire.jpg" alt="Farming Simulator 17 Map - Woodshire" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Oh wow another one with tiny area for map, why not just create full 1km map instead? Otherwise it looks OK, lots of trees and basic map in the tiny area surrounded by rocky mountain block.
 </p>
@@ -789,7 +789,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Northern Alberta</h2>
 
-<a href="images/Map-Northern-Alberta.png" target="_blank"><img src="images/thumbs/Map-Northern-Alberta.jpg" alt="Farming Simulator 17 Map - Northern Alberta" style="width:128px;height:128px;"></a>
+<a href="images/Map-Northern-Alberta.png" target="_blank"><img src="images/thumbs/Map-Northern-Alberta.jpg" alt="Farming Simulator 17 Map - Northern Alberta" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Very flat terrain, no hills, which is totally OK. Nice looking map. Feels eerily like "Alberta Canada, Alberta_Farms" map but maybe its just me.
 </p>
@@ -798,7 +798,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Turfway</h2>
 
-<a href="images/Map-Turfway.png" target="_blank"><img src="images/thumbs/Map-Turfway.jpg" alt="Farming Simulator 17 Map - Turfway" style="width:128px;height:128px;"></a>
+<a href="images/Map-Turfway.png" target="_blank"><img src="images/thumbs/Map-Turfway.jpg" alt="Farming Simulator 17 Map - Turfway" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Uses the default goldcrest valley starter area, but only few buildings or small area. Surrounded by rocky mountains, also bit rocky on the basic areas. No real roads, only dirt paths in otherwise grass area. Two train tracks. Probably usable map for Big Bud DLC.
 </p>
@@ -807,7 +807,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Central Ohio</h2>
 
-<a href="images/Map-Central-Ohio.png" target="_blank"><img src="images/thumbs/Map-Central-Ohio.jpg" alt="Farming Simulator 17 Map - Central Ohio" style="width:128px;height:128px;"></a>
+<a href="images/Map-Central-Ohio.png" target="_blank"><img src="images/thumbs/Map-Central-Ohio.jpg" alt="Farming Simulator 17 Map - Central Ohio" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Large forest area in SE. Quite flat terrain. Some yellow trigger areas floating in the air above the west-central forest. Basic nice map.
 </p>
@@ -816,7 +816,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Kendle Farm</h2>
 
-<a href="images/Map-Kendle-Farm.png" target="_blank"><img src="images/thumbs/Map-Kendle-Farm.jpg" alt="Farming Simulator 17 Map - Kendle Farm" style="width:128px;height:128px;"></a>
+<a href="images/Map-Kendle-Farm.png" target="_blank"><img src="images/thumbs/Map-Kendle-Farm.jpg" alt="Farming Simulator 17 Map - Kendle Farm" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Oh man one of these tiny maps again... and super claustrophobic farm where you can barely walk out without getting stuck to some geometry blocks. Sigh. Why not make this as 0.5km map haha. What is this, farm sim or pac-man hehe.
 </p>
@@ -825,7 +825,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Mustang Valley Ranch</h2>
 
-<a href="images/Map-Mustang-Valley-Ranch.png" target="_blank"><img src="images/thumbs/Map-Mustang-Valley-Ranch.jpg" alt="Farming Simulator 17 Map - Mustang Valley Ranch" style="width:128px;height:128px;"></a>
+<a href="images/Map-Mustang-Valley-Ranch.png" target="_blank"><img src="images/thumbs/Map-Mustang-Valley-Ranch.jpg" alt="Farming Simulator 17 Map - Mustang Valley Ranch" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Dry brownish desert looking map. Only five fields but largest of them are 104 and 80 hectares. Interesting map, might be some work in those large fields for Big Bud. BTW I heard from somewhere that this a large map, it is not, this is default 2km map.
 </p>
@@ -834,7 +834,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>AGRO Moravany V2</h2>
 
-<a href="images/Map-AGRO-Moravany-V2.png" target="_blank"><img src="images/thumbs/Map-AGRO-Moravany-V2.jpg" alt="Farming Simulator 17 Map - AGRO Moravany V2" style="width:128px;height:128px;"></a>
+<a href="images/Map-AGRO-Moravany-V2.png" target="_blank"><img src="images/thumbs/Map-AGRO-Moravany-V2.jpg" alt="Farming Simulator 17 Map - AGRO Moravany V2" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Not the absolutely tiniest map, but yeah its right up there. Looks like it has large forest area on the edges but its fake, only small rows of trees and rest is "skybox" texture planes. There is only one field which is registered by the game and its far off the tiny map area, its located on the NW corner and looks like its kind of bugged or maybe even forgotten there. I believe this map is very heavily work in progress or just, really odd heh.
 </p>
@@ -843,7 +843,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>American Wood Map</h2>
 
-<a href="images/Map-American-Wood-Map.png" target="_blank"><img src="images/thumbs/Map-American-Wood-Map.jpg" alt="Farming Simulator 17 Map - American Wood Map" style="width:128px;height:128px;"></a>
+<a href="images/Map-American-Wood-Map.png" target="_blank"><img src="images/thumbs/Map-American-Wood-Map.jpg" alt="Farming Simulator 17 Map - American Wood Map" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Kind of sandy colored brown, dryish map, has forest logging as the name says. Has kind of large town. Moving train. Name suggests more of a woodland forest map which this definitely is not.
 </p>
@@ -852,7 +852,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>challans</h2>
 
-<a href="images/Map-Challans.png" target="_blank"><img src="images/thumbs/Map-Challans.jpg" alt="Farming Simulator 17 Map - challans" style="width:128px;height:128px;"></a>
+<a href="images/Map-Challans.png" target="_blank"><img src="images/thumbs/Map-Challans.jpg" alt="Farming Simulator 17 Map - challans" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Yes name with lower case c heh. Config copy paste from SampleMap setup, no preview images or anything. No fields registered in the game. Another map with edges covered with rocky mountain barriers and trees copy pasted so they all look the same. Quite bad stuttering in this map, no idea why as it doesnt look super detailed, maybe the models are just so bad, no idea. Anyways no fields so this is obviously work in progress map.
 </p>
@@ -861,7 +861,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>DolgosFalva</h2>
 
-<a href="images/Map-DolgosFalva.png" target="_blank"><img src="images/thumbs/Map-DolgosFalva.jpg" alt="Farming Simulator 17 Map - DolgosFalva" style="width:128px;height:128px;"></a>
+<a href="images/Map-DolgosFalva.png" target="_blank"><img src="images/thumbs/Map-DolgosFalva.jpg" alt="Farming Simulator 17 Map - DolgosFalva" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>No fields registered in the game. Looks like very work in progress map.
 </p>
@@ -870,7 +870,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>National Park the dutch Biesbosch</h2>
 
-<a href="images/Map-National-Park-the-Dutch-Biesbosch.png" target="_blank"><img src="images/thumbs/Map-National-Park-the-Dutch-Biesbosch.jpg" alt="Farming Simulator 17 Map - National Park the Dutch Biesbosch" style="width:128px;height:128px;"></a>
+<a href="images/Map-National-Park-the-Dutch-Biesbosch.png" target="_blank"><img src="images/thumbs/Map-National-Park-the-Dutch-Biesbosch.jpg" alt="Farming Simulator 17 Map - National Park the Dutch Biesbosch" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Fake forest texture planes in middle of the map, which you cannot pass through, I don't get it. Trees by the road on middle of the map look very repeating. Otherwise it might be decent looking map.
 </p>
@@ -879,7 +879,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Altenstein</h2>
 
-<a href="images/Map-Altenstein.png" target="_blank"><img src="images/thumbs/Map-Altenstein.jpg" alt="Farming Simulator 17 Map - Altenstein" style="width:128px;height:128px;"></a>
+<a href="images/Map-Altenstein.png" target="_blank"><img src="images/thumbs/Map-Altenstein.jpg" alt="Farming Simulator 17 Map - Altenstein" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Oh please with these tiny maps. To top that off its got super claustrophobic farm. Roger that, skip this one.
 </p>
@@ -895,7 +895,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Petrowka</h2>
 
-<a href="images/Map-Petrowka.png" target="_blank"><img src="images/thumbs/Map-Petrowka.jpg" alt="Farming Simulator 17 Map - Petrowka" style="width:128px;height:128px;"></a>
+<a href="images/Map-Petrowka.png" target="_blank"><img src="images/thumbs/Map-Petrowka.jpg" alt="Farming Simulator 17 Map - Petrowka" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Map overview text is in Ukrainian, non english language is always short sighted. Nice "skybox" on the edge horizon, not seen many of these. Has some rough elevations and elevation changes in general. The farms look dirty and used which is nice.
 </p>
@@ -911,7 +911,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Goldcrest Mountains</h2>
 
-<a href="images/Map-Goldcrest-Mountains.png" target="_blank"><img src="images/thumbs/Map-Goldcrest-Mountains.jpg" alt="Farming Simulator 17 Map - Goldcrest Mountains" style="width:128px;height:128px;"></a>
+<a href="images/Map-Goldcrest-Mountains.png" target="_blank"><img src="images/thumbs/Map-Goldcrest-Mountains.jpg" alt="Farming Simulator 17 Map - Goldcrest Mountains" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Mountains indeed. Impassable insane large mountains, playing area very small. Basically that huge NW brown area which extends to center of the map is off limits as there is no way to drive vehicles there and its just rocky mountains. Sorry to say but this is not usable farming map.
 </p>
@@ -920,7 +920,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>NF_Marsch</h2>
 
-<a href="images/Map-NF_Marsch.png" target="_blank"><img src="images/thumbs/Map-NF_Marsch.jpg" alt="Farming Simulator 17 Map - NF_Marsch" style="width:128px;height:128px;"></a>
+<a href="images/Map-NF_Marsch.png" target="_blank"><img src="images/thumbs/Map-NF_Marsch.jpg" alt="Farming Simulator 17 Map - NF_Marsch" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Tree placement is nicely random. Quite flat terrain. Okay looking map.
 </p>
@@ -929,7 +929,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>NoName_LS17</h2>
 
-<a href="images/Map-NoName_LS17.png" target="_blank"><img src="images/thumbs/Map-NoName_LS17.jpg" alt="Farming Simulator 17 Map - NoName_LS17" style="width:128px;height:128px;"></a>
+<a href="images/Map-NoName_LS17.png" target="_blank"><img src="images/thumbs/Map-NoName_LS17.jpg" alt="Farming Simulator 17 Map - NoName_LS17" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Well here is genuinely great name for a map, sigh. If you cant come up with a name for your project, don't do the whole thing. Well looking at the map overview, you can immediately tell the dev had as much patience to make a map than to pick a name for it ... Useless, just useless...
 </p>
@@ -952,7 +952,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>TheLand</h2>
 
-<a href="images/Map-TheLand.png" target="_blank"><img src="images/thumbs/Map-TheLand.jpg" alt="Farming Simulator 17 Map - TheLand" style="width:128px;height:128px;"></a>
+<a href="images/Map-TheLand.png" target="_blank"><img src="images/thumbs/Map-TheLand.jpg" alt="Farming Simulator 17 Map - TheLand" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Another one of these with wasted space on the edges. SW edges mine is copy paste from some other map. Tiny map area edges are covered with small hills which you can pass into the nomans land. Otherwise map has bit of rolling hills feeling and quite bit of forest tree areas.
 </p>
@@ -961,7 +961,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Westbridge Hills</h2>
 
-<a href="images/Map-Westbridge-Hills.png" target="_blank"><img src="images/thumbs/Map-Westbridge-Hills.jpg" alt="Farming Simulator 17 Map - Westbridge Hills" style="width:128px;height:128px;"></a>
+<a href="images/Map-Westbridge-Hills.png" target="_blank"><img src="images/thumbs/Map-Westbridge-Hills.jpg" alt="Farming Simulator 17 Map - Westbridge Hills" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Little bit of rolling hill mood. Edges have rocky mountain blocks and some rock hills in center of the map too. Nice looking rolling hills map, not too much wide open spaces.
 </p>
@@ -970,7 +970,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>ZD_STRADOV</h2>
 
-<a href="images/Map-ZD_STRADOV.png" target="_blank"><img src="images/thumbs/Map-ZD_STRADOV.jpg" alt="Farming Simulator 17 Map - ZD_STRADOV" style="width:128px;height:128px;"></a>
+<a href="images/Map-ZD_STRADOV.png" target="_blank"><img src="images/thumbs/Map-ZD_STRADOV.jpg" alt="Farming Simulator 17 Map - ZD_STRADOV" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>A lot of vegetation, feels quite busy place, claustrophobic tight spots (dont bring Big Bud here). Animated train. Huge amounts of empty wasted space on NW, N, NE and SE, which is really a shame.
 </p>
@@ -986,7 +986,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Hobbs Farm</h2>
 
-<a href="images/Map-Hobbs-Farm.png" target="_blank"><img src="images/thumbs/Map-Hobbs-Farm.jpg" alt="Farming Simulator 17 Map - Hobbs Farm" style="width:128px;height:128px;"></a>
+<a href="images/Map-Hobbs-Farm.png" target="_blank"><img src="images/thumbs/Map-Hobbs-Farm.jpg" alt="Farming Simulator 17 Map - Hobbs Farm" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Rock wall barrier at the edges. Forestry logging area in SE corner. Odd "levels" in the terrain, doesn't look nice, but major fields are on the flat terrain area.
 </p>
@@ -995,7 +995,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Altmuehlhofen</h2>
 
-<a href="images/Map-Altmuehlhofen.png" target="_blank"><img src="images/thumbs/Map-Altmuehlhofen.jpg" alt="Farming Simulator 17 Map - Altmuehlhofen" style="width:128px;height:128px;"></a>
+<a href="images/Map-Altmuehlhofen.png" target="_blank"><img src="images/thumbs/Map-Altmuehlhofen.jpg" alt="Farming Simulator 17 Map - Altmuehlhofen" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Why? Just, why? :(
 </p>
@@ -1004,7 +1004,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Woodside Farm</h2>
 
-<a href="images/Map-Woodside-Farm.png" target="_blank"><img src="images/thumbs/Map-Woodside-Farm.jpg" alt="Farming Simulator 17 Map - Woodside Farm" style="width:128px;height:128px;"></a>
+<a href="images/Map-Woodside-Farm.png" target="_blank"><img src="images/thumbs/Map-Woodside-Farm.jpg" alt="Farming Simulator 17 Map - Woodside Farm" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>No fields registered in the game. Huge area cut off by artificial mountain barrier. Blah.
 </p>
@@ -1013,7 +1013,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>The River</h2>
 
-<a href="images/Map-The-River.png" target="_blank"><img src="images/thumbs/Map-The-River.jpg" alt="Farming Simulator 17 Map - The River" style="width:128px;height:128px;"></a>
+<a href="images/Map-The-River.png" target="_blank"><img src="images/thumbs/Map-The-River.jpg" alt="Farming Simulator 17 Map - The River" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>No fields registered in the game. Small part of southern edge blocked off for unknown reason. Flying hot air balloons. Ugly looking map edge "skybox" texture planes. Small hills. Many trees around fields. Two rocky hill spots in center of the map.
 </p>
@@ -1022,7 +1022,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Agri Ouest Cotentin</h2>
 
-<a href="images/Map-Agri-Ouest-Cotentin.png" target="_blank"><img src="images/thumbs/Map-Agri-Ouest-Cotentin.jpg" alt="Farming Simulator 17 Map - Agri Ouest Cotentin" style="width:128px;height:128px;"></a>
+<a href="images/Map-Agri-Ouest-Cotentin.png" target="_blank"><img src="images/thumbs/Map-Agri-Ouest-Cotentin.jpg" alt="Farming Simulator 17 Map - Agri Ouest Cotentin" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Oh man what is this again. Not only its tiny, its super claustrophobic no chance of driving harvester in the farm or roads. OK, no thanks.
 </p>
@@ -1031,7 +1031,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Belgique Profonde</h2>
 
-<a href="images/Map-Belgique-Profonde.png" target="_blank"><img src="images/thumbs/Map-Belgique-Profonde.jpg" alt="Farming Simulator 17 Map - Belgique Profonde" style="width:128px;height:128px;"></a>
+<a href="images/Map-Belgique-Profonde.png" target="_blank"><img src="images/thumbs/Map-Belgique-Profonde.jpg" alt="Farming Simulator 17 Map - Belgique Profonde" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Yet another tiny map, sigh.
 </p>
@@ -1040,7 +1040,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Autumn Tree Farm</h2>
 
-<a href="images/Map-Autumn-Tree-Farm.png" target="_blank"><img src="images/thumbs/Map-Autumn-Tree-Farm.jpg" alt="Farming Simulator 17 Map - Autumn Tree Farm" style="width:128px;height:128px;"></a>
+<a href="images/Map-Autumn-Tree-Farm.png" target="_blank"><img src="images/thumbs/Map-Autumn-Tree-Farm.jpg" alt="Farming Simulator 17 Map - Autumn Tree Farm" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Another one of these tiny ones and some odd flowers on the PDA map edges, hehe.
 </p>
@@ -1049,7 +1049,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Crossroads</h2>
 
-<a href="images/Map-Crossroads.png" target="_blank"><img src="images/thumbs/Map-Crossroads.jpg" alt="Farming Simulator 17 Map - Crossroads" style="width:128px;height:128px;"></a>
+<a href="images/Map-Crossroads.png" target="_blank"><img src="images/thumbs/Map-Crossroads.jpg" alt="Farming Simulator 17 Map - Crossroads" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Not the largest but nice looking farm area, this is one of the largest and nicest farm areas in these 2km size maps I have seen. Few small forestry logging areas. Totally flat terrain elevations (I could not quickly find any hills or even bumbs). Very nice looking map.
 </p>
@@ -1058,7 +1058,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Emerald Valley Logging</h2>
 
-<a href="images/Map-Emerald-Valley-Logging.png" target="_blank"><img src="images/thumbs/Map-Emerald-Valley-Logging.jpg" alt="Farming Simulator 17 Map - Emerald Valley Logging" style="width:128px;height:128px;"></a>
+<a href="images/Map-Emerald-Valley-Logging.png" target="_blank"><img src="images/thumbs/Map-Emerald-Valley-Logging.jpg" alt="Farming Simulator 17 Map - Emerald Valley Logging" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>No animals. No fields registered in the game. Play area is restricted by water, heh. A lot of forestry logging trees and water.
 </p>
@@ -1067,7 +1067,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Smokey Mountain Logging</h2>
 
-<a href="images/Map-Smokey-Mountain-Logging.png" target="_blank"><img src="images/thumbs/Map-Smokey-Mountain-Logging.jpg" alt="Farming Simulator 17 Map - Smokey Mountain Logging" style="width:128px;height:128px;"></a>
+<a href="images/Map-Smokey-Mountain-Logging.png" target="_blank"><img src="images/thumbs/Map-Smokey-Mountain-Logging.jpg" alt="Farming Simulator 17 Map - Smokey Mountain Logging" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>No animals. No fields registered in the game. Super rough forestry logging area, no fields no animals no farming, just logging in this tiny limited area.
 </p>
@@ -1076,7 +1076,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Lechlade Manor Farm</h2>
 
-<a href="images/Map-Lechlade-Manor-Farm.png" target="_blank"><img src="images/thumbs/Map-Lechlade-Manor-Farm.jpg" alt="Farming Simulator 17 Map - Lechlade Manor Farm" style="width:128px;height:128px;"></a>
+<a href="images/Map-Lechlade-Manor-Farm.png" target="_blank"><img src="images/thumbs/Map-Lechlade-Manor-Farm.jpg" alt="Farming Simulator 17 Map - Lechlade Manor Farm" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Tiny area once again, which is truly a shame. Could not exit the game, it just returned back to game heh.
 </p>
@@ -1085,7 +1085,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>FS17_selby_farmestatesv3</h2>
 
-<a href="images/Map-FS17_selby_farmestatesv3.png" target="_blank"><img src="images/thumbs/Map-FS17_selby_farmestatesv3.jpg" alt="Farming Simulator 17 Map - FS17_selby_farmestatesv3" style="width:128px;height:128px;"></a>
+<a href="images/Map-FS17_selby_farmestatesv3.png" target="_blank"><img src="images/thumbs/Map-FS17_selby_farmestatesv3.jpg" alt="Farming Simulator 17 Map - FS17_selby_farmestatesv3" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Nice name, hehe. Another map where useful landscape ends with empty area. Also has many geometry block fences etc. Yup, skip this one too.
 </p>
@@ -1094,7 +1094,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Hof-Morgenland</h2>
 
-<a href="images/Map-Hof-Morgenland.png" target="_blank"><img src="images/thumbs/Map-Hof-Morgenland.jpg" alt="Farming Simulator 17 Map - Hof-Morgenland" style="width:128px;height:128px;"></a>
+<a href="images/Map-Hof-Morgenland.png" target="_blank"><img src="images/thumbs/Map-Hof-Morgenland.jpg" alt="Farming Simulator 17 Map - Hof-Morgenland" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Damn, another one, sigh.
 </p>
@@ -1103,7 +1103,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Kleindorf</h2>
 
-<a href="images/Map-Kleindorf.png" target="_blank"><img src="images/thumbs/Map-Kleindorf.jpg" alt="Farming Simulator 17 Map - Kleindorf" style="width:128px;height:128px;"></a>
+<a href="images/Map-Kleindorf.png" target="_blank"><img src="images/thumbs/Map-Kleindorf.jpg" alt="Farming Simulator 17 Map - Kleindorf" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Hehe this is getting old, man...
 </p>
@@ -1112,7 +1112,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Knaveswell Farm</h2>
 
-<a href="images/Map-Knaveswell-Farm.png" target="_blank"><img src="images/thumbs/Map-Knaveswell-Farm.jpg" alt="Farming Simulator 17 Map - Knaveswell Farm" style="width:128px;height:128px;"></a>
+<a href="images/Map-Knaveswell-Farm.png" target="_blank"><img src="images/thumbs/Map-Knaveswell-Farm.jpg" alt="Farming Simulator 17 Map - Knaveswell Farm" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Haha yeppers...
 </p>
@@ -1121,7 +1121,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Landringhausen</h2>
 
-<a href="images/Map-Landringhausen.png" target="_blank"><img src="images/thumbs/Map-Landringhausen.jpg" alt="Farming Simulator 17 Map - Landringhausen" style="width:128px;height:128px;"></a>
+<a href="images/Map-Landringhausen.png" target="_blank"><img src="images/thumbs/Map-Landringhausen.jpg" alt="Farming Simulator 17 Map - Landringhausen" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>No fields registered in the game. Maybe this is work in progress, at least I hope it is even though file name says "final"...
 </p>
@@ -1130,7 +1130,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Ls17 Great Country</h2>
 
-<a href="images/Map-Ls17-Great-Country.png" target="_blank"><img src="images/thumbs/Map-Ls17-Great-Country.jpg" alt="Farming Simulator 17 Map - Ls17 Great Country" style="width:128px;height:128px;"></a>
+<a href="images/Map-Ls17-Great-Country.png" target="_blank"><img src="images/thumbs/Map-Ls17-Great-Country.jpg" alt="Farming Simulator 17 Map - Ls17 Great Country" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Large forestry logging areas in map edges, especially in E. However all trees are copy pasted without rotation in perfect rows which looks extremely repeating. Roads are all perfectly even terrain elevation but all fields have rised smooth elevations which looks like they are bulging, very bad. Other than that, guess its OK looking map.
 </p>
@@ -1139,7 +1139,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Norways Mountain Farm</h2>
 
-<a href="images/Map-Norways-Mountain-Farm.png" target="_blank"><img src="images/thumbs/Map-Norways-Mountain-Farm.jpg" alt="Farming Simulator 17 Map - Norways Mountain Farm" style="width:128px;height:128px;"></a>
+<a href="images/Map-Norways-Mountain-Farm.png" target="_blank"><img src="images/thumbs/Map-Norways-Mountain-Farm.jpg" alt="Farming Simulator 17 Map - Norways Mountain Farm" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Nice difference there in mod name and file name. No fields registered in the map, not that there are many, three I think hehe. Interesting looking mountain terrain, but not really useful for farming. Also like half the map is empty blocked off stuff.
 </p>
@@ -1176,7 +1176,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Serenity Valley</h2>
 
-<a href="images/Map-Serenity-Valley.png" target="_blank"><img src="images/thumbs/Map-Serenity-Valley.jpg" alt="Farming Simulator 17 Map - Serenity Valley" style="width:128px;height:128px;"></a>
+<a href="images/Map-Serenity-Valley.png" target="_blank"><img src="images/thumbs/Map-Serenity-Valley.jpg" alt="Farming Simulator 17 Map - Serenity Valley" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Flat terrain. Trees around fields. Train tracks. Rocky mountain "skybox" backdrop arount the map. Basic nice map.
 </p>
@@ -1192,7 +1192,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>The Farmer Live</h2>
 
-<a href="images/Map-The-Farmer-Live.png" target="_blank"><img src="images/thumbs/Map-The-Farmer-Live.jpg" alt="Farming Simulator 17 Map - The Farmer Live" style="width:128px;height:128px;"></a>
+<a href="images/Map-The-Farmer-Live.png" target="_blank"><img src="images/thumbs/Map-The-Farmer-Live.jpg" alt="Farming Simulator 17 Map - The Farmer Live" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Flat terrain. Train tracks. The large light brown area you see on west side of the map, is NOT a field, its water in-game. Its a shame that half of the map is not used as the one that is, does show some promise. Maybe the dev will finish the west side in future releases, we can only hope...
 </p>
@@ -1201,7 +1201,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>TJ Farms 2017</h2>
 
-<a href="images/Map-TJ-Farms-2017.png" target="_blank"><img src="images/thumbs/Map-TJ-Farms-2017.jpg" alt="Farming Simulator 17 Map - TJ Farms 2017" style="width:128px;height:128px;"></a>
+<a href="images/Map-TJ-Farms-2017.png" target="_blank"><img src="images/thumbs/Map-TJ-Farms-2017.jpg" alt="Farming Simulator 17 Map - TJ Farms 2017" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Small forestry logging area in SE corner. Trees around the roads / fields are copy pasted without anykind of randomness, so they look very repeating. Also the tree 3D models have something wrong in the level of detail's (LOD) as they aren't drawn until very close, so trees pop up very badly. Map edges blocked with texture plane of horizon, which is kind of okay but this texture don't look so good, hopefully the plane at least block vehicles from passing. Flat terrain with couple of ditch exceptions. Overall OK looking map except the LOD popping trees.
 </p>
@@ -1210,7 +1210,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <div class="terrain2km">
 <h2>Wassel Regional</h2>
 
-<a href="images/Map-Wassel-Regional.png" target="_blank"><img src="images/thumbs/Map-Wassel-Regional.jpg" alt="Farming Simulator 17 Map - Wassel Regional" style="width:128px;height:128px;"></a>
+<a href="images/Map-Wassel-Regional.png" target="_blank"><img src="images/thumbs/Map-Wassel-Regional.jpg" alt="Farming Simulator 17 Map - Wassel Regional" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Flat terrain. Empty space in NW and SE corners. Hot air balloon(s), aircraft and few birds (swans?) flying. Odd rocky mountain tips in N and S. Many trees, lot of forestry logging options. Animated pre placed cows, pigs and sheeps. Kind of large town, but some buildings are without road access so they stand out a bit. Few cars driving off map in S and some object floating there too. Overall OK map I guess.
 </p>
@@ -1225,7 +1225,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <p><b>FS17_XLFarms_X1.zip</b>
 </p>
 
-<a href="images/Map-FS17_XLFarms_X1.png" target="_blank"><img src="images/thumbs/Map-FS17_XLFarms_X1.jpg" alt="Farming Simulator 17 Map - FS17_XLFarms_X1" style="width:128px;height:128px;"></a>
+<a href="images/Map-FS17_XLFarms_X1.png" target="_blank"><img src="images/thumbs/Map-FS17_XLFarms_X1.jpg" alt="Farming Simulator 17 Map - FS17_XLFarms_X1" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Says to be XL farm but still is only 2km map haha. Flat terrain. Badly pasted repeating trees. Some odd water areas with wind turbines.
 </p>
@@ -1233,7 +1233,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <p><b>FS17_XLFarms_X2.zip</b>
 </p>
 
-<a href="images/Map-FS17_XLFarms_X2.png" target="_blank"><img src="images/thumbs/Map-FS17_XLFarms_X2.jpg" alt="Farming Simulator 17 Map - FS17_XLFarms_X2" style="width:128px;height:128px;"></a>
+<a href="images/Map-FS17_XLFarms_X2.png" target="_blank"><img src="images/thumbs/Map-FS17_XLFarms_X2.jpg" alt="Farming Simulator 17 Map - FS17_XLFarms_X2" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Same as above but this is 4km map, so more odd water and wind turbines.
 </p>
@@ -1271,7 +1271,7 @@ This is very nice looking american (nebraska?) 4km terrain.
 <h2>Welker Farms</h2>
 
 <!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " loading="lazy" style="width:128px;height:128px;"></a>
 -->
 
 <p>v1.0 by Mappers Paradise. From modDesc: Welker Farms Inc. Welcome to the real Welker Farms Inc. Welker Farms is located in North Central Montana and has been around since 1912. Now it's your turn to run this Farm.
@@ -1317,7 +1317,7 @@ untested stuff, basically we list just what we find from google or the ZIP on ou
 <h2>FS17_XLFarms_X3_Final_Editon.zip</h2>
 
 <!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " loading="lazy" style="width:128px;height:128px;"></a>
 -->
 
 <p>
@@ -1333,7 +1333,7 @@ v12.3.1.1 by MoslessNeo. From modDesc: XLFarms X3 Final Edition. This is the XLF
 <h2>FS17_Birkenhof.zip Birkenhof</h2>
 
 <!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " loading="lazy" style="width:128px;height:128px;"></a>
 -->
 
 <p>
@@ -1681,7 +1681,7 @@ v1.0 by JamieFeterl. From modDesc: EastRiver-WestRiver, SouthDakota V1.1. Two ve
 <h2>River Valley XXL</h2>
 
 <!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " loading="lazy" style="width:128px;height:128px;"></a>
 -->
 
 <p>
@@ -1701,7 +1701,7 @@ v1.0.4 by ole22143. From modDesc: Flusstal XXL. This is the Fusstal XXL.
 <h2>Mills County</h2>
 
 <!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " loading="lazy" style="width:128px;height:128px;"></a>
 -->
 
 <p>
@@ -1721,7 +1721,7 @@ RDAllen mentioned mills county has few troubles and even more troubles with cour
 <h2>Golden Valley</h2>
 
 <!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " loading="lazy" style="width:128px;height:128px;"></a>
 -->
 
 <p>
@@ -1733,7 +1733,7 @@ v1.0 by C_A_N_b_O_K. From modDesc: Golden Valley 4X. Welcome to the Golden Valle
 <h2>Oklahoma USA</h2>
 
 <!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " loading="lazy" style="width:128px;height:128px;"></a>
 -->
 
 <p>
@@ -1753,7 +1753,7 @@ Note: modDesc german language states "oklahomav1" heh. Also as you can see modDe
 <h2>Oregon Springs 17</h2>
 
 <!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " loading="lazy" style="width:128px;height:128px;"></a>
 -->
 
 <p>
@@ -1775,7 +1775,7 @@ Oregon Springs (from someones twitch stream) doesn't look like 4km one or any wa
 <h2>Factory Farm</h2>
 
 <!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " loading="lazy" style="width:128px;height:128px;"></a>
 -->
 
 <p>
@@ -1795,7 +1795,7 @@ v1.4.4 by Nightcop34. From modDesc: factoryFarm.
 <h2>Kootenay Valley</h2>
 
 <!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " loading="lazy" style="width:128px;height:128px;"></a>
 -->
 
 <p>
@@ -1821,7 +1821,7 @@ v1.0 by Poncho. From modDesc: KootenayValley. Welcome to KootenayValley.
 <h2>Glenvar Map 2018</h2>
 
 <!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " loading="lazy" style="width:128px;height:128px;"></a>
 -->
 
 <p>
@@ -1841,7 +1841,7 @@ Has Thumbs.db files in many directories.
 <h2>Apache Hills</h2>
 
 <!--
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " loading="lazy" style="width:128px;height:128px;"></a>
 -->
 
 <p>
@@ -1867,7 +1867,7 @@ Apache_Hills.zip <a href="http://www.modhub.us/farming-simulator-2017-mods/5513-
 <div class="terrainuntested">
 <h2>NAME</h2>
 
-<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " style="width:128px;height:128px;"></a>
+<a href="images/Map-.png" target="_blank"><img src="images/thumbs/Map-.jpg" alt="Farming Simulator 17 Map - " loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>
 v by . From modDesc: 
