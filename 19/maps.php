@@ -226,7 +226,7 @@ Roads are gray gravel-ish, I guess they are asfalt but without any center lines 
 </p>
 
 <p>
-Lime station marked on the map (havent tested how well it works though). Easily accessible even with larger vehicles. Central gas station map location teleport will get you stud inside the building.
+Lime station marked on the map (havent tested how well it works though). Easily accessible even with larger vehicles. Central gas station map location teleport will get you stuck inside the building.
 </p>
 
 <p>
@@ -246,7 +246,7 @@ Terrain edges has magical forest plane, in the distance you see mountains, a hug
 </p>
 
 <p>
-New farmer starter equipment is quite odd, two axial flow 9240s, nice truck trailer, powerful tractor with cultivator and seeder. I would expert starter equipment to be much less expensive and capable. However I always prepare my own savegame with completely fresh start or with money cheat still sell the starter vehicles anyways.
+New farmer starter equipment is quite odd, two axial flow 9240s, nice truck trailer, powerful tractor with cultivator and seeder. I would expect starter equipment to be much less expensive and capable. However I always prepare my own savegame with completely fresh start or with money cheat still sell the starter vehicles anyways.
 </p>
 
 <p>
