@@ -40,6 +40,15 @@ Click for larger image
 <a href="images/USA-Texas-Rowena-8km-Farmland.jpg" target="_blank"><img src="images/thumbs/USA-Texas-Rowena-8km-Farmland.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Farmland" style="padding: 3px 15px;width:256px;height:256px;"></a>
 </div>
 
+<div>
+<p>
+Latest PMC Texas Rowena 8km video.
+</p>
+<iframe width="480" height="270"
+src="https://www.youtube.com/embed/Jl1ft32IvsQ">
+</iframe>
+</div>
+
 <p>
 Screenshots from development: <a href="https://cdn.discordapp.com/attachments/557685453801914379/576695192023728157/FS19-Texas-Rowena-8km-2019-05-11T0858.png" target="_blank">Gimp cultivator density</a>, <a href="https://cdn.discordapp.com/attachments/557685453801914379/576931181166329857/FS19-Texas-Rowena-8km-2019-05-12T0035.png" target="_blank">cultivated land in-game</a>, <a href="https://cdn.discordapp.com/attachments/557685453801914379/576981214041341965/FS19-Texas-Rowena-8km-2019-05-12T0355.png" target="_blank">fields states in-game</a>. <a href="https://cdn.discordapp.com/attachments/557685453801914379/695250080814596177/PMC-Texas-Rowena-8km-2020-04-02T1138.png" target="_blank">Objects placed on 2020-04-02T1138</a> and <a href="https://cdn.discordapp.com/attachments/557685453801914379/697164449022476328/PMC-Texas-Rowena-8km-2020-04-07T1920.png" target="_blank">Object placement 2020-04-07</a>.
 <br><br>

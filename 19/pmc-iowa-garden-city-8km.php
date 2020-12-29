@@ -40,6 +40,15 @@ Click for larger image
 <a href="images/USA-Iowa-Garden-City-8km-Farmland.jpg" target="_blank"><img src="images/thumbs/USA-Iowa-Garden-City-8km-Farmland.jpg" alt="Farming Simulator 19 Terrain - Garden City, Iowa, USA. Farmland" style="padding: 3px 15px;width:256px;height:256px;"></a>
 </div>
 
+<div>
+<p>
+Latest PMC Iowa Garden City 8km video.
+</p>
+<iframe width="480" height="270"
+src="https://www.youtube.com/embed/GaStm37o7dI">
+</iframe>
+</div>
+
 <p>
 This terrain was made out of suggestion by two Iowa guys from Giants discord #modding channel. We also spent a lot of time game-play testing this terrain before the may 2019 re-design project, check out <a href="stories-from-zero-garden-city-iowa.php">Garden City, Iowa, Start From Zero</a> in our stories page.
 </p>
