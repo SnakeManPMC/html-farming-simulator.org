@@ -1,5 +1,5 @@
 
-/* mobile size first, 100% viewport and basic fonts etc */
+/* mobile size first, 100% viewport and 24 px fonts, etc */
 body
 {
 /* old
@@ -13,17 +13,18 @@ body
 	font-size: 24px;
 
 	text-align: left;
-	width: 100%;
-	margin-left: auto;
-	margin-right: auto;
+	max-width: 100%;
+	margin: 0px 10px;
 }
 
-/* desktop browser size to only 50% */
+/* desktop browser 1080p peasant values, dunno? */
+
+/* desktop browser 4k luxurious */
 @media only screen and (min-width: 768px)
 {
 	body
 	{
-		width: 50%;
+		max-width: 100%;
 		font-size: 16px;
 	}
 }
@@ -49,6 +50,7 @@ h1
 {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
 	font-size: 32px;
+	color: white;
 }
 
 h2
@@ -64,7 +66,7 @@ h3
 header
 {
 	text-align: center;
-	width: 100%;
+	max-width: 100%;
 }
 
 section
@@ -74,7 +76,7 @@ section
 footer
 {
 	text-align: center;
-	width: 100%;
+	max-width: 100%;
 }
 
 .button
@@ -191,4 +193,30 @@ mod individual releases
 	border-radius: 5px;
 	padding: 20px;
 	/* font-size: 150%; */
+}
+
+/*
+terrain changelog
+*/
+.changelog
+{
+	margin: 0px 5px;
+	font-size: 14px;
+}
+
+/*
+PMC terrain pages
+*/
+.terrain
+{
+	margin: 0px 10px;
+}
+
+/*
+PMC terrain farm field pre's
+*/
+.farmfields
+{
+	margin: 0px 50px 0px 0px;
+	display: inline-block;
 }

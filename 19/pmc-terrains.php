@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <title>PMC Terrains Farming Simulator 19 - PMC Farming</title>
-<LINK href="pmc-terrains.css" rel=stylesheet type="text/css">
+<LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC Terrains Farming Simulator 19 - PMC Farming">
 <META name="keywords" content="Terrain, Farming, Simulator, PMC, Farming">
 <meta charset="UTF-8">
@@ -24,11 +24,11 @@
 	<h2>Work In Progress</h2>
 
 <p>
-<b>2020-08-16</b> PMC North Dakota Greedale 4km basic object placement (buildings, utility poles, trees) is complete! :)
+<b>2020-12-31</b> First ever Farming Simulator PMC terrain release, <a href="pmc-texas-rowena-8km.php">PMC Texas Rowena 8km</a>! :-)
 </p>
 
 <p>
-Terrains listed below are work in progress, they are not finished. For example there is very little of objects like bushes, rocks, trees and buildings etc. These are not finished products!
+Terrains listed below are work in progress, they are not finished. As of today only one terrain has been released; PMC Texas Rowena 8km.
 </p>
 
 <p>
@@ -37,6 +37,62 @@ See each terrains individual specifications for development progress and if ther
 
 <p>
 For work in progress videos see <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC Farming Simulator 19 youtube playlist</a> and live streams / reruns on <a href="https://www.twitch.tv/snakemanpmc" target="_blank">PMC Twitch channel</a>.
+</p>
+
+<p>
+2020-09-08T11:39:00Z PMC Iowa Garden City 8km first trees placed.
+</p>
+
+<p>
+2020-09-06T18:38:00Z PMC Iowa Garden City 8km utility pole objects placement is done! :)
+</p>
+
+<p>
+2020-09-06T13:52:00Z PMC Iowa Garden City 8km first utility poles placed in NE corner.
+</p>
+
+<p>
+2020-09-06T13:14:00Z PMC Iowa Garden City 8km building placement is done! :-)
+</p>
+
+<p>
+2020-09-05T17:03:00Z PMC Iowa Garden City 8km building placement officially commenced, here we go!
+</p>
+
+<p>
+2020-09-05T16:18:00Z PMC Iowa Garden City 8km wind turbines placed. Nice landmark object-set for iowa terrain, you can see those far away while farming heh.
+</p>
+
+<p>
+2020-09-05T15:52:00Z PMC Iowa Garden City 8km object placement has officially started.
+</p>
+
+<p>
+2020-08-28T03:43:00Z PMC Montana Shelby 8km (welker farms map) trees placed, might need some further tweaking but all trees I could find from US NAIP are placed now.
+</p>
+
+<p>
+2020-08-28T02:47:00Z PMC Montana Shelby 8km (welker farms map) first round of trees placed to welkers yard.
+</p>
+
+<p>
+2020-08-27T18:10:00Z PMC Montana Shelby 8km (welker farms map) done creating utility pole splines.
+</p>
+
+<p>
+2020-08-27T17:18:00Z PMC Montana Shelby 8km (welker farms map) started to draw design doc for utility poles.
+</p>
+
+<p>
+2020-08-27T17:11:00Z PMC Montana Shelby 8km (welker farms map) basic buildings locations object placement with many placeholder objects is complete! Unbelievable it only took hours!? :o
+</p>
+
+<p>
+2020-08-27T11:14:00Z PMC Montana Shelby 8km (welker farms map) object placement begins now.
+</p>
+
+<p>
+2020-08-16 PMC North Dakota Greedale 4km basic object placement (buildings, utility poles, trees) is complete! :)
 </p>
 
 <p>
@@ -68,7 +124,7 @@ For work in progress videos see <a href="https://www.youtube.com/playlist?list=P
 </p>
 
 <p>
-<b>Releases</b> none of the below terrains have been publicly released. The fictional PMC Farm Lab test terrain would be ready to release but just havent got around to it. We are looking for dedicated testers for all the terrains in this page.
+<b>Releases</b> only PMC Texas Rowena 8km of the below terrains have been publicly released. More releases are coming soon.
 </p>
 
 	<h2>Real World Data</h2>
@@ -81,14 +137,22 @@ These are made out of <a href="http://www.arcgis.com/home/webmap/viewer.html?use
 Heightmap is accurate to 10 meter resolution. This means that the heightmap has realistic elevations. PMC terrain heightmaps are as good as they can be made out of US NED data.
 </p>
 
-	<h2>Design</h2>
-
 <p>
-<b>Fields</b> (field definitions) are made out of large rectangles which do not cover the satellite texture field edges precisely. We will improve field definition details on a later date but because their nature being mostly cosmetic, their priority is very low.
+Fields, roads, farm yards, rail roads etc are accurately located as they are in real life. We place building for building accuracy, with obviously dealing with limitations of often times not having properly sizes buildings (for example huge cow sheds or grain elevators etc). For farm yards and other populated places we try to place tree for tree, meaning every tree in farm yards for example is there like it is in real life.
 </p>
 
 <p>
-However cultivated / plowed field edges are painted in gimp (cultivator_density) and cover the actual satellite imagery pretty good, courseplay for example uses this field edge instead of field definition.
+PMC terrains are as real as humanly possible :)
+</p>
+
+	<h2>Design</h2>
+
+<p>
+<b>Fields</b> (field definitions) are made out of large rectangles which do not cover the satellite imagery field edges precisely. We will improve field definition details (add corner pieces) on a later date but because their nature being mostly cosmetic, their priority is very low. Only AI is using field definitions anyways and contracts do work on all PMC terrains.
+</p>
+
+<p>
+However cultivated / plowed field edges are painted in gimp (cultivator_density) and cover the actual satellite imagery very accurately, courseplay for example uses this field edge instead of field definition.
 </p>
 
 <p>
@@ -96,7 +160,7 @@ Please note that field hectare count comes from field definition rectangle and n
 </p>
 
 <p>
-<b>Roads</b> are just painted textures not a real objects as most terrains do. For example our roads are just asphalt texture, dirt/gravel texture without any center line or anything. In the future we would like to add road meshes.
+<b>Roads</b> are just painted terrain detail textures not a real objects as most terrains do. For example our roads are just asphalt texture, dirt/gravel texture without any center line or anything. In the future we would like to add road meshes.
 </p>
 
 <p>
@@ -131,9 +195,6 @@ Below green texts are links, click them to open more detailed terrain pages with
 <p><a href="pmc-texas-red-springs-8km.php">PMC Texas Red Springs 8km</a></p>
 <p><a href="pmc-texas-rockwood-8km.php">PMC Texas Rockwood 8km</a></p>
 <p><a href="pmc-texas-rowena-8km.php">PMC Texas Rowena 8km</a></p>
-<!--
-<p><a href="pmc-.php">PMC </a></p>
--->
 
 	<h2>Fictional</h2>
 
