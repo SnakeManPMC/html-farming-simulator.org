@@ -220,3 +220,27 @@ PMC terrain farm field pre's
 	margin: 0px 50px 0px 0px;
 	display: inline-block;
 }
+
+/*
+Terrain screenshot thumbnail images
+*/
+.terrainimg
+{
+	padding: 3px 15px;
+	width: auto;
+	height: auto;
+}
+
+/*
+PMC Farm Lab features ;)
+*/
+.grid-container
+{
+	display: grid;
+	grid-template-columns: auto auto;
+}
+
+.grid-item
+{
+	padding: 5px;
+}

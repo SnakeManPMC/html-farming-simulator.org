@@ -24,7 +24,7 @@
 	<h2>Work In Progress</h2>
 
 <p>
-<b>2020-12-31</b> First ever Farming Simulator PMC terrain release, <a href="pmc-texas-rowena-8km.php">PMC Texas Rowena 8km</a>! :-)
+<b>2021-01-03</b> PMC Farm Lab, mod testing terrain release, <a href="pmc-farm-lab.php">PMC Farm Lab</a>.
 </p>
 
 <p>
@@ -37,6 +37,10 @@ See each terrains individual specifications for development progress and if ther
 
 <p>
 For work in progress videos see <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC Farming Simulator 19 youtube playlist</a> and live streams / reruns on <a href="https://www.twitch.tv/snakemanpmc" target="_blank">PMC Twitch channel</a>.
+</p>
+
+<p>
+2020-12-31 First ever Farming Simulator PMC terrain release, <a href="pmc-texas-rowena-8km.php">PMC Texas Rowena 8km</a>! :-)
 </p>
 
 <p>
@@ -124,7 +128,7 @@ For work in progress videos see <a href="https://www.youtube.com/playlist?list=P
 </p>
 
 <p>
-<b>Releases</b> only PMC Texas Rowena 8km of the below terrains have been publicly released. More releases are coming soon.
+<b>Releases</b> only PMC Farm Lab and PMC Texas Rowena 8km of the below terrains have been publicly released. More releases are coming soon.
 </p>
 
 	<h2>Real World Data</h2>
@@ -202,34 +206,8 @@ Below green texts are links, click them to open more detailed terrain pages with
 These are fictional free hand created terrains, not based on any real world location or have any geo specific location like america or europe etc.
 </p>
 
+<p><a href="pmc-farm-lab.php">PMC Farm Lab</a></p>
 <p><a href="pmc-grande-gardens-16km.php">PMC Grande Gardens 16km</a></p>
-
-	<h2>PMC Farm Lab</h2>
-
-<p>
-This is mod testing terrain, designed specifically to make it easier to test various mods (obviously not terrain mods as... this is... a terrain heh). For example simple thing as having vehicle shop real close to fields where to test your implements etc.
-</p>
-
-<p>
-Terrain size 2km x 2km.
-</p>
-
-<p>
-Included fields:
-</p>
-<ul>
-<li>Cultivated</li>
-<li>Ploughed</li>
-<li>Wheat ready to harvest</li>
-<li>Corn ready to harvest</li>
-<li>Sugar Beets ready to harvest</li>
-<li>Potatoes ready to harvest</li>
-<li>Grass ready to harvest</li>
-</ul>
-
-<p>
-Includes small forest area for logging. Grain silo bin with 10,000 liters of all (or at least many) crop types.
-</p>
 
 	<h2>PMC Eternal Sugar Beet Damnation 32km</h2>
 
@@ -248,19 +226,6 @@ Terrain has vehicle shop and one sell point in the center, then one enormous sug
 <p>
 This was made using cultivator and fruit density images from 8km terrain so the fields and crop handling is very inaccurate. Because of the inaccuracy while this terrain technically does work as proven, it is really not suitable for enjoyable game-play. Unless giants fixes their engine to allow better density image accuracy, we are stuck with about 15km - 20km terrains being the largest enjoyable ones.
 </p>
-
-<!--
-	<h2></h2>
-
-<p>
-</p>
-
-<a href="" target="_blank"></a>
-
-<ul>
-<li></li>
-</ul>
--->
 </section>
 
 <footer>
