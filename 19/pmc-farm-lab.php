@@ -106,6 +106,9 @@ Precision farming soil types map
 <li>
 Player owns all the land and fields
 </li>
+<li>
+All field sizes 0.496 ha (per field)
+</li>
 </ul>
 </div>
 
