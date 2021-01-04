@@ -204,6 +204,10 @@ None. This terrain is prepared for Precision Farming with a custom soil types ma
 <p>
 PMC_Farm_Lab_v1.2.7z 5.5mb <a href="downloads/PMC_Farm_Lab_v1.2.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1rtdvM9ms4RGNfAsCoFaAAj_PElTi-Use/view?usp=sharing" target="_blank">google drive</a>.
 </p>
+
+<p>
+For installing please read <a href="install-mods.php">how to install FS19 mods</a> and <a href="install-pmc-terrain-mods.php">how to install PMC terrain mods</a>.
+</p>
 </section>
 
 <footer>

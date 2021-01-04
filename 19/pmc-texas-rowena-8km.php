@@ -399,6 +399,10 @@ If you do not use Seasons, then you do not need PMC_Seasons_GEO_Texas_Rowena.zip
 <p>
 PMC_Texas_Rowena_8km_v1.2.3.7z 52.9mb <a href="downloads/PMC_Texas_Rowena_8km_v1.2.3.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1GaKfULVlXwMfLQLCfrgF_JlL3rNdHYsI/view?usp=sharing">google drive</a>.
 </p>
+
+<p>
+For installing please read <a href="install-mods.php">how to install FS19 mods</a> and <a href="install-pmc-terrain-mods.php">how to install PMC terrain mods</a>.
+</p>
 </div>
 
 </section>
