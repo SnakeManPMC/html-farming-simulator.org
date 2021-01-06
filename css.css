@@ -111,7 +111,7 @@ terrain categories
 	grid-template-columns: 100%;
 	grid-gap: 10px;
 	background-color: gray;
-	color: #444;
+	color: black;
 }
 
 .wrapper2km
@@ -120,7 +120,7 @@ terrain categories
 	grid-template-columns: 100%;
 	grid-gap: 10px;
 	background-color: gray;
-	color: #444;
+	color: black;
 }
 
 .wrapperuntested
