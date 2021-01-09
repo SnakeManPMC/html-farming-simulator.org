@@ -99,7 +99,7 @@ Fields 120, 123, 127, 141, 145, <a href="screenshots/PMC-Texas-Rowena-8km-2020-0
 	<h2>Work In Progress</h2>
 
 <p>
-PMC Texas Rowena 8km terrain terrain is work in progress (WIP), it is not finished yet. PMC is continuing to develop it, edit it along with our other terrains.
+PMC Texas Rowena 8km terrain is work in progress (WIP), it is not finished yet. PMC is continuing to develop it, edit it along with our other terrains.
 </p>
 
 <p>
