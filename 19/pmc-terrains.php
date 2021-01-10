@@ -24,11 +24,11 @@
 	<h2>Work In Progress</h2>
 
 <p>
-<b>2021-01-03</b> PMC Farm Lab, mod testing terrain release, <a href="pmc-farm-lab.php">PMC Farm Lab</a>.
+<b>2021-01-10</b> First public release of <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a>.
 </p>
 
 <p>
-Terrains listed below are work in progress, they are not finished. As of today only one terrain has been released; PMC Texas Rowena 8km.
+Terrains listed below are work in progress, they are not finished.
 </p>
 
 <p>
@@ -37,6 +37,10 @@ See each terrains individual specifications for development progress and if ther
 
 <p>
 For work in progress videos see <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC Farming Simulator 19 youtube playlist</a> and live streams / reruns on <a href="https://www.twitch.tv/snakemanpmc" target="_blank">PMC Twitch channel</a>.
+</p>
+
+<p>
+2021-01-03 PMC Farm Lab, mod testing terrain release, <a href="pmc-farm-lab.php">PMC Farm Lab</a>.
 </p>
 
 <p>
