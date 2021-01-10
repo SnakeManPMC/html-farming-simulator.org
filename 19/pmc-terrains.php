@@ -132,7 +132,7 @@ For work in progress videos see <a href="https://www.youtube.com/playlist?list=P
 </p>
 
 <p>
-<b>Releases</b> only PMC Farm Lab and PMC Texas Rowena 8km of the below terrains have been publicly released. More releases are coming soon.
+<b>Releases</b> only PMC Farm Lab, PMC North Dakota Greendale 4km and PMC Texas Rowena 8km of the below terrains have been publicly released. More releases are coming soon.
 </p>
 
 	<h2>Real World Data</h2>
