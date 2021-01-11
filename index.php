@@ -31,6 +31,7 @@
 <a href="19/courseplay.php" class="button">Courseplay</a>
 <a href="19/equipment-vehicle-prices.php" class="button">Equipment Vehicle Prices</a>
 <a href="19/guide.php" class="button">Guide</a>
+<a href="19/install-mods.php" class="button">Install Mods</a>
 <a href="19/map-making-tutorial.php" class="button">Map Making Tutorial</a>
 <a href="19/maps.php" class="button">Maps</a>
 <a href="19/mods.php" class="button">Mods</a>
