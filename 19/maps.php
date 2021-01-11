@@ -73,7 +73,7 @@ v1.3 by Parzival. From modDesc: Peasantville 2 Production
 </p>
 
 <p>
-This is hilarious terrain release as Parzival thinks its "8x map" which is completely false, there are no such thing in the first place, this terrain is 8.1 kilometers x 8.1 kilometers in size, where Mr Parzival got the idea of this being "eight EX" is beyond comprehension. I recommend learning to <a href="terrain-use-actual-size.php">use actual size</a>.
+This is release is called "8x map" but there are no such thing, this terrain is 8.1 kilometers x 8.1 kilometers in size. I recommend learning to <a href="terrain-use-actual-size.php">use actual size</a>.
 </p>
 
 <p>
@@ -153,7 +153,7 @@ Career start in new farmer mode does not include other than one tractor + traile
 </p>
 
 <p>
-Terrain heightmap looks completely flat. Trees have various object types and they are randomized in orientation and size/scale like they should (stupid that you have to mention it this way, but so many terrains out there just have one type tree copy pasted million times without andy randomization).
+Terrain heightmap looks completely flat. Trees have various object types and they are randomized in orientation and size/scale like they should (odd that you have to mention it this way, but so many terrains out there just have one type tree copy pasted million times without andy randomization).
 </p>
 
 <p>
@@ -301,7 +301,7 @@ New farmer starter equipment is quite odd, two axial flow 9240s, nice truck trai
 </p>
 
 <p>
-First impressions are that high performance simple terrain. Big Bud suitable. Overall looks pretty OK for a basic 4km terrain. I rather play on this than any of the 2km garbages floating around.
+First impressions are that high performance simple terrain. Big Bud suitable. Overall looks pretty OK for a basic 4km terrain.
 </p>
 
 <p>
@@ -567,7 +567,7 @@ v2.0 by Tautvis, Edit By Tomi098. From modDesc: Baldeykino Edit V2 By Tomi098
 </p>
 
 <p>
-Some russian theme, not very good but much better than ravenport garbage.
+Some russian theme, not very good but much better than ravenport.
 </p>
 </div>
 
