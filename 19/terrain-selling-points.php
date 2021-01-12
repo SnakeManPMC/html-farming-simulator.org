@@ -24,7 +24,11 @@
 	<h2>Adding Selling Points</h2>
 
 <p>
-- GE file -> import -> FS19_root -> data -> placeables -> mapDE -> sellingstationgeneric<br>
+<b>2021-01-12</b> Updated
+</p>
+
+<p>
+- <a href="terrain-giants-editor.php">GE</a> file -> import -> FS19_root -> data -> placeables -> mapDE -> sellingstationgeneric<br>
 - create dir to your terrain maps\placeables\sellingpoints\<br>
 - copy from the game placeables dir sellingStationGeneric.xml and sellingStationPort01.xml to your sellingpoints dir<br>
 - edit the xml stationName to your liking, like PMC Grain Selling INC<br>
@@ -34,7 +38,7 @@
 - move the sellingstationgeneric object in GE where you want first selling point, then check the attributes -> transform -> translate<br>
 - copy paste translate coordinates to defaultitems.xml position= part, also check rotation if you want<br>
 - once done for both objects, delete the objects from GE as you dont need them anymore<br>
-- edit defaultitems.xml filename part to say $moddir$MyMap_2km/maps/Placeables/Sellingpoints/PMC_sellingStationGrain.xml and the poormans as well
+- edit defaultitems.xml filename part to say $mapdir$/maps/Placeables/Sellingpoints/PMC_sellingStationGrain.xml and the poormans as well
 </p>
 
 <p>
