@@ -21,14 +21,24 @@
 </header>
 
 <section>
-	<h2>How Big Is 16km?</h2>
+	<h2>Any Terrain Size You want</h2>
 
 <p>
-Its a very big, HUGE terrain. The actual size is 16,384 x 16,384 meters which is 16.3km or in short 16km. This is the <i>largest playable terrain</i> you could possibly do for Farming Simulator 19 which is still playable.
+<b>2021-01-12</b> Updated
 </p>
 
 <p>
-Yes PMC did create monster 32km x 32km terrain but the fruit density image gets so low resolution that you cannot properly work on your fields anymore as 4 meter combine harvester header would cut a very large like probably 7+ meters worth of crop.
+You can use <i>any terrain size you want</i>, it is not limited to 2 kilometer (km), 4km, 8.1km, 16.3km, 32.7km etc, this is the old uneducated way of thinking. You can create 10.2km terrain or 12.2km or 5.1km or 17.4km etc. This is done by using <a href="terrain-heightmap.php">heightmap</a> and <a href="terrain-unitsperpixel.php">unitsPerPixel</a>. Speaking of sizes, lets all <a href="terrain-use-actual-size.php">use actual size</a> when talking about terrains.
+</p>
+
+	<h2>How Big Is 16km?</h2>
+
+<p>
+Its a very big, HUGE terrain. The actual size is 16,384 x 16,384 meters which is 16.3 kilometers x 16.3 kilometers or in short 16km. This is about the <i>largest playable terrain</i> you could possibly do for Farming Simulator 19 which is still enjoyable. If you go any larger... <a href="terrain-density-weight-images.php">density/weight image</a> resolution problem becomes bigger and bigger.
+</p>
+
+<p>
+Yes PMC did create monster 32km x 32km terrain but the fruit density image gets so low resolution that you cannot properly work on your fields anymore as 4 meter combine harvester header would cut a very large like probably 6-7 meters worth of crop.
 </p>
 
 	<h2>Source Files</h2>
@@ -52,19 +62,19 @@ In our example we use 4096 x 4096 resolution for weight images and 8192 x 8192 r
 </p>
 
 <p>
-If you must get more details to tipcol and farmland images, then you could try 4096 resolution but in our experience these images cause a long delay in ESC mapview in such resolutions and they really do not need such high resolution. (anybody remember FS17 Cornbelt ESC mapview display delays?).
+If you must get more details to tipcol and farmland images, then you could try 4096 resolution but in our experience these images cause a long delay in ESC mapview in higher resolutions and they really do not need a high resolution. (anybody remember FS17 Cornbelt ESC mapview display delays?).
 </p>
 
 	<h2>Heightmap</h2>
 
 <p>
-Heightmap digital elevation map (DEM) image needs to be resized to 4097 x 4097 resolution. Use GIMP with no interpolation resizing method (or photoshop with similar feature).
+<a href="terrain-heightmap.php">Heightmap digital elevation map (DEM)</a> image needs to be resized to 4097 x 4097 resolution. Use GIMP with no interpolation resizing method (or photoshop with similar feature).
 </p>
 
 	<h2>terrainName.i3d</h2>
 
 <p>
-Open mapDE.i3d or mapUS.i3d depending which you chose in proper text editor, search for string "unitsPerPixel" which is value 2 now, then change it to 4, see below:
+Open mapDE.i3d or mapUS.i3d depending which you chose in proper text editor, search for string "<a href="terrain-unitsperpixel.php">unitsPerPixel</a>" which is value 2 now, then change it to 4, see below:
 </p>
 
 <pre>
@@ -92,15 +102,15 @@ Now your terrain xml config defines its as 16.3km size.
 	<h2>Summary</h2>
 
 <p>
-So basically we took "normal" 8.1km x 8.1km terrain and simply changed it to 16.3km using i3d and xml text config, all the rest of the image files are exactly the same size. Normal 8.1km terrain unitsPerPixel is standard value 2, but we bumped it up to 4.
+So basically we took "normal" 8.1 kilometer x 8.1 kilometer terrain and simply changed it to 16.3km using i3d and xml text config, all the rest of the image files are exactly the same size. Normal 8.1km terrain unitsPerPixel is standard value 2, but we bumped it up to 4.
 </p>
 
 <p>
-16.3km terrain using 8192 x 8192 fruit density image files are the largest playable, you could increase the density image resolutions and i3d/xml config values to make 32km or possibly even 64km terrain, but FS19 engine cannot handle larger than 8192 x 8192 resolution density images and even these cause slight stutter which luckily doesn't ruin the game-play yet. Try 16,384 x 16,384 resolution density images and the stutter is so bad the game actually freezes for a very short moment every few seconds when it writes to savegame density images. It is unplayable, at least I could not play in such stutter.
+16.3km terrain using 8192 x 8192 fruit density image files are the largest playable, you could increase the density image resolutions and i3d/xml config values to make 32km or possibly even larger terrain, but FS19 engine cannot handle larger than 8192 x 8192 resolution density images and even these cause slight stutter (50-60 FPS performance fluctuation) which luckily doesn't ruin the game-play yet. Try 16,384 x 16,384 resolution density images and this issue is so bad the game actually freezes for a very short moment every few seconds when it accesses/writes density images. It is unplayable, you could not play in such freezes.
 </p>
 
 <p>
-PMC has made <a href="pmc-terrains.php">a few 16.3km terrains</a> using 8192 density images and unitsPerPixel 4 and these work great.
+PMC has made <a href="pmc-terrains.php">a few 16.3 kilometer terrains</a> using 8192 density images and unitsPerPixel 4 and these work great, we are also working on one 20.4km terrain but its so early stages at the moment not sure what comes out of it, however it is in-game and working, no issues.
 </p>
 
 </section>
