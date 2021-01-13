@@ -35,9 +35,14 @@ Terrain size 32,768 meters x 32,768 meters ie 32.7 kilometers x 32.7 kilometers 
 No mapview screenshots as there is no point, PDA is single green color, there is nothing to see other than one endless sugar beet field.
 </p>
 
+<div>
+<p style="font-size: 10px;">
+Click for larger image
+</p>
 <a href="screenshots/PMC-Eternal-Sugar-Beet-Damnation-32km-2021-01-13T0229.jpg" target="_blank"><img class="terrainimg" src="screenshots/thumbs/PMC-Eternal-Sugar-Beet-Damnation-32km-2021-01-13T0229.jpg" alt="Farming Simulator 19 Terrain - PMC Eternal Sugar Beet Damnation 32km, Landscape" loading="lazy"></a>
 
 <a href="screenshots/PMC-Eternal-Sugar-Beet-Damnation-32km-2021-01-13T0230.jpg" target="_blank"><img class="terrainimg" src="screenshots/thumbs/PMC-Eternal-Sugar-Beet-Damnation-32km-2021-01-13T0230.jpg" alt="Farming Simulator 19 Terrain - PMC Eternal Sugar Beet Damnation 32km, Landscape" loading="lazy"></a>
+</div>
 
 <p>
 This is not a proper Farming Simulator 19 map / terrain, this is a spectacle, a scary megalodon, a thing to witness once in your life so you can tell stories about it. Don't download this terrain if you want to play properly.
@@ -50,7 +55,7 @@ This enormous 32km x 32km terrain started as kind of a joke, like would it work,
 </p>
 
 <p>
-It begun when I was watching Farming Simulator 19 twitch live stream and people in the voice comms there were talking about large terrains and sugar beets, they joked something about a huge sugar beet field on 4km terrain or something, which gave me an idea to make some completely out of this world totally hilarious joke terrain of absolutely massive size with only one sugar beet field.
+It begun when I was watching Farming Simulator 19 twitch live stream and people in the voice comms there were talking about large terrains and sugar beets, they joked something about a huge sugar beet field on 4km terrain etc, which gave me an idea to make some completely out of this world totally hilarious joke terrain of absolutely massive size with only one sugar beet field.
 </p>
 
 <p>
@@ -58,7 +63,7 @@ I created most of this terrain while the twitch stream was live and announced th
 </p>
 
 <p>
-This was made using cultivator and fruit density images from 8km terrain so the fields and crop handling is very inaccurate. Because of the inaccuracy while this terrain technically does work as proven, it is really not suitable for enjoyable game-play. Unless giants fix their engine to allow better density image accuracy, we are stuck with about 15km - 20km terrains being the largest enjoyable ones. When you harvest sugar beets the harvester works on a way larger area than the actual header.
+This was made using cultivator and fruit density images from 8km terrain so the <b>fields and crop handling is EXTREMELY inaccurate</b>. Because of the inaccuracy while this terrain technically does work as proven, it is really not suitable for enjoyable game-play. Unless giants fix their engine to allow better density image accuracy, we are stuck with about 15km - 20km terrains being the largest enjoyable ones. When you harvest sugar beets the harvester works on a way larger area than the actual header.
 </p>
 
 	<h2>Fields</h2>
@@ -79,10 +84,16 @@ Terrain has vehicle shop and one sell point in the center, then one enormous sug
 Just don't try to generate courseplay field work course for this field ... ;)
 </p>
 
-	<h2>New Farmer</h2>
+	<h2>New Farmer Game-Mode</h2>
 
 <p>
 New Farmer game-mode comes with few basic sugar beet vehicles to get you started right away.
+</p>
+
+	<h2>License</h2>
+
+<p>
+License: <b><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY NC ND</a></b>, which means you are free to distribute/share the original 7-zip packet but NO commercial use and NO editing, see LICENSE.txt for details.
 </p>
 
 	<h2>Required Mods</h2>
@@ -94,11 +105,15 @@ None.
 	<h2>Download</h2>
 
 <p>
-Remember that this is not a proper terrain, this is a spectacle (see above), do not download unless you want to experience it.
+Please understand that this is not a proper terrain, this is a spectacle (see above), do not download unless you want to experience it.
 </p>
 
 <p>
-Coming soon.
+PMC_EternalSugarBeetDamnation_32km_v1.0.7z 18.5mb <a href="downloads/PMC_EternalSugarBeetDamnation_32km_v1.0.7z">farming-simulator.org</a>, <a href="https://drive.google.com/file/d/1rcKbPDrk0quhP0VUwa5aDEr3edEhlzD2/view?usp=sharing" target="_blank">google drive</a>.
+</p>
+
+<p>
+If you need installing help please read <a href="install-mods.php">how to install FS19 mods</a> and <a href="install-pmc-terrain-mods.php">how to install PMC terrain mods</a>.
 </p>
 
 </section>

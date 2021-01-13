@@ -24,7 +24,7 @@
 	<h2>PMC Terrain News</h2>
 
 <p>
-<b>2021-01-10</b> First public release of <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a>.
+<b>2021-01-13</b> First public release of <a href="pmc-eternal-sugar-beet-damnation-32km.php">PMC Eternal Sugar Beet Damnation 32km</a>. Largest terrain in farmsim history to this date, but also not a proper terrain so please read homepage through.
 </p>
 
 <p>
@@ -37,6 +37,10 @@ See each terrains individual specifications for development progress and if ther
 
 <p>
 For work in progress videos see <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC Farming Simulator 19 youtube playlist</a> and live streams / reruns on <a href="https://www.twitch.tv/snakemanpmc" target="_blank">PMC Twitch channel</a>.
+</p>
+
+<p>
+2021-01-10 First public release of <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a>.
 </p>
 
 <p>
