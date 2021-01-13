@@ -179,6 +179,10 @@ If you have any feedback regarding multiplayer farm buildings, please let us kno
 <b>Terrain Size</b> is listed below on each terrain specifically, however mostly we go with 8192 meters x 8192 meters which is 8.1 kilometers x 8.1 kilometers (or just 8km in short) which is very large as we do not like small terrains, we need real world sizes and room to breathe! :)
 </p>
 
+<p>
+<b>Game-play Experience</b> is <i>very</i> important when editing terrains. I have played PMC terrains endlessly for example <a href="stories-from-zero-grande-gardens.php">PMC Grande Gardens 16km Start From Zero</a> savegame in 2021-01-12 has 900 hours in it, that is just one savegame, I have several other savegames on other terrains (texas rowena 566hrs etc) where I gathered knowledge and experience of what works in-game and what doesn't. I do bunch of edits, then start to test for days sometimes weeks maybe even months, collecting invaluable data so to speak of the game-play experience. If something doesnt work, it will be fixed / tweaked, then more game-play testing. PMC terrains are not put together hastily, they are made with care to the game-play, what works and what doesn't.
+</p>
+
 	<h2>Terrains - Real World Data</h2>
 
 <p>
