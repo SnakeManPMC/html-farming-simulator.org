@@ -21,7 +21,7 @@
 </header>
 
 <section>
-	<h2>Work In Progress</h2>
+	<h2>PMC Terrain News</h2>
 
 <p>
 <b>2021-01-10</b> First public release of <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a>.
@@ -131,10 +131,6 @@ For work in progress videos see <a href="https://www.youtube.com/playlist?list=P
 2019-02-02 FS19 terrain development studies begun, I had earlier experience from 2018 doing FS17 terrains so it was not a fresh start.
 </p>
 
-<p>
-<b>Releases</b> only PMC Farm Lab, PMC North Dakota Greendale 4km and PMC Texas Rowena 8km of the below terrains have been publicly released. More releases are coming soon.
-</p>
-
 	<h2>Real World Data</h2>
 
 <p>
@@ -156,11 +152,11 @@ PMC terrains are as real as humanly possible :)
 	<h2>Design</h2>
 
 <p>
-<b>Fields</b> (field definitions) are made out of large rectangles which do not cover the satellite imagery field edges precisely. We will improve field definition details (add corner pieces) on a later date but because their nature being mostly cosmetic, their priority is very low. Only AI is using field definitions anyways and contracts do work on all PMC terrains.
+<b>Fields</b> field definitions are made out of large simple shapes which do not cover the satellite imagery field edges precisely. <i>We will improve field definition details on a later date</i> (add more corner pieces) but because their nature being mostly cosmetic, their priority is very low. Only AI is using field definitions anyways and contracts do work on all PMC terrains. PMC North Dakota Greendale 4km terrain has pretty detailed field definition coverage which is our first terrain to get more corner pieces added.
 </p>
 
 <p>
-However cultivated / plowed field edges are painted in gimp (cultivator_density) and cover the actual satellite imagery very accurately, courseplay for example uses this field edge instead of field definition.
+However cultivated / plowed field edges are painted in GIMP (cultivator_density) and cover the actual satellite imagery very accurately, courseplay for example uses this field edge instead of field definition.
 </p>
 
 <p>
@@ -183,6 +179,8 @@ If you have any feedback regarding multiplayer farm buildings, please let us kno
 <b>Terrain Size</b> is listed below on each terrain specifically, however mostly we go with 8192 meters x 8192 meters which is 8.1 kilometers x 8.1 kilometers (or just 8km in short) which is very large as we do not like small terrains, we need real world sizes and room to breathe! :)
 </p>
 
+	<h2>Terrains - Real World Data</h2>
+
 <p>
 Below green texts are links, click them to open more detailed terrain pages with screenshots etc.
 </p>
@@ -204,32 +202,16 @@ Below green texts are links, click them to open more detailed terrain pages with
 <p><a href="pmc-texas-rockwood-8km.php">PMC Texas Rockwood 8km</a></p>
 <p><a href="pmc-texas-rowena-8km.php">PMC Texas Rowena 8km</a></p>
 
-	<h2>Fictional</h2>
+	<h2>Terrains - Fictional</h2>
 
 <p>
-These are fictional free hand created terrains, not based on any real world location or have any geo specific location like america or europe etc.
+These are fictional free hand created terrains, not based on any real world location or have any GEO specific location like america or europe etc.
 </p>
 
+<p><a href="pmc-eternal-sugar-beet-damnation-32km.php">PMC Eternal Sugar Beet Damnation 32km</a></p>
 <p><a href="pmc-farm-lab.php">PMC Farm Lab</a></p>
 <p><a href="pmc-grande-gardens-16km.php">PMC Grande Gardens 16km</a></p>
 
-	<h2>PMC Eternal Sugar Beet Damnation 32km</h2>
-
-<p>
-Largest terrain in Farming Simulator history, size 32 kilometers x 32 kilometers. Field 1 (field01) : 107,331.031 ha
-</p>
-
-<p>
-This enormous 32km x 32km terrain started as kind of a joke, like would it work, could I do this. The goal was never to create properly done terrain with all the sell points, roads, fields and all that, this is more like a technology demonstration that such huge size works, with some limitations like density images low resolution.
-</p>
-
-<p>
-Terrain has vehicle shop and one sell point in the center, then one enormous sugar beet field surrounding it covering the whole 32km x 32km terrain area from one edge to another. Oddly enough, this terrain actually works (within the mentioned limits).
-</p>
-
-<p>
-This was made using cultivator and fruit density images from 8km terrain so the fields and crop handling is very inaccurate. Because of the inaccuracy while this terrain technically does work as proven, it is really not suitable for enjoyable game-play. Unless giants fixes their engine to allow better density image accuracy, we are stuck with about 15km - 20km terrains being the largest enjoyable ones.
-</p>
 </section>
 
 <footer>
