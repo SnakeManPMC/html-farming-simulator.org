@@ -24,7 +24,7 @@
 	<h2>PMC Terrain Releases</h2>
 
 <p>
-PMC terrains are released in 7-zip packets which include three (3) files inside: LICENSE.txt, FS19 terrain mod zip and readme.
+PMC terrains are released in <a href="https://www.7-zip.org/" target="_blank">7-Zip</a> packets which include three (3) files inside: LICENSE.txt, FS19 terrain mod zip and readme.
 </p>
 
 <p>
@@ -40,7 +40,7 @@ When you download one of PMC terrain releases you see 7-zip file for example "PM
 </p>
 
 <p>
-In windows explorer select the downloaded terrain 7-zip packet, right mouse button click it and then you see something like this:
+In windows explorer select the downloaded terrain 7-zip packet, right mouse button click it and then you see something like this if you have 7-Zip installed:
 </p>
 
 <img class="terrainimg" src="images/FS19-HOWTO-Install-PMC-Terrain-Mods-2021-01-04T215606.png" alt="Farming Simulator 19 - PMC Terrain Mods Install Tutorial Open 7-Zip Archive" loading="lazy" style="max-width:768px;">
