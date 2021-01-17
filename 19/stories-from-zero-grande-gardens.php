@@ -4,7 +4,7 @@
 <title>PMC Grande Gardens 16km - PMC Farming Simulator Stories</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Farming Simulator Stories Start From Zero PMC Grande Gardens 16km">
-<META name="keywords" content="Farming, Simulator, Grande, Gardens, Stories, FS19">
+<META name="keywords" content="Farming, Simulator, Grande, Gardens, Stories, PMC, FS19">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -25,7 +25,7 @@
 	<h2>PMC Grande Gardens 16km, Start From Zero</h2>
 
 <p>
-<b>2019-07-15T1910</b> Started <a href="pmc-grande-gardens-16km.php">PMC Grande Gardens 16km</a> new farmer mode in single player and saved career. Then edited savegame for PMC start from zero mode :)
+<b>2019-07-15T1910</b> Started <a href="pmc-grande-gardens-16km.php">PMC Grande Gardens 16km</a> New Farmer game-mode and saved career. Then edited savegame for PMC Start From Zero mode :)
 </p>
 
 <p>
@@ -4951,7 +4951,7 @@ Coming back from first ALT-TAB... F14 trailing big bud 450 pulling flexicoil st8
 0433 I calmly without hesitation saved and exited FS19. I AM FUCKING DONE.
 </p>
 
-	<h2>After the Break</h2>
+	<h2>After the 2019 Break</h2>
 
 <p>
 <b>2020-02-17T0017</b> launched FS19 the first time in 2020! ;)
@@ -6659,6 +6659,1949 @@ This F28 seeding was a bit messy, first started to single seeder driving manuall
 
 <p>
 Was watching SinisterSockz twitch streaming North Dakota Regent terrain editing so wanted to concentrate watching on that a while, also I don't really want to continue seeding more fields because the harvest gets so long then and running the risk again to not be able to finish before winter.
+</p>
+
+
+<!-- 2021-01-17T1352 added -->
+	<h2>After 5 Months Break</h2>
+
+<p>
+<b>2020-09-07T1933</b> Back at this savegame after about five months break! :)
+</p>
+
+<p>
+Just finished huge shuffling to get this savegame loaded, I've already spend like more than hour doing this. First I tried to load it just as is, I had the same terrain version and rest of the mods but courseplay started to cause huge errors in the log and then freeze up the whole game with F40 scanning.
+</p>
+
+<p>
+Finally got latest courseplay sorted out and loading OK. Then started to trim down unused mods, just by memory and doing a load/savegame. Then checked vehicles.xml for mods I might use and sorted them out.
+</p>
+
+<p>
+Then unloaded lsfm liquid tanker trailers and sold them, then savegame and another load without lsfm liquid tanker mod. Another mod removed.
+</p>
+
+<p>
+2005 Realized I'm playing with too new terrain version too, so I restored latest upgrade that this savegame is using which is v0.1.4.
+</p>
+
+<p>
+Performance FPS did not improve its still solid 30FPS even on new game load, which is kind of bad. I took backups of this savegame and sold all vehicles leaving just pickup truck... and then FPS went back to 60.
+</p>
+
+<p>
+2152 Ported this savegame to multiplayer (MP) and uploaded the whole mod-set to drive.google, then invited ncsimfarmer to join me on hosted server.
+</p>
+
+<p>
+I want to see if my computer can run hosted server on 16km terrain with huge number of vehicles as it already runs SP game in solid 30FPS. Also it would be fun to play with some player instead of just alone in SP.
+</p>
+
+<p>
+<b>2020-09-08T0234</b> had to call it a night.
+</p>
+
+<p>
+<b>2020-09-09T1959</b> Started PMC Gaming and hosted server, time to start harvesting massive fields.
+</p>
+
+<p>
+See todays video for a timeline...
+</p>
+
+<p>
+<b>2020-09-10T0024</b> Harvesting soybeans from F28 continues on dedicated server borrowed from fscommando, thanks buddy! :)
+</p>
+
+<p>
+0512 Shut it down.
+</p>
+
+<p>
+<b>2020-09-11T1636</b> Back in PMC Gaming and continuing playing Start From Zero v0.1.4 savegame.
+</p>
+
+<p>
+Yesterday spent all day waiting for player which never show up, while doing that I tried to track down the performance issue in this savegame. When I load this savegame up I get solid 30FPS, something is up with that. I did inventory of my vehicles / implements and was shocked to see this:
+</p>
+
+<pre>
+4 $pdlcdir$bourgaultPack/vehicles/bourgault/series3420/series3420.xml
+4 $pdlcdir$bourgaultPack/vehicles/bourgault/series71300/series71300.xml
+8 $pdlcdir$claasPack/vehicles/claas/lexion8000/lexion8000.xml
+3 data/vehicles/bredal/K165/K165.xml
+8 data/vehicles/capello/quasarHS16/quasarHS16.xml
+4 data/vehicles/caseIH/optum/optum.xml
+3 data/vehicles/caseIH/puma/puma.xml
+2 data/vehicles/elmersMfg/haulMaster/haulMaster.xml
+2 data/vehicles/fendt/vario1000/vario1000.xml
+4 data/vehicles/flexicoil/st820/st820.xml
+4 data/vehicles/greatPlains/yp2425A/yp2425A.xml
+8 data/vehicles/hardi/rubicon9000/rubicon9000.xml
+6 data/vehicles/krampe/dolly10L/dolly10L.xml
+1 data/vehicles/lizard/pickup1978/pickup1978.xml
+4 data/vehicles/lizard/truckL/truckL.xml
+4 FS19_bigBud450/bigBud450.xml
+4 FS19_bigBud747/bigBud747.xml
+4 FS19_CM_XL_Specialized_110MFG/lowboyback.xml
+3 FS19_CM_XL_Specialized_110MFG/lowboyfront.xml
+2 FS19_JD2410_5Section/JohnDeere_5Section.xml
+2 FS19_JohnDeere_2623/JD2623.xml
+2 FS19_liquidStoragePack/liquidTank.xml
+2 FS19_liquidStoragePack/liquidTankDolly.xml
+8 FS19_Midwest_Durus_60ft/midwest_trailer60ft.xml
+8 FS19_Midwest_Durus_60ft/midwest60ft_lexion780.xml
+8 FS19_Trailer_Tipper70000/Tipper70000.xml
+4 FS19_WarriorPlusPlus/truckS.xml
+</pre>
+
+<p>
+That was the vehicle / implement list I owned in this savegame, it clearly was done in the old FS17 SP era vehiclegroup switcher courseplay thinking, I mean who really needs EIGHT combines and rubicon sprayers, that is crazy. In FS17 I split terrain to four sections, NW, NE, SE and SW, then bought vehicles for each of these sections, this way I didn't need to drive my slow vehicles all across the terrain zig zagging around when switching fields, all I do is switch vehicle groups.
+</p>
+
+<p>
+My thinking was the same for FS19 in this savegame, however... FS19 engine sucks and it cannot handle this amount of vehicles, just by owning these vehicles, them not even running no hired workers no courseplay no nothing and you get solid 30FPS performance.
+</p>
+
+<p>
+So yesterday I sold half of the combines and rubicons, leaving 4 each as I'm kind of hoping some day we get few more players into the server and we get to use these vehicles and of course if I do SP then courseplay runs four combines / sprayers just fine.
+</p>
+
+<p>
+Performance went back up to fluctuating 50-60FPS which is nice. I mean the rock solid 30FPS is playable but it just nags me how the performance takes a such nose dive just by owning few extra vehicles. Of course once you start four combines and two grain trucks under courseplay the performance is back to 30FPS at best again so yeah there is that too, but at least in that point there is action going on.
+</p>
+
+<p>
+Today this savegame has 692 hours in it.
+</p>
+
+<p>
+1747 Preparing vehicles, driving them to the field etc. In-game time is 2041hrs so its already dark, need to time accelerate soon but I'll probably do few more chores in darkness to save precious seasons days.
+</p>
+
+<p>
+Current scenario is; field 5 size is 1205ha, got two grain trucks 140,000 liters each, four claas lexion 8900 combines 18,000 liter grain tanks and midwest durus 18m headers. Just wondering how many <i>days</i> it takes to finish this harvest :)
+</p>
+
+<p>
+Was bummed out to start this harvest alone, but other players from PMC discord were no show and history from last year already has shown that nobody can keep up with me so the few hours of playtime I could get with other players is not very much in my weekly statistics. Unfortunate but this is the reality I'm living in, oh well.
+</p>
+
+<p>
+1822 Done refueling all vehicles, they are all lined up in SW corner of F05, well except for two fendt 1050 grain cart tractors which are in NE corner but most likely wont be using those, just unload directly to trucks.
+</p>
+
+<p>
+1842 Started harvesting soybeans F05 SW, courseplay 4 tools ETA 4hrs 41min.
+</p>
+
+<p>
+<b>2020-09-12T0211</b> Finished harvesting soybeans F05 SW.
+</p>
+
+<p>
+Shut down the server and ended twitch live stream, duration 6hrs 34min. Was really happy got SW section harvested, took over 6hrs so if I would have started next section I definitely wouldnt have energy to finish it today, so better call it a night with a good mood than to exhaust yourself to frustration. Time to relax rest of the evening, more farming tomorrow I'm sure.
+</p>
+
+<p>
+1749 Back at PMC Gaming, starting server up but I don't expect anyone to join. This savegame now has 701 hours in it heh.
+</p>
+
+<p>
+Plan today is to harvest F05 SE section.
+</p>
+
+<p>
+1820 Started harvesting soybeans F05 SE, courseplay 4 tools ETA 4h 46min.
+</p>
+
+<p>
+<b>2020-09-13T0053</b> Still had plenty of energy to play, but were just somehow... kind of bored, not exhausted but just bored, wanted to go watch TV, so decided to call it a night. F05 SE harvest was ALMOST done which is kind of funny to think I'm calling it a night so close to this sections finish, oh well.
+</p>
+
+<p>
+1628 PMC Gaming booted up, launching FS19, this savegame now has 708 hours in it.<br>
+1718 Finished harvesting soybeans F05 SE.
+</p>
+
+<p>
+Half of F05 harvested heh. Okay so I recorded grain transport course for the center which unloads into railroad silo 1. Refueled all vehicles and was ready to continue harvesting.
+</p>
+
+<p>
+1747 Started harvesting soybeans F05 NE, courseplay 4 tools ETA 4h ?min.<br>
+1841 Harvest halted due rain in-game 1226hrs, forecast predicts raining until 1500hrs at least.
+</p>
+
+<p>
+I wish there was need for a lunch break, now would be a great time heh.
+</p>
+
+<p>
+Rain ended didnt notice what time while time accelerating 600 speed, then crops were wet until night fall at 2040hrs when it was too dark already. So time acceleration until morning daylight in-game 0745hrs and no soil moisture, we are good to continue.
+</p>
+
+<p>
+2002 Need to take a break or maybe even call it a day here, just don't feel like harvesting more as of right now.<br>
+2329 Been back harvesting for maybe close to half an hour, just forgot to write it down heh.
+</p>
+
+<p>
+<b>2020-09-14T0211</b> Decided to call it a night, F05 NE is almost done few more rows to cut, but that is for later date.
+</p>
+
+<p>
+1850 Back at PMC Gaming, FS19 started up, harvest continues. Should take no time to finish F05 NE now. This savegame as 715 hours in it now.<br>
+2019 Finished harvesting soybeans F05 NE.<br>
+2036 Started harvesting soybeans F05 NW, courseplay 4 tools ETA 4h ?min.
+</p>
+
+<p>
+Again forgot to write the precise courseplay duration time down, it was 4hrs 4min when I checked at mid point of the first edge, so perhaps 10 maybe 15min dunno.
+</p>
+
+<p>
+2148 Hmm I think something happened to my warrior++ semi-truck which was hauling grain... it... it, disappeared :o
+</p>
+
+<p>
+Decided to take a lunch break and figure this thing out after a meal.
+</p>
+
+<p>
+<b>2020-09-15T0046</b> Was getting bored so before burning myself out for today I decided to call it an early night.
+</p>
+
+<p>
+1617 Today I reverted back to single player savegame as I could not get any multiplayer going on. Its just not happening so why bother suffering from the limitations of MP mode.
+</p>
+
+<p>
+This savegame now has 720 hours in it.
+</p>
+
+<p>
+Felt good to be back in SP using vehicleExplorer mod, it was such an horrific limitation not be able to jump into any vehicle directly, so glad to have vehicleExplorer back.
+</p>
+
+<p>
+1952 Finished harvesting soybeans F05 NW.
+</p>
+
+<p>
+History was made today, F05 is the largest field I have ever harvested in farming simulator games, it is massive 1205ha in size. Next closest prior to this was some 600ha field I believe F22 is something of that size, now were talking twice the size. Just awesome! :-)
+</p>
+
+<p>
+After finishing the field, emptying combines and grain carts to trucks I saved game and exited for little break, probably going to figure out if I want to continue harvesting either small F17 or that massive F30.
+</p>
+
+<p>
+<b>2020-09-16T0022</b> Started FS19 up again, lets see if I can start to harvest the next field, not really feeling enthusiastic.
+</p>
+
+<p>
+0059 Started harvesting F30 NE, courseplay ETA 1h 35min.<br>
+? Finished harvesting F30 NE
+</p>
+
+<p>
+0410 Time to call it a night.
+</p>
+
+<p>
+2131 FS19 booted back up, this savegame now has 727 hours in it.<br>
+2131 Started harvesting F30 North Central
+</p>
+
+<p>
+Last night I finished F30 NE, but again forgot to write it down, not only that but also starting of F30 North Central, I seem to completely forget these writings now as I'm so used to video recording with simple scroll lock key. Well what can you do.
+</p>
+
+<p>
+<b>2020-09-17T0035</b> Finished harvesting F30 North Central<br>
+0040 Shut down FS19 or rather this savegame as I was so bored of harvesting soybeans on massive field, need to take a break.
+</p>
+
+<p>
+2232 FS19 started, lets get back to harvesting another snippet of F30. This savegame now has 730 hours in it.
+</p>
+
+<p>
+2254 Started harvesting soybeans F30 NW, courseplay 4 tools ETA 1h 55min<br>
+</p>
+
+<p>
+<b>2020-09-18T0054</b> New day has started, F30 NW about 80 percent harvested.<br>
+0117 Finished harvesting soybeans F30 NW<br>
+</p>
+
+<p>
+Again decided to call it a night regarding farming, don't feel like starting center west (or east not sure) section of this big field, that is for another farming day.
+</p>
+
+<p>
+<b>2020-09-20T2107</b> PMC Gaming back up with FS19 starting, this savegame now has 733 hours in it.
+</p>
+
+<p>
+Took a couple of days break doing linux stuff, but now it feels like need to continue this harvest.
+</p>
+
+<p>
+2111 Started harvesting F30 West Center 2, courseplay 4 tools ETA 2hrs 3min<br>
+2317 Too tired time to take a nap, not sure if I continue harvesting when waking up as it got boring real fast this time.
+</p>
+
+<p>
+<b>2020-10-29T1212</b> After a month break from any gaming I'm back at PMC Gaming and want to try some farming.
+</p>
+
+<p>
+Its offtopic but I have been real busy with Linux and hardware installations which include editing tools for farming simulator 19 terrains as well. But right now I just felt kind of exhausted of all the command line text based stuff, I need to get back to graphical gaming stuff, so here we are.
+</p>
+
+<p>
+Honestly cant even remember in what stage this savegame was, as seen above it was sep 20th the last time I played. I believe F30 is not even half way done yet and one of those small sections under courseplay took like two hours or more.
+</p>
+
+<p>
+I have tons of real life farming videos to watch on youtube as well. So there is plenty of stuff to do here no need to go back to linux cmd line anytime soon in that regard heh.
+</p>
+
+<p>
+I'm really not enthuasiastic about playing FS19, but hopefully I can easily get back into it and that would also get my editing juices flowing. But again going a bit offtopic. Lets start harvesting, to see how new courseplay version works and if I still remember how to drive a grain cart ;)
+</p>
+
+<p>
+This savegame has now 735 hours in it.
+</p>
+
+<p>
+1303 Finished harvesting soybeans... whatever section of F30 this was hehe.
+</p>
+
+<p>
+In-game 2005hrs night is falling fast. Going to make a new grain truck courseplay courses and after that time accelerate until morning. Also had a lunch break here.
+</p>
+
+<p>
+1455 Started harvesting soybeans F30 central north.<br>
+1819 Finished harvesting soybeans F30 central north.
+</p>
+
+<p>
+1821 Decided to call it a night, it was a nice start but yeah I started to get a bit bored for to constant pressure of grain cart driving to keep combines running. No idea if I'll continue tomorrow, probably not.
+</p>
+
+<p>
+<b>2020-10-30T1245</b> Back at PMC Gaming and FS19 fired up, this savegame has now 741 hrs.
+</p>
+
+<p>
+Not super motivated to harvest today, but thought of doing one small section of F30 soybeans harvest, at least we are that much closer to finishing this historical monster field.
+</p>
+
+<p>
+1307 Had grain truck and combine courseplay courses generated, then engaged first combine with "first waypoint" start option... and again courseplay froze FS19 that I had to taskmanager kill the game process, sigh.
+</p>
+
+<p>
+Courseplay some recent versions started to do this with multiple tools, not sure what goes wrong in there it depends how the course has been generated but I haven't been able to figure out the pattern/cause of it to be able to avoid such courses. Oh well just need to generate new different starting point course and hope for the best.
+</p>
+
+<p>
+1622 Finished harvesting soybeans F30 central east.<br>
+1636 Decided to call it a day, was nice time so don't want to burn myself out continuing more today.
+</p>
+
+<p>
+<b>2020-11-01T1428</b> FS19 booted up, savegame has now 745 hours in it.
+</p>
+
+<p>
+Plan today is to finish another small section of this field. I'll keep chipping away those one by one, eventually this field gets done heh. Had to start today by recording new courseplay course around small section of F30 which is called center east south (yes, clear naming haha). Also recorded outlines for the remaining three southern sections.
+</p>
+
+<p>
+Then did some youtube video upload editing and once that was done I was already hungry and it was time to make some lunch. Todays harvest start seems to take a quite while, but once all chores are done we can press on for hours.
+</p>
+
+<p>
+1707 Started harvesting soybeans F30 central east south<br>
+1925 Finished harvesting soybeans F30 central east south
+</p>
+
+<p>
+And decided to call it a day right here, just don't feel like the enthusiasm to continue on the next section of F30.
+</p>
+
+<p>
+<b>2020-11-02T1214</b> Starting FS19 up, this savegame now has 748 hours in it.
+</p>
+
+<p>
+Same plan as yesterday, do one small section of F30 soybeans harvest. At first had some courseplay course generating problems, the usual same old... combine start freezes game at "first waypoint", then number 3 and 4 combines took off to some weird course with high speed, a lot of fun but not so much when you are frustrated and just want to enjoy plain and simple harvesting.
+</p>
+
+<p>
+12?? Started harvesting soybeans F30 center south<br>
+1646 Finished harvesting soybeans F30 center south
+</p>
+
+<p>
+And yesterday repeats itself, I'm calling it a day right here, just don't have the feeling to continue on next section of this field. Was a pretty good day today anyways so nice to end it in a positive mood.
+</p>
+
+<p>
+<b>2020-11-03T1131</b> Getting ready to startup FS19, harvest continues. This savegame has 752 hours in it now.
+</p>
+
+<p>
+12?? Started harvesting soybeans F30 central west south (heh)<br>
+1520 Finished harvesting soybeans F30 central west south
+</p>
+
+<p>
+So now I only have three sections on the bottom of the field left, SW, south central and SE. Have been thinking a lot about these small sections being too small, don't get me wrong its nice to have compact harvest sections but often times I feel like the combines are turning too much and the grain carts cant be even positioned at each end of the fields as its so short.
+</p>
+
+<p>
+I decided to try something new, kinda, that I'll record temporary outline courseplay course for the whole three southern sections of this field and try to harvest it. It will be well beyond visual range when combines reach other end so grain carts definitely need to be positioned on the ends of the fields as driving them back and forth would just take way too long. Who knows maybe I'll start to drive semi trucks more to chase combines.
+</p>
+
+<p>
+Also I think secretly I wish to finish this field in one go, tonight, as it motivates me more to try to get it all done at once, instead of chipping away one small section at the time.
+</p>
+
+<p>
+1554 Lunch break ...<br>
+1623 Lunch break is over, lets get back to harvesting.<br>
+1626 Started harvesting soybeans F30 south central 3 sections<br>
+2109 Took a quick break (forgot to write down starting time), now back and harvest continues.<br>
+2157 Lunch break ...<br>
+2222 Feeding time is over, back to harvesting.<br>
+<b>2020-11-04T0136</b> Finished harvesting soybeans F30 south central 3 sections
+</p>
+
+<p>
+Awesome feeling to finish this harvest which is now my personal highescore of all time farming simulator games of largest field seeded and harvested.
+</p>
+
+<p>
+0159 Decided to call it a night, still not tired or exhausted of playing which is kind of odd, but yeah better to continue another day.
+</p>
+
+<p>
+1012 New farming day had started, back at PMC Gaming, FS19 booted up, we continue. Currently 765 hours in this savegame.
+</p>
+
+<p>
+Last night before calling it quits I already drove semi grain trucks and tanker truck by F17 which is my last field to cut in this harvest season. Now I drove combines and grain carts from F30 SW into F17 as well, then proceeded to refuel them. Then it was one more field to harvest, soybeans too of course, too much soybeans heh.
+</p>
+
+<p>
+I had already decided that whenever this Start From Zero savegame continues on the next season, it will be on new terrain version which is already done and I am going to do even more editing before switching seasons. On the next season I will not just blanket seed without care just soybeans like the lazy bugger that I've been on these savegame goals once I bought all the land, this time I will seed/plant various crops, well ok perhaps not barley but still canola, corn, wheat maybe, just to keep it interesting and getting rid of that "reputation" that all I do is soybeans, it gets so boring I'm sick of soybeans.
+</p>
+
+<p>
+Was planning on putting a lot of effort editing this terrain before the next season begins, like really trying to finish placing objects on the south side which will be mostly the area what I'm going to field work on. I want it to represent the final product as much as possible, so all farm yards, tree groups, forests even, need to be placed before switching seasons.
+</p>
+
+<p>
+But for now, we need to harvest this relatively tiny F17 of soybeans. This wont take long, didn't check how many hectares this is put I assume it will be mere minutes harvest time, would be amazed if its over an hour. That is peanuts compared to the massive 1480ha F30 monstrosity heh.
+</p>
+
+<p>
+1106 Started harvesting soybeans F17<br>
+123? Finished harvesting soybeans F17
+</p>
+
+<p>
+1245 Saved game and exited, we are ready to edit this terrain some more and then switch seasons :)
+</p>
+
+<p>
+Feeling great of having achieved that crazy 1480ha F30 harvest and also this harvest season in general, that F05 was no small one either being just few hundred hectares smaller than field thirty. If I feel this great at this point of the savegame, it most likely will be overwhelmingly emotional moment when I finish this savegame sometime in the future...
+</p>
+
+<p>
+But for now some terrain editing for this terrain and also others so it might be several days if not weeks before I return to this savegame, it might even be longer because currently this savegame in such a beautiful stage that there is nothing that can be quickly achieved or something that needs to be urgently finished, I am very happy where this savegame is now so it definitely will be a while before I return to this with new enthusiasm to attack those southern fields :)
+</p>
+
+<p>
+<b>2020-11-08T2112</b> This is not a start of new farming day, I'm just doing some logistics.
+</p>
+
+<p>
+I have a FS19 mapview screenshot with all the fields showing, loaded that in GIMP and marked red circles on all the fields that need to be harvested before this savegame is finished. Today I'm creating a master plan to field work prepare and finally harvest these fields, basically a list of fields in specific order which to work on to optimize vehicles driving from one field to another. Also I want to leave the huge mega fields to last, I want to now continue from "small" compact fields.
+</p>
+
+<p>
+Goal is to buy all land and harvest all the fields, this means that I just blanked seed soybeans without any field work to cut back the work needs to be done because money doesn't matter to me anymore all I care about is finishing a harvest any way I can. However now I want to slow down a bit and actually seed other crops than soybeans.
+</p>
+
+<p>
+Feels like its been a long while since I last time properly cared about crops, meaning fertilizing, cultivating, herbicide spraying etc. Dunno maybe this mood quickly changes as I tackle these insanely large fields on PMC Grande Gardens 16km, but at least for now I am interested of putting at least one stage of fertilizer before seeding some other crop than soybeans.
+</p>
+
+<p>
+Today I feel like while goal is still the same I'm taking it slow, just enjoy the farming instead of trying to get it done fastest way possible.
+</p>
+
+<p>
+Anyways :)
+</p>
+
+<p>
+2153 Completed the field list for eastern side of this terrain, basically NE and SE areas as in the middle was many fields I have already harvested.
+</p>
+
+<p>
+Used debug camera to fly around those fields and it was shocking to see how much hectares I need to cover. Those fields do not look so intimidating on mapview but once you fly over them at twenty times walking speed, oh my they are huge, well at least all combined together.
+</p>
+
+<p>
+Trying to figure out how many seasons daylight days it will take for me to harvest all of them, I dont want to seed more fields than its possible to harvest before winter using 4 lexion 8900s and me driving two grain carts. There is a limit to the harvesting speed with that setup. It would be different if I could have multiplayer going on but we have gone over all that it ain't gonna happen, I have to rely on myself.
+</p>
+
+<p>
+On PMC Texas Rowena 8km when using default 9 day seasons I seeded too much and my massive soybeans crop withered when winter came before I managed to harvest all of it. I don't want to repeat the same mistake, seeding too many fields only to have crops wither is just waste of time.
+</p>
+
+<p>
+I'm sort of hopeful that this eastern side of terrain (with gap on the middle) might be doable, decided to go for it.
+</p>
+
+<p>
+Next what I want to do is to upgrade terrain into v0.1.6 which I just compiled today, then port existing savegame into it and get to work. Savegame porting though... is again pure horror hehe, its one of those things that I really, really, <i>really</i> don't want to do :)
+</p>
+
+<p>
+Loaded up existing old v0.1.4 of this terrain and savegame, checked all vehicles that they are not in such areas which might have new trees, I hope all are clear of them. Had to drive one truck out of a field, not sure it makes any difference as seasons resets fields to harvested stage anyways but still nice to have vehicles out of the fields.
+</p>
+
+<p>
+When loaded brand new career savegame with v0.1.6 and ported old savegame over... sure enough big bud 747s and two rubicons were mangled in trees. So had to shuffle those around with old terrain + savegame version first before again porting into new terrain version heh. The joys of terrain upgrades ;)
+</p>
+
+<p>
+Luckily I did not edit any placeables like buildings, bins or trains so I can just copy over the massive items.xml, porting that over would have been way too much effort.
+</p>
+
+<p>
+2322 Seems like terrain upgrade and savegame porting is complete. All vehicles are in and not colliding with anything, bins have old grain etc.
+</p>
+
+<p>
+<b>2020-11-09T0048</b> Finally all porting done, season reset to 01/early-spring and already started to play. Moved vehicles to F45 SW corner.
+</p>
+
+<p>
+Plan now is to start fertilizing using rubicon 9000s. These first fields are pretty good fertilizing stage but lets see what we can do.
+</p>
+
+<p>
+0055 Started fertilizing F45, courseplay ETA 46min, 2x tools<br>
+0132 Finished fertilizing F45<br>
+0138 Started fertilizing F44, courseplay ETA 55min, 2x tools<br>
+0219 Started to lime spread F45 edge only, GPS driving<br>
+0237 Finished fertilizing F44<br>
+0241 Started fertilizing F41, courseplay ETA 22min, 2x tools<br>
+0243 Finished lime spreading F45 edge only<br>
+0244 Started to lime spread F44 edge only, GPS driving<br>
+0259 Finished lime spreading F44 edge only<br>
+0307 Finished fertilizing F41<br>
+0316 Started fertilizing F42, courseplay ETA 22min, 2x tools<br>
+0318 Started to lime spread F41 edge only, GPS driving<br>
+0326 Finished lime spreading F41<br>
+0327 Started to lime spread F42 edge only, GPS driving<br>
+0335 Finished lime spreading F42<br>
+0339 Finished fertilizing F42<br>
+0350 Started fertilizing F09, courseplay ETA 30min, 2x tools<br>
+0355 Started to lime spread F09 edge only, GPS driving<br>
+0406 Finished lime spreading F09<br>
+0408 Started to lime spread F47 edge only, GPS driving<br>
+042? Finished fertilizing F09<br>
+0437 Finished lime spreading F47<br>
+0438 Started fertilizing F47, courseplay 2x tools<br>
+0444 Started to lime spread F48 edge only, GPS driving<br>
+0509 Finished lime spreading F48<br>
+0513 Started to lime spread F49 edge only, GPS driving<br>
+0534 Finished lime spreading F49<br>
+0544 Finished fertilizing F47<br>
+0549 Started fertilizing F48, courseplay ETA 1h 28min, 2x tools<br>
+0643 Started to lime spread F50 edge only, GPS driving<br>
+0704 Finished lime spreading F50<br>
+0718 Finished fertilizing F48
+</p>
+
+<p>
+And thats for todays farming session, got some arma3 editing to do so need to end here and switch computers. Todays farming was real nice after so long just spending time harvesting soybeans, was really refreshing to fertilize a bit :)
+</p>
+
+<p>
+2016 New farming day has started, lets see what we get to do today. This savegame now has 774 hours in it.
+</p>
+
+<p>
+PMC Grande Gardens 16km v0.1.6 is still very much work in progress but man did I like yesterdays farming session on it. The additional trees and I believe some farm buildings as well add so much nice visuals instead of the endless empty areas with fields. I would have liked to add more stuff in, like cosmetics radio / mobile phone transmitter towers and high voltage power lines across fields, but those have to wait for next terrain upgrade.
+</p>
+
+<p>
+Overall I'm enjoying v0.1.6 great deal now. My field work plan now includes eastern side of the terrain, so for next terrain upgrade I'll focus on western side, that would be the last upgrade and savegame port before finishing this savegame.
+</p>
+
+<p>
+2022 Started fertilizing F49, courseplay ETA 1h 16min, 2x tools<br>
+2044 Started to lime spread F78 edge only, GPS driving<br>
+2055 Finished lime spreading F78<br>
+2110 Started to lime spread F77 edge only, GPS driving<br>
+2126 Finished lime spreading F77<br>
+2130 Started to lime spread F76 edge only, GPS driving<br>
+2149 Finished fertilizing F49<br>
+2216 Started fertilizing F50, courseplay ETA 1h 23min, 2x tools<br>
+2224 Finished lime spreading F76<br>
+2226 Started to lime spread F80 edge only, GPS driving<br>
+2248 Finished lime spreading F80<br>
+2259 Started to lime spread F81 edge only, GPS driving<br>
+2308 Leading rubicon ran out of fertilizer, so it was good time to take a lunch break.
+</p>
+
+<p>
+2326 Feeding complete, lunch break is over, we continue.<br>
+2340 Finished lime spreading F81<br>
+2342 Started to lime spread F93, GPS driving<br>
+2350 Finished lime spreading F93<br>
+2352 Started to lime spread F94, GPS driving<br>
+<b>2020-11-10T0001</b> Finished lime spreading F94<br>
+0003 Finished fertilizing F50<br>
+</p>
+
+<p>
+It was 01/early-spring in-game 1900hrs and too dark to see anything. So time accelerated until 02/early-spring in-game 0658hrs daylight.
+</p>
+
+<p>
+0013 Started to lime spread F95 edge only, GPS driving<br>
+0029 Finished lime spreading F95
+</p>
+
+<p>
+Then it was time for a break, had to refreshen up a bit.
+</p>
+
+<p>
+0107 Break over, back in-game and we continue working fields.<br>
+0109 Started fertilizing F78, courseplay ETA h min, 2x tools<br>
+0119 Started to lime spread F08, courseplay ETA 47min, 2x tools<br>
+0142 Finished fertilizing F78<br>
+0212 Finished lime spreading F08<br>
+0215 Started fertilizing F77, courseplay ETA 19min, 2x tools<br>
+0220 Started to lime spread F79 edge only, GPS driving<br>
+0232 Finished lime spreading F79<br>
+0234 Finished fertilizing F77
+</p>
+
+<p>
+Decided to call it a night here, I have few chores to do before the day is over so need to get those done. Was pretty enjoybale field work today.
+</p>
+
+<p>
+2045 New farming day has started, this savegame now has 780 hours in it.
+</p>
+
+<p>
+Todays plan, is the same as two previous days, continue fertilizing and lime spreading to the eastern side fields.
+</p>
+
+<p>
+2156 Started fertilizing F76, courseplay ETA 1h 28min, 2x tools<br>
+2204 Started to lime spread F82 edge only, GPS driving<br>
+2237 Finished lime spreading F82<br>
+2240 Started to lime spread F70 edge only, GPS driving<br>
+2310 Finished lime spreading F70<br>
+2318 Started to lime spread F71 edge only, GPS driving<br>
+2338 Finished lime spreading F71<br>
+2342 Finished fertilizing F76<br>
+</p>
+
+<p>
+Then it was time to call it a day, just don't have more energy to play in this session, but at least got couple of fields done, a little progress.
+</p>
+
+<p>
+<b>2020-11-15T2339</b> Back at PMC Gaming, time to farm some. This savegame now has 782 hours in it.
+</p>
+
+<p>
+2347 Started to lime spread F75, courseplay ETA 2h 36min, 2x tools<br>
+2358 Started fertilizing F80, courseplay ETA 53min, 2x tools
+</p>
+
+<p>
+<b>2020-11-16T0105</b> Finished fertilizing F80<br>
+0114 Started fertilizing F81, courseplay ETA 54min, 2x tools<br>
+0214 Finished fertilizing F81<br>
+0243 Finished lime spreading F75<br>
+0246 Started fertilizing F95, manual GPS driving<br>
+0249 Finished fertilizing F95<br>
+0249 Started fertilizing F94, manual GPS driving<br>
+0251 Finished fertilizing F94<br>
+0252 Started fertilizing F93, manual GPS driving<br>
+0254 Finished fertilizing F93<br>
+0300 Started to lime spread F74, courseplay ETA 54min, 2x tools<br>
+0308 Started fertilizing F08, courseplay ETA 25min, 2x tools<br>
+0331 Finished fertilizing F08<br>
+0334 Started fertilizing F79, courseplay ETA 18min, 2x tools<br>
+0357 Finished lime spreading F74<br>
+0404 Finished fertilizing F79
+</p>
+
+<p>
+Took a short break here. Break was over 0708hrs.
+</p>
+
+<p>
+0714 Started fertilizing F82, courseplay ETA 2h 49min, 2x tools<br>
+0725 Started to lime spread F73 edge only, GPS driving<br>
+0736 Finished lime spreading F73<br>
+0739 Started to lime spread F72 edge only, GPS driving<br>
+0748 Finished lime spreading F72<br>
+1023 Finished fertilizing F82
+</p>
+
+<p>
+Had some stuff to do so it was time to call it a night here. Glad I got that big F82 fertilized. There are still few big fields left so definitely day or two more farming work to do.
+</p>
+
+<p>
+<b>2020-11-17T0258</b> Back at farming, this savegame now has 789 hours in it. Today... well we just continue what has been done for the past few days now, fertilizing.
+</p>
+
+<p>
+Now we have three medium/big and three small fields left to fertilize. Was thinking of bringing the another two rubicon 9000s from the north down here, but not sure if its worth the trip. Although they are just sitting there now without doing anything, so might as well send them down, they would cut fertilizing time in half.
+</p>
+
+<p>
+Night was falling quickly, it was 02/early-spring in-game 1843hrs so decided to time accelerate until morning daylight.
+</p>
+
+<p>
+0315 Started fertilizing F70, courseplay ETA 1h 5min, 2x tools<br>
+0436 Started fertilizing F71, courseplay ETA 1h 16min, 2x tools<br>
+0501 Finished fertilizing F70<br>
+0515 Started fertilizing F75, courseplay ETA 47min, 2x tools<br>
+0559 Finished fertilizing F71<br>
+0605 Finished fertilizing F75<br>
+</p>
+
+<p>
+Bought liquid fertilizer selling placeable as the south east sector of this terrain needs one, no point of driving truck liquid tankers into NE and back all the time. Had to refill rubicons and even my liquid fertilizer tanker truck was empty, these fields sure do take lots of fertilizer.
+</p>
+
+<p>
+0622 Started fertilizing F72, courseplay ETA 18min, 2x tools<br>
+0625 Started fertilizing F73, courseplay ETA 18min, 2x tools<br>
+0639 Started fertilizing F74, courseplay ETA 21min, 2x tools<br>
+06?? Finished fertilizing F72<br>
+0645 Finished fertilizing F73<br>
+0702 Finished fertilizing F74
+</p>
+
+<p>
+Then it was time to call it a night.
+</p>
+
+<p>
+<b>2020-12-18T0609</b> After a month break from this savegame its time to continue.
+</p>
+
+<p>
+Precision farming giants mod was released since my last game-play, I tested it out and its real nice for small terrains, largest I tried in long game-play was on 4km terrain. Today I finally loaded PMC Grande Gardens 16km Start From Zero savegame using precision farming mod, just to test it out. Well turns out that it doesn't really work with huge terrain size like this one, I spread some lime and it got applied to the field with gaps on it, kind of difficult to explain. On minimap and ESC mapview it shows up ok but it looks really bad on 3D field surface as that white lime powder appears with gaps on it.
+</p>
+
+<p>
+Then I quickly tested it on PMC Iowa Garden City 8km and there it worked 3D wise a bit better, I could see the lime spreading animation flicker a bit but overall it was steady, the field surface 3D graphics was even, no gaps. So precision farming just barely can handle 8.1km terrain size with its default 1024 x 1024 soilMap grle image size. I bet terrain like 10km is probably already going to cause those gaps.
+</p>
+
+<p>
+I made a quick decision that I will not try to implement precision farming to PMC Grande Gardens 16km for now until more testing has been done, I'll just continue playing this savegame now. I should be editing but don't have much motivation for it, playing is not very interesting either but it comes down to... what else would I do then, stare at the walls eh? hehe
+</p>
+
+<p>
+So this savegame now has planting season field preparation pretty much done, fertilization and lime spreading is done. Some fields are not 100% fertilized and edges would need some ploughing but I wont be bothered with that now. My enthusiasm from one month ago when I started this new season unfortunately is all but gone, I'm just continuing playing as I cant think of anything else to do, so I wont be putting any more effort to these fields, now its time to plant crops.
+</p>
+
+<p>
+In-game its 03/early-spring 1057hrs, weather is +3/+6C so just barely could start to seed canola and wheat but corn and soybeans must wait until proper temperatures. I'm going to wait until ground temp increases at least one degree before starting to put down canola and wheat, just to make sure there wont be any frost damage.
+</p>
+
+<p>
+Drove semi trucks with 70k liter grain trailers into farm 1, refilled with seeds from farm bin silo, then drove to F45 SW and finally refilled big bud 747's with bourgault air drills. Next drove pickup truck to the farm, and recorded new courseplay course from there to F45 SW across F40 (heh). Then refueled corn planter Case IH tractors with great plains planters, refilled with seends and send them on their way to F45 SW.
+</p>
+
+<p>
+Once there, sent them on their way to F44 NW which is just by F41 where they begin corn planting once soil temperature increases.
+</p>
+
+<p>
+Time accelerated until weather +10/+6C on 09/early-spring in-game 0824hrs. Weather forecast predicts above six degrees minimum temperatures from now on, so we are good to go for canola and wheat seeding :)
+</p>
+
+<p>
+0745 Started seeding canola F45, courseplay ETA 1h 4min, 2x tools<br>
+0854 Finished seeding canola F45<br>
+0909 Started seeding wheat F42, courseplay ETA 38min, 2x tools<br>
+1001 Finished seeding wheat F42
+</p>
+
+<p>
+I was actually cooking food when this field work finished, big bud number one had already done its work and two had just hundred or so meters to go.
+</p>
+
+<p>
+Next it was time to wait until weather is corn and soybeans seeding temperature. F44 is waiting to be seeded soybeans and F41 corn so there is no point driving these big drills over to the next canola/wheat field because once weather gets warmer then we would have to drive all the way back here again.
+</p>
+
+<p>
+Had a lunch, then brought semi trucks to the bourgault air drills and refilled them with seeds, all good to go again.
+</p>
+
+<p>
+Next was several in-game days worth of time accelerating to reach corn and soybeans seeding soil temperatures. Its been a while since I seeded so dunno if it was that or just random chance, but this felt like really long waiting period to reach the correct weather. It was 17/late-spring in-game 0716hrs when temperature was +11/+10C and forecast predicted no lower than +10C minimum temperatures.
+</p>
+
+<p>
+1137 Started seeding soybeans F44, courseplay ETA 1h 28min, 2x tools
+</p>
+
+<p>
+Completely forgot that great plains corn planter needs field to be cultivated first, tried to start planting but it didn't obviously work. Then had to go pick up big bud 450s with flexicoil st820 cultivators from farm 1, refueled them and sent them on their way to NE part of the terrain.
+</p>
+
+<p>
+1201 Started cultivating F41, courseplay ETA 28min, 4x tools<br>
+1234 Finished cultivating F41<br>
+1236 Started seeding corn F41, courseplay ETA 32min, 4x tools<br>
+1316 Finished seeding soybeans F44<br>
+1320 Finished seeding corn F41
+</p>
+
+<p>
+Decided to call it a day, was surprised I managed to play this long in the first place.
+</p>
+
+<p>
+<b>2020-12-20T1032</b> New farming day has started, this savegame now has 801hrs in it.
+</p>
+
+<p>
+This day has already half way done when I got around of all my other computer chores and now it was time to continue farming. First thing to do is to catch up the current situation, it was 17/late-spring in-game 1222hrs, weather +16/10C and forecast, well doesn't really matter in planting season. Big Bud 747's with Bourgault air drills needed seed refill.
+</p>
+
+<p>
+When inspecting Case IH Optum 300 CVX tractors pulling Great Plains YP-2425A planters was shocked to see that one of the planters were set to BARLEY instead of corn. Now F41 is messed up with one row of barley among the corn. Oh well will be interesting to harvest but who cares, harvest is harvest.
+</p>
+
+<p>
+Great plains needed seed refill as well. This task requires me to drive elmers haulmaster auger wagons here which are able to refill these seeders from the top down position, semi trailer truck cannot reach that high.
+</p>
+
+<p>
+Refilled fist elmers haulmaster with 70k liter of seeds and sent it on her way to F45 area where planting operations are continuing. Next field to plant is F09 all the way in terrains far NE corner, its a small field so we do that as corn. Bourgault air drills start to put canola down on F47.
+</p>
+
+<p>
+1121 Started seeding canola F47, courseplay ETA 1h 29min, 2x tools<br>
+1127 Started cultivating F09, courseplay ETA 49min, 4x tools<br>
+1231 Finished cultivating F09<br>
+1235 Started seeding corn F09, courseplay ETA 58min, 4x tools<br>
+1300 Finished seeding canola F47<br>
+1309 Started seeding soybeans F48, courseplay ETA 2h 35min, 2x tools<br>
+1348 Finished seeding corn F09<br>
+1440 Started cultivating F77, courseplay ETA 38min, 4x tools<br>
+1530 Finished cultivating F77<br>
+1532 Started seeding corn F77, courseplay ETA 46min, 4x tools<br>
+1552 Finished seeding soybeans F48<br>
+1607 Started seeding wheat F49, courseplay ETA 2h 33min, 2x tools<br>
+1630 Finished seeding corn F77<br>
+1645 Started cultivating F93, courseplay ETA 10min<br>
+1647 Started cultivating F94, courseplay ETA 10min<br>
+1650 Started cultivating F95, courseplay ETA 10min<br>
+1658 Finished cultivating F93<br>
+1659 Finished cultivating F94<br>
+1702 Finished cultivating F95<br>
+1703 Started seeding corn F93, courseplay ETA 12min<br>
+1705 Started seeding corn F94, courseplay ETA 12min<br>
+1706 Started seeding corn F95, courseplay ETA 12min<br>
+1717 Finished seeding corn F93<br>
+1718 Finished seeding corn F94<br>
+1720 Finished seeding corn F95<br>
+1731 Started cultivating F08, courseplay ETA 28min, 4x tools<br>
+1807 Finished cultivating F08
+</p>
+
+<p>
+Was getting really bored and wanted to go watch tv, so it was time to call it a day.
+</p>
+
+<p>
+1825 shut down FS19, was a good day of seeding.
+</p>
+
+<p>
+<b>2020-12-21T0549</b> New farming day has started, this savegame now has 808hrs in it. Todays agenda is... continue seeding canola, corn, soybeans and wheat.
+</p>
+
+<p>
+Yesteday got nice batch of seeding done, Big Bud 747s with Bourgault air drills had field seeding when I shut it down so need to get that finished first. Then the SE edge smallish field F08 will be planted corn. After F08 is done then corn planters move somewhat distance towards NW and do the three medium size fields F7x something, once that is done then our corn planting season is over.
+</p>
+
+<p>
+Corn is a nasty crop, unless I forgot the specs I think barley is the worst with largest yield, corn is second and I think canola or wheat is right up there after. What I mean is because I own all the land, all the fields and don't need any money, its kind of waste of time to harvest big yielding crops, on the other hand I don't want to be "mr soybeans" by only harvesting bad soybeans crop to avoid excessive harvesting.
+</p>
+
+<p>
+One thing I must say, this planting season has progressed quite nicely, surprisingly fast actually. Its already been two(?) full days of seeding and this will be third, field work before that lasted again several days cant even remember as it was month ago by now. And there is still many many hours of seeding to do with bourgault air drills because few fields are huge in the SE sector. But those will get done, no worries :)
+</p>
+
+<p>
+0622 Finished seeding wheat F49
+</p>
+
+<p>
+Night was falling fast again, in-game 2044hrs so time accelerated to daylight 18/late-spring in-game 0636hrs.
+</p>
+
+<p>
+0633 Started seeding canola F50, courseplay ETA 2h 33min, 2x tools<br>
+0636 Started seeding corn F08, courseplay ETA 43min, 4x tools<br>
+0727 Finished seeding corn F08<br>
+0753 Started cultivating F74, courseplay ETA 27min, 4x tools<br>
+0825 Started cultivating F73, courseplay ETA 27min, 4x tools<br>
+0838 Finished cultivating F74<br>
+0856 Started cultivating F72, courseplay ETA 27min, 4x tools<br>
+0912 Finished seeding canola F50<br>
+0919 Finished cultivating F73<br>
+0954 Finished cultivating F72
+</p>
+
+<p>
+Felt good to get that cultivating before corn planting done, unless my calculations are wrong that was the last cultivating field work for this season.
+</p>
+
+<p>
+1005 Started seeding soybeans F78, courseplay ETA 58min, 2x tools<br>
+1010 Started seeding corn F74, courseplay ETA 31min, 4x tools<br>
+1053 Finished seeding corn F74<br>
+1056 Started seeding corn F73, courseplay ETA 33min, 4x tools<br>
+1110 Finished seeding soybeans F78<br>
+1119 Started seeding soybeans F76, courseplay ETA 3h 10min, 2x tools<br>
+1138 Finished seeding corn F73<br>
+1141 Started seeding corn F72, courseplay ETA 33min, 4x tools<br>
+1219 Finished seeding corn F72
+</p>
+
+<p>
+So there you go corn planting season is over, now we only have left those huge fields which get done with big bourgault air drills. This field work is very, well boring, I just set them off and it will be probably movie lenght before these monster seeders need a refill, so that's what I'm actually doing, watching TV show episodes while bourgault's are seeding.
+</p>
+
+<p>
+There is still at least one day worth of field work, but already feeling good that the hard part of this planting season is over, as I said seeding with these bourgaults is easy, it just takes time. Taking a closer look to the remaining fields and yeah it will definitely be late tomorrow night when those fields are done if I can keep pressing on non-stop. F82 is a huge one, probably over 500ha (I'd have to look it up), and other fields are large too.
+</p>
+
+<p>
+1432 Finished cooking food and eating lunch.
+</p>
+
+<p>
+Semi grain trucks were hauling seeds from farm 1 bin silo to railroad silo 3, plan is to use train to haul huge loads of seeds to south.
+</p>
+
+<p>
+1546 Finished seeding soybeans F76<br>
+1554 Started seeding wheat F80, courseplay ETA 1h 58min, 2x tools
+</p>
+
+<p>
+But then while editing video on the background windows 7 ran out of memory and both FS19 and avidemux crashed, heh guess I shouldn't do that while FS19 is runs, need to avoid it in the future. Bad thing now is that... I cant recall when my last savegame was, I dont think I saved after F76 was finished, so I might have lost quite a lot of game-play progress. As a sidenote, avidemux uses 11-14gb of RAM, PMC Gaming computer has only 16gb which is fine for basic games but obviously as avidemux hoggs that much and then FS19 should be still running on the side, yeah things go sideways real quick heh.
+</p>
+
+<p>
+Had to reboot computer, then did that video editing out of the way first to get free HDD space etc. Then started FS19 back up and... was shocked to see F76 half seeded. I lost all that work for F76 seeding and using trucks to move farm 1 bin silo seeds to railroad silo 3... it must have been probably closer than 2 hours worth of work, all lost :(
+</p>
+
+<p>
+Decided to call it a day here, I just couldn't bare to start reworking all that stuff right now, hopefully tomorrow or soon after I have motivation again to continue.
+</p>
+
+<p>
+<b>2020-12-22T1028</b> Back in FS19, this savegame has now 816hrs in it. Wonder how many was lost on yesterdays crash :(
+</p>
+
+<p>
+Yesterdays crash and lost of farming progress is wound fresh in my memory, however here I am continuing from the last savegame. I'm not too mad about it, just need to move on. Obviously I learned my lesson; don't try to run 14gb RAM eating avidemux while you do anything other than firefox web surf heh.
+</p>
+
+<p>
+Todays agenda is just running those bourgault air drills seeding canola, soybeans and wheat to the remaining fields on my planting season ... err plan.
+</p>
+
+<p>
+I started by setting bourgaults off to seed, then drove two semi grain trucks into farm 1 bin silo to unload some seeds. Not sure yet if I do that train shuffle I was working on last night before the crash. Not sure which is faster just keep two trucks running in courseplay loop or use trains for one big haul. Weird thing is that semi truck with two trailers is mere 3k liters smaller capacity than one train car... of course one train has 20 cars heh.
+</p>
+
+<p>
+Brought two semi truck loads of seeds into the SE sector, this will last me at least couple of fields I hope.
+</p>
+
+<p>
+1158 Finished seeding soybeans F76 and then did savegame :)
+</p>
+
+<p>
+Refueled Big Bud 747s and refilled Bourgault air drills. Had to drive diesel semi tanker truck all the way from NE to the liquid site in NW only to discover that no more diesel in there, oh well was nice scenery to drive through heh. I'm still troubled because I want to move the 3 million liters of seeds from farm 1 bin silo to the train network, but at the same time way too lazy to go through all that work to unload from the bin silo into railroad silo.
+</p>
+
+<p>
+1221 Started seeding wheat F80, courseplay ETA 1h 58min, 2x tools
+</p>
+
+<p>
+Semi truck had hauled about 400k liters of seeds to railroad silo 4, then took a NW train there to unload it onboard. Then switched to SW train and hauled the seeds into railroad silo 9. This last haul was super easy and painless, but still overall I'm thinking that as this was basically three double trailer truck loads... it would have been probably faster to just drive this load using trucks. What I mean is all the hauling time put together. Unfortunately 16km terrain is so small that train logistics dont really come into play, 16km terrain is for children universally, in arma3 I would never play in such tiny terrain nowadays. So yeah. Anyways for FS19 wise, trains do help on such logistics in big picture.
+</p>
+
+<p>
+Once that hauling was done I could not think of anything else to do. I wont proceed to SW section of the terrain to field work because that is for next season and terrain upgrade, so now I just need to wait until bourgault air drills get the seeds into ground and we start to fast forward into harvest season. Speaking of harvest, I could drive combines into east side already but as I'm not sure which field is ready to harvest first, I rather not drive them anywhere yet.
+</p>
+
+<p>
+Was a bit frustrated of lack of anything to do, was watching tv show episodes with VLC player on the foreground (not ideal TV experience but passes the time), tried to come up something to do but but heh just couldnt find anything. Actually wrote few design idea entries, stuff about train railroad networks, field edges related to road widths etc stuff like that. Its good to get seed in the ground, but frustrating with lack of actually doing anything besides watching courseplay run heh.
+</p>
+
+<p>
+Just another day of large scale farming ;)
+</p>
+
+<p>
+1428 Finished seeding wheat F80<br>
+1437 Started seeding canola F81, courseplay ETA 1h 42min, 2x tools<br>
+1634 Finished seeding canola F81<br>
+1644 Started seeding canola F79, courseplay ETA 44min, 2x tools<br>
+1736 Finished seeding canola F79
+</p>
+
+<p>
+Next field was the biggest in SE sector, F82 which is 636ha in size. Seeding this field will take remaining of this evening and continues tomorrow. Decided to start seeding it in darkness, night was falling fast it was in-game 2037hrs so still daylight but wont be much longer.
+</p>
+
+<p>
+1744 Started seeding soybeans F82, courseplay ETA 6h 21min, 2x tools
+</p>
+
+<p>
+2227 Bourgault air drills kept seeding, I refilled them two times before it was time to call it a night. F82 was just a bit more than half way done. More farming tomorrow.
+</p>
+
+<p>
+<b>2020-12-23T0707</b> FS19 booted back up, new farming day has started, this savegame now has 828hrs in it.
+</p>
+
+<p>
+When savegame loaded and I brought up ESC mapview it defaulted to fruit types, then I noticed... that second bourgault air drill was seeding canola instead of soybeans. Had to go back to captured videos to verify how I started this field, did I choose wrong crop type or forget to choose in the first place. Now this field looks ridiculous with canola and soybeans stripes which will be horror to harvest. Sigh.
+</p>
+
+<p>
+Verified from video captures and yes I forgot to choose/change seeders crop type when starting, lame mistake :(
+</p>
+
+<p>
+This is the largest field in this planting season "east side" and would have been glorious to harvest, but now its... not sure what am I going to do with this field as it already takes probably a full day or more to harvest and if  you just let combines run under courseplay they leave those canola stripes there at best case scenario, on worst case they pick up whichever crop is by the header when they are empty (or really low in grain tank capacity), which causes real chaos for auger vagon and semi truck grain transport. Its just one big mess.
+</p>
+
+<p>
+Driving that field with GPS using one combine... no, lets not even go there hehe. I'm not sure how to handle this, I think after seeding is done I'll use developer console to set field crop type to soybeans which will fix those canola stripes, unfortunately I cant be sure what other things it might mess up under the hood as seasons probably has now recorded that there are canola strips on the field. Oh well I just want to harvest single crop who cares what goes on in the background. BTW I did now switch second bourgault air drill to soybeans too, not that it makes much difference but anyways.
+</p>
+
+<p>
+0908 Finished seeding soybeans F82
+</p>
+
+<p>
+Refilled Bourgault air drills with seeds, then drove semi grain truck to railroad silo 9 and got a new full load of seeds. It was now 19/late-spring in-game 0333hrs. First I ran the developer console command to set F82 as planted soybeans. That went well so I time accelerated until morning daylight 19/late-spring in-game 0646hrs. Now we are ready to proceed to seed the next field.
+</p>
+
+<p>
+0930 Started seeding canola F70, courseplay ETA 1h 52min, 2x tools<br>
+1131 Finished seeding canola F70<br>
+1135 Started seeding soybeans F71, courseplay ETA 2h 38min, 2x tools
+</p>
+
+<p>
+Two and a half hour worth of seeding, oh wow. Dunno how many minutes these bourgault air carts last before they need a refill, guess it depends on seed type and how many turns the tractor has to make (more turns means more time it is not seeding), it is quite a long while. During headland I was already bored again watching tv show episodes on VLC player but wanted to do some actual farming (seeding is not farming? since when? hehe).
+</p>
+
+<p>
+1418 Finished seeding soybeans F71<br>
+1424 Started seeding wheat F75, courseplay ETA 1h 55min, 2x tools
+</p>
+
+<p>
+Last field to seed, feeling good, soon this planting season is over! :)
+</p>
+
+<p>
+With all the time accelerating and preparing of harvesting vehicle fleet not sure if I get to start harvest today, it might be so late in the evening for me that its better to wait until tomorrow before kicking harvest off. I'm hoping it would start from the NE and proceed down south from there.
+</p>
+
+<p>
+And this harvest is probably larger than the previous one as there are so many medium to large size fields to harvest. Also those nasty high yielding crops like canola, corn and wheat heh. I bet that once this harvest season is over I'm going to take a long editing break on this savegame :)
+</p>
+
+<p>
+1628 Finished seeding wheat F75
+</p>
+
+<p>
+That's it, planting season is over! Aayeah! :)
+</p>
+
+<p>
+So quick recap, I seeded/planted F08, F09, F41-F45, F47-F50, F70-F82 and F93-F95. It was done as canola, corn, soybeans and wheat just to give some variation for field work and especially harvesting, I don't want to be labeled as soybeans only guy.
+</p>
+
+<p>
+Now I wont be bothered with fertilizing to max or even herbicide spraying, I'll just time accelerate until its harvest season and we roll out the combines.
+</p>
+
+<p>
+But before that I took a quick break to render one video clip so had to shut down FS19. Then took backups of savegame, just in case because earlier I had some time acceleration sync issues where crops got frozen in last green growth stage, I don't expect that to happen now but you have to make sure backups are in order, I don't intend to lose this progress.
+</p>
+
+<p>
+1725 FS19 booted back up, lets start time accelerating towards harvest season. In-game 19/late-spring 1359hrs.
+</p>
+
+<p>
+10/mid-summer in-game 0700hrs two NE fields are harvest ready. F42 wheat and F45 canola. Okay time to start moving harvest vehicle fleet to NE.
+</p>
+
+<p>
+1850 Finally had all four lexion 8900s hooked up with corn headers and midwest durus 18m headers were on trailers, heading to NE.
+</p>
+
+<p>
+Its always funny how much logistic work there are with these large scale farming terrains heh. It takes quite a while to relocate this kind of harvest vehicle fleet from one point to the next, this is not across terrain, more like from center to NE, but still it takes a long time.
+</p>
+
+<p>
+Actually it took extra time because I made the mistake of leaving corn headers and header trailers behind, combines were somewhat far away from them (at F17 while header equipment was on F55 NW). I recall saying this before but its repeated here again; don't leave corn headers and header trailers behind, always, always take them with you no matter how short distance you travel. Obviously not if you just hop one field over, but once harvest is done you must immediately return to hook up header trailers. Its just so much work and lost time if you have to go pick them up half way across the terrain, especially on these monster terrains like PMC Grande Gardens 16km.
+</p>
+
+<p>
+Anyways. I'm already starting to get excited, its mere moments away that we can start harvest season. First field will be canola, I highly doubt it will be completed tonight because F45 while its not large, its still a lot of canola to cut. But we'll start and proceed as long as possible.
+</p>
+
+<p>
+Drove grain cart tractors to NE and recorded courseplay course for semi truck grain transport, directly from field to railroad silo 5. Its nice to stock grain to railroad network as most likely they are sold using train(s).
+</p>
+
+<p>
+1955 Started harvesting canola F45, courseplay ETA 1h 22min, 4x tools.<br>
+2203 Finished harvesting canola F45
+</p>
+
+<p>
+Felt great to get first field done in this harvest season :)
+</p>
+
+<p>
+Railroad silo 5 got 1.074m liters of canola now, nice haul. I'm scared how much wheat the next field will yield heh. Was really happy to get harvest season kicked off after already a long day of seeding, decided to call it a night here even though wasnt really tired yet, better to quit while in good mood.
+</p>
+
+<p>
+2212 Time to shut down FS19, harvest season continues later.
+</p>
+
+<p>
+<b>2020-12-24T0708</b> ho Ho HO! Merry xmas! Back at PMC Gaming, starting up FS19, lets continue harvesting. This savegame has 842hrs in it.
+</p>
+
+<p>
+Today we start by harvesting wheat on the second field which is ready to harvest, F42.
+</p>
+
+<p>
+0742 Started harvesting wheat F42, courseplay ETA 43min, 4x tools.<br>
+0904 Finished harvesting wheat F42
+</p>
+
+<p>
+Great start for a day, first field harvested. Now remaining fields are green or dark green growth stage, so once I get grain trucks unloaded into railroad silo 5 we will time accelerate until the next field is ready to harvest.
+</p>
+
+<p>
+Finally at 18/late-summer in-game 0735hrs several fields switched to harvest ready. These are all over the east side, from north to south the list are: F47, F49, F50, F80, F75, F81, F70 and F79. These are all canola and wheat fields as its not yet corn and soybeans harvest season. So now I'm relocating harvest fleet to F47 which is canola, its not too far so I leave corn headers and header trailers here because I will be back to F44 and F41 when they are ready to go.
+</p>
+
+<p>
+1014 Started harvesting canola F47, courseplay ETA 2h 16min, 4x tools.
+</p>
+
+<p>
+1134 Lunch break, shut down FS19 so I can relax and enjoy my meal without need to hurry.<br>
+1210 Done feeding, FS19 booted back up, lets harvest.
+</p>
+
+<p>
+1413 Finished harvesting canola F47
+</p>
+
+<p>
+Okay so now we have no fields ready to harvest... in this NE corner. F49 is somewhat close, but then if I do F50 as well... then I'm far away from F41 which is still growing. So I'm going to time accelerate until all fields are harvest ready so I can just move directly from field to field.
+</p>
+
+<p>
+However that will be for later, maybe today but most likely tomorrow as I feel not exhausted but kind of lazy, so taking a break now.
+</p>
+
+<p>
+<b>2020-12-25T0834</b> New farming day has started, this savegame now has 849hrs in it.
+</p>
+
+<p>
+Drove semi trailer grain trucks to by other harvester vehicle fleet, then diesel refuel tanker truck and refueled combines. It was now 18/late-summer in-game 1155hrs.
+</p>
+
+<p>
+Going to time accelerate until all fields are harvest ready instead of starting to zip around terrain going after those fields which are now ready. It feels kind of scary to time accelerate several seasons days while your crops are ready to go, but as said before its no good to start driving back and forth in a huge terrain such as this. Its still several seasons days before we are at corn and soybeans harvest season.
+</p>
+
+<p>
+Recorded semi truck grain transport courseplay course for F44, decided that this is the first field to do when corn/soybeans is ready to go. Time accelerated to corn/soybeans harvest season, crops are still growing in 01/early-autumn in-game 0923hrs. 03/early-autumn in-game 0801hrs all soybeans fields are ready to harvest, corn is still growing. Alright we start by harvesting F44.
+</p>
+
+<p>
+0952 Started harvesting soybeans F44, courseplay ETA 2h 16min, 4x tools.<br>
+1300 Finished harvesting soybeans F44
+</p>
+
+<p>
+After this field finished I emptied combines, grain carts and grain trucks, then it was time to call it a night, today was a short farming session I just don't feel like continuing to the next field right now. Actually feeling so hmm bored I guess that it just might be few days break who knows.
+</p>
+
+<p>
+<b>2020-12-27T1533</b> Lets see how large and what crop type is the next field. This savegame is 853hrs.
+</p>
+
+<p>
+Closest ready to harvest field is F48 soybeans, it is relatively close so decided to go harvest that now, but after that need to time accelerate until the northern most corn fields are ready.
+</p>
+
+<p>
+1557 Started harvesting soybeans F48, courseplay ETA 3h 47min, 4x tools.<br>
+1850 Small refreshing break ...<br>
+? Break is over, back to farming.<br>
+2131 Finished harvesting soybeans F48
+</p>
+
+<p>
+Even though this was almost four hour (courseplay ETA) harvest session which is quite long for casual game-play, I felt great to have it completed, not yet exhausted but as according to plan I wont be starting next field now as need to wait until the corn fields get ready.
+</p>
+
+<p>
+Unloaded combines and grain carts to semi trucks and hauled soybeans to railroad silo 5. Currently railroad silos across the terrain contain 46.5 million liters of soybeans. Heh yes fourty six MILLION liters, all done legit no cheating ;)
+</p>
+
+<p>
+2148 Called it a night, was a good time harvesting soybeans.
+</p>
+
+<p>
+<b>2021-01-01T1815</b> Happy New Year 2021! :)
+</p>
+
+<p>
+Another farming day has started after releasing PMC Texas Rowena 8km, PMC's first FS19 release. This savegame now has 860hrs in it.
+</p>
+
+<p>
+Todays plan is to harvest one field, I just want to get some harvesting done after editing terrains and doing that mentioned release. One I believe canola field is good to go where combines are, but I really want to go back to the corn fields, time accelerate for harvest ready and get those done, then come back towards south.
+</p>
+
+<p>
+First I drove the full harvest vehicle fleet from F48 to F42, unhooked midwest durus 18m headers from combines and hooked capello quasar hs16 corn headers. Then actually saved game and exited to download and update guidanceSteering (GPS) mod, even though the previous one worked just fine. After starting FS19 back up I refueled lexion 8900s and parked them with grain cart tractors by F41 SE corner, and now I'm ready to time accelerate until corn is harvest ready.
+</p>
+
+<p>
+BTW F41 is the one where I goofed up with planters, the fourth vehicle accidentally seeded barley instead of corn, so now I have to use developer console command to restore this field to full corn, I'll do that once the real planted corn is ready to harvest. In-game it was 03/early-autumn 1817hrs now when starting to time accelerate until corn harvest state.
+</p>
+
+<p>
+In-game 10/mid-autumn 0936hrs corn was harvest ready. Then I used developer console command to set F41 full corn erasing the barley seeding mistake. For some reason I could not get any fertilization into that command, so now the field is harvest ready corn, plowed, no weeds and 0% fertilization.
+</p>
+
+<p>
+1951 Started harvesting corn F41, courseplay ETA 1h 17min, 4x tools.<br>
+2115 Lunch break (shut down combines so I can eat in peace)<br>
+2141 Break is over, start up the combines, lets finish this field<br>
+2205 Finished harvesting corn F41
+</p>
+
+<p>
+This field went by quickly, it was fairly small and with bad corn (0% fertilization) it was relatively quick to harvest. Then drove all vehicles to F09 and recorded usual courseplay course for semi truck to haul grain.
+</p>
+
+<p>
+2251 Started harvesting corn F09, courseplay ETA 1h 55min, 4x tools.<br>
+<b>2021-01-02T0143</b> Finished harvesting corn F09
+</p>
+
+<p>
+It was night in-game so time accelerated to daylight 11/mid-autumn in-game 0750hrs.
+</p>
+
+<p>
+0157 Decided to call it a day here, two small fields harvested so was okay day and there is no way I could farm the next large wheat field so.
+</p>
+
+<p>
+<b>2021-01-02T2120</b> New farming day has started, this savegame has 867hrs in it.
+</p>
+
+<p>
+Todays plan is to harvest the next big wheat field towards south, F49, that will probably take much longer than four hours as is wheat with crazy yield so grain cart will run constantly.
+</p>
+
+<p>
+Then drove the whole harvest vehicle fleet to south side of F49. This is a great location as I have F49 in north side and F50 in south side, on top of that railroad silo 2 is right by F50 where I'm going to unload grain from both of these fields. Next had to refuel all vehicles from liquid tanker truck. Its always so cool to do these logistics in large scale farming operations heh.
+</p>
+
+<p>
+2159 Started harvesting wheat F49, courseplay ETA 3h 14min, 4x tools.<br>
+<b>2021-01-0T0035</b> Lunch break, shut down combines but left FS19 running...<br>
+0058 Feeding done, now back to harvesting<br>
+0427 Finished harvesting wheat F49
+</p>
+
+<p>
+0447 Time to call it a night, not tired yet but next field is same >200ha canola field with big yields, nah leave that for the next time.
+</p>
+
+<p>
+<b>2021-01-04T2353</b> New farming day has started, I want to harvest some canola. This savegame now has 874hrs in it.
+</p>
+
+<p>
+Courseplay has very promising commits on my todays upgrade, I was eager to try once again if auger wagon grain cart overloader code would work as its supposed to. If I could play FS19 like I did play FS17... then I could in theory leave courseplay playing the game for me on PMC Gaming computer while I'm editing our terrains in PMC DevSurf computer. Yes I know, its kind of cheating if you go away from keyboard, but hey if I'm editing this terrain while courseplay is playing this terrain... I can live with it ;)
+</p>
+
+<p>
+But anyways, I highly doubt courseplay still works. Also if it did... auger wagon overloader is never going to work with multiple tools combines running on the field, it would always collide.
+</p>
+
+<p>
+So I decided to give it a try, saved game so I can revert if everything goes bad, then setup overloader path for fendt 1050 with elmers haulmaster and set off a combine. Tested it and verdic is overloader mode still doesn't work, overloader drove to the fruit, then cut off combine colliding with its header. Oh well, back to driving grain cart manually.
+</p>
+
+<p>
+<b>2021-01-0T0052</b> FS19 restarted with the last savegame, lets get to work.
+</p>
+
+<p>
+It was getting late in the daylight day, 11/mid-autumn in-game 1826hrs so decided to time accelerate until morning daylight. It was 12/mid-autumn in-game 0753hrs when I was ready to start generating harvest field work course.
+</p>
+
+<p>
+0100 Started harvesting canola F50, courseplay ETA 3h 38min, 4x tools.<br>
+0734 Finished harvesting canola F50
+</p>
+
+<p>
+On this field I used courseplay "lands" mode, don't ask me what that means no clue, but it generated field work course for combines which is kind of like cutting the field so unloading auger pipe is never in the fruit. However that did not work very well, it was weird, difficult to explain, at one point combines moved through already harvested area still harvesting which was huge waste of time and in last quarter something went belly up on the course as combines sort of reversed their order on the convoy, first became last and last became first. Just weird. I think I'll stick with the traditional course generating again, don't have time to fool around with experimental stuff on my valuable savegame.
+</p>
+
+<p>
+Looking at mapview shows we only have the very SE section of this terrain left to harvest in this season. A lot of large fields there though so its no small task to accomplish.
+</p>
+
+<p>
+0745 Called it a night, enough farming for today
+</p>
+
+<p>
+<b>2021-01-07T0000</b> New day at the Gardens, this savegame now has 882hrs in it.
+</p>
+
+<p>
+That's no joke, is 0000hrs as I'm typing this paragraph heh. Okay todays plan is to just harvest the next field towards south. There is a big gap between F50 which I just did yesterday and F78 and F77 which will be the next two fields to harvest.
+</p>
+
+<p>
+So first I'm starting by relocating harvest fleet to F78, then to refuel everyone just to make sure we dont run out of fuel in middle of harvest, I just hate when inspector text shows status with fuel low text, so always keep guys topped up.
+</p>
+
+<p>
+Got everything refueled and combine courseplay field work generated.
+</p>
+
+<p>
+0104 Started harvesting soybeans F78, courseplay ETA 1h 25min, 4x tools.
+</p>
+
+<p>
+When first semi truck load of grain reached railroad silo 7 it just ran right through it, there was no trigger, yikes. So I decided to make a new grain truck route directly to selling point 7. I mean... why not. Except while recording it I realized its railroad selling point hehe.
+</p>
+
+<p>
+0301 Finished harvesting soybeans F78
+</p>
+
+<p>
+Unloaded combines, grain carts and trucks in order to get ready to harvest corn next. Then... I got hungry.
+</p>
+
+<p>
+0316 Lunch break...<br>
+0345 Feeding time is over, lets start corn harvest<br>
+0348 Started harvesting corn F77, courseplay ETA 1h 12min, 4x tools.<br>
+0558 Finished harvesting corn F77
+</p>
+
+<p>
+Another field harvested, aaah, feels great :)
+</p>
+
+<p>
+Was very nice to harvest two fields in a day especially as this was a late night game-play session for me.
+</p>
+
+<p>
+0617 Still no exactly tired but decided to call it a night.
+</p>
+
+<p>
+<b>2021-01-09T0233</b> Back at PMC Gaming, lets see what is our next harvest field. This savegame now has 887hrs in it.
+</p>
+
+<p>
+0315 Started harvesting soybeans F76, courseplay ETA 4h 37min, 4x tools.<br>
+0505 Lunch break, shut down the whole operation so I can eat without hurry...<br>
+0537 Feeding time is over, back to harvesting
+</p>
+
+<p>
+Decided to live stream to twitch and youtube, I'm not recording that much of video so why not, also I want to do a bit more live streams again so lets start now.
+</p>
+
+<p>
+1008 Finished harvesting soybeans F76
+</p>
+
+<p>
+Twitch had no viewers but youtube was quiet at first then over the whole what hmm 4hrs of stream there was peak moment 6 viewers, in the end it remained steady at 4 viewers for quite a while. Couple of guys said hello in the chat, was overall surprising activity considering there was nothing in twitch.
+</p>
+
+<p>
+At the end I did terrain tour fly over camera thing, then shut everything down and said goodnight in youtube live stream. I was dead tired as it has been a long day already.
+</p>
+
+<p>
+1035 Time to call it a night, was a great harvest day today!
+</p>
+
+<p>
+<b>2021-01-11T0119</b> New farming day has started, I want to harvest one field. This savegame now has 895hrs in it.
+</p>
+
+<p>
+0142 Started harvesting wheat F80, courseplay ETA 2h 48min, 4x tools.<br>
+0533 Lunch break...<br>
+0637 Feeding time over, lets cut some wheat
+</p>
+
+<p>
+Night has fallen, its 13/mid-autumn in-game 2136hrs and pitch black dark. So time accelerating until morning daylight 14/mid-autumn ingame 0920hrs. Now we are ready to proceed with second half of this field.
+</p>
+
+<p>
+0921 Finished harvesting wheat F80
+</p>
+
+<p>
+Okay another field harvested, good stuff, always great feeling when you get a big field done.
+</p>
+
+<p>
+During this harvest I watched flyersfan82 twitch live stream as he played on <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a> terrain which was just released yesterday. Its funny thing that flyersfan82 said he read THIS start from zero story through (what was online at this date), he said to have enjoyed it heh, I never thought that anyone <i>really reads</i> these stories but was nice to hear someone did :)
+</p>
+
+<p>
+0936 It was time to call it a night, had a great farming day today all around, really enjoyed it.
+</p>
+
+<p>
+<b>2021-01-13T0855</b> Back at PMC Gaming, lets do some farming even as today is already getting late. This savegame has 904hrs in it.
+</p>
+
+<p>
+Todays plan, even though this is a short day as I have about 5-6hrs max of gaming time, is to harvest corn fields. I recall from last farming session that those nice small corn fields are next to go.
+</p>
+
+<p>
+The usual harvesting routine started, relocated vehicles from F80 SE to F76 NE, then put combine headers into trailers, hooked trailers up and sent everyone to F74 NE which is our current preparation and refueling point. Refueled all vehicles, recorded courseplay course for semi truck to haul grain, generated combine field work course to harvest F74 corn and then we were ready to continue harvesting.
+</p>
+
+<p>
+0948 Started harvesting corn F74, courseplay ETA 1h 8min, 4x tools.<br>
+1006 Lunch break...<br>
+1032 Burb! sorry, lunch break is over, back to farming<br>
+1206 Finished harvesting corn F74<br>
+1226 Started harvesting corn F73, courseplay ETA 1h 8min, 4x tools.<br>
+143? Finished harvesting corn F73
+</p>
+
+<p>
+Then it was time to call it a night, dead tired just yawning here, which is a shame because I still have great enthusiasm to harvest... just cant keep my eyes open anymore.
+</p>
+
+<p>
+<b>2021-01-14T0535</b> Got that desire to harvest some more, so lets do it. This savegame now has 909hrs in it.
+</p>
+
+<p>
+Todays plan is to harvest F72 which is corn, then most likely have to switch headers to grain again and continue on next canola or soybean or wheat field.
+</p>
+
+<p>
+0556 Started harvesting corn F72, courseplay ETA 1h 8min, 4x tools.<br>
+0749 Took a short 15min or so break and now I'm back to continue corn harvest<br>
+0810 Finished harvesting corn F72
+</p>
+
+<p>
+It was pitch black dark again, 14/mid-autumn in-game 2041hrs when I had emptied semi truck to railroad silo 9 and driven all the vehicles into F74 NE corner where header trailers and fuel tanker truck are located. Time accelerated until morning daylight 15/mid-autumn in-game 0829hrs, it started to rain overnight it was still raining.
+</p>
+
+<p>
+0824 Shut down FS19 its time to eat some lunch, will continue harvesting next field after chow time<br>
+0855 Feeding time over, lets get back to work
+</p>
+
+<p>
+Refueled combines, moved vehicles to F75 NE corner, recorded semi truck grain hauling course. Then time accelerated until rain ends, it was the next morning when soil was stil wet, time accelerated some more and then night falls, uh oh.
+</p>
+
+<p>
+Time accelerated through the night into 16/mid-autumn in-game 0922hrs, soil is still wet as usual. I always stop time acceleration in daylight even though I probably should just keep going until the soil wet icon disappears, but dunno I like to make full stop and sync on morning daylight.
+</p>
+
+<p>
+So more time accelerating this time only 600 speed, finally soil was dry enough to harvest, it was 16/mid-autumn in-game 1330hrs, lets begin.
+</p>
+
+<p>
+0932 Started harvesting wheat F75, courseplay ETA 2h 18min, 4x tools.<br>
+1322 Finished harvesting wheat F75
+</p>
+
+<p>
+Great feeling again getting some harvests done, F72 was semi small corn but F75 was a medium to large size wheat, it was nice set of field work for sure.
+</p>
+
+<p>
+Don't get me wrong, but this endless harvesting grain cart driving back and forth back and forth... starts to get a little bit boring now, I cannot wait until this whole harvest season is over.
+</p>
+
+<p>
+1335 Called it a night, not really tired yet but the usual story, better quite while you're feeling good than to burn yourself out.
+</p>
+
+<p>
+2257 New Farming day has started, well ok starting slowly, decided to do another long twitch / youtube live stream. This savegame has 917hrs in it.
+</p>
+
+<p>
+2341 Started harvesting soybeans F71, courseplay ETA 3h 46min, 4x tools.<br>
+<b>2021-01-15T0100</b> Night fell, had to time accelerate until morning daylight, 17/late-autumn in-game 1354hrs
+</p>
+
+<p>
+0159 Dead tired eyes are closing, surprised I didn't drive grain cart into crop or anything, gotta take a nap...<br>
+? Nap time over, back to harvesting
+</p>
+
+<p>
+Yup naturally forgot to write down that time, was watching flyersfan82 play in PMC Texas Rowena 8km I think. When I continued playing I did not twitch live stream anymore, was just watching flyersfan82 and chatting while harvesting soybeans from F71.
+</p>
+
+<p>
+0917 Finished harvesting soybeans F71
+</p>
+
+<p>
+Took a little while, was twitch/youtube live streaming, napping and then video recording before it was done heh.
+</p>
+
+<p>
+Recorded courseplay grain hauling course for semi truck, then drove vehicle fleet where combine header trailers were, shuffled headers and sent combine fleet to F93 which I designated the next shuffle location. Plan was to harvest F81 next with grain headers as its canola, but combines were now by F93 through 95 which are corn... and corn headers are attached, so obviously I'm going to pick those small fields right now without shuffling headers once more.
+</p>
+
+<p>
+Decided to do this with one combine per field driving manually with GPS as there is not much point doing courseplay course for 4 hectare field.
+</p>
+
+<p>
+1013 Started harvesting corn F93, manual driving using GPS.<br>
+1041 Finished harvesting corn F93
+</p>
+
+<p>
+Well claas lexion 8900 was full before even half of the field was done, so not exactly just a quick little harvest heh. It took quite a while for such an small tiny useless field. Oh wow it was more like half an hour, how can that be... yeah next ones I'm doing two combines per field using courseplay.
+</p>
+
+<p>
+1044 Started harvesting corn F94, courseplay ETA 14min, 2x tools.<br>
+1046 Started harvesting corn F95, courseplay ETA 14min, 2x tools.<br>
+1103 Finished harvesting corn F94<br>
+1108 Finished harvesting corn F95
+</p>
+
+<p>
+Harvested those corn fields in complete darkness heh. Now my stomach is growling, time to eat...
+</p>
+
+<p>
+1147 Feeding time over, back to harvesting.
+</p>
+
+<p>
+Current in-game time 17/late-autumn 2029hrs, its pitch black dark. First time accelerated through the night to 18/late-autumn in-game 0735hrs. Then started to shuffle corn headers into grain headers. Then was combine refuel, two of them were really low on fuel. Finally aligned combines and grain carts next to F81 and then it was time acceleration until soil moisture dissipates so we can start harvesting.
+</p>
+
+<p>
+1217 Started harvesting canola F81, courseplay ETA 2h 25min, 4x tools.<br>
+? Forgot to write down but time accelerated to 19/late-autumn, soil dried up soon after in-game noon time.<br>
+1651 Finished harvesting canola F81
+</p>
+
+<p>
+1707 Called it a night, it was pretty good farming session.
+</p>
+
+<p>
+<b>2021-01-16T0220</b> Back to farming, gotta keep harvesting. This savegame now has 931hrs in it.
+</p>
+
+<p>
+Yesterday I started to have a feeling that I want to finish this harvest season as fast as possible. Well doh, what have I done here for the who knows how many days now? Well yes sure but this feeling is now to "forget everything else in life, just get this task done" type of motivated attitude farming :)
+</p>
+
+<p>
+Looking at the remaining fields... F08 is small corn, then F79 and F70 are medium to large size, finally F82 is HUGE. So if I have bad attitude to push harvest hard, it might be possible to finish F08, F70 and F79 today, dunno, I can try.
+</p>
+
+<p>
+0302 Started harvesting corn F08, courseplay ETA 1h 12min, 4x tools.<br>
+0458 Finished harvesting corn F08
+</p>
+
+<p>
+This corn field was so small no vehicles needed refueling, nice. Then I just hopped over to the next field and was ready to start harvest some canola.
+</p>
+
+<p>
+0535 Started harvesting canola F79, courseplay ETA 59min, 4x tools.
+</p>
+
+<p>
+This field work course had one of those courseplay bottle necks where vehicles collide with each other with multiple tools, so when that happened after headland and first row was complete, I decided to take a lunch break, also it was 19/late-autumn in-game 1800hrs so getting dark really quick, so good time to skip the night.
+</p>
+
+<p>
+0618 Lunch break...<br>
+0659 Feeding time over
+</p>
+
+<p>
+Then it was time acceleration until morning daylight, its kind of exciting to see how weather plays along as it gets so cold by this time of the year. At 20/late-autumn in-game 1337hrs soil was dry enough to continue harvesting, lets do it.
+</p>
+
+<p>
+0744 Finished harvesting canola F79
+</p>
+
+<p>
+Then relocated whole harvesting vehicle fleet into between F82 and F70, did the usual combine header shuffle and refueled vehicles except grain carts as fendt 1050s still had plenty of juice. Saved game and restarted FS19 as it was so easy to do now with no courseplay courses running etc, just in case that we have clear start for the next big field.
+</p>
+
+<p>
+0837 FS19 booted back up, lets generate combine field work course and start harvesting some canola
+</p>
+
+<p>
+0848 Started harvesting canola F70, courseplay ETA 2h 48min, 4x tools.
+</p>
+
+<p>
+Night had fallen again in-game 1800hrs, so time accelerated until 21/late-autumn in-game 0926hrs, which left me with wet soil. Some more slower time acceleration until 1651hrs when soil got dry, but uh oh this only bought me not much more than hour or daylight, what an unfortunate rain. Or dunno if this soil moisture lasted this long just because of the season, I think it was because of the rain. Anyways, we continue.
+</p>
+
+<p>
+1203 One of the semi trucks suddenly drove into all the way north of the terrain and hit the edge block. Strange.
+</p>
+
+<p>
+Then night fell again, time accelerated until 22/late-autumn in-game 0823hrs, soil was wet, slower time acceleration until 1322hrs when it started to rain.
+</p>
+
+<p>
+Once the rain finally ended it was night again heh. So time accelerated until morning daylight, then until soil is dry 23/late-autumn in-game 1343hrs. Hmm is it just me but I recall seeing this afternoon thirteen hundred hours often times when soil gets dry, hmm.
+</p>
+
+<p>
+Weather is now (air/ground) +11/+7C and forecast predicts SNOWING tomorrow morning in-game 0600hrs! :x
+</p>
+
+<p>
+I still have huge F82 soybeans to harvest and forecast already predicts snowing and below zero temperatures (-1C at in-game 0300hrs). Hmm is the 24 day seasons STILL not enough to harvest only half of 16.3 kilometer terrain, humm this is interesting. I cannot remember if seasons instantly kills any crops when it drops below freezing, maybe it needs to have ground temperature below freezing before that happens, cant remember.
+</p>
+
+<p>
+When crops withered on me in PMC Texas Rowena 8km New Farmer game-mode using 9 day seasons, it was really wintery weather at that time.
+</p>
+
+<p>
+Anyways soil is dry I'll keep harvesting until night falls again. I almost feel like I should push into the night as the freezing temperatures are coming and the snowing tomorrow. Heh dunno.
+</p>
+
+<p>
+<i>This is getting exciting! ;)</i>
+</p>
+
+<p>
+1346 Finished harvesting canola F70
+</p>
+
+<p>
+Uuh that field was a bit exhaustive, well its been quite long day already guess that counts too. Decided to take at least a break but most likely will call it a night, have to edit current videos and if that takes very long, it might be that farming continues tomorrow, we'll see...
+</p>
+
+<p>
+1505 FS19 booted back up, wasnt going to play but after a lunch got motivation to check out the big F82.
+</p>
+
+<p>
+Was thinking that hmm could I harvest it with one single courseplay course using 4 combines, its a huge 636 hectare field so its a beast, in average terms that is crazy size, but this terrain terms that is just "large" hehe. Anyways I didn't want to go drive that split to four outline for it, so at least I'm going to try how many waypoints would single course generate.
+</p>
+
+<p>
+Even if courseplay would do it... the actual harvesting for grain cart operator might be pure horror, the distance from that field from one edge to another is just, crazy. You can drive probably minute or two with a grain cart (dunno just guessing), so imagine driving that sort of distance back and forth like dozens of times (could it be hundred, dunno).
+</p>
+
+<p>
+Courseplay did generate course, it came out as 17,868 waypoints which is pretty hardcore for harvest course. I really couldn't make up my mind if I should do it or not, I know for sure it will be torment for grain cart operator, which is me heh. At least minute I decided.. nah I will split this field to four sections.
+</p>
+
+<p>
+I used Fendt 1050 without grain cart, driving using GPS to keep it straigt and recorded courseplay ouline for NW, SW, SE and NE sections. Then restarted FS19 (without saving, to save precious harvesting time) and was ready to begin harvesting F82.
+</p>
+
+<p>
+1611 Started harvesting soybeans F82 NW, courseplay ETA 2h 14min, 4x tools.
+</p>
+
+<p>
+1716 Dead tired have to call it a night, was really happy about todays progress. Great start on F82 too.
+</p>
+
+<p>
+<b>2021-01-17T0244</b> Back at PMC Gaming, lets finish this harvest season :)
+</p>
+
+<p>
+This savegame now has 943hrs in it, getting closer to one thousand day by day.
+</p>
+
+<p>
+Todays plan is to finish this harvest season heh. Not sure if I can do it, but I'll sure try. If one section in courseplay duration is 2h 15min... in real life game-play terms its more like 4hrs, well perhaps not that long but at least 3hrs. So 4 x 3 == 12 hours. That is doable... but I highly doubt it can be done in that time. Well later today we see how it goes, lets get started ;)
+</p>
+
+<p>
+0447 Finished harvesting soybeans F82 NW
+</p>
+
+<p>
+Shut down FS19 for a quick break. I'm short on time today but just have to take a break to watch PMC North Dakota Greendale 4km Farmer Klein video and do one chore without being stressed with grain cart driving.
+</p>
+
+<p>
+Weather forecast did not change until now, its still in-game 0300hrs below zero degrees and 0600hrs snowing. That is really scary, I cannot recall if soybeans wither on that temperature.
+</p>
+
+<p>
+0605 Started FS19 back up.
+</p>
+
+<p>
+Time accelerated, at night it did start to snow but it ended before morning daylight, were now in 24/late-autumn in-game 0747hrs, weather -1/+6C. Forecast predicts snow/rain until noon today. So going to time accelerate some more hoping for the best...
+</p>
+
+<p>
+24/late-autumn in-game 1019hrs it switched from snow to rain. No snow managed to accumulate on the ground. So we continue time accelerating... soil was wet unti darkness, so off to the next day we go.
+</p>
+
+<p>
+01/early-winter in-game 0802hrs, weather -1/+6C and forecast predicts no rain but very cold. Oh my we are in winter now. More skipping ...
+</p>
+
+<p>
+02/early-winter in-game 0910hrs, weather -3/+4C and forecast predicts dry but below zero values, tomorrow 1200hrs snowing. Drying potential is 0 up until the snow starting.
+</p>
+
+<p>
+Decided to time accelerate not with my usual 6000 speed but slower 600 just to make sure the soil moisture icon is not "lagging", I really do not want to miss my harvest window, that would be really bad.
+</p>
+
+<p>
+Well 600 speed until in-game 1817hrs and soil is wet, cannot harvest. Okay lets skip the night and hope for the best, but I am already having scary memories from PMC Texas Rowena 8km New Farmer game-mode where massive amount of my soybeans withered due 9 day seasons being too short to harvest it all. If 24 day seasons is too short for HALF of 16.3km terrain like PMC Grange Gardens 16km ... oh my. Okay, positive thoughts ... ;)
+</p>
+
+<p>
+03/early-winter in-game 0803hrs, weather -1/+4C and forecast predicts snowing at 1200hrs. Whole forecast is below zero degrees minimum temperature, ugh.
+</p>
+
+<p>
+03/early-winter in-game 0920hrs it started to snow, more 600 speed skipping. In-game ?hrs it switched to rain (sorry forgot the time), at 1807hrs rain ended and it was dark, weather +1/+4C and forecast predicts dry but drying potential 0 for the next day. Lets skip the night...
+</p>
+
+<p>
+04/early-winter in-game 0848hrs, weather -2/+3C and forecast predicts above freezing for afternoon but drying potential all zero for the next day. Also when time acceleration seasons sync was going on there was snow on the ground. Kind of weird as it didn't snow at the time but its fine, we call it winter time and its snow on the ground heh. I am now really REALLY scared, honestly if you ask me right now ... this harvest season is doomed, it wont dry up anymore and soon the soybeans crop withers. But never give up hope, so we continue ...
+</p>
+
+<p>
+04/early-winter in-game 1620hrs soil is dry! Weather +9/+3C and forecast predicts dry weather, there is snow in the ground haha! :-)
+</p>
+
+<p>
+Alright now I'm going to harvest like a mad man even into the night, I cannot let any moments to be wasted because I'm having the feeling of living in borrowed time.
+</p>
+
+<p>
+Hopped into Claas Lexion 8900s lead combine, generated four vehicle field work course, selected first waypoint and hit engage, FS19 froze. Courseplay does that sometimes although I havent seen it in many days now with latest versions. I had to task manager kill FS19 game task and start over.
+</p>
+
+<p>
+0654 However now I'm hungry I want some chow, so time to take a quick break to feed.
+</p>
+
+<p>
+0728 Lunch time is over, lets get back to it and hope we can get courseplay to co-operate.
+</p>
+
+<p>
+When I loaded back into savegame the snow was gone, hmm odd. Then did the same courseplay start procedures and same thing happened, FS19 froze. Again task manager kill and restart all over again. It happened the same in third attempt as well. Next I need to switch the course starting location to different edge.
+</p>
+
+<p>
+Finally it worked from the northern edge starting location.
+</p>
+
+<p>
+0745 Started harvesting soybeans F82 NE, courseplay ETA ?min, 4x tools.<br>
+</p>
+
+<p>
+Night had fallen in-game 1754hrs, its basically pitch black dark now. Just got to keep harvesting until I cant. Few minutes after writing that I basically could not, I can't see squat in this field, I need to use ESC mapview (minimap is too cluttered/small) even to see which way I'm heading and to find the combines or semi trucks.
+</p>
+
+<p>
+I'm currently watching johnshine4486 in twitch who is live streaming PMC North Dakota Greendale 4km, but once he goes offline I'll continue recording videos and time accelerate until morning daylight... when I'm afraid that soil moisture will halt our harvesting operation.
+</p>
+
+<p>
+Oh and also combines need some fuel, number four is below 10%, three is below 20%. I hate to see the colored long display text in inspector mod heh.
+</p>
+
+<p>
+04/early-winter in-game 1858hrs, weather +8/+3C and forecast pretty clear. I need to skip the night.
+</p>
+
+<p>
+05/early-winter in-game 0806hrs, weather -1/+3C and forecast pretty clear, drying potential zero, soil is wet so cannot harvest. Now its the moment of truth, will the soil dry up before evening or not... in-game 1752hrs darkness has fallen and soil is still wet. This is not looking good. Lets skip the night...
+</p>
+
+<p>
+06/early-winter in-game 0810hrs, weather -3/+2C and forecast pretty clear, day after tomorrow there is snow. Soil is wet of course and I'm having cold sweat that is today the day when soil will not dry up until full winter hits. In-game 1757hrs darkness, soil is wet. Another day without harvesting. Okay lets skip the night...
+</p>
+
+<p>
+07/early-winter in-game 0758hrs, weather -2/+2C and forecast basically the same, soil is wet. Again 600 speed time acceleration hoping for the best... In-game 1757hrs darkness, soil is wet. Tomorrow is the last day of harvest season... I'm like a dead man walking here... Lets skip the night.
+</p>
+
+<p>
+08/early-winter in-game 0818hrs, weather -2/+1C and forecast for TODAY is drying potential zero, soil is wet. Today is the last day of harvest season and I think its game over at this point, but of course lets 600 speed time accelerate until darkness and then skip the night. In-game 1800hrs darkness fell, soil is still wet. Okay skipping the night but I expect tomorrow morning our soybeans wither...
+</p>
+
+<p>
+09/mid-winter in-game 0816hrs, weather 0/+1C. Time accelerated 600 speed to in-game 1804hrs darkness. Now or never the crops should wither when I skipe the night...
+</p>
+
+<p>
+10/mid-winter in-game 0809hrs, GAME OVER, my soybeans withered :-(
+</p>
+
+<p>
+Unbelievable, twenty four frigging day season and its not enough time to harvest less than HALF of PMC Grande Gardens 16km ;)
+</p>
+
+<p>
+So there you go. I guess I'm going to pack up my harvest fleet with somber feeling, this mood kind of reminds me of the movie Alien 3 ending when they shut down the prison colony hehe.
+</p>
+
+<p>
+To be clear I am not really disappointed or sad that this happens, its seasons and huge terrain, its a new learning experience for me that there just ain't enough time. Yes of course I would have liked to have flawless execution that this last field was completed, but I guess in a way this will be another of those fond memories of farmsim in the future :)
+</p>
+
+<p>
+My goal with this savegame now is to save it (doh), then continue editing this terrain and do huge number of good new edits, possibly take a quite long break from playing this savegame. Once edits are in and very nice version of this terrain is ready, then I continue this Start From Zero.
+</p>
+
+<p>
+I don't know what I'm going to do with this F82, its now almost half way harvested. If we are black and white about this, it means this field is not harvested... I just wasted half a day harvesting these two sections of it for no reason because I could not finish it heh.
+</p>
+
+<p>
+One lesson to come out of this is that you should harvest largest most difficult (endurance wise) fields first, its much better to let some tiny field wither instead of this kind of 600+ hectare monster.
+</p>
+
+<p>
+1056 Starting to pack up harvesting fleet and park them to some safe spot for future terrain upgrade.
+</p>
+
+<p>
+Then it was just one task left, park all the vehicles to fields in preparation of the next terrain upgrade. Reason I'm parking vehicles on fields is that if I edit objects, or road elevations, utility poles etc you cant be sure where in the roads or grass your vehicles are safe from new objects or elevations but on fields they most likely are safe because I cannot think of a edit I could do to a field which would cause issues with vehicles. Also seasons reset fields to harvest state on new career savegame creation, so there is no crop damage issue either.
+</p>
+
+<p>
+I must say I really have somber and relieved feeling right now after this harvest season came to a conclusion, I was quite burnt out for harvesting and was doing it just with attitude. Feels so great now to have this over and most likely for a long time when I just edit and improve this terrain.
+</p>
+
+<p>
+When I next time load PMC Grande Gardens 16km up with this Start From Zero savegame, it will look so good and will be awesome to farm on :)
+</p>
+
+<p>
+This savegame has now 950hrs in it heh.
+</p>
+
+<p>
+So now its time to sign off, until we return to PMC Grande Gardens Start From Zero ;)
+</p>
+
+<p>
+1143 Saved game and shut down FS19...
 </p>
 
 </section>
