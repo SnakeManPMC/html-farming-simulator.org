@@ -45,7 +45,7 @@ Click for larger image
 Latest PMC Grande Gardens 16km Start From Zero video.
 </p>
 <iframe width="480" height="270"
-src="https://www.youtube.com/embed/Ve34lULpHaQ">
+src="https://www.youtube.com/embed/6yc0bjFdzmI">
 </iframe>
 </div>
 
@@ -162,7 +162,7 @@ Field 98 (field98) : 3.901 ha
 </pre>
 
 <p>
-Includes vehicle shop and ten selling points.
+Includes vehicle shop and twelve selling points.
 </p>
 
 </section>
