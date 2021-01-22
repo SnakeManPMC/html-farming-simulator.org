@@ -118,6 +118,10 @@ August 2020 I finished first ever savegame in FS19 which was in this terrains Ne
 Plenty of <a href="https://www.youtube.com/user/pmcsince1984/search?query=%22PMC%20Texas%20Rowena%208km%22" target="_blank">youtube PMC Texas Rowena 8km development videos</a> available.
 </p>
 
+<p>
+Please send us feedback, bug reports, anything that could help us to improve this terrain. Join PMC Farming discord server, see <a href="../contact.php">contact page</a> for an invite.
+</p>
+
 	<h2>New Farmer Game-Mode</h2>
 
 <p>

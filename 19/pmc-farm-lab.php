@@ -181,6 +181,10 @@ If you are using Precision Farming mod then those 14 non AI fields in the upper 
 Asked around ideas from players in discord, got some nice ideas what to include, some of them are already in others you can check from changelog page. If you have further ideas how to make such mod testing terrain more useful please let me know.
 </p>
 
+<p>
+Please send us feedback, bug reports, anything that could help us to improve this terrain. Join PMC Farming discord server, see <a href="../contact.php">contact page</a> for an invite.
+</p>
+
 	<h2>Changelog</h2>
 
 <p>

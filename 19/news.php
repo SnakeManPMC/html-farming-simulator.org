@@ -24,6 +24,10 @@
 	<h2>News 2021</h2>
 
 <p>
+2021-01-22 PMC Farming discord server opened, you are welcome to join. See <a href="../contact.php">contact page</a> for an invite.
+</p>
+
+<p>
 2021-01-13 First public release of <a href="pmc-eternal-sugar-beet-damnation-32km.php">PMC Eternal Sugar Beet Damnation 32km</a>. Largest terrain in farmsim history to this date, but also not a proper terrain so please read homepage through.
 </p>
 
