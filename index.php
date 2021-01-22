@@ -64,6 +64,7 @@
 <a href="history.php" class="button">History</a>
 <a href="https://www.farming-simulator.com" class="button" target="_blank">Giant Software official Farming Simulator</a>
 <a href="links.php" class="button">Links</a>
+<a href="contact.php" class="button">Contact PMC</a>
 </p>
 
 </section>
