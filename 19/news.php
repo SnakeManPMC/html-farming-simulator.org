@@ -24,6 +24,10 @@
 	<h2>News 2021</h2>
 
 <p>
+2021-02-01 Midwest Horizon Start From Zero savegame finished <a href="stories-from-zero-midwest-horizon.php">read here</a>.
+</p>
+
+<p>
 2021-01-22 PMC Farming discord server opened, you are welcome to join. See <a href="../contact.php">contact page</a> for an invite.
 </p>
 
