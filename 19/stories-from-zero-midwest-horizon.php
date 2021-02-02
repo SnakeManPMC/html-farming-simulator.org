@@ -25,6 +25,10 @@
 	<h2>Midwest Horizon Start From Zero</h2>
 
 <p>
+Please read the background idea for <a href="stories.php">our farm sim stories</a> so you understand what is this all about.
+</p>
+
+<p>
 <b>2019-04-30</b> This was my first time playing midwest horizon which was released already few days ago. I had just attempted to take a break from PMC Iowa Garden City 8km "start from zero" career only like a day ago, but now I'm back in FS19 heh, oh well.
 </p>
 

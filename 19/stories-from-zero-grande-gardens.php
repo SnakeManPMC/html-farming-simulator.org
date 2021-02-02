@@ -25,6 +25,10 @@
 	<h2>PMC Grande Gardens 16km, Start From Zero</h2>
 
 <p>
+Please read the background idea for <a href="stories.php">our farm sim stories</a> so you understand what is this all about.
+</p>
+
+<p>
 <b>2019-07-15T1910</b> Started <a href="pmc-grande-gardens-16km.php">PMC Grande Gardens 16km</a> New Farmer game-mode and saved career. Then edited savegame for PMC Start From Zero mode :)
 </p>
 

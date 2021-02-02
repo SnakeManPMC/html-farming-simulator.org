@@ -25,6 +25,10 @@
 	<h2>PMC North Dakota Greendale 4km, Start From Zero</h2>
 
 <p>
+Please read the background idea for <a href="stories.php">our farm sim stories</a> so you understand what is this all about.
+</p>
+
+<p>
 <b>2020-03-08T1630</b> Started <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a> v0.1.6 farm-manager mode in single player and saved career. Then edited savegame for PMC start from zero mode :)
 </p>
 

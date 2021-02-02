@@ -25,6 +25,10 @@
 	<h2>PMC North Dakota Greendale 4km, Farm Manager</h2>
 
 <p>
+Please read the background idea for <a href="stories.php">our farm sim stories</a> so you understand what is this all about.
+</p>
+
+<p>
 Farm-Manager game-mode meaning 1 million money and 250k loan, no vehicles, no land.
 </p>
 

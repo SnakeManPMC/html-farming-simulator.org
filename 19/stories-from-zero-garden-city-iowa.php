@@ -25,11 +25,11 @@
 	<h2>Garden City, Iowa, Start From Zero</h2>
 
 <p>
-<b>2019-04-17T1315</b> Started <a href="pmc-iowa-garden-city-8km.php" target="_blank">Iowa Garden City</a> v0.2.3 farm-manager mode in single player and saved career. Then edited savegame for PMC start from zero mode :)
+Please read the background idea for <a href="stories.php">our farm sim stories</a> so you understand what is this all about.
 </p>
 
 <p>
-For this story I'm not going to mark $ US Dollar sign because its so cumbersome to type in, I'm just going to list the currency values as numbers so just know they are all dollars. Lower case k means thousand and m means million.
+<b>2019-04-17T1315</b> Started <a href="pmc-iowa-garden-city-8km.php" target="_blank">Iowa Garden City</a> v0.2.3 farm-manager mode in single player and saved career. Then edited savegame for PMC start from zero mode :)
 </p>
 
 <p>
