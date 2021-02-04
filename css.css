@@ -232,6 +232,16 @@ Terrain screenshot thumbnail images
 }
 
 /*
+Image responsive
+*/
+.imgresponsive
+{
+	max-width: 768px;
+	width: auto;
+	height: auto;
+}
+
+/*
 PMC Farm Lab features ;)
 */
 .grid-container

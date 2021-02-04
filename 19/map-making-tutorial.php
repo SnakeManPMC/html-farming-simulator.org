@@ -24,11 +24,11 @@
 	<h2>Overview</h2>
 
 <p>
-<b>2020-05-05</b> This page is work in progress, will be updated as we go along.
+<b>2021-02-04</b> This page is work in progress, will be updated as we go along.
 </p>
 
 <p>
-Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulator 17 (FS17) Map Making Tutorial</a> first because what you see below assumes you know all of that FS17 stuff. Also <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC youtube FS19 playlist</a> has some Giants Editor (GE) videos.
+Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulator 17 (FS17) Map Making Tutorial</a> first because what you see below assumes you know all of that FS17 stuff. Also <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC youtube FS19 playlist</a> has some Giants Editor (GE) videos. If you have any corrections or questions please <a href="../contact.php">contact us</a>.
 </p>
 
 <p><a href="terrain-ai-planted-crop-types.php">AI Planted Crop Types</a></p>
@@ -65,23 +65,8 @@ Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulat
 <p><a href="terrain-unitsperpixel.php">unitsPerPixel</a></p>
 <p><a href="terrain-use-actual-size.php">Use Actual Size (terrains)</a></p>
 <p><a href="terrain-user-interface.php">User Interface</a></p>
+<p><a href="terrain-utility-pole-wires.php">Utility Poles with Wires Tutorial</a></p>
 <p><a href="terrain-vehicle-shop.php">Vehicle Shop</a></p>
-<!--
-<p><a href="terrain-.php"></a></p>
--->
-
-<!--
-	<h2></h2>
-
-<p>
-</p>
-
-<a href="" target="_blank"></a>
-
-<ul>
-<li></li>
-</ul>
--->
 </section>
 
 <footer>
