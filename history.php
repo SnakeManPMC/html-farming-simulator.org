@@ -61,8 +61,11 @@
 2020-11-12 Farming Simulator 19 - Alpine Terrain DLC release <a href="https://www.farming-simulator.com/newsArticle.php?lang=en&country=us&news_id=191" target="_blank">news</a><br>
 2020-12-08 Farming Simulator 19 - Precision Farming mod release <a href="https://www.farming-simulator.com/newsArticle.php?lang=en&country=us&news_id=196" target="_blank">news</a>, <a href="https://www.farming-simulator.com/mod.php?&mod_id=188882&title=fs2019" target="_blank">mod download</a><br>
 2021-01-19 Farming Simulator 19 - GRIMME Equipment Pack announced <a href="https://www.farming-simulator.com/newsArticle.php?news_id=204" target="_blank">news</a><br>
-<!--
 2021-01-26 Farming Simulator 19 - GRIMME Equipment Pack release <a href="https://www.farming-simulator.com/dlc-detail.php?&dlc_id=fs19grimme" target="_blank">details</a><br>
+2021-03-09 Farming Simulator 19 - Rottne DLC announced <a href="https://www.farming-simulator.com/newsArticle.php?news_id=210" target="_blank">news</a><br>
+
+<!--
+2021-03-16 Farming Simulator 19 - Rottne DLC release <a href="https://www.farming-simulator.com/dlc-detail.php?&dlc_id=fs19rottne" target="_blank">details</a><br>
 -->
 </p>
 
