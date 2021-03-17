@@ -63,9 +63,8 @@
 2021-01-19 Farming Simulator 19 - GRIMME Equipment Pack announced <a href="https://www.farming-simulator.com/newsArticle.php?news_id=204" target="_blank">news</a><br>
 2021-01-26 Farming Simulator 19 - GRIMME Equipment Pack release <a href="https://www.farming-simulator.com/dlc-detail.php?&dlc_id=fs19grimme" target="_blank">details</a><br>
 2021-03-09 Farming Simulator 19 - Rottne DLC announced <a href="https://www.farming-simulator.com/newsArticle.php?news_id=210" target="_blank">news</a><br>
-
-<!--
 2021-03-16 Farming Simulator 19 - Rottne DLC release <a href="https://www.farming-simulator.com/dlc-detail.php?&dlc_id=fs19rottne" target="_blank">details</a><br>
+<!--
 -->
 </p>
 
