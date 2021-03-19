@@ -168,7 +168,7 @@ Crop growth is really weird, it is not counted reasonably as you really often ge
 </p>
 
 <p>
-On 8km terrain Cornbelt I often times noticed that when crop growth rate was normal and I used "fast forward" 12,000x time accelleration, my fields kind of "lagged" in the stages, for example: I finished seeding F45 and was starting to seed F44 right next to it, well it was 2100hrs so I fast forwarded to 0500hrs and then started to seed... guess what happens? After I've not done even the first headland... the already seeded parts switch to first stage of growth, hehe it was hilarious to complete the headland and uh oh whats this, crops are already growing!? hehe :)
+On 8km terrain Cornbelt I often times noticed that when crop growth rate was normal and I used "fast forward" 12,000x time accelleration, my fields kind of "lagged" in the stages, for example: I finished seeding F45 and was starting to seed F44 right next to it, well it was 2100hrs so I fast forwarded to 0500hrs and then started to seed... guess what happens? After I've not done even the first headland... the already seeded parts switch to first stage of growth, hehe it was hilarious to complete the headland and uh oh whats this, crops are already growing!? hehe <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -322,7 +322,7 @@ Conclusion: greenhouses are the most cheapest way to make money, but again requi
 </p>
 
 <p>
-You need to understand that if a bee house costs $20,000 and starts to make a bit money every day, so that would be nice balance to cover lets say vehicle maintenance costs right? Well imagine how many days of vehicle maintenance costs you could pay with that initial 20 grand, not to mention the monstrous wind energy converter with one point two million... hmm :)
+You need to understand that if a bee house costs $20,000 and starts to make a bit money every day, so that would be nice balance to cover lets say vehicle maintenance costs right? Well imagine how many days of vehicle maintenance costs you could pay with that initial 20 grand, not to mention the monstrous wind energy converter with one point two million... hmm <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 	<h2>Missions</h2>

@@ -42,7 +42,7 @@ This tutorial uses <a href="downloads/splinePlacement_v1.3.7z">splinePlacement v
 </p>
 
 <p>
-<b>SplinePlacement_Delete.lua</b> will delete objects from splinePlacement -&gt; placedObjects transformgroup, very useful when you go back and forth testing scripting variables :)
+<b>SplinePlacement_Delete.lua</b> will delete objects from splinePlacement -&gt; placedObjects transformgroup, very useful when you go back and forth testing scripting variables <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -173,7 +173,7 @@ Here is the final result overview.
 <img class="imgresponsive" src="screenshots/Utility-Poles-With-Wires-Placed-Overview.jpg" loading="lazy" alt="Utility Poles with Wires Placed Overview">
 
 <p>
-Looking good, love my new wires which were created all automatic scripting way ;)
+Looking good, love my new wires which were created all automatic scripting way <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <img class="imgresponsive" src="screenshots/Utility-Poles-With-Wires-Placed-Closeup.jpg" loading="lazy" alt="Utility Poles with Wires Placed Closeup">

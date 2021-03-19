@@ -81,7 +81,7 @@ Terrain has vehicle shop and one sell point in the center, then one enormous sug
 </p>
 
 <p>
-Just don't try to generate courseplay field work course for this field ... ;)
+Just don't try to generate courseplay field work course for this field ... <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 	<h2>New Farmer Game-Mode</h2>

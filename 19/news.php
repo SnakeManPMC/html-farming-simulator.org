@@ -46,7 +46,7 @@
 	<h2>News 2020</h2>
 
 <p>
-2020-12-31 First ever Farming Simulator PMC terrain release, <a href="pmc-texas-rowena-8km.php">PMC Texas Rowena 8km</a>! :-)
+2020-12-31 First ever Farming Simulator PMC terrain release, <a href="pmc-texas-rowena-8km.php">PMC Texas Rowena 8km</a>! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -54,7 +54,7 @@
 </p>
 
 <p>
-2020-09-06T18:38:00Z PMC Iowa Garden City 8km utility pole objects placement is done! :)
+2020-09-06T18:38:00Z PMC Iowa Garden City 8km utility pole objects placement is done! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -62,7 +62,7 @@
 </p>
 
 <p>
-2020-09-06T13:14:00Z PMC Iowa Garden City 8km building placement is done! :-)
+2020-09-06T13:14:00Z PMC Iowa Garden City 8km building placement is done! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -94,7 +94,7 @@
 </p>
 
 <p>
-2020-08-27T17:11:00Z PMC Montana Shelby 8km (welker farms map) basic buildings locations object placement with many placeholder objects is complete! Unbelievable it only took hours!? :o
+2020-08-27T17:11:00Z PMC Montana Shelby 8km (welker farms map) basic buildings locations object placement with many placeholder objects is complete! Unbelievable it only took hours!? <img src="../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -102,7 +102,7 @@
 </p>
 
 <p>
-2020-08-16 PMC North Dakota Greedale 4km basic object placement (buildings, utility poles, trees) is complete! :)
+2020-08-16 PMC North Dakota Greedale 4km basic object placement (buildings, utility poles, trees) is complete! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -118,7 +118,7 @@
 </p>
 
 <p>
-2020-04-13 <a href="pmc-texas-rowena-8km.php">PMC Texas Rowena 8km</a> basic object placement (buildings, utility poles, trees) is complete! :)
+2020-04-13 <a href="pmc-texas-rowena-8km.php">PMC Texas Rowena 8km</a> basic object placement (buildings, utility poles, trees) is complete! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 	<h2>News 2019</h2>

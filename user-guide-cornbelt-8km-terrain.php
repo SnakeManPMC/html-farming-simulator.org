@@ -31,7 +31,7 @@ Some userful information about Cornbelt terrain, we do not list the obvious like
 	<h2>Farm Silo Capacity</h2>
 
 <p>
-Farm silo capacity is <b>60,000,000 liters, yes sixty million liters</b> :-)
+Farm silo capacity is <b>60,000,000 liters, yes sixty million liters</b> <img src="images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -116,7 +116,7 @@ Once grain and water is in place the factory will start to slowly produce seeds.
 	<h3>Where To Find The Product</h3>
 
 <p>
-Then just pick up seed and fertilizer with the train, fertilizer is from the west/left side and seeds are from the east/right side and haul it to your favorite seed/fertilize silos :)
+Then just pick up seed and fertilizer with the train, fertilizer is from the west/left side and seeds are from the east/right side and haul it to your favorite seed/fertilize silos <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -134,7 +134,7 @@ Use tanker truck to pickup crude oil from some of the oil fields. Just drive nex
 </p>
 
 <p>
-Use trailer truck to load soybeans or canola etc, unload them to ... well damn heh... the slot that says to unload soybeans etc :) (I think this needs a screenshot or something).
+Use trailer truck to load soybeans or canola etc, unload them to ... well damn heh... the slot that says to unload soybeans etc <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"> (I think this needs a screenshot or something).
 </p>
 
 <p>
@@ -142,7 +142,7 @@ Now you are producing fuel and compost. You can load compost just around the cor
 </p>
 
 <p>
-You can load fuel to the train from ... yeah, requires screenshot again to fully explain the location :) Then you can take the fuel with the train to your farm which has storage facility for fuel. The unload point is sneakily hidden in the rocky hillside, you cant see it from your farm when driving a tractors, you only spot it with a train.
+You can load fuel to the train from ... yeah, requires screenshot again to fully explain the location <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"> Then you can take the fuel with the train to your farm which has storage facility for fuel. The unload point is sneakily hidden in the rocky hillside, you cant see it from your farm when driving a tractors, you only spot it with a train.
 </p>
 
 <p>

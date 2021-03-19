@@ -37,7 +37,7 @@ How to convert asphalt01_weight road image to grass removing fruit_density image
 - unselect the selection (roads), colors -> map -> color exchange, set white RBG 255,255,255 to black RGB 0,0,0<br>
 - pasted layer RMB -> merge down<br>
 - file -> overwrite fruit_density.png<br>
-All done ;)
+All done <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 </section>

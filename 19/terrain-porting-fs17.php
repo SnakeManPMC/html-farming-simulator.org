@@ -108,7 +108,7 @@ _run_graphicsmagick_FS19_mapsize_to_4096.bat in the directory where PNG files ar
 </p>
 
 <p>
-PMCTODO add the actual bat files ;)
+PMCTODO add the actual bat files <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 </section>

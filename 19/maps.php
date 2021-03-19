@@ -157,7 +157,7 @@ Terrain heightmap looks completely flat. Trees have various object types and the
 </p>
 
 <p>
-Ridiculous looking castles and church or something on the center of the terrain, what is this farm sim or world of warcraft? :)
+Ridiculous looking castles and church or something on the center of the terrain, what is this farm sim or world of warcraft? <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -235,7 +235,7 @@ Terrain edges are buffered with high mountains (heightmap) and trees, wasting pe
 </p>
 
 <p>
-Biogas plant location is completely fenced off, there is no way to drive in or out of there, guess the fence loving terrain dev forgot to add opening :)
+Biogas plant location is completely fenced off, there is no way to drive in or out of there, guess the fence loving terrain dev forgot to add opening <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -285,7 +285,7 @@ Southern gas station and grain elevator east locations have water / seagull soun
 </p>
 
 <p>
-Sawmill location by magic has cuttable trees around it when nowhere else in the terrain you find such heh, how odd :)
+Sawmill location by magic has cuttable trees around it when nowhere else in the terrain you find such heh, how odd <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -554,7 +554,7 @@ Description says "Realistic map based on google maps and lidar. It is scaled dow
 	<h2>2 Kilometer x 2 Kilometer Maps / Terrains</h2>
 
 <p>
-Maps / Terrains listed below are 2 Kilometer (km) size, same as original games Ravenport and Felsbrunn, meaning... small ;)
+Maps / Terrains listed below are 2 Kilometer (km) size, same as original games Ravenport and Felsbrunn, meaning... small <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <div class="terrain2km">
@@ -594,7 +594,7 @@ v2.0 by zoltanm. From modDesc: Big Fields BETA
 </p>
 
 <p>
-Note! download from modland.net states this is "v4.0" but modDesc.xml shows clearly it is v2.0, so dunno who to believe here, FS19 community at its best :)
+Note! download from modland.net states this is "v4.0" but modDesc.xml shows clearly it is v2.0, so dunno who to believe here, FS19 community at its best <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>Big fields naming somehow indicates that this would be a large terrain, unfortunately it is not, this is just 2km terrain.

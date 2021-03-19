@@ -32,7 +32,7 @@ Do not edit extensive periods in giants editor without testing the terrain in-ga
 </p>
 
 <p>
-<b>Field sizes:</b> for the large terrain developers, include smaller fields for the early part of savegame where you start with lower end vehicles when doing missions. If you start by doing missions on 200+ hectare fields... let me tell you, the mission durations make it a world of hurt :)
+<b>Field sizes:</b> for the large terrain developers, include smaller fields for the early part of savegame where you start with lower end vehicles when doing <a href="contracts.php">contracts</a>. If you start by doing contracts on 200+ hectare fields... let me tell you, the contract durations make it a world of hurt <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -52,7 +52,7 @@ Saving 16km terrain, 8192 resolution DEM and 16384 res weight etc images takes s
 </p>
 
 <p>
-When you edit regularly check in-game and error log that its clean, if there are any errors fix them before proceeding editing. Trust me on this, the more errors you leave for "nah I'll fix that later", the more work you have when eventually that "later" comes :)
+When you edit regularly check in-game and error log that its clean, if there are any errors fix them before proceeding editing. Trust me on this, the more errors you leave for "nah I'll fix that later", the more work you have when eventually that "later" comes <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

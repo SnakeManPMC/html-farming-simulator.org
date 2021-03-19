@@ -374,7 +374,7 @@ Trailer with auto load feature. Can auto load bales (square and round) and palle
 <h2>ZZZ_CommodityPrices</h2>
 
 <p>
-<b>ZZZ_CommodityPrices.zip crashes the game v1.5.3.1 when exiting!</b> Otherwise seems to be working fine :(
+<b>ZZZ_CommodityPrices.zip crashes the game v1.5.3.1 when exiting!</b> Otherwise seems to be working fine <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -547,11 +547,11 @@ v1.0 by stefan1997. From modDesc: EggCollector. The Egg Collector is a freely pl
 </p>
 
 <p>
-<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=103619&title=fs2017" target="_blank">Modhub</a>. Works nicely. I always felt the picking of eggs was kind of... well, lame, so this mod comes handy to get rid of that annoying regular visit to the chicken coop. Also good to note that I dont think I've ever sold any eggs, its just not my thing, can't imagine getting more than few dollars out of it :)
+<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=103619&title=fs2017" target="_blank">Modhub</a>. Works nicely. I always felt the picking of eggs was kind of... well, lame, so this mod comes handy to get rid of that annoying regular visit to the chicken coop. Also good to note that I dont think I've ever sold any eggs, its just not my thing, can't imagine getting more than few dollars out of it <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Only annoying thing is that every time there is new egg layed, eggcollector properly collects it... but that causes the egg icon to appear on the screen, that will get old real fast :(
+Only annoying thing is that every time there is new egg layed, eggcollector properly collects it... but that causes the egg icon to appear on the screen, that will get old real fast <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 </div>
 
@@ -663,7 +663,7 @@ v1.3 by Wopster. From modDesc: Manual Attaching. This mod enforces you to attach
 </p>
 
 <p>
-<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=67536&title=fs2017" target="_blank">Modhub</a>. Works very nicely, I think this will be my new essential mod :)
+<a href="https://www.farming-simulator.com/mod.php?lang=en&country=us&mod_id=67536&title=fs2017" target="_blank">Modhub</a>. Works very nicely, I think this will be my new essential mod <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 </div>
 
@@ -1181,7 +1181,7 @@ v1.0 by Julian11 / JavierZzS. From modDesc: John Deere S690i. Mother bins,also k
 </p>
 
 <p>
-Umm why does combine harvester modDesc read about coolamon monther bins? Hmm :)
+Umm why does combine harvester modDesc read about coolamon monther bins? Hmm <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

@@ -64,7 +64,7 @@ Remember to read LICENSE.txt so you know what is allowed with PMC terrain releas
 </p>
 
 <p>
-All done, enjoy large scale American real world data farming with PMC terrain :)
+All done, enjoy large scale American real world data farming with PMC terrain <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 </section>

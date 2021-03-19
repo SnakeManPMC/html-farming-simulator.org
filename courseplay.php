@@ -135,11 +135,11 @@ Start course recording at the point where you want to load your vehicle with gra
 Load the course, select your product, number of runs to perform (if you so choose), select start at first waypoint and then just drive course. All done.
 </p>
 
-<p>Good semi truck course recording tip: do it when you have a full load, then you feel the how the semi truck handles. Semi truck carriers incredibly expensive cargo, dont be stupid, dont speed :)
+<p>Good semi truck course recording tip: do it when you have a full load, then you feel the how the semi truck handles. Semi truck carriers incredibly expensive cargo, dont be stupid, dont speed <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-If you have multiple silos in a row like in North West Texas 4X map, just run the course through all of the silos so if one gets full, the next one hopefully has space and it will unload there.
+If you have multiple silos in a row like in North West Texas 4km terrain, just run the course through all of the silos so if one gets full, the next one hopefully has space and it will unload there.
 </p>
 
 
@@ -231,14 +231,14 @@ First create the refill course from the edge of the field. Refill is to drive ne
 	<h2>Combine Self-unloading Mode</h2>
 
 <p>
-You record a course near the unloading point, so the vehicle with the trailer has to be on the exact same spot every time. Place waypoint at the unloading point when pipe is aligned properly. Hum bit complicated :)
+You record a course near the unloading point, so the vehicle with the trailer has to be on the exact same spot every time. Place waypoint at the unloading point when pipe is aligned properly. Hum bit complicated <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
 Combine cannot be under courseplay control while harvesting, it needs to be run by helper. So basically this feature sucks, use the other more advanced features.
 </p>
 
-<p>Also the combine will travel through the crop it harvests, meaning with crop destruction you get nasty trails :(
+<p>Also the combine will travel through the crop it harvests, meaning with crop destruction you get nasty trails <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 
@@ -352,7 +352,7 @@ exit
 </pre>
 
 <p>
-Such bat file can be used to create FS17 readable zip files from other FS17 github repos too, for example Mogli's GearboxAddon. You are one click away to being always updated :)
+Such bat file can be used to create FS17 readable zip files from other FS17 github repos too, for example Mogli's GearboxAddon. You are one click away to being always updated <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 	<h2>Restarting Game</h2>
@@ -376,7 +376,7 @@ Recommended method: don't restart your game until all courses have finished. Yea
 	<h2>Multiple Tools</h2>
 
 <p>
-You must understand that while its cool to add like four Big Bud 747's with Seed Hawk 25.5m width implement to seed a field but if the field is too small or especially narrow or odd shape, you will run into traffic collisions all the time. The combined width of four seed hawks is damn 102 meters! :)
+You must understand that while its cool to add like four Big Bud 747's with Seed Hawk 25.5m width implement to seed a field but if the field is too small or especially narrow or odd shape, you will run into traffic collisions all the time. The combined width of four seed hawks is damn 102 meters! <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

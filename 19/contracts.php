@@ -81,7 +81,7 @@ Harvest contracts take forever and potatoes & sugar beet stuff is no brainer (me
 </p>
 
 <p>
-Check distances. If you need to drive your vehicle to the other side of 8km terrain, its no fun. If you choose to take harvest contact with first the field being in the other side of the terrain and sell point to the opposite... imagine how much driving you'll be doing. This is obviously no issue if you love trucking :)
+Check distances. If you need to drive your vehicle to the other side of 8km terrain, its no fun. If you choose to take harvest contact with first the field being in the other side of the terrain and sell point to the opposite... imagine how much driving you'll be doing. This is obviously no issue if you love trucking <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

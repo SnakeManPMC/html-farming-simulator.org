@@ -62,7 +62,7 @@ Purchases:<br>
 2017-07-07, F19<br>
 2017-07-08, F26<br>
 2017-07-09, F27<br>
-2017-07-11, F9, F14. Today all the good fields (not blocked by narrow fence) purchased! I was so happy after ALL this work! :-)
+2017-07-11, F9, F14. Today all the good fields (not blocked by narrow fence) purchased! I was so happy after ALL this work! <img src="images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -255,7 +255,7 @@ Idea was to buy (money cheat) and plough all fields, seed too if possible but it
 1035 finished plowing F03<br>
 1105 finished seeding F62<br>
 1140 finished slurry fertilizing F35<br>
-and finished playing for today at 1154hrs ;)<br>
+and finished playing for today at 1154hrs <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 2142 finished plowing F24<br>
 2152 purchased F08 and started plowing<br>
 2208 started slurry fertilizing F24<br>
@@ -397,7 +397,7 @@ decided to finish for today at 0853hrs, or at least take a break, got pretty exh
 0906 purchased F11 and started plowing<br>
 0907 finished seeding F14<br>
 0922 started seeding F13<br>
-0929 purchased F18 and started plowing &lt;- largest field in cornbelt, 601 hectares! :-)<br>
+0929 purchased F18 and started plowing &lt;- largest field in cornbelt, 601 hectares! <img src="images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy"><br>
 1006 finished seeding F13<br>
 1016 finished seeding F20<br>
 1020 started seeding F19<br>
@@ -454,8 +454,8 @@ Finished playing for today around 1100hrs, started to get pretty tired. Nice ses
 0641 finished plowing F36<br>
 0646 finished plowing F28<br>
 0808 finished seeding F51<br>
-<b>2018-10-05T0816 finished plowing F32 &lt;- NOW ALL THE FIELDS ARE PLOUGHED AND MANY SEEDED TOO! :-)</b><br>
-0823 finished playing for today, felt great to accomplish my objective of plowing all the fields! :)
+<b>2018-10-05T0816 finished plowing F32 &lt;- NOW ALL THE FIELDS ARE PLOUGHED AND MANY SEEDED TOO! <img src="images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy"></b><br>
+0823 finished playing for today, felt great to accomplish my objective of plowing all the fields! <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -493,7 +493,7 @@ So the idea is to get a clean start from scratch savegame without any vehicles, 
 </p>
 
 <p>
-For missions I'm not using GPS or Courseplay (let alone the courseplay cheat), until I've purchased my own vehicles and fields. The beginning missions will be manual hands on steering wheel action. Kind of like getting back to the roots :)
+For missions I'm not using GPS or Courseplay (let alone the courseplay cheat), until I've purchased my own vehicles and fields. The beginning missions will be manual hands on steering wheel action. Kind of like getting back to the roots <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -525,7 +525,7 @@ Then fertilizer liquid and seed placeables.
 
 <p>
 <b>2018-10-06T0224</b> started a new easy level save game, sold all vehicles, paid off loan and saved, then edited savegame dir files to remove my money, grain in silos and owned fields.<br>
-0406 finished 1st mission, harvesting F63, got $201,000 its a start :)<br>
+0406 finished 1st mission, harvesting F63, got $201,000 its a start <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0408 started 2nd mission, fertilizing F65<br>
 0427 finished 2nd mission, got around $28k<br>
 0457 started and finished 3rd mission on tiny F10, it was quick one and got only $2,500<br>
@@ -535,7 +535,7 @@ Then fertilizer liquid and seed placeables.
 0636 finished 5th mission and got about $80+33k, budget now $376k<br>
 0638 started to slurry fertilize 6th mission on F63<br>
 0659 finished 6th mission and got about $31+16k, budget now $424k<br>
-0758 started to seed 7th mission on F55, but I had to go to the toilet and let GPS run, it ran me off the field and mission failed :(<br>
+0758 started to seed 7th mission on F55, but I had to go to the toilet and let GPS run, it ran me off the field and mission failed <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"><br>
 0837 started to fertilize 7th mission on F08<br>
 0859 finished 7th mission and got about $22+9k, budget now $455k<br>
 0904 purchased F10 for $110,278<br>
@@ -544,24 +544,24 @@ Then fertilizer liquid and seed placeables.
 ? started to harvest F10 but was so excited forgot to write it down haha. took one trailer full of wheat to HQ silos<br>
 1147 purchased metaltech db 8<br>
 1229 finished fertilizing F10, again forgot to write start down heh<br>
-1235 started to plow F10. it was pure hell using that salford 4202 2m plow :)<br>
+1235 started to plow F10. it was pure hell using that salford 4202 2m plow <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1404 finished plowing F10<br>
 1415 started cultivating F10<br>
 1436 had to call it a night, was falling a sleep in front of PMC Gaming. I left it running as youtube uploads were still ongoing.<br>
-2240 woke up and courseplay cultivating was finished for F10 and it was night time in-game hehe :)<br>
+2240 woke up and courseplay cultivating was finished for F10 and it was night time in-game hehe <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 2345 purchased front weight AGCO 650 to tractor as pulling the seeder was difficult to steer<br>
 2346 refilled seeds and money dropped to about $5k, didnt have enough to purchase fertilizer placeable<br>
 2350 started to seed soybeans F10 (again forgot to write down, but it was approx just before midnight. I'm too excited to play hehe).
 </p>
 
 <p>
-<b>2018-10-07T0120</b> finished seeding F10, my first own field seeding is done! :)<br>
+<b>2018-10-07T0120</b> finished seeding F10, my first own field seeding is done! <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0145 sold two trailer loads of wheat in SE sellpoint for about 2x $14k, budget now $32k<br>
 0210 started to fertilize F10<br>
 0226 topped off fertilizer tanks at the shop<br>
-0239 finished fertilizing F10, now we again wait for crops to grow :)<br>
+0239 finished fertilizing F10, now we again wait for crops to grow <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0300 installed 5.3.25 version of courseplay and purchased solid fertilizer placeable to the shop<br>
-0355 soybeans crop has fully grown on F10, starting harvest! :)<br>
+0355 soybeans crop has fully grown on F10, starting harvest! <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0527 forgot to write down when harvest finished, as I quickly sent tractor with trailers to empty them in HQ<br>
 0550 started cultivating F10<br>
 0651 used train to haul a bit wheat and 29k liters of soybeans to SE sell point, budget now $147k<br>
@@ -571,7 +571,7 @@ Then fertilizer liquid and seed placeables.
 </p>
 
 <p>
-At this point its been a little boring as there is so much waiting going on when working with so few vehicles and only one field without any money so I cant do anything else, at all. But its been okay, I'm fully enjoying myself and being excited about developing my farm :)
+At this point its been a little boring as there is so much waiting going on when working with so few vehicles and only one field without any money so I cant do anything else, at all. But its been okay, I'm fully enjoying myself and being excited about developing my farm <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -587,7 +587,7 @@ A LOT of free time at this point when courseplay if running combine or tractor, 
 </p>
 
 <p>
-I'm thinking that any good new terrains get released I'll try this start from scratch method and farming simulator 19 does include such feature by default so I'm definitely going to do more of these as its so exciting to develop your farm from scratch :)
+I'm thinking that any good new terrains get released I'll try this start from scratch method and farming simulator 19 does include such feature by default so I'm definitely going to do more of these as its so exciting to develop your farm from scratch <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -609,7 +609,7 @@ It really starts to get a bit boring at this stage, this is now the third harves
 1419 finished seeding F10<br>
 1437 started harvesting soybeans F10<br>
 1454 was dead tired and had to go to sleep ...<br>
-2105 woke up and right back into harvesting soybeans in F10 :)
+2105 woke up and right back into harvesting soybeans in F10 <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -634,7 +634,7 @@ Hell I should have just done more missions, I mean if you spend one DAY doing mi
 </p>
 
 <p>
-Checked market prices, seems if I sold all 30k liters now I would get mere $115k which is not nearly enough to buy me the next field... man this is starting to get really old :(
+Checked market prices, seems if I sold all 30k liters now I would get mere $115k which is not nearly enough to buy me the next field... man this is starting to get really old <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -646,7 +646,7 @@ I am seriously losing patience and thinking about doing some missions which pay 
 </p>
 
 <p>
-I'm not giving up but these three harvests just feel like am I really going to waste today doing these, is my real life time so low cost that I'm willing to sit here and go through all that shit to buy the next field. I mean its so crazy to think that I could have that field if I EDITED ONE LINE IN ECONOMY.XML file hehe, but yeah, why not edit all the lines to get all the fields, oh wait, I already purchased AND ploughed all the fields on the other savegame... haha, sigh? :(
+I'm not giving up but these three harvests just feel like am I really going to waste today doing these, is my real life time so low cost that I'm willing to sit here and go through all that shit to buy the next field. I mean its so crazy to think that I could have that field if I EDITED ONE LINE IN ECONOMY.XML file hehe, but yeah, why not edit all the lines to get all the fields, oh wait, I already purchased AND ploughed all the fields on the other savegame... haha, sigh? <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -673,17 +673,17 @@ I'm not giving up but these three harvests just feel like am I really going to w
 0605 finished seeding F10<br>
 0628 started harvesting soybeans on F10<br>
 0804 finished harvesting F10<br>
-0829 sold 65k liters of soybeans at SE sellpoint, got $201k, budget now $635k enough for me to purchase my second field :)<br>
+0829 sold 65k liters of soybeans at SE sellpoint, got $201k, budget now $635k enough for me to purchase my second field <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0901 started fertilizing F10<br>
 0917 finished fertilizing F10<br>
 0917 started cultivating F10 (forgot to write down but it was right after finishing fertilizing).<br>
-1013 purchased F45, my second own field! yeah buddy! :)<br>
+1013 purchased F45, my second own field! yeah buddy! <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1017 purchased second steyr multi with 4115 engine and wide tires upgrade, 1000kg front weight and the salford cheapo 2m plough<br>
-1025 started to plow F45 :)
+1025 started to plow F45 <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-oh man I am happy now that I got some progress, great to have another field and more to do (yeah like 6hrs plow session HAHA). The boredom waiting for an damn hour for cultivating or plowing F10 was starting to test my patience, but now I hope that things start to really pick up with second field and especially after I get the harvest from the second field then I start to see some good money too :)
+oh man I am happy now that I got some progress, great to have another field and more to do (yeah like 6hrs plow session HAHA). The boredom waiting for an damn hour for cultivating or plowing F10 was starting to test my patience, but now I hope that things start to really pick up with second field and especially after I get the harvest from the second field then I start to see some good money too <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -702,18 +702,18 @@ oh man I am happy now that I got some progress, great to have another field and 
 </p>
 
 <p>
-<b>2018-10-09T0059</b> woke up and back to Cornbelt, plowing F45 continues :)<br>
+<b>2018-10-09T0059</b> woke up and back to Cornbelt, plowing F45 continues <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0103 started fertilizing F10<br>
 0121 finished fertilizing F10<br>
 0121 finished plowing F45<br>
 0131 started seeding F10<br>
-0154 purchased seed, fertilizer and liquid fertilizer placeables for HQ, budget dropped to $1,896 :(<br>
+0154 purchased seed, fertilizer and liquid fertilizer placeables for HQ, budget dropped to $1,896 <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"><br>
 0203 started to fertilize F45<br>
 0219 took a train to sell soybeans in SE sellpoint at $127k, budget now $138k<br>
 0258 finished seeding soybeans on F10<br>
 0321 finished fertilizing F45<br>
 0330 started seeding soybeans on F45<br>
-0435 had to go refuel stayer multi #2, damn I need to refine crude oil to fuel for my farm HQ :(
+0435 had to go refuel stayer multi #2, damn I need to refine crude oil to fuel for my farm HQ <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -729,20 +729,20 @@ For harvester the case ih 1660 axial-flow has 6340 liter tank and piece of shit 
 </p>
 
 <p>
-All I can say is beggars can't be choosers, heh. Damn its hard life being newbie farmer without cash :)
+All I can say is beggars can't be choosers, heh. Damn its hard life being newbie farmer without cash <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
 0923 finished seeding soybeans on F45<br>
 1033 started harvesting soybeans on F10<br>
 1153 finished harvesting F10<br>
-1207 started harvesting soybeans on F45, oh gosh courseplay timer says 4h 33min hehe! :)<br>
+1207 started harvesting soybeans on F45, oh gosh courseplay timer says 4h 33min hehe! <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1248 started to plow F10<br>
 1435 finished plowing F10<br>
 1439 started fertilizing F10<br>
 1456 finished fertilizing F10<br>
 1500 started to cultivate F10<br>
-1520 broke 100,000 liters of soybeans in farm silo. prices of course fluctuate but maplefield mill buys now for $4012 so looking at four hundred grand ;)<br>
+1520 broke 100,000 liters of soybeans in farm silo. prices of course fluctuate but maplefield mill buys now for $4012 so looking at four hundred grand <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 1607 finished cultivating F10<br>
 1610 started fertilizing F10<br>
 1640 finished fertilizing F10<br>
@@ -762,15 +762,15 @@ As I said earlier, it ain't no fun to be a newbie farmer without cash heh.
 </p>
 
 <p>
-1750 finished seeding F45 :)<br>
+1750 finished seeding F45 <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1758 was dead tired and had to call it a night...<br>
-2353 woke up and was back in farming :)
+2353 woke up and was back in farming <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
 <b>2018-10-10T0020</b> finished seeding F10<br>
 0030 started fertilizing F45<br>
-0038 used train to haul 171k liters of soybeans to maplefield mill (SE sellpoint) for $361+317, budget now $800k :-)<br>
+0038 used train to haul 171k liters of soybeans to maplefield mill (SE sellpoint) for $361+317, budget now $800k <img src="images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy"><br>
 0055 was calculating upcoming purchases ...
 </p>
 
@@ -817,20 +817,20 @@ Turns out that massey ferguson MF7700 with Horsch Pronto 9 DC was a great invest
 </p>
 
 <p>
-0401 finished seeding F45, gotta love that horsch pronto 9 dc, maaan! :)<br>
+0401 finished seeding F45, gotta love that horsch pronto 9 dc, maaan! <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0409 started fertilizing F45<br>
 0527 finished fertilizing F45<br>
 0610 started harvesting soybeans on F10<br>
-0632 finished harvesting F10, oh boy is that case ih axial-flow 7130 with 10.5m header great after playing for days with that piece of shit rosenlew 3m! :)<br>
+0632 finished harvesting F10, oh boy is that case ih axial-flow 7130 with 10.5m header great after playing for days with that piece of shit rosenlew 3m! <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0642 started harvesting soybeans on F45<br>
 0648 started to fertilize F10<br>
 0714 finished fertilizing F10<br>
 0716 started seeding soybeans on F10<br>
-? finished seeding soybeans F10, forgot to write down heh, so exciting to harvest with axial-flow 7130 ;)<br>
+? finished seeding soybeans F10, forgot to write down heh, so exciting to harvest with axial-flow 7130 <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 0852 finished harvesting F45<br>
 0853 started fertilizing F45<br>
-0908 took train with almost two cars full of soybeans to maplefield mill (SE sellpoint) for $450+399, budget now $950k :)<br>
-0921 purchased my third field! field number 44 for $873k, budget now $74k :)
+0908 took train with almost two cars full of soybeans to maplefield mill (SE sellpoint) for $450+399, budget now $950k <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
+0921 purchased my third field! field number 44 for $873k, budget now $74k <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -846,7 +846,7 @@ I cooked food while the plowing was going on, kept thinking that man these plowi
 </p>
 
 <p>
-I cut my hair, shaved and took a shower while plowing was going on heh :)
+I cut my hair, shaved and took a shower while plowing was going on heh <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -917,7 +917,7 @@ I want to keep buffer money for bare minimum of $100,000 from now on. There is j
 </p>
 
 <p>
-<b>2018-10-12T0207</b> back at PMC Gaming, FS17 booted up, we are farming :)<br>
+<b>2018-10-12T0207</b> back at PMC Gaming, FS17 booted up, we are farming <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0310 finished seeding F44<br>
 0337 started plowing F45, two tools. well why not while we wait soybeans market prices to rise.
 </p>
@@ -927,11 +927,11 @@ Courseplay timer with two 2m (or whatever tiny) tools shows 2h 20min duration, h
 </p>
 
 <p>
-0425 sold three full and one less train cars of soybeans for $419k, $410k, $400k and $119k, budget now $1.3 million :)
+0425 sold three full and one less train cars of soybeans for $419k, $410k, $400k and $119k, budget now $1.3 million <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-I just become a millionaire, whee! ;)
+I just become a millionaire, whee! <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -986,11 +986,11 @@ Anyways for the future field purchases its good to play some finance timing game
 </p>
 
 <p>
-It was almost like too perfect, all four fields fertilized and sowed when I hit 17hrs playing straight up and still not tired too bad heh :)
+It was almost like too perfect, all four fields fertilized and sowed when I hit 17hrs playing straight up and still not tired too bad heh <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-1950 shut FS17 down, got some slow terrain download and youtube upload completed, time to get some sleep :)
+1950 shut FS17 down, got some slow terrain download and youtube upload completed, time to get some sleep <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1049,7 +1049,7 @@ Harvesting field 9 I already noticed that 42k liters of grain carrying capacity 
 1257 finished harvesting F09<br>
 1306 finished seeding F45<br>
 1321 took a train to pickup soybeans from external storage 2, got 181k liters from F09 heh<br>
-1337 eleet hehe, took train of 490k liters of soybeans into maplefield mill SE sellpoint. When I started to sell my budget was $106k so it dropped quite close to my new base limit. I sold $404k + $394k + $384k + $375k + $365k + $160k, budget now $2.192 million :)
+1337 eleet hehe, took train of 490k liters of soybeans into maplefield mill SE sellpoint. When I started to sell my budget was $106k so it dropped quite close to my new base limit. I sold $404k + $394k + $384k + $375k + $365k + $160k, budget now $2.192 million <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1057,7 +1057,7 @@ I have always known that the price drops when you sell, we all do, but I was kin
 </p>
 
 <p>
-Anyways now I got 2.1 million DOLLAH, oh wow that is pretty cool, now I can really upgrade my vehicles and maybe this crazy 6hrs of ploughing era is finally over :)
+Anyways now I got 2.1 million DOLLAH, oh wow that is pretty cool, now I can really upgrade my vehicles and maybe this crazy 6hrs of ploughing era is finally over <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1069,7 +1069,7 @@ Anyways now I got 2.1 million DOLLAH, oh wow that is pretty cool, now I can real
 </p>
 
 <p>
-Nice purchases! Shopping! Shopping! HEHE :-)
+Nice purchases! Shopping! Shopping! HEHE <img src="images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -1090,14 +1090,14 @@ I was eyeballing my budget and F60 but it was growing corn so decided to wait mo
 
 <p>
 1524 started seeding soybeans to F09<br>
-1548 sold harvester comia c6 for $36k and header for $6k, she served us well but now bigger and better equipment has arrived, snif... hehe ;)<br>
+1548 sold harvester comia c6 for $36k and header for $6k, she served us well but now bigger and better equipment has arrived, snif... hehe <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 1609 finished fertilizing F09<br>
 1659 sold amazon sprayer beginner kit for mere $7k heh<br>
 1700 purchased KUHN pf 1500 for $8k and KUHN deltis 1302 mea3 for $30k
 </p>
 
 <p>
-So I purchased Big Bud and KUHN DLC sometime last year, I've used big buds constantly but I dont recall ever using KUHN stuff, until now. Heh nick of time eh, FS19 release is about a month away and only now I break out the KUHN shizzle ;)
+So I purchased Big Bud and KUHN DLC sometime last year, I've used big buds constantly but I dont recall ever using KUHN stuff, until now. Heh nick of time eh, FS19 release is about a month away and only now I break out the KUHN shizzle <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1107,7 +1107,7 @@ Anyways, the amazone kit started to get a bit small, needed an upgrade.
 <p>
 1716 finished seeding F09<br>
 1726 started fertilizing F45<br>
-1745 got my first auger wagon courseplay running (in this savegame, obviously) :)
+1745 got my first auger wagon courseplay running (in this savegame, obviously) <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1129,7 +1129,7 @@ Oh and forgot to write start/finished harvesting F10 also on the convoy mayhem.
 </p>
 
 <p>
-<b>2018-10-14T0323</b> back at PMC Gaming, back at farming, as usual ;)<br>
+<b>2018-10-14T0323</b> back at PMC Gaming, back at farming, as usual <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 0328 finished fertilizing F09<br>
 0337 started harvesting F44<br>
 0356 started fertilizing F10<br>
@@ -1183,7 +1183,7 @@ Hmm I'm looking for the next field purely has geographical thing so F34 looks ri
 </p>
 
 <p>
-btw I'm going to call "$1.252 million" to just "$1.252m" from now on, so the abbreviations are "k" for thousand and "m" for million :)
+btw I'm going to call "$1.252 million" to just "$1.252m" from now on, so the abbreviations are "k" for thousand and "m" for million <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1226,11 +1226,11 @@ I'm happy with the new solid fertilization spreaders, these two implements were 
 </p>
 
 <p>
-Market prices for soybeans stopped rising on maplefield mill where the train goes, gunthersomething is like $300 higher price but its truck connection and I only have that crappy 47k liter trailer not to mention gunt sell point is other side of the terrain heh. So yeah I'm just going to take my soybeans with the train, I want some budget to buy some field :)
+Market prices for soybeans stopped rising on maplefield mill where the train goes, gunthersomething is like $300 higher price but its truck connection and I only have that crappy 47k liter trailer not to mention gunt sell point is other side of the terrain heh. So yeah I'm just going to take my soybeans with the train, I want some budget to buy some field <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-1758 took a train to maplefield mill to sell 533k liters of soybeans, market price was at $3897. Sold $350k + $341k + $331k + $322k + $312k + $281k, budget now $2.644m :)
+1758 took a train to maplefield mill to sell 533k liters of soybeans, market price was at $3897. Sold $350k + $341k + $331k + $322k + $312k + $281k, budget now $2.644m <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1238,7 +1238,7 @@ Market price dropped to $3,279 btw. I feel now I'll start to play the market fin
 </p>
 
 <p>
-1808 purchased field 34 for $2.392m, budget now $251k :)
+1808 purchased field 34 for $2.392m, budget now $251k <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1250,7 +1250,7 @@ And damnit! in my field buying excitement I completely forgot the new tip that I
 </p>
 
 <p>
-Okay, now back to work, we have new field to fertilize and plow, for starters ;)
+Okay, now back to work, we have new field to fertilize and plow, for starters <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1266,15 +1266,15 @@ Okay, now back to work, we have new field to fertilize and plow, for starters ;)
 2126 finished seeding F44<br>
 2138 finished harvesting F45<br>
 2142 started fertilizing F45<br>
-? started harvesting F10, aand forgot... too tired ;)<br>
+? started harvesting F10, aand forgot... too tired <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 2214 finished harvesting F10<br>
-? finished fertilizing F45, ... :o<br>
+? finished fertilizing F45, ... <img src="images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy"><br>
 2215 started harvesting F09<br>
-2223 had to call it a night, been up playing FS17 for 19hrs straight... uuh brain is shutting down... heh. more tomorrow ;)
+2223 had to call it a night, been up playing FS17 for 19hrs straight... uuh brain is shutting down... heh. more tomorrow <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-<b>2018-10-15T0450</b> back at PMC Gaming and FS17 firing up, back at farming :)<br>
+<b>2018-10-15T0450</b> back at PMC Gaming and FS17 firing up, back at farming <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0515 started fertilizing F10<br>
 0540 finished fertilizing F10<br>
 0634 finished harvesting F09<br>
@@ -1286,7 +1286,7 @@ Okay, now back to work, we have new field to fertilize and plow, for starters ;)
 </p>
 
 <p>
-Noticed that soybeans market price in maplefield mills had skyrocketed to $4958, so I quickly started to load train as I had already 513k liters in silos heh. Field 44 was half way harvested so I'm keeping an eye on the market price and if it doesn't start to drop I'll finish this harvest and then dump all of it for some big dollah :)
+Noticed that soybeans market price in maplefield mills had skyrocketed to $4958, so I quickly started to load train as I had already 513k liters in silos heh. Field 44 was half way harvested so I'm keeping an eye on the market price and if it doesn't start to drop I'll finish this harvest and then dump all of it for some big dollah <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1296,11 +1296,11 @@ Noticed that soybeans market price in maplefield mills had skyrocketed to $4958,
 0911 finished plowing F45<br>
 0915 started fertilizing F44<br>
 0934 finished fertilizing F44<br>
-0936 train hauled 595k liters of soybeans to maplefield mill SE sellpoint, sold $446k + $436k + $426k + $417k + $407k + $398k + $240k, budget now $2.951m :)
+0936 train hauled 595k liters of soybeans to maplefield mill SE sellpoint, sold $446k + $436k + $426k + $417k + $407k + $398k + $240k, budget now $2.951m <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-I think its time to go shopping! :-)
+I think its time to go shopping! <img src="images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -1363,7 +1363,7 @@ F34 is 29 hectares which doesn't sound too large but you can clearly tell that w
 </p>
 
 <p>
-<b>2018-10-16T0503</b> back at PMC Gaming, fired up FS17, we are farming again :)<br>
+<b>2018-10-16T0503</b> back at PMC Gaming, fired up FS17, we are farming again <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0526 started fertilizing F34
 </p>
 
@@ -1406,7 +1406,7 @@ For some reason ploughing past field edge didn't work, I had to activate it from
 </p>
 
 <p>
-At 1116hrs was about half way done plowing F50 and courseplay timer shows about 2hrs more to go, heh. Yeah, plow setup upgrade is following right after the next big crops sale :)
+At 1116hrs was about half way done plowing F50 and courseplay timer shows about 2hrs more to go, heh. Yeah, plow setup upgrade is following right after the next big crops sale <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1415,7 +1415,7 @@ At 1116hrs was about half way done plowing F50 and courseplay timer shows about 
 </p>
 
 <p>
-F50 looks good, came out nicely with courseplay field edge thing. Also market prices for soybeans hit again $5,000 ! whoah, I'm going to make some serious coin :)
+F50 looks good, came out nicely with courseplay field edge thing. Also market prices for soybeans hit again $5,000 ! whoah, I'm going to make some serious coin <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1447,18 +1447,18 @@ I have to say that I like more of the massive BOOM hammer drop sale where I sell
 1503 sold another $483k<br>
 1513 sold another $483k (did I sell one in between here, got confused as I had to go untangle courseplay auger wagon too hehe)<br>
 1517 sold another $483k<br>
-1521 sold another $474k which was the last car and that was not full, budget now $4.158m :-)
+1521 sold another $474k which was the last car and that was not full, budget now $4.158m <img src="images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
-That was awesome as market price kept bouncing back up! hehe. While I was selling the truck trailer kept dumping soybeans from F09 and ended up having 188k liters, so as the price is still high I'm racing back to farm with the train and pickup everything that is on the silo as you cant pass by such $5.3k per thousand liter opportunity :)
+That was awesome as market price kept bouncing back up! hehe. While I was selling the truck trailer kept dumping soybeans from F09 and ended up having 188k liters, so as the price is still high I'm racing back to farm with the train and pickup everything that is on the silo as you cant pass by such $5.3k per thousand liter opportunity <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
 1530 finished harvesting F09<br>
 1534 sold another $483k<br>
 1538 sold another $483k<br>
-1542 sold last remaining 8k liters for mere $43k, budget now $5.165m :-)
+1542 sold last remaining 8k liters for mere $43k, budget now $5.165m <img src="images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -1557,7 +1557,7 @@ Edited the terrain train tanker and grain cars to 143k liter capacity.
 </p>
 
 <p>
-<b>2018-10-17T0636</b> back at PMC Gaming, firing FS17 up and we are back farming :)<br>
+<b>2018-10-17T0636</b> back at PMC Gaming, firing FS17 up and we are back farming <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0640 started harvesting F45<br>
 0712 massive purchase operation begun, it will take a while to buy all this stuff, link up and drive away from the shop yard.<br>
 - 3x harvester new holland cr10.90 $430k<br>
@@ -1580,7 +1580,7 @@ Edited the terrain train tanker and grain cars to 143k liter capacity.
 0924 finished harvesting F44<br>
 0929 started fertilizing F44<br>
 1000 finished fertilizing F44<br>
-1000 forgot to write down seeding wheat with new condor 15001 planters, also did wheat by accident as in my new seeder excitement forgot to change seed type :)<br>
+1000 forgot to write down seeding wheat with new condor 15001 planters, also did wheat by accident as in my new seeder excitement forgot to change seed type <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1022 soybeans market price started to drop, I frantically started to load train for sale...
 </p>
 
@@ -1662,7 +1662,7 @@ When I was harvesting F11 I checked the actual size using courseplay and I burst
 </p>
 
 <p>
-<b>2018-10-18T0609</b> back at PMC Gaming, new farming day has started :)<br>
+<b>2018-10-18T0609</b> back at PMC Gaming, new farming day has started <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0625 started fertilizing F09<br>
 0725 finished fertilizing F09<br>
 0829 finished plowing F11<br>
@@ -1728,7 +1728,7 @@ Decided to sell the wheat what I got from F11 and the accidentally planted F45, 
 1802 finished fertilizing F11<br>
 1825 finished harvesting F34<br>
 1830 finished seeding F44, and again forgot...<br>
-1834 took train with soybeans for sale, sold 4 x $720k + $46k, budget now $7.458m :)<br>
+1834 took train with soybeans for sale, sold 4 x $720k + $46k, budget now $7.458m <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1904 completed selling, wow takes a while to play this market finance game.
 </p>
 
@@ -1741,7 +1741,7 @@ What I mean is this is another kind of ... well not grind but like useless time 
 </p>
 
 <p>
-Anyways, seven and a half million dollars, that is a nice sum of money to go shopping with ;)
+Anyways, seven and a half million dollars, that is a nice sum of money to go shopping with <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1769,7 +1769,7 @@ When I'm playing with unlimited money its so easy to buy just fields that are ne
 </p>
 
 <p>
-At this time I was still trying to decide what to buy with my new money, damn decision making is hard ;)
+At this time I was still trying to decide what to buy with my new money, damn decision making is hard <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1822,7 +1822,7 @@ So yeah went crazy with that stuff, second truck with a dolly and trailer behind
 </p>
 
 <p>
-0910 back at PMC Gaming, starting up FS17, we are farming again :)<br>
+0910 back at PMC Gaming, starting up FS17, we are farming again <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0922 started seeding soybeans on F50<br>
 0955 started harvesting F09<br>
 1002 started plowing F33<br>
@@ -1853,7 +1853,7 @@ $1.242m
 </p>
 
 <p>
-Yeaah buddy! Big Bud time! :-)
+Yeaah buddy! Big Bud time! <img src="images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -1861,7 +1861,7 @@ Yeaah buddy! Big Bud time! :-)
 </p>
 
 <p>
-Man do I love Big Bud, that SPSL 9 plow which is 10.5m width just decimates those fields when you are used to these puny plows I've had in this savegame for many many real life days of playing. My plan is to get at least pair of Big Bud's working together, we'll see how manageable it is to have three or four, for those huge fields I'm sure its fine but medium or small sizes the huge vehicles just get into each others way I believe. But yeah ploughing anything over 50 hectares using few SPSL 9's pulled with Big Buds... oh my, that is sweet farming porno right there :)
+Man do I love Big Bud, that SPSL 9 plow which is 10.5m width just decimates those fields when you are used to these puny plows I've had in this savegame for many many real life days of playing. My plan is to get at least pair of Big Bud's working together, we'll see how manageable it is to have three or four, for those huge fields I'm sure its fine but medium or small sizes the huge vehicles just get into each others way I believe. But yeah ploughing anything over 50 hectares using few SPSL 9's pulled with Big Buds... oh my, that is sweet farming porno right there <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1876,7 +1876,7 @@ Man do I love Big Bud, that SPSL 9 plow which is 10.5m width just decimates thos
 1645 started harvesting F11<br>
 1704 finished fertilizing F09<br>
 1718 started harvesting F44<br>
-1754 started seeding soybeans on F09, first Big Bud Seed Hawk seeding :)<br>
+1754 started seeding soybeans on F09, first Big Bud Seed Hawk seeding <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1800 finished harvesting F44<br>
 1804 started harvesting F45<br>
 1841 finished seeding F09
@@ -1908,10 +1908,10 @@ With my 143k liters per train car edit that is how much the train holds now, or 
 <p>
 2235 started fertilizing F34<br>
 2240 started fertilizing F09<br>
-2249 noticed that soybeans price is already $4,400 and is increasing rapidly, whee! I'm like a kid in a candy store when I get that money! ;)<br>
+2249 noticed that soybeans price is already $4,400 and is increasing rapidly, whee! I'm like a kid in a candy store when I get that money! <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 2316 finished fertilizing F09<br>
 2337 started fertilizing F50<br>
-2354 finished fertilizing F34, but had to abort courseplay as the stupid sp.400fs were just circling around like dogs sniffing their butts :(<br>
+2354 finished fertilizing F34, but had to abort courseplay as the stupid sp.400fs were just circling around like dogs sniffing their butts <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"><br>
 2357 started fertilizing F44
 </p>
 
@@ -1931,7 +1931,7 @@ With my 143k liters per train car edit that is how much the train holds now, or 
 </p>
 
 <p>
-0830 back at PMC Gaming, back at farming, those fields won't buy themselves, lets get back to work :)<br>
+0830 back at PMC Gaming, back at farming, those fields won't buy themselves, lets get back to work <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0836 the market price for soybeans is $4,890 and rising, really exciting to see where it ends up<br>
 0844 started seeding soybeans on F11<br>
 0851 purchased 2x brent avalance 1596 for $236k
@@ -1966,7 +1966,7 @@ Didn't realize the last train cars which were some open ones had less capacity t
 </p>
 
 <p>
-Anyways, nice 8 million DOLLAH, that will get me some nice toys ;)
+Anyways, nice 8 million DOLLAH, that will get me some nice toys <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1999,11 +1999,11 @@ Was quite frantic harvest again as I was checking out the market prices for soyb
 
 <p>
 1640 had train loaded with 920k of soybeans, off to sell them.<br>
-1645 sold first car for $707k, then continued after price increased, 5x $707k and change $310k, budget now $12.781m :-)
+1645 sold first car for $707k, then continued after price increased, 5x $707k and change $310k, budget now $12.781m <img src="images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
-Oh wow over ten million DOLLAH in bank already, that is a nice amount of money. Hmm what should I buy, couple of fields and fleet of Big Buds? hehe ;)
+Oh wow over ten million DOLLAH in bank already, that is a nice amount of money. Hmm what should I buy, couple of fields and fleet of Big Buds? hehe <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2013,7 +2013,7 @@ Oh wow over ten million DOLLAH in bank already, that is a nice amount of money. 
 </p>
 
 <p>
-Rebooted FS17 and added Big Brute sprayer mod as I wanted to try it out for a long time and it would fit perfectly for this huge terrain and Big Bud madness. Then it was time to spend some money ;)
+Rebooted FS17 and added Big Brute sprayer mod as I wanted to try it out for a long time and it would fit perfectly for this huge terrain and Big Bud madness. Then it was time to spend some money <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2031,7 +2031,7 @@ $2.484m
 </p>
 
 <p>
-Budget now $218k :)
+Budget now $218k <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2041,7 +2041,7 @@ Budget now $218k :)
 </p>
 
 <p>
-Started Big Bud SPSL 9 three tool ploughing setup heh, nice ;)
+Started Big Bud SPSL 9 three tool ploughing setup heh, nice <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2059,7 +2059,7 @@ Hmm I noticed that as the terrain was a bit elevated, the SPSL 9 plow made a lit
 
 <p>
 2107 plow fix for F50 done<br>
-2107 started fertilizing F50, testing new Big Bud Brute 425/100 ;)<br>
+2107 started fertilizing F50, testing new Big Bud Brute 425/100 <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 2122 started plowing F35
 </p>
 
@@ -2091,7 +2091,7 @@ That performance loss is really a bad thing, I mean when you've gotten used to 6
 </p>
 
 <p>
-It was odd as it started to rain in-game and visibility was very poor, heh kind of reflected on my mood ;)
+It was odd as it started to rain in-game and visibility was very poor, heh kind of reflected on my mood <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2103,7 +2103,7 @@ So I spent rest of the evening of watching TV and catching up rss news / discord
 </p>
 
 <p>
-<b>2018-10-21T1107</b> back at PMC Gaming, starting up FS17, farming continues if we just can get through that low visibility rain :)<br>
+<b>2018-10-21T1107</b> back at PMC Gaming, starting up FS17, farming continues if we just can get through that low visibility rain <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1245 started harvesting F33<br>
 1305 started harvesting F10<br>
 1323 finished harvesting F10<br>
@@ -2147,7 +2147,7 @@ And with finishing up this harvest I didn't feel like playing at the moment, jus
 </p>
 
 <p>
-<b>2018-10-22T1042</b> back at PMC Gaming, time for some FS17 farming action :)<br>
+<b>2018-10-22T1042</b> back at PMC Gaming, time for some FS17 farming action <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1111 finished fertilizing F35<br>
 1114 started fertilizing F09<br>
 1119 started fertilizing F33<br>
@@ -2196,7 +2196,7 @@ Took a train full of soybeans to maplefield mills to be ready for sell once pric
 </p>
 
 <p>
-Got everything planted, only F34 is on growth stage two, if you recall I set the options plant growth rate to slow so now it will take a while for stuff to grow. Sometimes this is a problem that you don't have anything to do but wait well mostly this was a problem early in the savegame, but now it is really nice breather in the far when you just wait, relax and chill while the crops grow :)
+Got everything planted, only F34 is on growth stage two, if you recall I set the options plant growth rate to slow so now it will take a while for stuff to grow. Sometimes this is a problem that you don't have anything to do but wait well mostly this was a problem early in the savegame, but now it is really nice breather in the far when you just wait, relax and chill while the crops grow <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2322,7 +2322,7 @@ I didn't want to use courseplay to generate field work course for the whole fiel
 </p>
 
 <p>
-This placeable is nice, but it only holds 300k liters which I consider to be low amount, of course you can place more of these but heh yep dunno. On the other hand I don't know how much potatoes pigs eat so maybe one storage full lasts for years in-game time who knows heh, maybe I'll find out in this savegame :)
+This placeable is nice, but it only holds 300k liters which I consider to be low amount, of course you can place more of these but heh yep dunno. On the other hand I don't know how much potatoes pigs eat so maybe one storage full lasts for years in-game time who knows heh, maybe I'll find out in this savegame <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2339,7 +2339,7 @@ Only thing I'm wondering is do I have to go sell another truck load of soybeans 
 </p>
 
 <p>
-Whee I got another root crops placeable to store more potatoes :)
+Whee I got another root crops placeable to store more potatoes <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2359,7 +2359,7 @@ Was harvesting potatoes and watching MN Millennial Farmer from youtube, kind of 
 </p>
 
 <p>
-So at this point I had 600k liters of potatoes in placeables, had sold many truck loads already and the field wasnt even half way harvested yet :)
+So at this point I had 600k liters of potatoes in placeables, had sold many truck loads already and the field wasnt even half way harvested yet <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2393,7 +2393,7 @@ Managed to put together working courseplay course for selling the potatoes, now 
 <p>
 2154 F51 was harvested about 40-45% almost half, heh all this time and only a half done hehe huge or slow task<br>
 2300 took semi-tipper 140k liter load of potatoes to gunther sell point for $68k + $66k, budget now $1.294m<br>
-2320 soybeans market price started to increase, YES! I'm like a kid in a candy store hehe, now lets see how high it goes this time, crossing fingers! :)
+2320 soybeans market price started to increase, YES! I'm like a kid in a candy store hehe, now lets see how high it goes this time, crossing fingers! <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2445,7 +2445,7 @@ What that means is when the price stops increasing and hopefully its above $5k I
 </p>
 
 <p>
-If I manage to pull this off... like said I'm scared to even think how many millions I end up with heh. Exciting times :)
+If I manage to pull this off... like said I'm scared to even think how many millions I end up with heh. Exciting times <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2465,11 +2465,11 @@ I'm little bit worried that the price has again stalled to this same 4.6k level,
 </p>
 
 <p>
-Damn shame I wished over $5k... damn damn damn :(
+Damn shame I wished over $5k... damn damn damn <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-Well also I have 2.9 million liters of soybeans in farm silo and I haven't even started harvesting F50, oh my that is some serious load of crops ;)
+Well also I have 2.9 million liters of soybeans in farm silo and I haven't even started harvesting F50, oh my that is some serious load of crops <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2481,7 +2481,7 @@ It is time...
 </p>
 
 <p>
-1745 started to sell "money train" soybeans contents, sold first car for $672k, damn so low money :(<br>
+1745 started to sell "money train" soybeans contents, sold first car for $672k, damn so low money <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"><br>
 1750 started harvesting F44<br>
 1752 finished harvesting F45<br>
 1753 sold soybeans train car for $672k<br>
@@ -2535,11 +2535,11 @@ F50 harvesting went to totally ridiculous, harvesters started to finish their ta
 2110 sold soybeans train car for $672k, this was the last grain car that is closed<br>
 2118 sold soybeans train car for $564k<br>
 2126 sold soybeans train car for $564k<br>
-2132 sold soybeans train car for $564k, budget now $16.963m :)
+2132 sold soybeans train car for $564k, budget now $16.963m <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-When I was done selling second train load of soybeans for $4,700 market price, I again raced back to farm silo to load a third train load because I have 1.7 million liters left heh, lets see and make some money! ;)
+When I was done selling second train load of soybeans for $4,700 market price, I again raced back to farm silo to load a third train load because I have 1.7 million liters left heh, lets see and make some money! <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2558,7 +2558,7 @@ When I was done selling second train load of soybeans for $4,700 market price, I
 2303 finished fertilizing F50<br>
 2309 sold soybeans train car for $564k<br>
 2318 sold soybeans train car for $564k<br>
-2324 sold soybeans train car for $564k, budget now $24.705m MUHAHAH! :-)<br>
+2324 sold soybeans train car for $564k, budget now $24.705m MUHAHAH! <img src="images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy"><br>
 2333 finished seeding F33
 </p>
 
@@ -2571,7 +2571,7 @@ When I was done selling second train load of soybeans for $4,700 market price, I
 </p>
 
 <p>
-Upgraded my truck fleet, now I have two semi-tipper double trailers for both "harvesting teams" to haul that grain, should not be a bottle neck anymore. Now the problem is, where do I park these monsters... ;)
+Upgraded my truck fleet, now I have two semi-tipper double trailers for both "harvesting teams" to haul that grain, should not be a bottle neck anymore. Now the problem is, where do I park these monsters... <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2627,7 +2627,7 @@ Seems like the days of purchasing seeds are over as the factory produces so high
 1730 finished fertilizing F10<br>
 1734 finished fertilizing F33<br>
 1738 started fertilizing F35<br>
-1753 checked factories; seed 140k liters, fertilizer 67k liters, fuel 114k liters and compost 21k liters, nice :)<br>
+1753 checked factories; seed 140k liters, fertilizer 67k liters, fuel 114k liters and compost 21k liters, nice <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1803 started seeding soybeans on F11<br>
 1911 finished fertilizing F35<br>
 1924 finished seeding F11<br>
@@ -2680,7 +2680,7 @@ Tried out the new bredal 20k liter spreader trailer, it was odd, courseplay comp
 
 <p>
 ? finished fertilizing F49<br>
-0125 started harvesting F34, harvesting now with 4 combines ;)<br>
+0125 started harvesting F34, harvesting now with 4 combines <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 0131 started plowing F49, plowing now with 4 big bud 757's and SPSL 9's hehe<br>
 0205 finished plowing F49<br>
 0219 started fertilizing F49
@@ -2715,7 +2715,7 @@ Then I used new holland bigbaler to make bales out of the straw
 </p>
 
 <p>
-1847 back at PMC Gaming, starting up FS17, farming continues :)<br>
+1847 back at PMC Gaming, starting up FS17, farming continues <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1905 purchased man tgs 18.480 with trailer hitch for $167.3k and tech tanker multi tank with trailer hitch and wide tires (us) for $57.6k, budget now $2.746m<br>
 1908 purchased dolly ea for $9.2k and semi-tipper 70000/6 with wide tires for $69.6k, budget now $2.668m
 </p>
@@ -2766,7 +2766,7 @@ First time in a long time that I used cultivators in a larger scale, it might be
 </p>
 
 <p>
-After a meal and watching some welker farm youtube videos, somehow I felt... not ready to continue with F33, F35 and F50 harvests because I expected to get tired soon, had that semi tired / exhausted feeling. Hmm and only been playing 13hrs straight, thats nothing, I should have at least 3-4hrs more hours left in me ;)
+After a meal and watching some welker farm youtube videos, somehow I felt... not ready to continue with F33, F35 and F50 harvests because I expected to get tired soon, had that semi tired / exhausted feeling. Hmm and only been playing 13hrs straight, thats nothing, I should have at least 3-4hrs more hours left in me <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2778,7 +2778,7 @@ Oh and also I was hesitant to start harvests as weather indicator shows rain, od
 </p>
 
 <p>
-1743 back at PMC Gaming, starting up FS17, we have three big harvest to do :)<br>
+1743 back at PMC Gaming, starting up FS17, we have three big harvest to do <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1805 started harvesting F33<br>
 1815 started harvesting F50<br>
 1851 well now it started to rain, all harvesters stopped. I guess we wait for clear weather then...
@@ -2854,7 +2854,7 @@ Started to feel a bit not really exhausted but and I hate to use this word but, 
 </p>
 
 <p>
-0210 finished harvesting F51 potatoes, uuh what an ordeal... no more, never again! haha ;)
+0210 finished harvesting F51 potatoes, uuh what an ordeal... no more, never again! haha <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2873,7 +2873,7 @@ If I only feed the potatoes to my pigs (which I purchase soon), it will last me 
 </p>
 
 <p>
-I was ploughing F15 which was in the corner of wide open landscape without anything on the horizon and I realized how good I felt to break into this north west section of this terrain which has large square fields, I think I'm going to like farming here :)
+I was ploughing F15 which was in the corner of wide open landscape without anything on the horizon and I realized how good I felt to break into this north west section of this terrain which has large square fields, I think I'm going to like farming here <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2968,7 +2968,7 @@ After the next crops sale I'm going to upgrade those steyr multi 4115's with KUH
 0433 finished fertilizing F49<br>
 0437 started baling straw F48<br>
 0625 started harvesting F47<br>
-0726 shut down FS17, wasn't really tired but felt just exhausted of playing and wanted to try out Elite Dangerous Chapter 4 beta ;)
+0726 shut down FS17, wasn't really tired but felt just exhausted of playing and wanted to try out Elite Dangerous Chapter 4 beta <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3053,11 +3053,11 @@ Just finishing fertilizing F11 with the old shop refill system using only two st
 </p>
 
 <p>
-Anyways been very nice day today, been playing almost sixteen hours now heh, very nice day indeed :)
+Anyways been very nice day today, been playing almost sixteen hours now heh, very nice day indeed <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-1128hrs dropped to NEGATIVE budget hehe. Its now -$23k, wow how did that happen? ;)
+1128hrs dropped to NEGATIVE budget hehe. Its now -$23k, wow how did that happen? <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3066,7 +3066,7 @@ Alright lets bring the budget now above one million and then keep it there. Seem
 
 <p>
 1329 finished fertilizing F11<br>
-1348 shut down FS17 as I started to get tired after playing for 18hrs straight :)
+1348 shut down FS17 as I started to get tired after playing for 18hrs straight <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3253,7 +3253,7 @@ I will continue this savegame, unless farming simulator 19 which is to be releas
 </p>
 
 <p>
-This decision was few days in the making, I was first planning on oct 6th to nov 6th as one month even, but actually its been four weeks today ie one month so this decision today came quite quickly as I was expecting to have few more days to play. Sort of sudden feeling that uh oh am I <i>really</i> ready to let go Cornbelt from scratch so quickly hehe. But nah, its good to stop now. And hey I still have a long day ahead of me, so lets keep farming until the cows come home (or something) ;)
+This decision was few days in the making, I was first planning on oct 6th to nov 6th as one month even, but actually its been four weeks today ie one month so this decision today came quite quickly as I was expecting to have few more days to play. Sort of sudden feeling that uh oh am I <i>really</i> ready to let go Cornbelt from scratch so quickly hehe. But nah, its good to stop now. And hey I still have a long day ahead of me, so lets keep farming until the cows come home (or something) <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3294,7 +3294,7 @@ One thing I am afraid is that it might be so good money that my soybeans profits
 </p>
 
 <p>
-FERTILIZER GANGSTER HAS BEEN BORN! :-D
+FERTILIZER GANGSTER HAS BEEN BORN! <img src="images/smileys/icon_cool.gif" alt="Smiley :cool:" loading="lazy">
 </p>
 
 <p>
@@ -3302,8 +3302,8 @@ FERTILIZER GANGSTER HAS BEEN BORN! :-D
 1051 finished harvesting F10<br>
 1053 started harvesting F09<br>
 1103 sold 70k fertilizer for $843k<br>
-1115 sold 70k fertilizer for $843k, budget now $10.012m :)<br>
-1115 started harvesting F45, but this was manual work because mistake of seeding TWO crops into same field with different seeders :(<br>
+1115 sold 70k fertilizer for $843k, budget now $10.012m <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
+1115 started harvesting F45, but this was manual work because mistake of seeding TWO crops into same field with different seeders <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"><br>
 1153 finished harvesting F09<br>
 1156 started harvesting F11<br>
 1204 sold 70k fertilizer for $843k, budget now $11.699m<br>
@@ -3318,7 +3318,7 @@ FERTILIZER GANGSTER HAS BEEN BORN! :-D
 1652 sold 70k fertilizer for $843k<br>
 1708 sold 70k fertilizer for $843k, budget now $20.822m<br>
 1847 finished harvesting F45<br>
-1855 shut down FS17 after ONE MONTH of playing all day every day :-)
+1855 shut down FS17 after ONE MONTH of playing all day every day <img src="images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -3326,7 +3326,7 @@ Took a few days break to play some <a href="https://www.elitedangerous.net" targ
 </p>
 
 <p>
-<b>2018-11-17T1920</b> fired up FS17 after playing only elite dangerous. lets do some farming, lets buy the next field. hopefully I'll be farming now until farming simulator 19 is released on next tuesday :)<br>
+<b>2018-11-17T1920</b> fired up FS17 after playing only elite dangerous. lets do some farming, lets buy the next field. hopefully I'll be farming now until farming simulator 19 is released on next tuesday <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1937 canola was on high demand, so took train to sell, sold $600k and $181k, budget now $21.603m<br>
 1945 started harvesting F44<br>
 2105 finished harvesting F44<br>
@@ -3335,7 +3335,7 @@ Took a few days break to play some <a href="https://www.elitedangerous.net" targ
 </p>
 
 <p>
-Damn its feels good to be back farming ;)
+Damn its feels good to be back farming <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3366,11 +3366,11 @@ Grain transport will unload into north west railroad silo, this silo as I unders
 0458 started harvesting F46<br>
 0630 finished harvesting F48<br>
 0641 finished harvesting F46<br>
-0645 had to call it a night, dead tired already. Was a good comeback to cornbelt from scratch after several days. More to follow tomorrow :)
+0645 had to call it a night, dead tired already. Was a good comeback to cornbelt from scratch after several days. More to follow tomorrow <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-1427 back at PMC Gaming, starting up FS17, lets get some farming done :)<br>
+1427 back at PMC Gaming, starting up FS17, lets get some farming done <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1455 started harvesting F34<br>
 1710 finished harvesting F34<br>
 1713 started harvesting F35<br>
@@ -3418,13 +3418,13 @@ Obviously buying big bud setup next to a every two or so fields is overkill, but
 </p>
 
 <p>
-0547 purchased F02 for $3.836m, F03 for $4.441m, F06 for $7.515m, F07 for $6.005m and F32 for $5.775m, total $27.572m, budget now $4.401m ;)<br>
+0547 purchased F02 for $3.836m, F03 for $4.441m, F06 for $7.515m, F07 for $6.005m and F32 for $5.775m, total $27.572m, budget now $4.401m <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 0613 started fertilizing F08<br>
 0629 purchased lizard tx 415 barrelcore for $175k, 2x semi-tipper 70000/6 for $70k and dolly ea for $9k, budget now $4.074m
 </p>
 
 <p>
-This tx 415 barrelcore truck is painted white, its my COCAINA truck to haul fertilizer from the SW silo to gunther sell point for that big DOLLAH ;)
+This tx 415 barrelcore truck is painted white, its my COCAINA truck to haul fertilizer from the SW silo to gunther sell point for that big DOLLAH <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3446,14 +3446,14 @@ Could not fertilize F07 as it was bought from the AI owner as-is in some weird s
 </p>
 
 <p>
-1133 was dead tired and went to sleep, my sleeping schedule is really bad now with two 4hrs "nights", hopefully I can restore it with FS19 release ;)
+1133 was dead tired and went to sleep, my sleeping schedule is really bad now with two 4hrs "nights", hopefully I can restore it with FS19 release <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-1724 back at PMC Gaming, fired up FS17, lets continue farming :)<br>
+1724 back at PMC Gaming, fired up FS17, lets continue farming <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1731 started plowing F07<br>
 1737 started fertilizing F06<br>
-1740 fertilizer market price broke 10k barrier, its now $10,040. cant wait to start running my cocaina white truck money train into gunther ;)<br>
+1740 fertilizer market price broke 10k barrier, its now $10,040. cant wait to start running my cocaina white truck money train into gunther <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 1808 started fertilizing F34<br>
 1855 finished fertilizing F06<br>
 1913 started fertilizing F15<br>
@@ -3483,13 +3483,13 @@ Had to bring another truck to help as the one is way too little, I had over 1 mi
 </p>
 
 <p>
-<b>2018-11-20T0100 Farming Simulator 19 released! :-)</b><br>
+<b>2018-11-20T0100 Farming Simulator 19 released! <img src="images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy"></b><br>
 0110 fertilizer sold trailer for 2x $816k, budget now $8.887m<br>
 0111 finished plowing F06
 </p>
 
 <p>
-Selling that truck load of fertilizer concluded this play session as Farming Simulator 19 had been downloaded, I'm going to start install and play that now. Remains to be seen if this log entry was the last for this savegame and who knows, maybe for FS17 all together... ;)
+Selling that truck load of fertilizer concluded this play session as Farming Simulator 19 had been downloaded, I'm going to start install and play that now. Remains to be seen if this log entry was the last for this savegame and who knows, maybe for FS17 all together... <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 </section>

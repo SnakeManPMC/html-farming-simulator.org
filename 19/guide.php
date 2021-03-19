@@ -275,7 +275,7 @@ The downside of slurry spreader is that there are no narrow tire options, it wil
 	<h2>Purchasing Fields With Crops</h2>
 
 <p>
-Actually this should be "purchasing LAND with fields which have crops" :)
+Actually this should be "purchasing LAND with fields which have crops" <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

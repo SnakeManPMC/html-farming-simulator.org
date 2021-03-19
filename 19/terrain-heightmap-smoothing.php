@@ -23,11 +23,11 @@
 <section>
 <h2>OBSOLETE Page</h2>
 <p>
-This page is <b>OBSOLETE</b>, nothing to see here ;)
+This page is <b>OBSOLETE</b>, nothing to see here <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-See <a href="terrain-heightmap.php">heightmap</a> page for information about heightmaps.
+See <a href="terrain-heightmap.php">heightmap</a> page for information about heightmaps and <a href="terrain-heightscale.php">heightScale</a> for why smoothing is now obsolete.
 </p>
 
 </section>

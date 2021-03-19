@@ -75,7 +75,7 @@ You should't edit default game maps (goldcrest valley and sosnovka) obviously as
 </p>
 
 <p>
-Something called "SampleMap" is good place to start for your initial map files. When googling there are several samplemap packages floating around, all from different devs and tastes, no idea which one is proper. Welcome to FS17 modding community :)
+Something called "SampleMap" is good place to start for your initial map files. When googling there are several samplemap packages floating around, all from different devs and tastes, no idea which one is proper. Welcome to FS17 modding community <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -347,7 +347,7 @@ To enlarge the map further you could increase the "unitsPerPixel" attribute of t
 </p>
 
 <p>
-unitsPerPixel has value of two by default. Edit the map with a texteditor and set it to 3 or 4, save it and open the Map in the GIANTS Editor. The world will be larger :)
+unitsPerPixel has value of two by default. Edit the map with a texteditor and set it to 3 or 4, save it and open the Map in the GIANTS Editor. The world will be larger <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -419,7 +419,7 @@ From main menu create -> navigation mesh, click shape build mask three dots (ope
 </p>
 
 <p>
-Repeat the same for 1, 2 and 3 channels as well to finish all the animal navmeshes :)
+Repeat the same for 1, 2 and 3 channels as well to finish all the animal navmeshes <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -481,7 +481,7 @@ Courseplay generates routes for 1008 hectare fields. Note: it takes several seco
 </p>
 
 <p>
-Also purchasing huge fields seem to freeze the game, this is reproduceable on PMC 16384 terrain with the 1475 hectare field number 30. However this might have been some bug in the field too ;)
+Also purchasing huge fields seem to freeze the game, this is reproduceable on PMC 16384 terrain with the 1475 hectare field number 30. However this might have been some bug in the field too <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 	<h2>Goldcrest Valley GRLE and GDM Resolutions</h2>

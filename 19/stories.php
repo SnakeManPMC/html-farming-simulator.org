@@ -24,7 +24,7 @@
 	<h2>Stories Background</h2>
 
 <p>
-Back in Farming Simulator 17 I started to write down what kind of careers I played or the details on those careers, sort of to leave a ever lasting memory in writing of what I did. Kind of like I spent all this time playing this game, I mean just absolutely insane amount of hours put to farming, it would be great to have some sort of record of these. Youtube videos and twitch live streams are OK but the live streams disappear over time and even with youtube videos you can't really "hammer down" the date and time (difficult to explain) of when it happened. So I started to scribble down some notes to a text file and that is how these Farming Stories were born :)
+Back in Farming Simulator 17 I started to write down what kind of careers I played or the details on those careers, sort of to leave a ever lasting memory in writing of what I did. Kind of like I spent all this time playing this game, I mean just absolutely insane amount of hours put to farming, it would be great to have some sort of record of these. Youtube videos and twitch live streams are OK but the live streams disappear over time and even with youtube videos you can't really "hammer down" the date and time (difficult to explain) of when it happened. So I started to scribble down some notes to a text file and that is how these Farming Stories were born <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

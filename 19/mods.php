@@ -598,7 +598,7 @@ v1.0 by Kerbo. From modDesc: Farming Simulator 19 - Fast Forward 6K (Left Ctrl +
 </p>
 
 <p>
-Works as advertised, hit CTRL-R and you speed up to 6000x time accelleration, whoosh! ;)
+Works as advertised, hit CTRL-R and you speed up to 6000x time accelleration, whoosh! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -659,7 +659,7 @@ Required mods: <a href="https://cdn16.giants-software.com/modHub/storage/0012041
 </p>
 
 <p>
-2019-02-21 tested and works OK. No idea what this forage thing is, have not done it in FS17 or FS19, yet ;)
+2019-02-21 tested and works OK. No idea what this forage thing is, have not done it in FS17 or FS19, yet <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>

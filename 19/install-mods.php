@@ -89,7 +89,7 @@ In this screenshot you see Precision Farming DLC mod having upgrade available (b
 <a href="images/FS19-Giants-ModHub-2021-01-04T192501.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/FS19-Giants-ModHub-2021-01-04T192501.jpg" alt="Farming Simulator 19 - Giants ModHub" loading="lazy"></a>
 
 <p>
-Many players are interested of the "LATEST MODS!!1" ;)
+Many players are interested of the "LATEST MODS!!1" <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -143,7 +143,7 @@ In this Mods/DLC selection screen you can see john deere DB60 planter mod is NOT
 	<h2>Downloading Mods Normally</h2>
 
 <p>
-Use your web browser to find a good FS19 mods website and download mods from there normally. Not sure what tutorial we can write about using world wide web ;)
+Use your web browser to find a good FS19 mods website and download mods from there normally. Not sure what tutorial we can write about using world wide web <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
