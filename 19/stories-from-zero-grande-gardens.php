@@ -29,7 +29,7 @@ Please read the background idea for <a href="stories.php">our farm sim stories</
 </p>
 
 <p>
-<b>2019-07-15T1910</b> Started <a href="pmc-grande-gardens-16km.php">PMC Grande Gardens 16km</a> New Farmer game-mode and saved career. Then edited savegame for PMC Start From Zero mode :)
+<b>2019-07-15T1910</b> Started <a href="pmc-grande-gardens-16km.php">PMC Grande Gardens 16km</a> New Farmer game-mode and saved career. Then edited savegame for PMC Start From Zero mode <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -50,7 +50,7 @@ So right off the bat I decided to time accelerate some and wait for better contr
 </p>
 
 <p>
-Yep after quick consideration decided to take this contract as there was so many lucrative fertilizing contracts available, that if I miss this opportunity I might have to sit in time acceleration for days until the next batch of fert contracts appear. Lets hope this was not a big mistake to do potato harvest :)
+Yep after quick consideration decided to take this contract as there was so many lucrative fertilizing contracts available, that if I miss this opportunity I might have to sit in time acceleration for days until the next batch of fert contracts appear. Lets hope this was not a big mistake to do potato harvest <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -93,11 +93,11 @@ Doing this potato harvest was even more worse because the tractor kept steering 
 <p>
 0033 Finished harvesting potatoes F89, contract. This happened while I was dumping the potatoes to selling point 7, got 5.2k to my own pocket too. I decided to suffer some more driving boredom and go harvest the little thats left on the field and come one more time to selling point 7 to sell them, I bet it gets me another fertilizer pallet from the vehicle shop.<br>
 0050 Finished the actual harvest of the field, now we just haul the last load of 11.7k liters of potatoes to selling point 7.<br>
-0105 Collected F89 potato contract reward 23.1k. Budget now 37.2k :)
+0105 Collected F89 potato contract reward 23.1k. Budget now 37.2k <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Now I had enough money to lease rubicon 9000 sprayer and few thousands left over to buy fertilizer, but the problem is that I still missed the fertilizing contract window as there are only two of them left now, both are massive 560ha field contracts for million each, I don't have enough money to buy that much fertilizer to get the job done, ouch :(
+Now I had enough money to lease rubicon 9000 sprayer and few thousands left over to buy fertilizer, but the problem is that I still missed the fertilizing contract window as there are only two of them left now, both are massive 560ha field contracts for million each, I don't have enough money to buy that much fertilizer to get the job done, ouch <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -126,7 +126,7 @@ Continued to time accelerate and doing other stuff on the background while waiti
 </p>
 
 <p>
-My first herbicide contract was done with no GPS or courseplay, like it should be :) I then drove the rubicon 9000 back to the shop and unloaded the remaining 4 or so thousand liters of herbicide to pallets so I can use it later.
+My first herbicide contract was done with no GPS or courseplay, like it should be <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"> I then drove the rubicon 9000 back to the shop and unloaded the remaining 4 or so thousand liters of herbicide to pallets so I can use it later.
 </p>
 
 <p>
@@ -139,7 +139,7 @@ I was looking at the many cultivating contracts which would easily pass the time
 
 <p>
 1550 At in-game time 1146hrs, no idea how many days this is now, it started to rain. Weather overall has been very nice overcast which looks interesting instead of the empty sunny sky. Still no fertilizing contracts, I'm still waiting with time acceleration...<br>
-1620 First fertilizing contract appeared, whohoo! :)<br>
+1620 First fertilizing contract appeared, whohoo! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1621 Accepted contract for fertilizing F68<br>
 1622 Leased rubicon 9000 with guidance steering for 25.7k
 </p>
@@ -172,7 +172,7 @@ No fertilizing or spraying contracts, I got leased vehicle, hmm wonder if I star
 </p>
 
 <p>
-I drove rubicon 9000 back to the vehicle shop and while doing that was thinking that okay lets lease truck and low boy because this driving around is just huge waste of time, it takes a really long time to drive half across the terrain in this 16km beast :)
+I drove rubicon 9000 back to the vehicle shop and while doing that was thinking that okay lets lease truck and low boy because this driving around is just huge waste of time, it takes a really long time to drive half across the terrain in this 16km beast <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -313,7 +313,7 @@ Decided that what the heck this career is pretty bad as it is so lets do somethi
 1722 Accepted contract for harvesting F52<br>
 1730 Accepted contract for harvesting F55<br>
 1740 Finished cultivating F28, contract, collected contract reward 55.1k. Budget now 343.3k<br>
-1743 Started harvesting canola F55, contract. Courseplay duration <b>27 HOURS 22min !</b> :-)<br>
+1743 Started harvesting canola F55, contract. Courseplay duration <b>27 HOURS 22min !</b> <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy"><br>
 1744 Started harvesting barley F52, contract. Courseplay duration <b>19 HOURS 1min !</b><br>
 1948 Accepted contract for cultivating F54<br>
 1959 Started cultivating F54, contract. Courseplay duration 11h 15min.
@@ -407,7 +407,7 @@ Because of the lack of fertilizing contracts and me wasting so much time trying 
 
 <p>
 1621 Purchased land lot with 284.1k, leased trailer 3.9k, truck 6k, combine 20.4k, header 4.1k<br>
-1651 Started harvesting exploit canola F34 :)<br>
+1651 Started harvesting exploit canola F34 <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1725 Finished cultivating F54, contract, collected contract reward 114.8k. Budget now 485.8k
 </p>
 
@@ -426,7 +426,7 @@ When the time came to sell first canola load from F34 the market price in sellin
 </p>
 
 <p>
-So finally managed to buy my very own first vehicle, got the low boy to carry that beast rubicon to the lucrative fertilizing contracts. All I need now is the tanker trailer so I can haul some fertilizer as well. That have to wait until few contracts have been done, or well, looking at the rewards... just one :)
+So finally managed to buy my very own first vehicle, got the low boy to carry that beast rubicon to the lucrative fertilizing contracts. All I need now is the tanker trailer so I can haul some fertilizer as well. That have to wait until few contracts have been done, or well, looking at the rewards... just one <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -455,7 +455,7 @@ Feeling good now that this career has taken off that there are no more time acce
 0116 Sold canola for 96.8k<br>
 0120 Purchased FST 990 fuel trailer for 8.5k and fuel tank for 5.9k.<br>
 0158 Purchased pickup truck for 30k, returned leased mahindra retriever limited edition.<br>
-0223 Finished harvesting exploit canola F34 ;)<br>
+0223 Finished harvesting exploit canola F34 <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 0226 Sold back the land flipping land, budget now 646k.<br>
 0232 Purchased liquid fertilizer tank for 8.5k<br>
 0236 Sold canola for 99.1k
@@ -466,12 +466,12 @@ So the total exploit from the land flipping purchase and canola harvest was 721.
 </p>
 
 <p>
-I was considering keeping the leased vehicles but sort of wanted to get rid of the exploit evidence and returned those right away hehe :)
+I was considering keeping the leased vehicles but sort of wanted to get rid of the exploit evidence and returned those right away hehe <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
 0241 Returned leased harvest equipment.<br>
-0317 Finished fertilizing F76, contract, collected contract reward 613.8k. Budget now 1.286m, I'm a millionaire, yeah buddy! :)<br>
+0317 Finished fertilizing F76, contract, collected contract reward 613.8k. Budget now 1.286m, I'm a millionaire, yeah buddy! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0348 Joined to fertilize F71 with the first rubicon. Driving myself with GPS.<br>
 0353 Finished fertilizing F71, contract, collected contract reward 479k. Budget now 1.765m<br>
 0414 Started fertilizing F07, contract. Courseplay duration 1h 35min for TWO rubicon 9000s.<br>
@@ -491,7 +491,7 @@ When I checked contracts menu first time today, three of my spraying contracts w
 </p>
 
 <p>
-I have suffered so much with the non existant fertilizing contracts that while this money I got now (like close to half a million) is due to some sort of a bug, I will not refuse the money because I didn't cheat anything, if the game contract system wants to give me money from the contracts without me even starting them, hey I'll thank kindly and move on hehe ;)
+I have suffered so much with the non existant fertilizing contracts that while this money I got now (like close to half a million) is due to some sort of a bug, I will not refuse the money because I didn't cheat anything, if the game contract system wants to give me money from the contracts without me even starting them, hey I'll thank kindly and move on hehe <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -526,7 +526,7 @@ I decided to try another unusual thing, unplanned rather, I leased another truck
 </p>
 
 <p>
-F55 was getting done nicely, then the 3d world green display indicator on top right corner of the screen shows 100 percent complete after which I started to receive the cash... BUT the contracts menu still shows like 95 percent done and increasing on every load dump, heh odd, but I'll take the money :)
+F55 was getting done nicely, then the 3d world green display indicator on top right corner of the screen shows 100 percent complete after which I started to receive the cash... BUT the contracts menu still shows like 95 percent done and increasing on every load dump, heh odd, but I'll take the money <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -553,7 +553,7 @@ Drove all the vehicles to F52 north west corner, plan is to use them and get thi
 </p>
 
 <p>
-Jackpot! :-)
+Jackpot! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -646,14 +646,14 @@ Got another 100k fertilizing contract but I didn't take it yet, as with F53 I su
 <b>2019-07-21T0007</b> Game locked up again, damn, what is going on here...<br>
 0027 Savegame loaded back up, actually took one just less than a minute before the freeze so that was good. Reverted to yesterdays courseplay version, no indication that these freezes are caused by it but just had a hunch gut feeling so decided to give it a try.<br>
 0037 With this game start and savegame load the 849.3k spraying contract was rewarded to me. Yep, another bug and exploit discovered.<br>
-0153 Harvesting F52 contract was done, now its time to sell the grain to my own pocked in best market price :)<br>
+0153 Harvesting F52 contract was done, now its time to sell the grain to my own pocked in best market price <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0207 Sold barley in selling point 7 for 73.7k<br>
 0217 Two truck loads went to selling point 7 and I didn't even notice the stupid small green right corner notification text hehe, budget now 5.883m<br>
 0223 Sold barley in selling point 7 for 73.7k<br>
 0234 Sold barley in selling point 7 for 73.7k<br>
 0240 Finished harvesting barley F52, contract.<br>
 0243 Sold barley in selling point 7 for 73.7k<br>
-0246 Barley harvest on F52 collected contract reward 353.4k. Canola harvest on F55 collected contract reward 548.7k. Budget now 6.984m :)<br>
+0246 Barley harvest on F52 collected contract reward 353.4k. Canola harvest on F55 collected contract reward 548.7k. Budget now 6.984m <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 </p>
 
 <p>
@@ -688,11 +688,11 @@ But we cant forget the endless darkness madness that was in the early days when 
 2229 Purchased header 13.7m macdon FD75 for 82k<br>
 2253 Purchased trailer full of manure for 2.5k to be used in production.<br>
 2337 Purchased lizard mks 32 tanker trailer for 68k<br>
-2356 Refilled 32k liters of water for free, then loaded liquid fertilizer production factory :)
+2356 Refilled 32k liters of water for free, then loaded liquid fertilizer production factory <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-<b>2019-07-22T0009</b> Filled lime production factory with water :)<br>
+<b>2019-07-22T0009</b> Filled lime production factory with water <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 </p>
 
 <p>
@@ -739,7 +739,7 @@ Combine harvester and truck trailer was already bought for the upcoming harvest,
 </p>
 
 <p>
-Now that fertilizer and lime factories are humming, I wonder how long it will take to expend all that product to my fields, I mean one million liters is respectable amount of stuff :)
+Now that fertilizer and lime factories are humming, I wonder how long it will take to expend all that product to my fields, I mean one million liters is respectable amount of stuff <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -747,7 +747,7 @@ Not that I have much fields yet but eventually when the farm grows as more hecta
 </p>
 
 <p>
-0830 At in-game time 0416hrs F39 became harvest ready, time to cut that soybeans off my first own field :)<br>
+0830 At in-game time 0416hrs F39 became harvest ready, time to cut that soybeans off my first own field <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0832 Started harvesting soybeans F39<br>
 0933 So tired had to call it a night, more farming tomorrow.
 </p>
@@ -767,7 +767,7 @@ This Start From Zero had a rocky start, then some guestionable business practice
 </p>
 
 <p>
-Well true but also I have no desire to do some crazy 6 hrs harvesting session with that bizon tiny 2m header harvester either. I just cant seem to be satisfied no matter what I do; get the best vehicles right away and its too easy, have to use starter kit and its too hard haha ;)
+Well true but also I have no desire to do some crazy 6 hrs harvesting session with that bizon tiny 2m header harvester either. I just cant seem to be satisfied no matter what I do; get the best vehicles right away and its too easy, have to use starter kit and its too hard haha <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -791,7 +791,7 @@ I'm thinking of just looking for closest canola or soybean field not necessarily
 </p>
 
 <p>
-0123 Finished harvesting soybeans F39, aayeah my first very own field! :)<br>
+0123 Finished harvesting soybeans F39, aayeah my first very own field! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0133 All the grain dumped into farm bin silo, total amount 1.107.419 liters from F39, I believe it was fully fertilized and no lime/plow requirements.<br>
 0147 Started fertilizing F39, courseplay duration 1h 19min<br>
 0153 Purchased land lot which has F38 for 756.4k, budget now 850.1k<br>
@@ -811,7 +811,7 @@ F38 is right next to my farm, actually right next to my existing F39, its also h
 </p>
 
 <p>
-Felt pretty good getting that oat field harvested and seed factory humming, already got a good load of seeds I cannot imagine running out of them anytime soon, the real problem will be how to haul that stuff to the fields across the terrain, but lets worry about that when we actually get those remote fields hehe :)
+Felt pretty good getting that oat field harvested and seed factory humming, already got a good load of seeds I cannot imagine running out of them anytime soon, the real problem will be how to haul that stuff to the fields across the terrain, but lets worry about that when we actually get those remote fields hehe <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -867,7 +867,7 @@ Hmm but I'm lazy, I just want to get farming... so I'm thinking of buying land n
 </p>
 
 <p>
-2347 Selling point 8 soybean prices stalled at 3174, its time to sell! Gimme all them moneys! :)<br>
+2347 Selling point 8 soybean prices stalled at 3174, its time to sell! Gimme all them moneys! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 2348 Sold soybeans in selling point 8 for 187.3k<br>
 2353 Sold soybeans in selling point 8 for 187.3k<br>
 2358 Sold soybeans in selling point 8 for 187.3k<br>
@@ -876,7 +876,7 @@ Hmm but I'm lazy, I just want to get farming... so I'm thinking of buying land n
 <p>
 <b>2019-07-24T0002</b> Sold soybeans in selling point 8 for 187.3k. That was the last full load, now I only got 45k liters left.<br>
 0008 Sold soybeans in selling point 8 for 144.1k, budget now 4.269m<br>
-0135 Finished seeding canola F39. Was great to seed my first own field with seeds produced in my own factory :)<br>
+0135 Finished seeding canola F39. Was great to seed my first own field with seeds produced in my own factory <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0140 Started fertilizing F39<br>
 0149 Started seeding soybeans F38, courseplay duration 2h 27min.<br>
 0205 Purchased F37 for 269.4k, F36 for 248k, F35 for 246.2k, F34 for 284.1k and F33 for 1.361m, budget now 1.854m<br>
@@ -910,7 +910,7 @@ Seed hawk is sitting by the field ready to go, except I don't want to start it o
 	<h2>PMC Grande Gardens 16km v0.1.3 Upgrade</h2>
 
 <p>
-<b>2019-10-22T1605</b> After a months long break I'm back at PMC Grande Gardens 16km Start From Zero career :)
+<b>2019-10-22T1605</b> After a months long break I'm back at PMC Grande Gardens 16km Start From Zero career <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1001,11 +1001,11 @@ Finally done lime spreading, wow it took a long time with two tractors (one at t
 </p>
 
 <p>
-0810 As soon as I wrote the above and drove lime spreading tractor off the field, tried to change into rubicon 9000... FS19 froze, ZOC! :(
+0810 As soon as I wrote the above and drove lime spreading tractor off the field, tried to change into rubicon 9000... FS19 froze, ZOC! <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-Reloaded the game from savegame and uh oh still had several rows of lime spreading to do in that save :(
+Reloaded the game from savegame and uh oh still had several rows of lime spreading to do in that save <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -1058,7 +1058,7 @@ Also regular seeding of canola and corn need more temperature. Weather forecast 
 </p>
 
 <p>
-So now we time accelerate until weather is warm enough for us to cheat-seed and properly seed :)
+So now we time accelerate until weather is warm enough for us to cheat-seed and properly seed <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1098,7 +1098,7 @@ Anyways I have been ranting about farmsim being a huge time sink and especially 
 
 <p>
 1619 First refill of seed hawk seeds<br>
-1748 Took a quick break to watch Adventures of Ford Fairlane 1080p bluray movie :)<br>
+1748 Took a quick break to watch Adventures of Ford Fairlane 1080p bluray movie <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1824 Second refill of seed hawk seeds<br>
 1937 Finished seeding canola F33
 </p>
@@ -1197,7 +1197,7 @@ All fields are now seeded, next is some fertilizing and keeping an eye on any po
 </p>
 
 <p>
-All the field work is done (assuming no weeds appear). Now we just time accelerate until our crops grow :)
+All the field work is done (assuming no weeds appear). Now we just time accelerate until our crops grow <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1205,7 +1205,7 @@ All the field work is done (assuming no weeds appear). Now we just time accelera
 </p>
 
 <p>
-I was walking around my fields (ok running as the fields are so large), got into one high spot where I can see three fields at once, I was in north east corner of F36 with nice small corn plants growing. It was so nice to stand there in those fully fertilized fields after all that work I put in them. Those who know the feeling are the true farmsim fanatics :)
+I was walking around my fields (ok running as the fields are so large), got into one high spot where I can see three fields at once, I was in north east corner of F36 with nice small corn plants growing. It was so nice to stand there in those fully fertilized fields after all that work I put in them. Those who know the feeling are the true farmsim fanatics <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1213,7 +1213,7 @@ I was walking around my fields (ok running as the fields are so large), got into
 </p>
 
 <p>
-<b>2019-10-25T0335</b> Started up FS19, I think today is harvest day :)
+<b>2019-10-25T0335</b> Started up FS19, I think today is harvest day <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1291,11 +1291,11 @@ Brought the fertilizing rig back to farm HQ and refilled UTTS, then... well exit
 </p>
 
 <p>
-1919 Alright F33, F37 and F39 canola are now harvest ready, lets get started! :)
+1919 Alright F33, F37 and F39 canola are now harvest ready, lets get started! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-And of course I need to go switch corn headers at my farm first heh, nice little drive with combines :)
+And of course I need to go switch corn headers at my farm first heh, nice little drive with combines <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1332,7 +1332,7 @@ This field was plowed, limed, 0% weeds and 100% fertilization. The size was as j
 </p>
 
 <p>
-That is a crazy amount of canola. Now think about that I still have F37 (54.919 ha) and the monster F33 (218.068 ha) left, imagine what my farm bin silo total amount of canola is when all of it will be harvested. Oh wow, I told you I'll be rolling in money :)
+That is a crazy amount of canola. Now think about that I still have F37 (54.919 ha) and the monster F33 (218.068 ha) left, imagine what my farm bin silo total amount of canola is when all of it will be harvested. Oh wow, I told you I'll be rolling in money <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1444,11 +1444,11 @@ Now I have F38 which is soybeans, that yield is much less than canola, but then 
 </p>
 
 <p>
-Refueled all the vehicles again after driving them SW corner of F38. Then I checked how much canola we have in railroad silo 3 and its 2.873 million liters :)
+Refueled all the vehicles again after driving them SW corner of F38. Then I checked how much canola we have in railroad silo 3 and its 2.873 million liters <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-I am scared to even think how much farm bin silo 2m and railroad silo 2.8m liters will sell for heh, that is going to be so much money whoah :)
+I am scared to even think how much farm bin silo 2m and railroad silo 2.8m liters will sell for heh, that is going to be so much money whoah <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1508,7 +1508,7 @@ Restarted FS19 and now 01/early-autumn in-game 0939hrs fields are ready to harve
 </p>
 
 <p>
-First field harvested with new Claas Lexion 8900 with Midwest Durus 18m header on it, I love it. Excellent combine setup :)
+First field harvested with new Claas Lexion 8900 with Midwest Durus 18m header on it, I love it. Excellent combine setup <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1563,7 +1563,7 @@ Corn harvest was 2.179m liters, quite nice haul, will take a while to sell that 
 </p>
 
 <p>
-Refueled all the vehicles again, got to love large scale farming logistics :)
+Refueled all the vehicles again, got to love large scale farming logistics <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1588,7 +1588,7 @@ Felt great accomplishment by preparing and harvesting all these existing fields 
 </p>
 
 <p>
-It was funny that I was just sitting there looking at the mapview wondering what should I do next heh, obviously I need to do something because just watching gets me nowhere (fast heh) :)
+It was funny that I was just sitting there looking at the mapview wondering what should I do next heh, obviously I need to do something because just watching gets me nowhere (fast heh) <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1612,7 +1612,7 @@ Was looking into adding train selling points but because of seasons savegame... 
 </p>
 
 <p>
-23/late-autumn in-game 0801hrs canola market price is 2287 on selling point 10, its time to sell some grain :)
+23/late-autumn in-game 0801hrs canola market price is 2287 on selling point 10, its time to sell some grain <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1673,7 +1673,7 @@ Canola market prices were increasing in selling point 6 so once they hit 2321 an
 </p>
 
 <p>
-I was even considering cheating by looking at the market prices and how many liters I have grain, then edit savegame and just replace the grain with equal amount of money completely skipping the trucking... but that was just a quick thought nothing serious, if you are lazy enough not to edit the terrain for train selling points then shut the hell up and drive the trucks! :)
+I was even considering cheating by looking at the market prices and how many liters I have grain, then edit savegame and just replace the grain with equal amount of money completely skipping the trucking... but that was just a quick thought nothing serious, if you are lazy enough not to edit the terrain for train selling points then shut the hell up and drive the trucks! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1702,7 +1702,7 @@ But yeah it all comes down to the crazy time sink that farmsim is, I really do n
 </p>
 
 <p>
-This latest sell broke 10 million money limit, very cool. I told ya the harvest of all those fields will produce so much money I will be rolling in it :)
+This latest sell broke 10 million money limit, very cool. I told ya the harvest of all those fields will produce so much money I will be rolling in it <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1711,11 +1711,11 @@ This latest sell broke 10 million money limit, very cool. I told ya the harvest 
 </p>
 
 <p>
-And with that sell it was time for me to call it a night, dead tired yawning like crazy here. More farming tomorrow, maybe some land purchases :)
+And with that sell it was time for me to call it a night, dead tired yawning like crazy here. More farming tomorrow, maybe some land purchases <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-0844 FS19 fired up, lets wrap up the grain selling and get them moneys :)
+0844 FS19 fired up, lets wrap up the grain selling and get them moneys <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1726,7 +1726,7 @@ And with that sell it was time for me to call it a night, dead tired yawning lik
 </p>
 
 <p>
-Okay last load of canola has been sold, budget now 11.662m :-)
+Okay last load of canola has been sold, budget now 11.662m <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -1758,11 +1758,11 @@ And some vehicle upgrades, gotta put some power to the ground quicker.
 - tractor to pull cultivator big bud 450 with gps and twin wheels 252k
 </pre>
 <p>
-1028 Purchased the above list, budget now 248.2k :)
+1028 Purchased the above list, budget now 248.2k <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Shopping! Shopping! ;)
+Shopping! Shopping! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1799,8 +1799,8 @@ I'm not sure if seasons crop rotation is just the extra layer of fertilization, 
 <p>
 1215 Finished fertilizing F39<br>
 1217 The game froze when started refilling rubicon 9000 from utts-32000 tanker, as usual<br>
-1223 Once again finished fertilizing F39 ;)<br>
-1225 Unbelievable! Drove rubicons and tanker truck next to F38, saved game, started to refill first rubicon and ZZZZUP, freeze :(<br>
+1223 Once again finished fertilizing F39 <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
+1225 Unbelievable! Drove rubicons and tanker truck next to F38, saved game, started to refill first rubicon and ZZZZUP, freeze <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"><br>
 1228 Started fertilizing F38, courseplay ETA 30min, 2x tools<br>
 1308 Finished fertilizing F38<br>
 1319 Started lime spreading F39, courseplay ETA 1h 25min, 3x tools
@@ -1824,11 +1824,11 @@ Surprising how relatively little time it takes to plow this field, I was expecti
 </p>
 
 <p>
-Then performance went to crap, had 7 vehicles running under courseplay courses (so hired AI) and 20 FPS, oh man it was awful to play a game with such performance :(
+Then performance went to crap, had 7 vehicles running under courseplay courses (so hired AI) and 20 FPS, oh man it was awful to play a game with such performance <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-Don't want to sound overly dramatic but everytime this 20 FPS crap performance happens I get the immediate feeling of just shutting down and uninstalling FS19 because why would you play a game with well, unplayable performance. 20 FPS is like vic-20 in the early 80's :(
+Don't want to sound overly dramatic but everytime this 20 FPS crap performance happens I get the immediate feeling of just shutting down and uninstalling FS19 because why would you play a game with well, unplayable performance. 20 FPS is like vic-20 in the early 80's <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -2000,7 +2000,7 @@ First I'm gonna take Fendt 1050 with john deere 2623 plow and go fix the edges o
 </p>
 
 <p>
-Haha hilarious 13hrs field work :D
+Haha hilarious 13hrs field work <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -2016,7 +2016,7 @@ This field work will not be finished today because I fall a sleep before this is
 </p>
 
 <p>
-Oh and imagine once this field is seeded with canola, the amount of liters we get out of this will be insane :)
+Oh and imagine once this field is seeded with canola, the amount of liters we get out of this will be insane <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2028,7 +2028,7 @@ Oh and imagine once this field is seeded with canola, the amount of liters we ge
 </p>
 
 <p>
-2037 Bored out of my mind, F04 cultivating course still has 8h 15min left heh, I'm going to watch tv and idle on the background :)
+2037 Bored out of my mind, F04 cultivating course still has 8h 15min left heh, I'm going to watch tv and idle on the background <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2085,7 +2085,7 @@ Uuaah finally those life sucking practically day long field work tasks were done
 </p>
 
 <p>
-All done for this season! :)
+All done for this season! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2097,7 +2097,7 @@ F04 seed canola<br>
 F23 seed corn<br>
 F24 seed soybeans<br>
 F25 seed soybeans<br>
-F26 all done, barley growing ;)<br>
+F26 all done, barley growing <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 F27 seed corn, fert<br>
 F28 fallow?<br>
 F29 seed soybeans<br>
@@ -2115,7 +2115,7 @@ There was few lucrative fertilizing contracts but I had so much work to do alrea
 </p>
 
 <p>
-08/early-winter in-game 1535hrs corn market price hit record high (for me) 1556 and guess what... it was on selling point 8 which is basically IN my farm :)
+08/early-winter in-game 1535hrs corn market price hit record high (for me) 1556 and guess what... it was on selling point 8 which is basically IN my farm <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2174,7 +2174,7 @@ FS19 is such an crappy engine that once you have more than 5-6 vehicles running 
 </p>
 
 <p>
-09/mid-winter in-game 0153hrs it started to snow, at in-game 0835hrs there was snow in the ground even though the snowfall had ended hours before :)
+09/mid-winter in-game 0153hrs it started to snow, at in-game 0835hrs there was snow in the ground even though the snowfall had ended hours before <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2186,7 +2186,7 @@ Snow stayed in the ground for couple of in-game days.
 </p>
 
 <p>
-It was 24/late-winter, I saved the game, backupped the saves, <b>upgraded to Seasons v1.0.1.8-beta build 35</b> from 2019-10-31 and started the game back up again. We are ready for another year :)
+It was 24/late-winter, I saved the game, backupped the saves, <b>upgraded to Seasons v1.0.1.8-beta build 35</b> from 2019-10-31 and started the game back up again. We are ready for another year <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2239,7 +2239,7 @@ And hardware glitch again (its a long story and I wont be telling it here), had 
 </p>
 
 <p>
-11/mid-spring weather forecast predicts lowest temperature from now on is +8C (day after tomorrow), so guess I'll start seeding canola then. Planting season has started aayeah! :)
+11/mid-spring weather forecast predicts lowest temperature from now on is +8C (day after tomorrow), so guess I'll start seeding canola then. Planting season has started aayeah! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2247,7 +2247,7 @@ I am really excited about this planting season, so much work went into getting t
 </p>
 
 <p>
-This is not yet the largest farmsim operation I have played, the seasons test on this same terrain was a bit bigger, but that was just test so it don't really count. I'm enthusiastic to grow my farm in this savegame which is legit, no cheating, no crap (ie placeable money making cheat mods like that other savegame I mentioned), cant wait until this savegame gets so big as the other one and yeah bigger of course as the goal is to purchase all the fields in this megalodon terrain :)
+This is not yet the largest farmsim operation I have played, the seasons test on this same terrain was a bit bigger, but that was just test so it don't really count. I'm enthusiastic to grow my farm in this savegame which is legit, no cheating, no crap (ie placeable money making cheat mods like that other savegame I mentioned), cant wait until this savegame gets so big as the other one and yeah bigger of course as the goal is to purchase all the fields in this megalodon terrain <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2259,7 +2259,7 @@ Oh man it felt so good to be running big bud 747 with seed hawk putting some see
 </p>
 
 <p>
-Headland wasnt even done yet when I was already thinking that hmm, maybe the seeding fleet does need an upgrade, four seed hawks doesn't sound that bad ;)
+Headland wasnt even done yet when I was already thinking that hmm, maybe the seeding fleet does need an upgrade, four seed hawks doesn't sound that bad <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2275,7 +2275,7 @@ But first I topped off these two guys with seeds.
 </p>
 
 <p>
-0323 Purchased 2x big bud 747 and 2x seed hawk :)
+0323 Purchased 2x big bud 747 and 2x seed hawk <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2287,11 +2287,11 @@ Had to record courseplay course around F04 to get that nice outline for it, othe
 </p>
 
 <p>
-Well five hours and ten minutes of seeding with FOUR seed hawks hehe. This is large scale farming, you knew we do things big so stop being shocked by these field work times hehe. But man imagine if I had started this with only two tools, over ten hours duration and surely they would have ran out of seeds couple of times :)
+Well five hours and ten minutes of seeding with FOUR seed hawks hehe. This is large scale farming, you knew we do things big so stop being shocked by these field work times hehe. But man imagine if I had started this with only two tools, over ten hours duration and surely they would have ran out of seeds couple of times <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-When we get to harvest this 880ha field, that will be fun day of game-play that's for sure heh ;)
+When we get to harvest this 880ha field, that will be fun day of game-play that's for sure heh <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2299,7 +2299,7 @@ When we get to harvest this 880ha field, that will be fun day of game-play that'
 </p>
 
 <p>
-1335 Back at PMC Gaming FS19 booted up, lets get those Big Bud 747's with Seed Hawk's rolling again, we got canola to seed! :)
+1335 Back at PMC Gaming FS19 booted up, lets get those Big Bud 747's with Seed Hawk's rolling again, we got canola to seed! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2535,7 +2535,7 @@ Manual states that first year is easier, cant really say I like that approach be
 </p>
 
 <p>
-Now its just time accelerating waiting for possible weeds to grow and then finally crops are ready to harvest. Can't wait for harvest season :)
+Now its just time accelerating waiting for possible weeds to grow and then finally crops are ready to harvest. Can't wait for harvest season <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2635,7 +2635,7 @@ Back in FS17 I split my vehicles to four sectors, NW, NE, SW and SE. It was easy
 </p>
 
 <p>
-And in FS17 I mostly played in North West Texas and Parker's Prairie, in my Cornbelt savegame I didn't manage to get that far to split my vehicles into four sectors before FS19 was released. So far I have not had large enough operations (relatively) in FS19 to split my vehicles up. Time will come, soon ;)
+And in FS17 I mostly played in North West Texas and Parker's Prairie, in my Cornbelt savegame I didn't manage to get that far to split my vehicles into four sectors before FS19 was released. So far I have not had large enough operations (relatively) in FS19 to split my vehicles up. Time will come, soon <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2715,24 +2715,24 @@ In this round of spraying I did not see one single patch of flowery weeds, they 
 </p>
 
 <p>
-In-game 1142hrs barley is on high demand in selling point 10. I'm going to take the NW train, load it up with barley and transfer it as close to selling point as currently possible, then using trucks go sell several loads of it (but I leave some for seed factory). This is my first time using trains in PMC terrain :)
+In-game 1142hrs barley is on high demand in selling point 10. I'm going to take the NW train, load it up with barley and transfer it as close to selling point as currently possible, then using trucks go sell several loads of it (but I leave some for seed factory). This is my first time using trains in PMC terrain <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Looks like with PMC Grande Gardens 16km v0.1.3 I can use the NW train tracks to pickup grain from railroad silo 4, dump it on railroad silo 1 which is the main hub (kinda, for now), then use NE train to pick it up from railroad silo 1 and dump to railroad silo 5 which is literally on top of selling point 10 :)
+Looks like with PMC Grande Gardens 16km v0.1.3 I can use the NW train tracks to pickup grain from railroad silo 4, dump it on railroad silo 1 which is the main hub (kinda, for now), then use NE train to pick it up from railroad silo 1 and dump to railroad silo 5 which is literally on top of selling point 10 <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
 1906 Started loading the NW train in railroad silo 4<br>
-1907 First car loaded with 143k liters of barley, whee my first train use in PMC terrain! :)
+1907 First car loaded with 143k liters of barley, whee my first train use in PMC terrain! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-THIS is what I've been waiting for in FS19, huge terrain and massive logistic operations just like in FS17 Cornbelt using trains, except just... <b>BIGGER</b> :-)
+THIS is what I've been waiting for in FS19, huge terrain and massive logistic operations just like in FS17 Cornbelt using trains, except just... <b>BIGGER</b> <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
-I mean this really felt like magical loading my first ever PMC terrain massive grain train car setup in order the haul it logistics style to the other side of the terrain. It just... this is just so damn cool man! :)
+I mean this really felt like magical loading my first ever PMC terrain massive grain train car setup in order the haul it logistics style to the other side of the terrain. It just... this is just so damn cool man! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2756,7 +2756,7 @@ First I removed all the 2.362m liters of barley from the train vehicles.xml, the
 </p>
 
 <p>
-Soybeans went on high demand on selling point 2 for 4,586 ! wow that is some big money! :)
+Soybeans went on high demand on selling point 2 for 4,586 ! wow that is some big money! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2788,7 +2788,7 @@ Edited items.xml and magically moved the soybeans from railroad silo 4 to railro
 </p>
 
 <p>
-All the soybeans have been sold with special high demand market price (4604 in the end), budget now 7.023m :)
+All the soybeans have been sold with special high demand market price (4604 in the end), budget now 7.023m <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2846,7 +2846,7 @@ Ready to start harvesting canola on F04 but crops are too wet, so time accelerat
 </p>
 
 <p>
-Canola harvest with 4x claas lexion 8900s with midwest durus 18m headers and one grain cart is so hectic that you don't have a moment of downtime. One grain cart is not enough for this setup, but I'll rather have few waiting combines than me waiting for combines while watching youtube farming videos. Lunch break was coming up so I decided to just relax and shutdown FS19 while I eat, its just impossible to play and eat at the same time I would be just stressing myself out. The field will still be there after the lunch break ;)
+Canola harvest with 4x claas lexion 8900s with midwest durus 18m headers and one grain cart is so hectic that you don't have a moment of downtime. One grain cart is not enough for this setup, but I'll rather have few waiting combines than me waiting for combines while watching youtube farming videos. Lunch break was coming up so I decided to just relax and shutdown FS19 while I eat, its just impossible to play and eat at the same time I would be just stressing myself out. The field will still be there after the lunch break <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2863,15 +2863,15 @@ It was a long harvest, courseplay duration wont mean much with 3h 10min estimate
 </p>
 
 <p>
-So lets say 7, hell round it up to 8hrs per one corner of this field, I'm still looking at least 24hrs of continuous harvesting game-play to finish the three corners. Heh that is some hard core harvesting for sure :)
+So lets say 7, hell round it up to 8hrs per one corner of this field, I'm still looking at least 24hrs of continuous harvesting game-play to finish the three corners. Heh that is some hard core harvesting for sure <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-F04 SE harvest of canola, which was in pretty good shape btw, got me 2.910m liters of grain. That's what I got now in railroad silo 4 and I'll continue to dump there until the capacity is full. If one corner gets 2.9m liters then the remaining three corners gets additional 8.7m liters and railroad silo 4 will run out of space (railroad silos are now 10m liter capacity) :)
+F04 SE harvest of canola, which was in pretty good shape btw, got me 2.910m liters of grain. That's what I got now in railroad silo 4 and I'll continue to dump there until the capacity is full. If one corner gets 2.9m liters then the remaining three corners gets additional 8.7m liters and railroad silo 4 will run out of space (railroad silos are now 10m liter capacity) <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Well we figure that out once we get there in three or so days from now haha ;)
+Well we figure that out once we get there in three or so days from now haha <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2915,12 +2915,12 @@ However immediately upon entering the game it started to rain, I have long suspe
 </p>
 
 <p>
-0818 Railroad silo 4 has now 5.220m liters of canola! ;)<br>
+0818 Railroad silo 4 has now 5.220m liters of canola! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 0947 Finished harvesting canola F04 SW
 </p>
 
 <p>
-Alright second corner of this 880ha F04 harvested, still another half of field size to go hehe. With todays harvest railroad silo 4 has now 5.960m liters of canola. If we do wild guesstimate calculation of how much money that makes with the best market price, its something around 13.8m and I still have half of the field to harvest, hehe crazy! that is just so crazy stuff! :)
+Alright second corner of this 880ha F04 harvested, still another half of field size to go hehe. With todays harvest railroad silo 4 has now 5.960m liters of canola. If we do wild guesstimate calculation of how much money that makes with the best market price, its something around 13.8m and I still have half of the field to harvest, hehe crazy! that is just so crazy stuff! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2960,11 +2960,11 @@ F04 NW harvest felt like it went a little bit easier boredom wise than previous,
 </p>
 
 <p>
-I am in pretty good (surprisingly good actually) spirits right now after that long harvest, but obviously this kind of farm sim playing is totally nuts I mean who harvests 880ha single field for three days straight 16hrs a day? :)
+I am in pretty good (surprisingly good actually) spirits right now after that long harvest, but obviously this kind of farm sim playing is totally nuts I mean who harvests 880ha single field for three days straight 16hrs a day? <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Dumped last grain truck loads to railroad silo 4 and now our canola deposit there is 9.031m liters! ;)
+Dumped last grain truck loads to railroad silo 4 and now our canola deposit there is 9.031m liters! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2981,7 +2981,7 @@ I could of course load that canola into the train grain wagons, those are 143k l
 </p>
 
 <p>
-Decided to record courseplay course from F04 east edge to farm bin silo and back. Then refueled all the vehicles again hehe always the same thing at the beginning of each F04 corner ;)
+Decided to record courseplay course from F04 east edge to farm bin silo and back. Then refueled all the vehicles again hehe always the same thing at the beginning of each F04 corner <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2997,11 +2997,11 @@ Here we go again, courseplay shows over three hours duration which I know will b
 </p>
 
 <p>
-2038 Back in PMC Gaming and FS19 booted up, lets finish this F04 canola harvest! :)
+2038 Back in PMC Gaming and FS19 booted up, lets finish this F04 canola harvest! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Feeling enthusiastic for today because the F04 will definitely be finished. As said many times F04 is 880ha big boy, so when I have gotten used to harvesting one field for THREE days straight, going back to those puny less than 200ha fields is like a cake walk, like stealing candy from a baby :)
+Feeling enthusiastic for today because the F04 will definitely be finished. As said many times F04 is 880ha big boy, so when I have gotten used to harvesting one field for THREE days straight, going back to those puny less than 200ha fields is like a cake walk, like stealing candy from a baby <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3013,7 +3013,7 @@ But still, man what a beast that 880ha has been, that is for today (2019-11-09) 
 </p>
 
 <p>
-History will be made tonight! :-)
+History will be made tonight! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -3040,11 +3040,11 @@ F04 NE corner harvest was dumped into farm bin silo, there are now 2.757m liters
 </p>
 
 <p>
-Just noticed that F05 AI owner is seeding soybeans currently :)
+Just noticed that F05 AI owner is seeding soybeans currently <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-The field cost 5.218m and has been on my purchase list for quite some time now, in fact I have been holding on to my money right now waiting for this harvest season to be over before committing into new land purchases. Now that this field is going to be soybeans I am most definitely going to buy it as harvesting that field I'm getting my money invested to the land back for sure :)
+The field cost 5.218m and has been on my purchase list for quite some time now, in fact I have been holding on to my money right now waiting for this harvest season to be over before committing into new land purchases. Now that this field is going to be soybeans I am most definitely going to buy it as harvesting that field I'm getting my money invested to the land back for sure <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3140,11 +3140,11 @@ So I bought F05 for 5.2 million, then I split the soybeans to three sections and
 </p>
 
 <p>
-Today I was in good mood as usual and very enthusiastic of farming PMC Grande Gardens 16km. I could not wait to get into harvesting. Obviously this is now just early morning enthusiasm as I cannot finish F05 harvest today, its almost the same size as previous F04 and that took me what three days to harvest. My enthusiasm is to finish all the soybeans and corn, all harvest for this year/season, but obviously that will be far into next week before its done if I play every day :)
+Today I was in good mood as usual and very enthusiastic of farming PMC Grande Gardens 16km. I could not wait to get into harvesting. Obviously this is now just early morning enthusiasm as I cannot finish F05 harvest today, its almost the same size as previous F04 and that took me what three days to harvest. My enthusiasm is to finish all the soybeans and corn, all harvest for this year/season, but obviously that will be far into next week before its done if I play every day <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-I'm just having a great time harvesting soybeans now, its not even bothering me to know that this field will not be finished today, I'm enjoying every minute one at the time :)
+I'm just having a great time harvesting soybeans now, its not even bothering me to know that this field will not be finished today, I'm enjoying every minute one at the time <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3195,7 +3195,7 @@ Refueled combines, they were getting a bit low. Auger wagon and trucks are fine.
 </p>
 
 <p>
-After harvesting a while I checked farm bin silo contents for soybeans, it was 3.893m liters which is quite crazy amount just from this land purchase "bonus". So I calculated how much profit do I get now even though the field is not finished yet, I almost fell outta my chair when I saw it was fifteen million! I'm getting my money back what I paid for this land lot and extra TEN million! haha I love this stuff :-)
+After harvesting a while I checked farm bin silo contents for soybeans, it was 3.893m liters which is quite crazy amount just from this land purchase "bonus". So I calculated how much profit do I get now even though the field is not finished yet, I almost fell outta my chair when I saw it was fifteen million! I'm getting my money back what I paid for this land lot and extra TEN million! haha I love this stuff <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -3227,7 +3227,7 @@ Then it was time to relocate my harvesting fleet to east at F29. Also the usual 
 </p>
 
 <p>
-F05 soybean harvest got me 5.451m liters, oh wow that converted with best market price to cash comes to 21.215m yes twenty one million hehe. So if we deduct the cost of the initial land purchase we get 15.997 million of profit, now is that crazy or what? WHOAH! :)
+F05 soybean harvest got me 5.451m liters, oh wow that converted with best market price to cash comes to 21.215m yes twenty one million hehe. So if we deduct the cost of the initial land purchase we get 15.997 million of profit, now is that crazy or what? WHOAH! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3269,11 +3269,11 @@ Currently I have canola in farm bin silo 4,120,196 liters and in railroad silo 4
 </p>
 
 <p>
-After some consideration I decided to do it. Going to edit savegame XMLs and transfer canola to money. Don't call me a cheater when the frigging terrain is bugged, fix your terrain or shut the hell up! :-)
+After some consideration I decided to do it. Going to edit savegame XMLs and transfer canola to money. Don't call me a cheater when the frigging terrain is bugged, fix your terrain or shut the hell up! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
-Farm bin silo had 4120196 liters railroad silo 4 9031805 liters == 13,152,001 liters. 13152 x 2622 == 34,484,544 for crying out loud. My current money is 1,764,402 so I simply removed all of the canola and incremented my money with that sick 34.4 million, total cash now 36,248,946 haha, uuuh! :-)
+Farm bin silo had 4120196 liters railroad silo 4 9031805 liters == 13,152,001 liters. 13152 x 2622 == 34,484,544 for crying out loud. My current money is 1,764,402 so I simply removed all of the canola and incremented my money with that sick 34.4 million, total cash now 36,248,946 haha, uuuh! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -3281,7 +3281,7 @@ I really must say that feels so much cheating that its 50/50 flip of a coin for 
 </p>
 
 <p>
-0353 Back in-game with 36.245m in cash MUHAHAH! ok ok, harvest continues ;)<br>
+0353 Back in-game with 36.245m in cash MUHAHAH! ok ok, harvest continues <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 0604 Finished harvesting soybeans F29
 </p>
 
@@ -3295,7 +3295,7 @@ F29 soybean harvest was 1.120m liters, pretty nice haul.
 </p>
 
 <p>
-Money was burning hole in my pocket, I cant resist the urge to go shopping! shopping! ;)
+Money was burning hole in my pocket, I cant resist the urge to go shopping! shopping! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3331,7 +3331,7 @@ F87 and F88 in it for 573.9k
 </p>
 
 <p>
-Budget now 5.148m heh. That is a whole lotta land! :)
+Budget now 5.148m heh. That is a whole lotta land! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3367,7 +3367,7 @@ Thinking about it more now, I think its fairly certain I need to make my current
 </p>
 
 <p>
-Anyways, exciting times indeed farmer ;)
+Anyways, exciting times indeed farmer <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3534,15 +3534,15 @@ Idea was to try eight (8) combines in one field, I don't think it will be practi
 </p>
 
 <p>
-Whoah that was some harvest with 8x claas lexion 8900s with midwest durus 18m headers! :)
+Whoah that was some harvest with 8x claas lexion 8900s with midwest durus 18m headers! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Total soybeans in the railroad silos 4 and now 6 is 5.372m heh and the same as before for farm bin silo 6.306m which is total of 11.678 damn million liters! :-)
+Total soybeans in the railroad silos 4 and now 6 is 5.372m heh and the same as before for farm bin silo 6.306m which is total of 11.678 damn million liters! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
-How about if we don't calculate how much money that will makes us heh, have to keep it as surprise, but yeah it will be <i>decent</i> amount :)
+How about if we don't calculate how much money that will makes us heh, have to keep it as surprise, but yeah it will be <i>decent</i> amount <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3550,7 +3550,7 @@ How about if we don't calculate how much money that will makes us heh, have to k
 </p>
 
 <p>
-<b>2019-11-15T0407</b> New farming day has started, wonder what we get to harvest today :)
+<b>2019-11-15T0407</b> New farming day has started, wonder what we get to harvest today <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3591,7 +3591,7 @@ When I have been playing arma3, elite or edited for weeks or months its always n
 </p>
 
 <p>
-Most of the time with massive large scale farming I'm in 3rd person view and often quite high camera zoomed out too so I can monitor the combines etc going around the field. So thats why I sometimes miss these down to earth small scale stuff you sitting in the combines cab right next to the ground and crops :)
+Most of the time with massive large scale farming I'm in 3rd person view and often quite high camera zoomed out too so I can monitor the combines etc going around the field. So thats why I sometimes miss these down to earth small scale stuff you sitting in the combines cab right next to the ground and crops <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3626,7 +3626,7 @@ Was looking around where to dump the grain from upcoming F46 harvest and realize
 </p>
 
 <p>
-The goal is to have four sectors NW, NE, SW and SE where I purchase individual vehicle fleets. These vehicles of course need a farm headquarters even though I'm not much into the role play of parking vehicles into shelters when done not to mention the useless silly washing of vehicles, so some kind of location with vehicle shelter or two near the bin silo would be nice. Hell if nothing else they are a nice landmark to navigate towards :)
+The goal is to have four sectors NW, NE, SW and SE where I purchase individual vehicle fleets. These vehicles of course need a farm headquarters even though I'm not much into the role play of parking vehicles into shelters when done not to mention the useless silly washing of vehicles, so some kind of location with vehicle shelter or two near the bin silo would be nice. Hell if nothing else they are a nice landmark to navigate towards <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3634,12 +3634,12 @@ The goal is to have four sectors NW, NE, SW and SE where I purchase individual v
 </p>
 
 <p>
-1102 Need to take a break, to go pickup my hardware delivery :)<br>
+1102 Need to take a break, to go pickup my hardware delivery <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1222 Alright hardware picked up as well as groceries for the weekend, now we continue farming.
 </p>
 
 <p>
-Recorded courseplay courses for grain truck F46, also generated combine harvester field work course for F46, all good to go for the medium size harvest. But before that I need to skip the night and at the same time going to take a quick break to unbox my hardware, I want to get new headphones in use :)
+Recorded courseplay courses for grain truck F46, also generated combine harvester field work course for F46, all good to go for the medium size harvest. But before that I need to skip the night and at the same time going to take a quick break to unbox my hardware, I want to get new headphones in use <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3753,7 +3753,7 @@ Loading the savegame career after this break it was 400hrs played, heh nice. Man
 </p>
 
 <p>
-Whoah that was some corn harvest day! More than 15hrs straight! :)
+Whoah that was some corn harvest day! More than 15hrs straight! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3765,7 +3765,7 @@ Whoah that was some corn harvest day! More than 15hrs straight! :)
 </p>
 
 <p>
-The plan was to start terrain editing today (well I am downloading terra incognita satellite imagery as we speak) but after waking up with enthusiasm and then reading what the idiots on the internet are saying again... I decided to go to my happy place and that is PMC Grande Gardens 16km corn harvest :)
+The plan was to start terrain editing today (well I am downloading terra incognita satellite imagery as we speak) but after waking up with enthusiasm and then reading what the idiots on the internet are saying again... I decided to go to my happy place and that is PMC Grande Gardens 16km corn harvest <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3785,7 +3785,7 @@ As listed above I have sickening amount of grain in my various bin silos, millio
 </p>
 
 <p>
-I could take a truck and sell one load of corn to the selling point 8 which is the closest, but I am so lazy that I just loan 5k so at least I can fill up the thundercreek with one set of fuel now. Start From Zero is about not taking loan yes I know that, but this is just silly as I have probably 30+ million worth of grain in the silos and even driving the truck off from its courseplay course would take too long heh, so taking a quick loan is easier to fill the thundercreek :)
+I could take a truck and sell one load of corn to the selling point 8 which is the closest, but I am so lazy that I just loan 5k so at least I can fill up the thundercreek with one set of fuel now. Start From Zero is about not taking loan yes I know that, but this is just silly as I have probably 30+ million worth of grain in the silos and even driving the truck off from its courseplay course would take too long heh, so taking a quick loan is easier to fill the thundercreek <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3847,11 +3847,11 @@ F32 is 46.5ha and F44 is 142.2ha in size. Yeah that fourtyfour will take a few h
 </p>
 
 <p>
-Uuaah corn harvest for this year/season is done! :)
+Uuaah corn harvest for this year/season is done! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Corn harvest got me 7.591m liters in farm bin silo and 2.388m liters in railroad silo, man those are crazy amounts of grain heh. I really need to bump up these PMC Grande Gardens 16km silo capacitys because ten million liter even though it sounds cool on paper... its nothing when you really start to rock and roll with harvests :)
+Corn harvest got me 7.591m liters in farm bin silo and 2.388m liters in railroad silo, man those are crazy amounts of grain heh. I really need to bump up these PMC Grande Gardens 16km silo capacitys because ten million liter even though it sounds cool on paper... its nothing when you really start to rock and roll with harvests <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3884,7 +3884,7 @@ If the canola got bugged for whatever reason its not a big deal, yeah I did fert
 </p>
 
 <p>
-One thing though; corn highest market price selling day is quickly approaching, its on around 08/early-winter to 10/mid-winter, I think the best day is 09. If I reach that... then while not necessary I would like to sell my millions liters of corn. But that would require the fixed trains on the new terrain or again kind of cheating by editing the savegame XML. I'm afraid... to save time and agony, its going to be the latter... :)
+One thing though; corn highest market price selling day is quickly approaching, its on around 08/early-winter to 10/mid-winter, I think the best day is 09. If I reach that... then while not necessary I would like to sell my millions liters of corn. But that would require the fixed trains on the new terrain or again kind of cheating by editing the savegame XML. I'm afraid... to save time and agony, its going to be the latter... <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3916,7 +3916,7 @@ Decided to time accelerate until end of the winter, save game and end playing th
 </p>
 
 <p>
-For the next time playing FS19 I'm going to upgrade into at that time latest seasons mod of course, hopefully then we have new stable version but if not I'll be using the betas. But for now, its time to shut it down and take a break from FS19 for as long as I can :)
+For the next time playing FS19 I'm going to upgrade into at that time latest seasons mod of course, hopefully then we have new stable version but if not I'll be using the betas. But for now, its time to shut it down and take a break from FS19 for as long as I can <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3952,7 +3952,7 @@ I felt a little bit undecided if I should continue playing because I'm looking a
 </p>
 
 <p>
-Anyways I was a little bit hesitant to begin such huge task just after I promised to take a break from FS19, hell this v0.1.4 test was meant to be just that, A TEST hehe... hmm but my lust for farming draws me in dangerously... uuh ;)
+Anyways I was a little bit hesitant to begin such huge task just after I promised to take a break from FS19, hell this v0.1.4 test was meant to be just that, A TEST hehe... hmm but my lust for farming draws me in dangerously... uuh <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4033,7 +4033,7 @@ Farm bin silo 1 had 6.839m liters of corn, nice haul, here we go.
 2104 Sold corn in selling point 1 for 116.1k + 116.1k<br>
 2113 Sold corn in selling point 1 for 116.1k + 116.1k<br>
 2115 Sold corn in selling point 1 for 116.1k + 116.1k<br>
-2119 Sold corn in selling point 1 for 116.1k + 116.1k, missed this one as I was in the toilet ;)<br>
+2119 Sold corn in selling point 1 for 116.1k + 116.1k, missed this one as I was in the toilet <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 2128 Sold corn in selling point 1 for 116.1k + 116.1k<br>
 2130 Sold corn in selling point 1 for 116.1k + 116.1k<br>
 2133 Sold corn in selling point 1 for 116.1k + 116.1k<br>
@@ -4123,7 +4123,7 @@ Then it was just time accelerating to get into the soybean/corn selling days, al
 </p>
 
 <p>
-I was not interested in field work, just to get my grain sold when the right market price selling day comes along, it kind of felt like a shame to just time accelerate these perfectly good field working days heh. But not to worry, there is plenty of field work to be done lateron ;)
+I was not interested in field work, just to get my grain sold when the right market price selling day comes along, it kind of felt like a shame to just time accelerate these perfectly good field working days heh. But not to worry, there is plenty of field work to be done lateron <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4155,7 +4155,7 @@ In-game 0500hrs corn 1536 in selling point 5 (truck), soybeans 3744 in selling p
 </p>
 
 <p>
-Then time accelerated just enough for the daylight to break so I can work properly, in-game 0551hrs and prices are the same as above. Lets get to work, first we begin with corn to haul it to railroad silo 11 which is by SW train. Man that will take a while ;)
+Then time accelerated just enough for the daylight to break so I can work properly, in-game 0551hrs and prices are the same as above. Lets get to work, first we begin with corn to haul it to railroad silo 11 which is by SW train. Man that will take a while <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4195,12 +4195,12 @@ But boy does the truck hauling of corn take forever, uuh... yes I only have a on
 1356 Loaded NE train with very low amount of barley and sunflowers (hey it was on my way there)<br>
 1401 Started loading NE train with soybeans on railroad silo 1<br>
 1409 Finished loading NE train, total of 2.860m liters of soybeans<br>
-1416 NE train full of soybeans arrived to selling point 11, budget now 9.907m and starting to sell my very first soybeans 20 car train load :)<br>
+1416 NE train full of soybeans arrived to selling point 11, budget now 9.907m and starting to sell my very first soybeans 20 car train load <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1417 Sold 143k liters of soybeans to selling point 11 for 536k TIMES TWENTY! MUHAHAHAHAA!
 </p>
 
 <p>
-Budget now 20.628m :-)
+Budget now 20.628m <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -4266,11 +4266,11 @@ I had to go toilet here and probably lost track of two sellings heh.
 </p>
 
 <p>
-Budget now 50.380m haha ;)
+Budget now 50.380m haha <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-I mean seriously, fifty million in cash! That is some serious coin gentlemen ;)
+I mean seriously, fifty million in cash! That is some serious coin gentlemen <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4335,7 +4335,7 @@ I walked (fast 20 times walking speed) around my new lands, they are simply mass
 </p>
 
 <p>
-For example cultivating 500ha field takes just forever, I am not sure I want to do such tasks in one sitting. Honestly thinking about it now even lets say spread across many days over a week or even longer playing few hours every now and then... feels stupid, who would want to start FS19, sit in a tractor cultivating a field for 1h 45min and then save game, exit and be done playing for the day, huh? :)
+For example cultivating 500ha field takes just forever, I am not sure I want to do such tasks in one sitting. Honestly thinking about it now even lets say spread across many days over a week or even longer playing few hours every now and then... feels stupid, who would want to start FS19, sit in a tractor cultivating a field for 1h 45min and then save game, exit and be done playing for the day, huh? <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -4363,7 +4363,7 @@ Pulled the grain inventory from items.xml and looks like there is million liters
 </p>
 
 <p>
-Hah just realized that the highest market price for soybeans is right next to the farm bin silo where my soybeans are stored :)
+Hah just realized that the highest market price for soybeans is right next to the farm bin silo where my soybeans are stored <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -4377,7 +4377,7 @@ At this point had to go run quick test in modo so missed few soybean sells heh.
 </p>
 
 <p>
-1928 Back at PMC Gaming, hands on keyboard, grain trucks still rolling ;)
+1928 Back at PMC Gaming, hands on keyboard, grain trucks still rolling <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4398,7 +4398,7 @@ Okay this farm bin silo NE is now empty of soybeans. Budget now 14.003m hey I ca
 </p>
 
 <p>
-1940 Purchased land lot with F40 in it for 12.054m :-)
+1940 Purchased land lot with F40 in it for 12.054m <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -4406,11 +4406,11 @@ Budget now 1.949m just barely some buffer money heh.
 </p>
 
 <p>
-This is kind of historical moment that I managed to buy all the land lots (with fields on them) in PMC Grange Gardens 16km terrain which is quite achievement with Start From Zero career. Of course the final goal is to harvest all the fields... but as I said above, that is for... well probably for next year ;)
+This is kind of historical moment that I managed to buy all the land lots (with fields on them) in PMC Grange Gardens 16km terrain which is quite achievement with Start From Zero career. Of course the final goal is to harvest all the fields... but as I said above, that is for... well probably for next year <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-Actually I'm going to shut down FS19 now, its just what could I achieve today anymore that would give any meaning other than boredom and exhausting feeling, so better to call it quits here and who knows tomorrow or when we return :)
+Actually I'm going to shut down FS19 now, its just what could I achieve today anymore that would give any meaning other than boredom and exhausting feeling, so better to call it quits here and who knows tomorrow or when we return <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -4422,7 +4422,7 @@ Actually I'm going to shut down FS19 now, its just what could I achieve today an
 </p>
 
 <p>
-Well here we are, one of those things that I didn't know what else to do so I reverted back to my safe zone which is farming simulator :)
+Well here we are, one of those things that I didn't know what else to do so I reverted back to my safe zone which is farming simulator <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -4465,7 +4465,7 @@ Going to go pickup the remaining corn from railroad silo 3.
 </p>
 
 <p>
-Budget now 6.877m and now I'm off to grab the remaining grain from the hmm whatever bin they are, heh the hunt of the missing grain ;)
+Budget now 6.877m and now I'm off to grab the remaining grain from the hmm whatever bin they are, heh the hunt of the missing grain <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4508,7 +4508,7 @@ Its not a big deal to swap trains, sort of nice change for all the usual farming
 </p>
 
 <p>
-Aayeah all the farm bin silos and railroad silos are empty, all the grain from last years harvest season was sold! Budget now 11.237m, thats pretty nice :)
+Aayeah all the farm bin silos and railroad silos are empty, all the grain from last years harvest season was sold! Budget now 11.237m, thats pretty nice <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -4537,7 +4537,7 @@ That list is just huge even as those numbers in text so just imagine how many re
 </p>
 
 <p>
-I imagine this will take months assuming I don't start to play arma3/elite etc for longer periods of time. Lets say I could play this Start From Zero not every day but how about every week... then it might be done next year? Heh I don't know ;)
+I imagine this will take months assuming I don't start to play arma3/elite etc for longer periods of time. Lets say I could play this Start From Zero not every day but how about every week... then it might be done next year? Heh I don't know <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4545,7 +4545,7 @@ I definitely want to get this done but I refuse to ruin my life because of this 
 </p>
 
 <p>
-Anyways, speculation. Lets get started with the first field :-)
+Anyways, speculation. Lets get started with the first field <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -4622,7 +4622,7 @@ Herbicide production factory, thats what I need next. Its okay to buy it from th
 </p>
 
 <p>
-As weird as this again sounds, man it felt good to be back in regular field work and running massive rubicons spraying stuff! :)
+As weird as this again sounds, man it felt good to be back in regular field work and running massive rubicons spraying stuff! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -4660,7 +4660,7 @@ Next was massive F05 herbicide spraying, I had the money and was thinking about 
 </p>
 
 <p>
-Liquid storage tanks by F26 have now 462k liters of herbicide and 240k liters of liquid fertilizer. Gotta love large scale farming, aayeah ;)
+Liquid storage tanks by F26 have now 462k liters of herbicide and 240k liters of liquid fertilizer. Gotta love large scale farming, aayeah <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4703,7 +4703,7 @@ Decided to call it a night here even though I still have a lot of playing energy
 </p>
 
 <p>
-Had to take a short hardware configuration break here, going to test Samsung 970 Evo Plus 1tb with arma3 addons ;)
+Had to take a short hardware configuration break here, going to test Samsung 970 Evo Plus 1tb with arma3 addons <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4733,7 +4733,7 @@ Attempted to fertilize F05 but fert didn't stick, it needs to be cultivated, uuh
 </p>
 
 <p>
-That field will be the largest I have ever cultivated. Funny thing is I'm probably looking at one more cultivating after this because now we cultivate, then fertilize, then we could plant corn and then we have to fertilize twice which is time sensitive... so I'd rather cult-fert-cult-fert-plant-fert :)
+That field will be the largest I have ever cultivated. Funny thing is I'm probably looking at one more cultivating after this because now we cultivate, then fertilize, then we could plant corn and then we have to fertilize twice which is time sensitive... so I'd rather cult-fert-cult-fert-plant-fert <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -4766,7 +4766,7 @@ Oh and I made a mistake with lime spreading this field, I should have fertilized
 </p>
 
 <p>
-Purchased 67.4k worth of diesel fuel :)
+Purchased 67.4k worth of diesel fuel <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -4935,7 +4935,7 @@ It sucks.
 </p>
 
 <p>
-Upon finishing the field... I realized that this streaked tractor was not only off course but it was configured to seed CANOLA in the begin with, haha oh shieet maan what a fuck up this seeding was! ;)
+Upon finishing the field... I realized that this streaked tractor was not only off course but it was configured to seed CANOLA in the begin with, haha oh shieet maan what a fuck up this seeding was! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4958,7 +4958,7 @@ Coming back from first ALT-TAB... F14 trailing big bud 450 pulling flexicoil st8
 	<h2>After the 2019 Break</h2>
 
 <p>
-<b>2020-02-17T0017</b> launched FS19 the first time in 2020! ;)
+<b>2020-02-17T0017</b> launched FS19 the first time in 2020! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -5009,7 +5009,7 @@ Had a lot of problems with courseplay headlands with big buds so tried headland 
 </p>
 
 <p>
-Then it was time to refill seed hawks, that is always fun as they eat full load of elmers haulmaster of seeds :)
+Then it was time to refill seed hawks, that is always fun as they eat full load of elmers haulmaster of seeds <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5069,7 +5069,7 @@ Quickest way possible is using seed hawks to seed soybeans, seed hawks cultivate
 </p>
 
 <p>
-Lets call this "careless soybeans" mode :)
+Lets call this "careless soybeans" mode <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5094,7 +5094,7 @@ Had another electric hardware glitch and had to cold restart PMC Gaming computer
 </p>
 
 <p>
-Ridiculous seven hours seeding haha. I did this as full course, not one corner section at the time, course was 22,804 waypoints hehe. Wonder how many elmers haulmaster refills this will take hmm :)
+Ridiculous seven hours seeding haha. I did this as full course, not one corner section at the time, course was 22,804 waypoints hehe. Wonder how many elmers haulmaster refills this will take hmm <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5114,11 +5114,11 @@ Hmm actually I can just use soybeans for it which I would normally never do as i
 </p>
 
 <p>
-0421 Ran out of seeds in seed factory :)
+0421 Ran out of seeds in seed factory <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Went through items.xml searching for crops or any products and was surprised to find whopping 980k liters of seeds in my main farm bin silo, wow! I stopped playing in december so its been two and a half months now and I completely forgot I had such amount of seeds stored :)
+Went through items.xml searching for crops or any products and was surprised to find whopping 980k liters of seeds in my main farm bin silo, wow! I stopped playing in december so its been two and a half months now and I completely forgot I had such amount of seeds stored <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5168,7 +5168,7 @@ Yesterday got pretty good mood farming so dunno if my obsession is slowly gettin
 </p>
 
 <p>
-My good mood was immediately ruined by courseplay which sent the third vehicle in the first headland corner to random direction and because I had to clear that mess the fourth vehicle did not continue on his present waypoints as it skipped to the "headland is finished now" part already. I fucking hate that behavior in courseplay. Whats the point of using automated course generation tool if it doesn't work? :(
+My good mood was immediately ruined by courseplay which sent the third vehicle in the first headland corner to random direction and because I had to clear that mess the fourth vehicle did not continue on his present waypoints as it skipped to the "headland is finished now" part already. I fucking hate that behavior in courseplay. Whats the point of using automated course generation tool if it doesn't work? <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -5180,7 +5180,7 @@ Its hilarious that guy starts off his day with all smiles and jolly good feeling
 </p>
 
 <p>
-Then I drove seed hawks into F30 which is huge 1475ha field, attempted to do courseplay field edge check for it... and FS19 froze, I waited several minutes but nothing, it was frozen solid. So I killed the task, restarted FS19 and of course the last savegame was probably more than 15min old, still had to finish seeding F28. Sigh :(
+Then I drove seed hawks into F30 which is huge 1475ha field, attempted to do courseplay field edge check for it... and FS19 froze, I waited several minutes but nothing, it was frozen solid. So I killed the task, restarted FS19 and of course the last savegame was probably more than 15min old, still had to finish seeding F28. Sigh <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -5205,7 +5205,7 @@ Getting seeds to four seed hawks is definitely a new logistics nightmare, one el
 </p>
 
 <p>
-Its quite hilarious that refilling seed hawks has became such a problem :)
+Its quite hilarious that refilling seed hawks has became such a problem <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5227,7 +5227,7 @@ Its quite hilarious that refilling seed hawks has became such a problem :)
 </p>
 
 <p>
-Uah finally done :)
+Uah finally done <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5235,7 +5235,7 @@ Uah finally done :)
 </p>
 
 <p>
-Third big bud 747 on the second corner headland set off to a random direction again, I was ready to press rage quit button with furious anger... piece of shit courseplay v6.01.385 :(
+Third big bud 747 on the second corner headland set off to a random direction again, I was ready to press rage quit button with furious anger... piece of shit courseplay v6.01.385 <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -5243,7 +5243,7 @@ Third big bud 747 on the second corner headland set off to a random direction ag
 </p>
 
 <p>
-Somehow F15 felt tiny compared to the F30 monsta ;)
+Somehow F15 felt tiny compared to the F30 monsta <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -5307,7 +5307,7 @@ Night was falling again when I was getting ready to start seeding F31. It was 12
 </p>
 
 <p>
-About 25% done I realized that F02 has already been done and I'm just wasting time seeding it now, so I stopped :)
+About 25% done I realized that F02 has already been done and I'm just wasting time seeding it now, so I stopped <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5353,7 +5353,7 @@ I must say that I came "" this close to rage quitting and uninstalling piece of 
 </p>
 
 <p>
-Anyways it sucks, plain and simple fucking sucks :(
+Anyways it sucks, plain and simple fucking sucks <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -5443,7 +5443,7 @@ This field gets seeded just barely before night falls in-game and have to time a
 </p>
 
 <p>
-Looking at the amount of seeded fields at the moment I wonder if there is enough daylight time to harvest all of them before winter kills the crops off :)
+Looking at the amount of seeded fields at the moment I wonder if there is enough daylight time to harvest all of them before winter kills the crops off <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5538,7 +5538,7 @@ With 4 big bud 747s pulling seed hawks and 4 lexion combines in normal traveling
 </p>
 
 <p>
-Wow that was some massive seeding operation heh, wonder how many hundreds of thousands liters of seeds did I expend :)
+Wow that was some massive seeding operation heh, wonder how many hundreds of thousands liters of seeds did I expend <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5546,7 +5546,7 @@ Then I emptied elmers haulmaster into seed hawk air carts so this tractor can re
 </p>
 
 <p>
-Was funny how much logistic work it was to setup the harvester fleet at F07, it took a while to get every vehicle there, fueled and combines switched from corn to normal grain headers heh. It really makes you feel like big farming when doing stuff like this :)
+Was funny how much logistic work it was to setup the harvester fleet at F07, it took a while to get every vehicle there, fueled and combines switched from corn to normal grain headers heh. It really makes you feel like big farming when doing stuff like this <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5554,7 +5554,7 @@ Was funny how much logistic work it was to setup the harvester fleet at F07, it 
 </p>
 
 <p>
-Felt good to be harvesting again after all that field work (boring seeding really) :)
+Felt good to be harvesting again after all that field work (boring seeding really) <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5566,7 +5566,7 @@ Just like yesterday I was extremely bored of FS19, this harvest helped a bit to 
 </p>
 
 <p>
-Quitting is kind of hard as v1.2 patch is scheduled to release on 27th and bourgault DLC on march 10th so its a fantasy to think I could finally quit now when such awesome (seeder/aircart) DLC is about to be released :)
+Quitting is kind of hard as v1.2 patch is scheduled to release on 27th and bourgault DLC on march 10th so its a fantasy to think I could finally quit now when such awesome (seeder/aircart) DLC is about to be released <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5618,7 +5618,7 @@ Finally finished the harvest. I was really bored playing FS19 again doing this h
 </p>
 
 <p>
-Wheat yield for F07 was 4.175m liters heh thats crazy :)
+Wheat yield for F07 was 4.175m liters heh thats crazy <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5634,11 +5634,11 @@ Welp, at least I have now enought raw materials for seed factory haha!
 </p>
 
 <p>
-We begin by taking the SW train, go to railroad silo 11, pickup all the 4.1 some million liters of wheat, bring them to railroad silo 1 which is the central hub. Then we hop into NW train, go to railroad silo 1, pickup the wheat and bring it to railroad silo 3. Then finally we use truck to haul the wheat into seed factory and once that is full 1 million liters, then we haul rest to farm 1 bin silo :)
+We begin by taking the SW train, go to railroad silo 11, pickup all the 4.1 some million liters of wheat, bring them to railroad silo 1 which is the central hub. Then we hop into NW train, go to railroad silo 1, pickup the wheat and bring it to railroad silo 3. Then finally we use truck to haul the wheat into seed factory and once that is full 1 million liters, then we haul rest to farm 1 bin silo <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-I actually need to take two trips like this because the train only holds 2.3m liters. Logistics, man... those frigging logistics ;)
+I actually need to take two trips like this because the train only holds 2.3m liters. Logistics, man... those frigging logistics <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -5646,7 +5646,7 @@ I actually need to take two trips like this because the train only holds 2.3m li
 </p>
 
 <p>
-When train was filled with wheat performance was 12 FPS and it really shows, uh oh... unplayable, just simply unplayable :(
+When train was filled with wheat performance was 12 FPS and it really shows, uh oh... unplayable, just simply unplayable <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -5721,7 +5721,7 @@ Had 783k liters of seeds in the factory so hauled those to farm 1 bin silo so we
 </p>
 
 <p>
-After hauling the seeds I dumped some more wheat into seed factory. I realized that its been most of the day game-play now for just some production factory hauling... all day, wow. Sure I have a lot of seeds already and still have so much wheat to go, it will be glorious once next years planting season starts. Especially when on march 10th the bourgault DLC is out with the new monster seeder and air cart :)
+After hauling the seeds I dumped some more wheat into seed factory. I realized that its been most of the day game-play now for just some production factory hauling... all day, wow. Sure I have a lot of seeds already and still have so much wheat to go, it will be glorious once next years planting season starts. Especially when on march 10th the bourgault DLC is out with the new monster seeder and air cart <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5793,7 +5793,7 @@ It was really exciting back in the day to have FS17 Cornbelt fert/seed productio
 </p>
 
 <p>
-Then it was time to skip days until my soybeans fields are harvest ready, then we see how many hours my patience lasts to the endless harvests hihi ;)
+Then it was time to skip days until my soybeans fields are harvest ready, then we see how many hours my patience lasts to the endless harvests hihi <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -5801,7 +5801,7 @@ Then it was time to skip days until my soybeans fields are harvest ready, then w
 </p>
 
 <p>
-10/mid-autumn in-game 0748hrs overnight time accelerating ALL but F17 turned harvest ready. Uh oh, now the insane harvest begins ;)
+10/mid-autumn in-game 0748hrs overnight time accelerating ALL but F17 turned harvest ready. Uh oh, now the insane harvest begins <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -5829,7 +5829,7 @@ What I did was drove lexion 8900s and fendt 1050 elmers haulmaster to F55, then 
 </p>
 
 <p>
-1413 Was about to start harvesting but crops are too wet, heh okay didn't even notice that, lets wait then :)
+1413 Was about to start harvesting but crops are too wet, heh okay didn't even notice that, lets wait then <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5853,7 +5853,7 @@ It has started, that massive soybeans harvest. This will last for WEEKS in real 
 </p>
 
 <p>
-Today I have no TV to watch just farming. Have no plans but also I am not going to take any pressure to farm all day even though I slept 9hrs 45min last night which is pretty crazy amount of sleep. In theory... this should be a long farming day, but we proceed one hour at the time, just nice and relaxed farming while watching youtube videos or listening to music, the usual :)
+Today I have no TV to watch just farming. Have no plans but also I am not going to take any pressure to farm all day even though I slept 9hrs 45min last night which is pretty crazy amount of sleep. In theory... this should be a long farming day, but we proceed one hour at the time, just nice and relaxed farming while watching youtube videos or listening to music, the usual <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5887,7 +5887,7 @@ Honestly I was not very excited about playing FS19 but this was one of those usu
 </p>
 
 <p>
-Felt like F32 harvest finished in no time after getting used to those 5+ hour harvests ;)
+Felt like F32 harvest finished in no time after getting used to those 5+ hour harvests <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -5907,7 +5907,7 @@ After getting used to the four combines multitool harvesting, having a single le
 </p>
 
 <p>
-Also while I do appreciate courseplay automation I have no desire to leave it doing all the work while I go watch tv or sleep overnight etc, I mean whats the point of playing if you're not actually... playing, eh ;)
+Also while I do appreciate courseplay automation I have no desire to leave it doing all the work while I go watch tv or sleep overnight etc, I mean whats the point of playing if you're not actually... playing, eh <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -5958,7 +5958,7 @@ Well that was painful. Alright off to the next field, lets hope better luck ther
 </p>
 
 <p>
-Another field done, these small fields are cute ;)
+Another field done, these small fields are cute <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -5985,11 +5985,11 @@ Why do I have buy all the land lots and harvest all the fields goal then? Well i
 </p>
 
 <p>
-Its very frustrating, you want to achieve the goal you set for yourself but this is sooo boring, ugh :(
+Its very frustrating, you want to achieve the goal you set for yourself but this is sooo boring, ugh <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-BTW obviously you can continue start from zero endlessly, but the main goal is how I described it above. Remains to be seen in the years and farming simulator game engines to come that will I keep playing this savegame just farming for the joy of field work. I highly doubt I would restart this savegame because honestly if you've done it once its one time too many already ;)
+BTW obviously you can continue start from zero endlessly, but the main goal is how I described it above. Remains to be seen in the years and farming simulator game engines to come that will I keep playing this savegame just farming for the joy of field work. I highly doubt I would restart this savegame because honestly if you've done it once its one time too many already <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -6052,7 +6052,7 @@ These small to medium sized fields felt really nice to harvest, about half an ho
 </p>
 
 <p>
-Huge fields are motivation killer when you have to harvest one field 16hrs/day for FOUR DAYS it will get a bit crazy :)
+Huge fields are motivation killer when you have to harvest one field 16hrs/day for FOUR DAYS it will get a bit crazy <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -6071,7 +6071,7 @@ As I recalled F10 is way too small for more than 2 tools of 18m width.
 </p>
 
 <p>
-Three small cute fields done, nice! :)
+Three small cute fields done, nice! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -6144,7 +6144,7 @@ Whoah that field was a beast of a harvest! And now the fields are getting just b
 </p>
 
 <p>
-0635 Had to shut down FS19 in order to make North Dakota Regent terrain source files for SinisterSockz ;)<br>
+0635 Had to shut down FS19 in order to make North Dakota Regent terrain source files for SinisterSockz <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 0812 All done, source files sent, now back to farming
 </p>
 
@@ -6165,7 +6165,7 @@ Frist time I harvested this field it was barley, don't recall how good crop it w
 </p>
 
 <p>
-Make no mistakes about it, before F22 soybeans harvest is over I have taken maaany breaks from FS19 ;)
+Make no mistakes about it, before F22 soybeans harvest is over I have taken maaany breaks from FS19 <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -6203,7 +6203,7 @@ Recorded courseplay course from F22 NE to railroad silo 6. Refueled vehicles and
 </p>
 
 <p>
-14/mid-autumn in-game 1941hrs night has fallen I cannot see where my combines are, time accelerated until 15/mid-autumn in-game 0825hrs. Gooood mooorning GAAAAARDEEENS ;)
+14/mid-autumn in-game 1941hrs night has fallen I cannot see where my combines are, time accelerated until 15/mid-autumn in-game 0825hrs. Gooood mooorning GAAAAARDEEENS <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -6212,7 +6212,7 @@ Recorded courseplay course from F22 NE to railroad silo 6. Refueled vehicles and
 </p>
 
 <p>
-Second section of F22 done, nice. Today session has been enjoyable, its been a long but not at all exhausting, yet (heh). Still half of the field to do, this is a big beast let me tell ya ;)
+Second section of F22 done, nice. Today session has been enjoyable, its been a long but not at all exhausting, yet (heh). Still half of the field to do, this is a big beast let me tell ya <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -6270,7 +6270,7 @@ Then recorded basic transport grain loop for trucks at F52, did not refuel vehic
 </p>
 
 <p>
-Aayeah another soybeans field done! This is great, getting the job done. Soybeans in farm 2 bin silo 10.917m and in railroad silo 6 5.039m liters :)
+Aayeah another soybeans field done! This is great, getting the job done. Soybeans in farm 2 bin silo 10.917m and in railroad silo 6 5.039m liters <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -6405,7 +6405,7 @@ Huge problem with courseplay v6.0.1.397 headlands, getting debug errors and comb
 </p>
 
 <p>
-I have completely lost the passion for this savegame, I have bought all the lands now and final goal is to harvest every field... this sounds good in paper sure, but in practice I feel as if the soybeans harvest have absolutely no meaning I might as well be mowing grass here. I have now 21 million liters (yes, twenty one million) of soybeans in my farm bins and railroad silos, got 3.286m money and... yeah, whats the point of harvesting these fields as I have all them moneys? Hmm... :)
+I have completely lost the passion for this savegame, I have bought all the lands now and final goal is to harvest every field... this sounds good in paper sure, but in practice I feel as if the soybeans harvest have absolutely no meaning I might as well be mowing grass here. I have now 21 million liters (yes, twenty one million) of soybeans in my farm bins and railroad silos, got 3.286m money and... yeah, whats the point of harvesting these fields as I have all them moneys? Hmm... <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -6523,7 +6523,7 @@ Purchased seasons moisture detector thing heh, F30 soybeans crop moisture is 21%
 </p>
 
 <p>
-10/mid-winter in-game 0015hrs it started to snow and all my soybeans fields WITHERED. Hehe ouuuucch! ;)
+10/mid-winter in-game 0015hrs it started to snow and all my soybeans fields WITHERED. Hehe ouuuucch! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -6555,7 +6555,7 @@ Money ran out so I used train to pickup two car fulls of soybeans from railroad 
 </p>
 
 <p>
-Then fast forwarded to the next year, 01/early-spring. Next is just boring wait until weather warms up so we can seed soybeans with out new Bourgault paralink hoe drills :)
+Then fast forwarded to the next year, 01/early-spring. Next is just boring wait until weather warms up so we can seed soybeans with out new Bourgault paralink hoe drills <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -6571,7 +6571,7 @@ This felt really boring I mean soul suckingly boring to wait in synchronizing di
 </p>
 
 <p>
-18/late-spring morning daylight finally soil temperature was +10C so we can start seeding! :)
+18/late-spring morning daylight finally soil temperature was +10C so we can start seeding! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -6648,7 +6648,7 @@ Dunno what was I thinking starting to seed 100ha field manually with GPS driving
 </p>
 
 <p>
-This F28 seeding was a bit messy, first started to single seeder driving manually using GPS because it felt cool, but guess my bearings got a bit lost with that monstrosity 1480ha field that this 100ha field felt like nothing... but its not nothing, it will take a long time to seed even with 30.5m single vehicle :)
+This F28 seeding was a bit messy, first started to single seeder driving manually using GPS because it felt cool, but guess my bearings got a bit lost with that monstrosity 1480ha field that this 100ha field felt like nothing... but its not nothing, it will take a long time to seed even with 30.5m single vehicle <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -6670,7 +6670,7 @@ Was watching SinisterSockz twitch streaming North Dakota Regent terrain editing 
 	<h2>After 5 Months Break</h2>
 
 <p>
-<b>2020-09-07T1933</b> Back at this savegame after about five months break! :)
+<b>2020-09-07T1933</b> Back at this savegame after about five months break! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -6714,7 +6714,7 @@ See todays video for a timeline...
 </p>
 
 <p>
-<b>2020-09-10T0024</b> Harvesting soybeans from F28 continues on dedicated server borrowed from fscommando, thanks buddy! :)
+<b>2020-09-10T0024</b> Harvesting soybeans from F28 continues on dedicated server borrowed from fscommando, thanks buddy! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -6784,7 +6784,7 @@ Today this savegame has 692 hours in it.
 </p>
 
 <p>
-Current scenario is; field 5 size is 1205ha, got two grain trucks 140,000 liters each, four claas lexion 8900 combines 18,000 liter grain tanks and midwest durus 18m headers. Just wondering how many <i>days</i> it takes to finish this harvest :)
+Current scenario is; field 5 size is 1205ha, got two grain trucks 140,000 liters each, four claas lexion 8900 combines 18,000 liter grain tanks and midwest durus 18m headers. Just wondering how many <i>days</i> it takes to finish this harvest <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -6865,7 +6865,7 @@ Again forgot to write the precise courseplay duration time down, it was 4hrs 4mi
 </p>
 
 <p>
-2148 Hmm I think something happened to my warrior++ semi-truck which was hauling grain... it... it, disappeared :o
+2148 Hmm I think something happened to my warrior++ semi-truck which was hauling grain... it... it, disappeared <img src="../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
@@ -6893,7 +6893,7 @@ Felt good to be back in SP using vehicleExplorer mod, it was such an horrific li
 </p>
 
 <p>
-History was made today, F05 is the largest field I have ever harvested in farming simulator games, it is massive 1205ha in size. Next closest prior to this was some 600ha field I believe F22 is something of that size, now were talking twice the size. Just awesome! :-)
+History was made today, F05 is the largest field I have ever harvested in farming simulator games, it is massive 1205ha in size. Next closest prior to this was some 600ha field I believe F22 is something of that size, now were talking twice the size. Just awesome! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -6974,7 +6974,7 @@ I have tons of real life farming videos to watch on youtube as well. So there is
 </p>
 
 <p>
-I'm really not enthuasiastic about playing FS19, but hopefully I can easily get back into it and that would also get my editing juices flowing. But again going a bit offtopic. Lets start harvesting, to see how new courseplay version works and if I still remember how to drive a grain cart ;)
+I'm really not enthuasiastic about playing FS19, but hopefully I can easily get back into it and that would also get my editing juices flowing. But again going a bit offtopic. Lets start harvesting, to see how new courseplay version works and if I still remember how to drive a grain cart <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -7122,7 +7122,7 @@ But for now, we need to harvest this relatively tiny F17 of soybeans. This wont 
 </p>
 
 <p>
-1245 Saved game and exited, we are ready to edit this terrain some more and then switch seasons :)
+1245 Saved game and exited, we are ready to edit this terrain some more and then switch seasons <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -7130,7 +7130,7 @@ Feeling great of having achieved that crazy 1480ha F30 harvest and also this har
 </p>
 
 <p>
-But for now some terrain editing for this terrain and also others so it might be several days if not weeks before I return to this savegame, it might even be longer because currently this savegame in such a beautiful stage that there is nothing that can be quickly achieved or something that needs to be urgently finished, I am very happy where this savegame is now so it definitely will be a while before I return to this with new enthusiasm to attack those southern fields :)
+But for now some terrain editing for this terrain and also others so it might be several days if not weeks before I return to this savegame, it might even be longer because currently this savegame in such a beautiful stage that there is nothing that can be quickly achieved or something that needs to be urgently finished, I am very happy where this savegame is now so it definitely will be a while before I return to this with new enthusiasm to attack those southern fields <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -7154,7 +7154,7 @@ Today I feel like while goal is still the same I'm taking it slow, just enjoy th
 </p>
 
 <p>
-Anyways :)
+Anyways <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -7178,7 +7178,7 @@ I'm sort of hopeful that this eastern side of terrain (with gap on the middle) m
 </p>
 
 <p>
-Next what I want to do is to upgrade terrain into v0.1.6 which I just compiled today, then port existing savegame into it and get to work. Savegame porting though... is again pure horror hehe, its one of those things that I really, really, <i>really</i> don't want to do :)
+Next what I want to do is to upgrade terrain into v0.1.6 which I just compiled today, then port existing savegame into it and get to work. Savegame porting though... is again pure horror hehe, its one of those things that I really, really, <i>really</i> don't want to do <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -7186,7 +7186,7 @@ Loaded up existing old v0.1.4 of this terrain and savegame, checked all vehicles
 </p>
 
 <p>
-When loaded brand new career savegame with v0.1.6 and ported old savegame over... sure enough big bud 747s and two rubicons were mangled in trees. So had to shuffle those around with old terrain + savegame version first before again porting into new terrain version heh. The joys of terrain upgrades ;)
+When loaded brand new career savegame with v0.1.6 and ported old savegame over... sure enough big bud 747s and two rubicons were mangled in trees. So had to shuffle those around with old terrain + savegame version first before again porting into new terrain version heh. The joys of terrain upgrades <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -7241,7 +7241,7 @@ Plan now is to start fertilizing using rubicon 9000s. These first fields are pre
 </p>
 
 <p>
-And thats for todays farming session, got some arma3 editing to do so need to end here and switch computers. Todays farming was real nice after so long just spending time harvesting soybeans, was really refreshing to fertilize a bit :)
+And thats for todays farming session, got some arma3 editing to do so need to end here and switch computers. Todays farming was real nice after so long just spending time harvesting soybeans, was really refreshing to fertilize a bit <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -7450,7 +7450,7 @@ Once there, sent them on their way to F44 NW which is just by F41 where they beg
 </p>
 
 <p>
-Time accelerated until weather +10/+6C on 09/early-spring in-game 0824hrs. Weather forecast predicts above six degrees minimum temperatures from now on, so we are good to go for canola and wheat seeding :)
+Time accelerated until weather +10/+6C on 09/early-spring in-game 0824hrs. Weather forecast predicts above six degrees minimum temperatures from now on, so we are good to go for canola and wheat seeding <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -7567,7 +7567,7 @@ Corn is a nasty crop, unless I forgot the specs I think barley is the worst with
 </p>
 
 <p>
-One thing I must say, this planting season has progressed quite nicely, surprisingly fast actually. Its already been two(?) full days of seeding and this will be third, field work before that lasted again several days cant even remember as it was month ago by now. And there is still many many hours of seeding to do with bourgault air drills because few fields are huge in the SE sector. But those will get done, no worries :)
+One thing I must say, this planting season has progressed quite nicely, surprisingly fast actually. Its already been two(?) full days of seeding and this will be third, field work before that lasted again several days cant even remember as it was month ago by now. And there is still many many hours of seeding to do with bourgault air drills because few fields are huge in the SE sector. But those will get done, no worries <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -7633,7 +7633,7 @@ But then while editing video on the background windows 7 ran out of memory and b
 </p>
 
 <p>
-Had to reboot computer, then did that video editing out of the way first to get free HDD space etc. Then started FS19 back up and... was shocked to see F76 half seeded. I lost all that work for F76 seeding and using trucks to move farm 1 bin silo seeds to railroad silo 3... it must have been probably closer than 2 hours worth of work, all lost :(
+Had to reboot computer, then did that video editing out of the way first to get free HDD space etc. Then started FS19 back up and... was shocked to see F76 half seeded. I lost all that work for F76 seeding and using trucks to move farm 1 bin silo seeds to railroad silo 3... it must have been probably closer than 2 hours worth of work, all lost <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -7641,7 +7641,7 @@ Decided to call it a day here, I just couldn't bare to start reworking all that 
 </p>
 
 <p>
-<b>2020-12-22T1028</b> Back in FS19, this savegame has now 816hrs in it. Wonder how many was lost on yesterdays crash :(
+<b>2020-12-22T1028</b> Back in FS19, this savegame has now 816hrs in it. Wonder how many was lost on yesterdays crash <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -7661,7 +7661,7 @@ Brought two semi truck loads of seeds into the SE sector, this will last me at l
 </p>
 
 <p>
-1158 Finished seeding soybeans F76 and then did savegame :)
+1158 Finished seeding soybeans F76 and then did savegame <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -7685,7 +7685,7 @@ Was a bit frustrated of lack of anything to do, was watching tv show episodes wi
 </p>
 
 <p>
-Just another day of large scale farming ;)
+Just another day of large scale farming <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -7717,7 +7717,7 @@ When savegame loaded and I brought up ESC mapview it defaulted to fruit types, t
 </p>
 
 <p>
-Verified from video captures and yes I forgot to choose/change seeders crop type when starting, lame mistake :(
+Verified from video captures and yes I forgot to choose/change seeders crop type when starting, lame mistake <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -7752,7 +7752,7 @@ Two and a half hour worth of seeding, oh wow. Dunno how many minutes these bourg
 </p>
 
 <p>
-Last field to seed, feeling good, soon this planting season is over! :)
+Last field to seed, feeling good, soon this planting season is over! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -7760,7 +7760,7 @@ With all the time accelerating and preparing of harvesting vehicle fleet not sur
 </p>
 
 <p>
-And this harvest is probably larger than the previous one as there are so many medium to large size fields to harvest. Also those nasty high yielding crops like canola, corn and wheat heh. I bet that once this harvest season is over I'm going to take a long editing break on this savegame :)
+And this harvest is probably larger than the previous one as there are so many medium to large size fields to harvest. Also those nasty high yielding crops like canola, corn and wheat heh. I bet that once this harvest season is over I'm going to take a long editing break on this savegame <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -7768,7 +7768,7 @@ And this harvest is probably larger than the previous one as there are so many m
 </p>
 
 <p>
-That's it, planting season is over! Aayeah! :)
+That's it, planting season is over! Aayeah! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -7817,7 +7817,7 @@ Drove grain cart tractors to NE and recorded courseplay course for semi truck gr
 </p>
 
 <p>
-Felt great to get first field done in this harvest season :)
+Felt great to get first field done in this harvest season <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -7915,7 +7915,7 @@ Even though this was almost four hour (courseplay ETA) harvest session which is 
 </p>
 
 <p>
-Unloaded combines and grain carts to semi trucks and hauled soybeans to railroad silo 5. Currently railroad silos across the terrain contain 46.5 million liters of soybeans. Heh yes fourty six MILLION liters, all done legit no cheating ;)
+Unloaded combines and grain carts to semi trucks and hauled soybeans to railroad silo 5. Currently railroad silos across the terrain contain 46.5 million liters of soybeans. Heh yes fourty six MILLION liters, all done legit no cheating <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -7923,7 +7923,7 @@ Unloaded combines and grain carts to semi trucks and hauled soybeans to railroad
 </p>
 
 <p>
-<b>2021-01-01T1815</b> Happy New Year 2021! :)
+<b>2021-01-01T1815</b> Happy New Year 2021! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -7998,7 +7998,7 @@ Then drove the whole harvest vehicle fleet to south side of F49. This is a great
 </p>
 
 <p>
-Courseplay has very promising commits on my todays upgrade, I was eager to try once again if auger wagon grain cart overloader code would work as its supposed to. If I could play FS19 like I did play FS17... then I could in theory leave courseplay playing the game for me on PMC Gaming computer while I'm editing our terrains in PMC DevSurf computer. Yes I know, its kind of cheating if you go away from keyboard, but hey if I'm editing this terrain while courseplay is playing this terrain... I can live with it ;)
+Courseplay has very promising commits on my todays upgrade, I was eager to try once again if auger wagon grain cart overloader code would work as its supposed to. If I could play FS19 like I did play FS17... then I could in theory leave courseplay playing the game for me on PMC Gaming computer while I'm editing our terrains in PMC DevSurf computer. Yes I know, its kind of cheating if you go away from keyboard, but hey if I'm editing this terrain while courseplay is playing this terrain... I can live with it <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -8074,7 +8074,7 @@ Unloaded combines, grain carts and trucks in order to get ready to harvest corn 
 </p>
 
 <p>
-Another field harvested, aaah, feels great :)
+Another field harvested, aaah, feels great <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -8138,7 +8138,7 @@ Okay another field harvested, good stuff, always great feeling when you get a bi
 </p>
 
 <p>
-During this harvest I watched flyersfan82 twitch live stream as he played on <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a> terrain which was just released yesterday. Its funny thing that flyersfan82 said he read THIS start from zero story through (what was online at this date), he said to have enjoyed it heh, I never thought that anyone <i>really reads</i> these stories but was nice to hear someone did :)
+During this harvest I watched flyersfan82 twitch live stream as he played on <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a> terrain which was just released yesterday. Its funny thing that flyersfan82 said he read THIS start from zero story through (what was online at this date), he said to have enjoyed it heh, I never thought that anyone <i>really reads</i> these stories but was nice to hear someone did <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -8299,7 +8299,7 @@ Current in-game time 17/late-autumn 2029hrs, its pitch black dark. First time ac
 </p>
 
 <p>
-Yesterday I started to have a feeling that I want to finish this harvest season as fast as possible. Well doh, what have I done here for the who knows how many days now? Well yes sure but this feeling is now to "forget everything else in life, just get this task done" type of motivated attitude farming :)
+Yesterday I started to have a feeling that I want to finish this harvest season as fast as possible. Well doh, what have I done here for the who knows how many days now? Well yes sure but this feeling is now to "forget everything else in life, just get this task done" type of motivated attitude farming <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -8365,7 +8365,7 @@ Once the rain finally ended it was night again heh. So time accelerated until mo
 </p>
 
 <p>
-Weather is now (air/ground) +11/+7C and forecast predicts SNOWING tomorrow morning in-game 0600hrs! :x
+Weather is now (air/ground) +11/+7C and forecast predicts SNOWING tomorrow morning in-game 0600hrs! <img src="../images/smileys/icon_evil.gif" alt="Smiley :evil:" loading="lazy">
 </p>
 
 <p>
@@ -8381,7 +8381,7 @@ Anyways soil is dry I'll keep harvesting until night falls again. I almost feel 
 </p>
 
 <p>
-<i>This is getting exciting! ;)</i>
+<i>This is getting exciting! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"></i>
 </p>
 
 <p>
@@ -8421,7 +8421,7 @@ I used Fendt 1050 without grain cart, driving using GPS to keep it straigt and r
 </p>
 
 <p>
-<b>2021-01-17T0244</b> Back at PMC Gaming, lets finish this harvest season :)
+<b>2021-01-17T0244</b> Back at PMC Gaming, lets finish this harvest season <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -8429,7 +8429,7 @@ This savegame now has 943hrs in it, getting closer to one thousand day by day.
 </p>
 
 <p>
-Todays plan is to finish this harvest season heh. Not sure if I can do it, but I'll sure try. If one section in courseplay duration is 2h 15min... in real life game-play terms its more like 4hrs, well perhaps not that long but at least 3hrs. So 4 x 3 == 12 hours. That is doable... but I highly doubt it can be done in that time. Well later today we see how it goes, lets get started ;)
+Todays plan is to finish this harvest season heh. Not sure if I can do it, but I'll sure try. If one section in courseplay duration is 2h 15min... in real life game-play terms its more like 4hrs, well perhaps not that long but at least 3hrs. So 4 x 3 == 12 hours. That is doable... but I highly doubt it can be done in that time. Well later today we see how it goes, lets get started <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -8469,7 +8469,7 @@ Decided to time accelerate not with my usual 6000 speed but slower 600 just to m
 </p>
 
 <p>
-Well 600 speed until in-game 1817hrs and soil is wet, cannot harvest. Okay lets skip the night and hope for the best, but I am already having scary memories from PMC Texas Rowena 8km New Farmer game-mode where massive amount of my soybeans withered due 9 day seasons being too short to harvest it all. If 24 day seasons is too short for HALF of 16.3km terrain like PMC Grange Gardens 16km ... oh my. Okay, positive thoughts ... ;)
+Well 600 speed until in-game 1817hrs and soil is wet, cannot harvest. Okay lets skip the night and hope for the best, but I am already having scary memories from PMC Texas Rowena 8km New Farmer game-mode where massive amount of my soybeans withered due 9 day seasons being too short to harvest it all. If 24 day seasons is too short for HALF of 16.3km terrain like PMC Grange Gardens 16km ... oh my. Okay, positive thoughts ... <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -8485,7 +8485,7 @@ Well 600 speed until in-game 1817hrs and soil is wet, cannot harvest. Okay lets 
 </p>
 
 <p>
-04/early-winter in-game 1620hrs soil is dry! Weather +9/+3C and forecast predicts dry weather, there is snow in the ground haha! :-)
+04/early-winter in-game 1620hrs soil is dry! Weather +9/+3C and forecast predicts dry weather, there is snow in the ground haha! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -8553,11 +8553,11 @@ Oh and also combines need some fuel, number four is below 10%, three is below 20
 </p>
 
 <p>
-10/mid-winter in-game 0809hrs, GAME OVER, my soybeans withered :-(
+10/mid-winter in-game 0809hrs, GAME OVER, my soybeans withered <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-Unbelievable, twenty four frigging day season and its not enough time to harvest less than HALF of PMC Grande Gardens 16km ;)
+Unbelievable, twenty four frigging day season and its not enough time to harvest less than HALF of PMC Grande Gardens 16km <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -8565,7 +8565,7 @@ So there you go. I guess I'm going to pack up my harvest fleet with somber feeli
 </p>
 
 <p>
-To be clear I am not really disappointed or sad that this happens, its seasons and huge terrain, its a new learning experience for me that there just ain't enough time. Yes of course I would have liked to have flawless execution that this last field was completed, but I guess in a way this will be another of those fond memories of farmsim in the future :)
+To be clear I am not really disappointed or sad that this happens, its seasons and huge terrain, its a new learning experience for me that there just ain't enough time. Yes of course I would have liked to have flawless execution that this last field was completed, but I guess in a way this will be another of those fond memories of farmsim in the future <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -8593,7 +8593,7 @@ I must say I really have somber and relieved feeling right now after this harves
 </p>
 
 <p>
-When I next time load PMC Grande Gardens 16km up with this Start From Zero savegame, it will look so good and will be awesome to farm on :)
+When I next time load PMC Grande Gardens 16km up with this Start From Zero savegame, it will look so good and will be awesome to farm on <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -8601,7 +8601,7 @@ This savegame has now 950hrs in it heh.
 </p>
 
 <p>
-So now its time to sign off, until we return to PMC Grande Gardens Start From Zero ;)
+So now its time to sign off, until we return to PMC Grande Gardens Start From Zero <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>

@@ -39,7 +39,7 @@ Took an harvest contract for F104, 4.8ha. It pays 7.7k minus the borrowed vehicl
 <p>
 0620 started harvesting F104. Did courseplay course, really not in the mood to drive manually.<br>
 0741 finished harvesting F104, still need to haul grain into silo to complete the contract.<br>
-0748 unloaded trailer to horizon coop, contract finished and I got money from the grain, budget now 17,587 heh my first money ;)<br>
+0748 unloaded trailer to horizon coop, contract finished and I got money from the grain, budget now 17,587 heh my first money <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 0801 sold remaining grain from the harvest for 4,200 then collected contract reward, 6,854 and budget now 28,642.<br>
 0803 accepted fertilizing contract F48, 5.3ha. With borrowed vehicles.<br>
 0811 started fertilizing F48, contract.<br>
@@ -53,7 +53,7 @@ Took an harvest contract for F104, 4.8ha. It pays 7.7k minus the borrowed vehicl
 0847 started fertilizing F90, contract.<br>
 0852 finished fertilizing F90, collected contract reward 7,280.<br>
 0854 started fertilizing F88, contract.<br>
-0920 finished fertilizing F88, collected contract reward 7,331. Took a while as I helped Roozsta to test john deere 220 disc :)<br>
+0920 finished fertilizing F88, collected contract reward 7,331. Took a while as I helped Roozsta to test john deere 220 disc <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0925 started fertilizing F10, contract.<br>
 0943 finished fertilizing F10, collected contract reward 21,848.<br>
 0953 started fertilizing F53, contract.<br>
@@ -132,12 +132,12 @@ I must say in this career there has been a lot of time acceleration going on.
 </p>
 
 <p>
-2142 In-game 1633hrs got fertilizing contract for 30k, now I'm going to take it so I don't miss out once again. And when I ALT-TABbed back to game there was massive 127k reward one appeared as well, wow nice over one hundred and fifty grand worth of contracts, ayeah lets get to work :)<br>
+2142 In-game 1633hrs got fertilizing contract for 30k, now I'm going to take it so I don't miss out once again. And when I ALT-TABbed back to game there was massive 127k reward one appeared as well, wow nice over one hundred and fifty grand worth of contracts, ayeah lets get to work <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 2144 Leased another bredal k165 solid fertilizer spreader and tractor.<br>
 2152 started fertilizing F64, contract.<br>
 2212 finished fertilizing F64, collected contract reward 30,766.<br>
 2224 started fertilizing F108, contract. Courseplay duration 1h 17min, heh.<br>
-2344 finished fertilizing F108, collected contract reward 127,677. At the same time F64 fertilizing contract came available, again, odd? I'll take the 30k :)<br>
+2344 finished fertilizing F108, collected contract reward 127,677. At the same time F64 fertilizing contract came available, again, odd? I'll take the 30k <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 2350 started fertilizing F64, contract.
 </p>
 
@@ -146,7 +146,7 @@ I must say in this career there has been a lot of time acceleration going on.
 </p>
 
 <p>
-May 2019 started, whee ;)
+May 2019 started, whee <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -167,7 +167,7 @@ When doing these last two fields I was already planning on how to start my farm,
 
 <p>
 0045 Purchased the above setup so I'm ready for some fertilizing contracts.<br>
-0052 started fertilizing F83, contract. First time with my own vehicle ;)<br>
+0052 started fertilizing F83, contract. First time with my own vehicle <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 0106 finished fertilizing F83, collected contract reward 21,703. Budget now 81.8k<br>
 0126 After some time acceleration one lousy fertilizing contract came along.<br>
 0129 started fertilizing F88, contract.<br>
@@ -270,7 +270,7 @@ Fast forwarded through the night (x120 scale), then restarted FS19 to upgrade in
 1138 Finished seeding canola F80<br>
 1141 Accepted contract for fertilizing F16, F119, F12, F28, F41<br>
 1200 Started fertilizing F119, contract.<br>
-1252 Finished fertilizing F119, contract, collected contract reward 61.3k. Did mapUS sample terrain (weight images) while this was running :)<br>
+1252 Finished fertilizing F119, contract, collected contract reward 61.3k. Did mapUS sample terrain (weight images) while this was running <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1256 Started fertilizing F41, contract. Courseplay duration 1h 7min, oh my... guess I'm going back to edit mapUS sample terrain hehe<br>
 1336 Finished fertilizing F41, contract, collected contract reward 47.2k.
 </p>
@@ -347,7 +347,7 @@ Decided to seed soybeans so I wont run out of space in the tiny farm silo right 
 </p>
 
 <p>
-1002 Well that break turned out to be a bit longer, joined someone else to play MP for few hours :)<br>
+1002 Well that break turned out to be a bit longer, joined someone else to play MP for few hours <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1003 Fired FS19 back up, lets continue farming, well err, in my own savegame in singleplayer heh.<br>
 1008 Started fertilizing F02, contract.<br>
 1014 Finished fertilizing F02, contract, collected contract reward 9.5k.<br>
@@ -427,7 +427,7 @@ Budget now 474.1k nice. I think its land purchasing time. Decided to purchase la
 
 <p>
 1041 Purchased land lot which has F04 for 358.4k<br>
-1045 Started seeding canola F04. Courseplay duration 1h 59min yikes! Heh this vaderstad 6m seeder :)<br>
+1045 Started seeding canola F04. Courseplay duration 1h 59min yikes! Heh this vaderstad 6m seeder <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1046 Purchased land lot which has F05 for 55.2k<br>
 1316 Finished seeding canola F04<br>
 1318 Started seeding canola F05<br>
@@ -527,7 +527,7 @@ On this harvest got total of 61,498 liters canola out of F80.
 </p>
 
 <p>
-<b>2019-05-11T1208</b> Time to fire up midwest horizon and continue start from zero career :)
+<b>2019-05-11T1208</b> Time to fire up midwest horizon and continue start from zero career <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -590,7 +590,7 @@ Between 1400hrs and 1429hrs I had some chow, the last time I checked canola pric
 </p>
 
 <p>
-Right after finishing F05 I shut down FS19, been up over 16hrs almost all of it playing so time to call it a night even though I'm not really tired yet. Tomorrow... well if I can stick to my plan there will be no playing, just editing. We'll see how it goes. So hopefully next entry to this midwest horizon start from zero story comes after a loong while :)
+Right after finishing F05 I shut down FS19, been up over 16hrs almost all of it playing so time to call it a night even though I'm not really tired yet. Tomorrow... well if I can stick to my plan there will be no playing, just editing. We'll see how it goes. So hopefully next entry to this midwest horizon start from zero story comes after a loong while <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 	<h2>After The Break</h2>
@@ -632,11 +632,11 @@ Savegame porting for xml works: vehicles, farmland, farms and items. When you co
 </p>
 
 <p>
-Around 0605hrs started midwest horizon v1.1 with ported start from zero savegame to seasons. It was just the second field I started to work on, F04, which already gave me half an hour ETA on courseplay... THIS is what I wanted to avoid with very small scale quick fun farming... I wanted to have quick 5-10min fun, now I'm spending frigging half an hour on single field haha, oh well, thats darn farmsim for ya buddy ;)
+Around 0605hrs started midwest horizon v1.1 with ported start from zero savegame to seasons. It was just the second field I started to work on, F04, which already gave me half an hour ETA on courseplay... THIS is what I wanted to avoid with very small scale quick fun farming... I wanted to have quick 5-10min fun, now I'm spending frigging half an hour on single field haha, oh well, thats darn farmsim for ya buddy <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-0635 started to catch up on youtube farming videos by watching first welkers farm video I have not seen since I took a break from FS19. Man there is going to be hours of videos to watch now, oh well with FS19 courseplay running... I got nothing better to do haha ;)
+0635 started to catch up on youtube farming videos by watching first welkers farm video I have not seen since I took a break from FS19. Man there is going to be hours of videos to watch now, oh well with FS19 courseplay running... I got nothing better to do haha <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -655,12 +655,12 @@ I must say midwest horizon doesn't give me that small scale tiny quick fun farmi
 <p>
 0758 started seeding canola to F05<br>
 0824 finished seeding canola to F05<br>
-0825 started seeding canola to F04, courseplay ETA 2h 35min... uh oh, FS19 time sink strikes back, the horror... <b>the horror...</b> ;)<br>
+0825 started seeding canola to F04, courseplay ETA 2h 35min... uh oh, FS19 time sink strikes back, the horror... <b>the horror...</b> <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 1035 finished seeding canola to F04
 </p>
 
 <p>
-1037 Decided to call it a night, too tired. Honestly not sure if I continue tomorrow, it was fun kinda now to take a break from elite exploring, but I mostly just watched welker farms videos instead of playing as courseplay did all the playing as usual hehe :)
+1037 Decided to call it a night, too tired. Honestly not sure if I continue tomorrow, it was fun kinda now to take a break from elite exploring, but I mostly just watched welker farms videos instead of playing as courseplay did all the playing as usual hehe <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -716,7 +716,7 @@ Noticed that F04 and F05 has weeds in them, umm how did that happen after I herb
 </p>
 
 <p>
-So NOW all the fields are fully fertilized and growing :)
+So NOW all the fields are fully fertilized and growing <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -741,7 +741,7 @@ Some time accelerating to get crops to grow, weeds still keep growing which I ha
 </p>
 
 <p>
-04/mid-summer in-game 0620hrs canola crops were ready to harvest, aayeah! :)
+04/mid-summer in-game 0620hrs canola crops were ready to harvest, aayeah! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -822,7 +822,7 @@ Biggest limitation in my farm right now was the grain bin silo, it was the giant
 
 <p>
 0504 Finished seeding soybeans F80<br>
-0506 Started seeding soybeans F04, courseplay ETA 1h 50min uuh ;)<br>
+0506 Started seeding soybeans F04, courseplay ETA 1h 50min uuh <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 0536 Purchased small land lot between F77 through F79 for 69.2k<br>
 0538 Purchased PMC large grain bin silo (capacity 10 million liters) for 180k
 </p>
@@ -951,7 +951,7 @@ Decided to buy a seeder as previously I just leased it. Then it was time to do t
 </p>
 
 <p>
-Now.. well I could herbicide spray the fields but I rather just wait and see what happens with the weeds in the spring. So lets time accelerate to the next year then :)
+Now.. well I could herbicide spray the fields but I rather just wait and see what happens with the weeds in the spring. So lets time accelerate to the next year then <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -963,7 +963,7 @@ Now.. well I could herbicide spray the fields but I rather just wait and see wha
 </p>
 
 <p>
-Then it was time accelerating through one year :)
+Then it was time accelerating through one year <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -980,7 +980,7 @@ Then it was time accelerating through one year :)
 </p>
 
 <p>
-After selling budget 1.136 million! :)
+After selling budget 1.136 million! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1042,7 +1042,7 @@ F03 harvest got me 56,171 liters of soybeans (total in bin now 126,967 liters).
 </p>
 
 <p>
-0711 Leased another S790 and macdon FD75 header ;)<br>
+0711 Leased another S790 and macdon FD75 header <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 0713 Started harvesting soybeans F78, courseplay ETA 50min, 2x tools<br>
 0809 Returned leased S790 and macdon header<br>
 0813 Finished harvesting soybeans F78
@@ -1182,7 +1182,7 @@ All fields are done as much as I can do for now (well ok besides herbicide spray
 </p>
 
 <p>
-Okay all work done (well besides possible herbicide spraying), now its time to skip ahead to the soybean selling time with those good market prices :)
+Okay all work done (well besides possible herbicide spraying), now its time to skip ahead to the soybean selling time with those good market prices <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1190,7 +1190,7 @@ Okay all work done (well besides possible herbicide spraying), now its time to s
 </p>
 
 <p>
-04/mid-summer is here and the best day/time to sell soybeans. Currently in-game 0611hrs soybean market price is 3725 in horizion coop. Time to start haulin' :)
+04/mid-summer is here and the best day/time to sell soybeans. Currently in-game 0611hrs soybean market price is 3725 in horizion coop. Time to start haulin' <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1213,7 +1213,7 @@ So to recap we got 337,245 liters of soybeans and currently the market price is 
 </p>
 
 <p>
-Budget now 1.266 million, yeah! :)
+Budget now 1.266 million, yeah! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1450,11 +1450,11 @@ Decided to go herbicide spray F06 by cherry picking only the weed patches. That 
 </p>
 
 <p>
-04/mid-autumn in-game 0810hrs fields are ready to harvest! wow that happened much sooner than I expected, nice. Okay, lets start harvesting then :)
+04/mid-autumn in-game 0810hrs fields are ready to harvest! wow that happened much sooner than I expected, nice. Okay, lets start harvesting then <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Looking forward to this harvest with truck trailer and auger wagon, will be fun to start farming like normal people :)
+Looking forward to this harvest with truck trailer and auger wagon, will be fun to start farming like normal people <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1462,7 +1462,7 @@ Looking forward to this harvest with truck trailer and auger wagon, will be fun 
 </p>
 
 <p>
-After all those harvests with the crap beginner type trailer oh man did it feel good to be running proper auger wagon and truck with trailer :)
+After all those harvests with the crap beginner type trailer oh man did it feel good to be running proper auger wagon and truck with trailer <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1489,7 +1489,7 @@ Using massey ferguson 7726 with 270hp to pull brent 1596 auger wagon which requi
 </p>
 
 <p>
-And that's it, soybean harvest is done! :)
+And that's it, soybean harvest is done! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1524,7 +1524,7 @@ Budget before selling 51.7k and today in-game is 02/early-winter.
 </p>
 
 <p>
-All canola sold from farm bin silo. Budget after selling 1.907 million! :)
+All canola sold from farm bin silo. Budget after selling 1.907 million! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1532,11 +1532,11 @@ Right now I'm going to take a break from Midwest Horizon Start From Zero career 
 </p>
 
 <p>
-<b>2020-03-25T1407</b> Back at Start From Zero Midwest Horizon :)
+<b>2020-03-25T1407</b> Back at Start From Zero Midwest Horizon <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Here we are back in Midwest Horizon, I got quite bored if not burnt out for <a href="stories-from-zero-grande-gardens.php">PMC Grande Gardens 16km Start From Zero</a> savegame so change of terrain would do me good. I kind of miss the smaller scale farming again. I read through this page up until I took the above break, so after finishing reading I was absolutely going to play this savegame some, I just simply need some small scale farming also in some bizarre way its nice to play on someone elses terrain :)
+Here we are back in Midwest Horizon, I got quite bored if not burnt out for <a href="stories-from-zero-grande-gardens.php">PMC Grande Gardens 16km Start From Zero</a> savegame so change of terrain would do me good. I kind of miss the smaller scale farming again. I read through this page up until I took the above break, so after finishing reading I was absolutely going to play this savegame some, I just simply need some small scale farming also in some bizarre way its nice to play on someone elses terrain <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1552,7 +1552,7 @@ Went through my vehicles, nice medium size kit I have going on here. I have seri
 </p>
 
 <p>
-Did a field state check to make a list of fertilizing etc field work asks that need to be done, its then easy to just work through the list and enjoy farming :)
+Did a field state check to make a list of fertilizing etc field work asks that need to be done, its then easy to just work through the list and enjoy farming <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1853,7 +1853,7 @@ Soybeans market price kept dropping and it was just about the same as in Horizio
 </p>
 
 <p>
-Alright that is it, all my 683k liters of soybeans have been sold, roughly in the high 3700s price. Budget now 4.077m whoah very very nice! :)
+Alright that is it, all my 683k liters of soybeans have been sold, roughly in the high 3700s price. Budget now 4.077m whoah very very nice! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1865,7 +1865,7 @@ And now I'm in the everlasting dilemma; I have a lot of money but undecided what
 </p>
 
 <p>
-Still no other weeds have grown, only that one single alone spec on about middle of F78. Must be some demon beastly weed from depths of HELL ;)
+Still no other weeds have grown, only that one single alone spec on about middle of F78. Must be some demon beastly weed from depths of HELL <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1885,7 +1885,7 @@ Four million is quite a lot of money, I could buy ONE set of top of the line veh
 </p>
 
 <p>
-F77 is growing soybeans, its pretty big field and would definitely make a lot of money if I'd buy and harvest that, I think it would pretty much pay the land lot back right away, hmm. Also its right next to F78 and the area where my farm bin silo and refill station are. Hmm hmm, I don't think I need to even consider this any longer, I need to buy this field and get the money from the crop :)
+F77 is growing soybeans, its pretty big field and would definitely make a lot of money if I'd buy and harvest that, I think it would pretty much pay the land lot back right away, hmm. Also its right next to F78 and the area where my farm bin silo and refill station are. Hmm hmm, I don't think I need to even consider this any longer, I need to buy this field and get the money from the crop <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1910,7 +1910,7 @@ Drove john deere S790s to farm bin silo area, swapped corn headers to normal one
 </p>
 
 <p>
-In-game 1200hrs rain ended, however weather forecast predicts more rain from 1800hrs to midnight, so I doubt we get much soybeans harvesting done today as soil/crop has to dry up first. But by luck in-game 1538hrs crops are dry enough to harvest, alright lets continue! :)
+In-game 1200hrs rain ended, however weather forecast predicts more rain from 1800hrs to midnight, so I doubt we get much soybeans harvesting done today as soil/crop has to dry up first. But by luck in-game 1538hrs crops are dry enough to harvest, alright lets continue! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1920,7 +1920,7 @@ In-game 1200hrs rain ended, however weather forecast predicts more rain from 180
 </p>
 
 <p>
-New field purchase F77 soybeans harvest was total of 219,054 liters. If we calculate with somewhat good market price of 3750 we get 821,250 and if we subtract the price I paid from this land lot with F77 on it, we get 136,950 profit AND the land lot in the first place! haha oh man why would I ever buy any land without soybeans crop growing on it I cannot imagine reason why hehe ;)
+New field purchase F77 soybeans harvest was total of 219,054 liters. If we calculate with somewhat good market price of 3750 we get 821,250 and if we subtract the price I paid from this land lot with F77 on it, we get 136,950 profit AND the land lot in the first place! haha oh man why would I ever buy any land without soybeans crop growing on it I cannot imagine reason why hehe <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1940,7 +1940,7 @@ John Deere S790 combines with 618C corn headers was nice change sure, but oh man
 </p>
 
 <p>
-After this years harvest I'm SO going to sell these S790s and buy the largest combine :)
+After this years harvest I'm SO going to sell these S790s and buy the largest combine <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2054,7 +2054,7 @@ I took a look at seasons savegame files and crop rotation seems to be saved into
 </p>
 
 <p>
-Budget now 67.8k heh money is running low, but oh well I have bunch of crops in the farm bin silo waiting for the selling day :)
+Budget now 67.8k heh money is running low, but oh well I have bunch of crops in the farm bin silo waiting for the selling day <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2159,7 +2159,7 @@ While spending this fallow year I'm already planning on purchasing some lucrativ
 </p>
 
 <p>
-Time accelerated few hours and corn went high demand on horizion coop for 1911 hehe, oh wow man if I had waited just a bit before selling I would have made so much more money :)
+Time accelerated few hours and corn went high demand on horizion coop for 1911 hehe, oh wow man if I had waited just a bit before selling I would have made so much more money <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2187,7 +2187,7 @@ Before buying the land lot I did not calculate anything, I just assumed canola i
 </p>
 
 <p>
-Got 87.9k liters of canola from this field, if we calculate it with the highest market price it would be around 204k, not even half of the land price. But like said its all good, 204k is better than paying the full land price. Next time we only buy soybeans field lands :)
+Got 87.9k liters of canola from this field, if we calculate it with the highest market price it would be around 204k, not even half of the land price. But like said its all good, 204k is better than paying the full land price. Next time we only buy soybeans field lands <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2207,7 +2207,7 @@ Wanted to try play in real time to see how long can I last before I must time ac
 </p>
 
 <p>
-Budget now 1.184m alright now we start a whole new year field work and seed soybeans, new crop rotation begins, aayeah! :)
+Budget now 1.184m alright now we start a whole new year field work and seed soybeans, new crop rotation begins, aayeah! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2331,7 +2331,7 @@ My field work was just coming to an end, I had some money left so decided to buy
 </p>
 
 <p>
-Budget now 365.2k, just enough spending money for seeds and herbicide :)
+Budget now 365.2k, just enough spending money for seeds and herbicide <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2353,7 +2353,7 @@ Budget now 365.2k, just enough spending money for seeds and herbicide :)
 </p>
 
 <p>
-01/early-spring in-game 1840hrs it is getting dark, well basically its dark already I cant see the ground anymore. Now we get to see if I manage to work through the night like play in 24hrs day without time acceleration, I know it will be so cool to get into the morning daylight break but man that long dark night ahead of me heh, lets see if I can get through it :)
+01/early-spring in-game 1840hrs it is getting dark, well basically its dark already I cant see the ground anymore. Now we get to see if I manage to work through the night like play in 24hrs day without time acceleration, I know it will be so cool to get into the morning daylight break but man that long dark night ahead of me heh, lets see if I can get through it <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2386,7 +2386,7 @@ All the field preparation work has been done, all fields ready for seeding. Now 
 </p>
 
 <p>
-Yeah how about if we forget this work through the night nonsense heh, when it gets dark you time accelerate until the morning daylight as usual :)
+Yeah how about if we forget this work through the night nonsense heh, when it gets dark you time accelerate until the morning daylight as usual <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2394,11 +2394,11 @@ It was a nice idea and possibly required to do if you had animals which needed f
 </p>
 
 <p>
-Bourgault air cart 71300 had no seeds so I topped it up, usually this is done with elmer haulmaster as it has nice auger pipe and 70k liter capacity but for a while I have been on a lookout for something better as the tractor only pulls it 63km/h. Now I tried just for fun that could I overload from bsm truck trailer into the air cart auger spoon thingy and I could, wow never knew that. So now I'm going to swap all my seed hauling from elmers haulmaster to the trucks which are faster and I think more powerful than the tractor. Great, another efficiency improvement for my farm operations across all savegames :)
+Bourgault air cart 71300 had no seeds so I topped it up, usually this is done with elmer haulmaster as it has nice auger pipe and 70k liter capacity but for a while I have been on a lookout for something better as the tractor only pulls it 63km/h. Now I tried just for fun that could I overload from bsm truck trailer into the air cart auger spoon thingy and I could, wow never knew that. So now I'm going to swap all my seed hauling from elmers haulmaster to the trucks which are faster and I think more powerful than the tractor. Great, another efficiency improvement for my farm operations across all savegames <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-BTW 70k liters of seeds from the giants refill station costs 69.2k heh, not cheap, but I guess the seeds pay themselves back big time when you seed that many soybeans :)
+BTW 70k liters of seeds from the giants refill station costs 69.2k heh, not cheap, but I guess the seeds pay themselves back big time when you seed that many soybeans <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2410,7 +2410,7 @@ BTW 70k liters of seeds from the giants refill station costs 69.2k heh, not chea
 </p>
 
 <p>
-Was great feeling to see bourgault 3420-100 paralink hoe drill putting some soybeans into the ground. I decided to take a lunch break while courseplay is driving that monster ;)
+Was great feeling to see bourgault 3420-100 paralink hoe drill putting some soybeans into the ground. I decided to take a lunch break while courseplay is driving that monster <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2520,7 +2520,7 @@ Today we continue the last remaining three herbicide spraying field works, then 
 </p>
 
 <p>
-That is it all the field work for soybeans planting season has been DONE! :)
+That is it all the field work for soybeans planting season has been DONE! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2528,7 +2528,7 @@ Couple of fields had one single weed patch which I could not herbicide spray awa
 </p>
 
 <p>
-2031 Created North Dakota real world data terrain source files for SinisterSockz ;)
+2031 Created North Dakota real world data terrain source files for SinisterSockz <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2612,7 +2612,7 @@ Plan was to edit at least one week straight, well I managed to do the first hour
 </p>
 
 <p>
-Feels good to be back farming after one day of Giants Editor work ;)
+Feels good to be back farming after one day of Giants Editor work <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -2666,7 +2666,7 @@ Guess I'll stick with my normal routine that do full fertilization before seedin
 </p>
 
 <p>
-Soybeans harvest season is over! Aayeah :)
+Soybeans harvest season is over! Aayeah <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2797,7 +2797,7 @@ Attempted to spread lime to the fields that need it... but it would not stick, a
 </p>
 
 <p>
-Next it was time accelerating until germination happen so I can fertilize spray some more, assuming it works in the germination stage heh I think it will :)
+Next it was time accelerating until germination happen so I can fertilize spray some more, assuming it works in the germination stage heh I think it will <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2825,7 +2825,7 @@ Dead tired its time to call it a night, shut down FS19...
 </p>
 
 <p>
-1600 Back at PMC Gaming, FS19 booted up, we continue... umm where we left off last night :)
+1600 Back at PMC Gaming, FS19 booted up, we continue... umm where we left off last night <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -2841,7 +2841,7 @@ It was really refreshing lesson to learn that you cannot spread lime after seedi
 </p>
 
 <p>
-No more half measures :)
+No more half measures <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3156,7 +3156,7 @@ Took a short brek to eat some lunch. 02/early-spring in-game 1830hrs its getting
 </p>
 
 <p>
-Great feeling to finish that canola harvest, not only the usual sense of accomplishment on finishing harvest but because my goal now is to stop playing this savegame and continue editing. But before I stop anything I will sell all the canola and soybeans, I want them moneyz ;)
+Great feeling to finish that canola harvest, not only the usual sense of accomplishment on finishing harvest but because my goal now is to stop playing this savegame and continue editing. But before I stop anything I will sell all the canola and soybeans, I want them moneyz <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3168,7 +3168,7 @@ Found one header width patch of canola from F78 which I combined away heh while 
 </p>
 
 <p>
-Farm bin silo now has canola 1.274m and soybeans the same old 1.888m liters. Hmm ok thats odd, why do I have more soybeans than canola? Did the fields that needed lime really reduce the yield that much, sounds pretty unbelievable. Or did I already have some soybeans before the harvest, heh I cant remember that far back :)
+Farm bin silo now has canola 1.274m and soybeans the same old 1.888m liters. Hmm ok thats odd, why do I have more soybeans than canola? Did the fields that needed lime really reduce the yield that much, sounds pretty unbelievable. Or did I already have some soybeans before the harvest, heh I cant remember that far back <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3211,11 +3211,11 @@ Next we time accelerate until soybeans best market price selling day arrives, th
 </p>
 
 <p>
-I feel quite frustrated even at fresh new day starting because Start From Zero Midwest Horizon was supposed to be wrapped up was it like THREE days ago now and I'm still here, still playing... its like farmsim game is this mean nasty bitch where there are no escape from ;)
+I feel quite frustrated even at fresh new day starting because Start From Zero Midwest Horizon was supposed to be wrapped up was it like THREE days ago now and I'm still here, still playing... its like farmsim game is this mean nasty bitch where there are no escape from <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-Indeed I should be editing terrains, play testing only PMC terrains... not wasting my time playing "just for fun", damn these first world problems I'm having :)
+Indeed I should be editing terrains, play testing only PMC terrains... not wasting my time playing "just for fun", damn these first world problems I'm having <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3248,7 +3248,7 @@ Next we have 1.274m liters of canola to sell, best market price will be at 09/la
 </p>
 
 <p>
-Bizarre thing is that more time it takes to sell this grain... the more I feel like continuing playing, sort of eyeballing what lands to buy next and then starting to field work on them, heh. That would be bad ;)
+Bizarre thing is that more time it takes to sell this grain... the more I feel like continuing playing, sort of eyeballing what lands to buy next and then starting to field work on them, heh. That would be bad <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3292,7 +3292,7 @@ Started to haul canola to horizion coop, gimme that money. Actually felt really 
 </p>
 
 <p>
-Aayeah all the grain has been sold! Whohooo! ;)
+Aayeah all the grain has been sold! Whohooo! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3378,7 +3378,7 @@ Plan was also to continue NOT making videos/livestreams as I prefer to only do P
 </p>
 
 <p>
-Was actually excited to launch this savegame after this long 10 months (with the exception of that quick precision farming attempt). I wanted to add some new mods, had few in mind but decided to get this show on the road with the existing mod-set first, there will be plenty of time to think about new mods when doing long field work :)
+Was actually excited to launch this savegame after this long 10 months (with the exception of that quick precision farming attempt). I wanted to add some new mods, had few in mind but decided to get this show on the road with the existing mod-set first, there will be plenty of time to think about new mods when doing long field work <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3410,7 +3410,7 @@ Soil is wet cannot harvest, time accelerating until it dries up. In-game 1800hrs
 </p>
 
 <p>
-03/early-winter in-game 0848hrs, weather -2/+2C and forecast predicts zero drying potential until tomorrow. In-game 1532hrs soil is dry! Lets harvest some soybeans! :)
+03/early-winter in-game 0848hrs, weather -2/+2C and forecast predicts zero drying potential until tomorrow. In-game 1532hrs soil is dry! Lets harvest some soybeans! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -3478,7 +3478,7 @@ Drove massey ferguson 7726 with bredal k165 lime spread setup to F83. Refueled i
 </p>
 
 <p>
-Next field was so small I decided its easier and quicker to just do it manually using GPS instead of courseplay which takes forever in the turns, plus I like GPS driving on small terrains ;)
+Next field was so small I decided its easier and quicker to just do it manually using GPS instead of courseplay which takes forever in the turns, plus I like GPS driving on small terrains <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3492,7 +3492,7 @@ Next field was so small I decided its easier and quicker to just do it manually 
 </p>
 
 <p>
-04/early-winter in-game 0745hrs, gooood mooorning Midwest Horizon! Weather 0/+2C and forecast predicts, well who really cares when doing field work other than seeding and harvesting ;)
+04/early-winter in-game 0745hrs, gooood mooorning Midwest Horizon! Weather 0/+2C and forecast predicts, well who really cares when doing field work other than seeding and harvesting <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3601,7 +3601,7 @@ Here we had our first boring moment, had nothing to watch in twitch or youtube a
 </p>
 
 <p>
-Stopped rubicon under courseplay and continued driving with GPS myself ;)
+Stopped rubicon under courseplay and continued driving with GPS myself <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3663,7 +3663,7 @@ Now I sort of got bored and demoralized looking at the number of fields I need t
 </p>
 
 <p>
-Dunno man, I just don't have energy to meticulously care for these fields until end of days, I just want to finish this savegame and be done with it. Yes I know, I'm no good farmer hehe ;)
+Dunno man, I just don't have energy to meticulously care for these fields until end of days, I just want to finish this savegame and be done with it. Yes I know, I'm no good farmer hehe <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3695,7 +3695,7 @@ So time acceleration until next years planting season begins now. Oh btw I got 8
 </p>
 
 <p>
-Decided to do this first field with manual driving as its so nice to roll with Big Bud 747 pulling monster Bourgault 3420-100 Paralink Hoe Drill ;)
+Decided to do this first field with manual driving as its so nice to roll with Big Bud 747 pulling monster Bourgault 3420-100 Paralink Hoe Drill <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3703,7 +3703,7 @@ Probably going to switch to courseplay when next large field comes along, smalle
 </p>
 
 <p>
-Oh and I want to only seed big fields to make money, easy seeding and harvesting, big whole sale bulk ;)
+Oh and I want to only seed big fields to make money, easy seeding and harvesting, big whole sale bulk <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -3939,7 +3939,7 @@ And then lateron get to start soybeans harvest, that of course will last for cou
 </p>
 
 <p>
-Shut down FS19 for lunch break, also need to take care one phone call so want to be hands free from FS19 so to speak. Planing season is progressing very nicely, seeding is done and now we are just making sure we get the best yield possible within our make money fast scope ;)
+Shut down FS19 for lunch break, also need to take care one phone call so want to be hands free from FS19 so to speak. Planing season is progressing very nicely, seeding is done and now we are just making sure we get the best yield possible within our make money fast scope <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4078,7 +4078,7 @@ Here I am still fertilizing, still in planting season... did I write earlier tod
 </p>
 
 <p>
-All done! planting season is a wrap! ;)
+All done! planting season is a wrap! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4106,7 +4106,7 @@ Okay now I'm getting so tired on my eyes that its better to call it a night here
 </p>
 
 <p>
-So more time accelerating until we are in harvest season. Combines are all ready to go. I could herbicide spray... but nah, I don't think the weeds reduce our yield that much that I would care for now, I just want to harvest and get some money and then buy more land ;)
+So more time accelerating until we are in harvest season. Combines are all ready to go. I could herbicide spray... but nah, I don't think the weeds reduce our yield that much that I would care for now, I just want to harvest and get some money and then buy more land <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4126,7 +4126,7 @@ First obviously had to setup semi truck grain haul course to farm bin silo, I do
 </p>
 
 <p>
-Second combine fell into river and got stuck there, it was just one of these cliche FS19 rage inducing moments trying to get that frigging thing out of the river. I finally got combine alone out of the river but header was still floating across river. I knew it would be easy to reset header to the shop... but no way in hell I'm taking header trailer and go pick it up from there FOR NO OTHER REASON THAN DUMB GEOMETRY ISSUE. So yeah, GRRR! :x
+Second combine fell into river and got stuck there, it was just one of these cliche FS19 rage inducing moments trying to get that frigging thing out of the river. I finally got combine alone out of the river but header was still floating across river. I knew it would be easy to reset header to the shop... but no way in hell I'm taking header trailer and go pick it up from there FOR NO OTHER REASON THAN DUMB GEOMETRY ISSUE. So yeah, GRRR! <img src="../images/smileys/icon_evil.gif" alt="Smiley :x" loading="lazy">
 </p>
 
 <p>
@@ -4288,7 +4288,7 @@ After days first meal I started PMC Gaming computer and continued this savegame,
 </p>
 
 <p>
-Again forgot to write two finish/start times down heh sorry about that. Had some odd chats going on in discord, I should actually reduce my discord activity by like ... a lot, more than half, probably like 90% to be honest. Oh well, pay attention when farming ;)
+Again forgot to write two finish/start times down heh sorry about that. Had some odd chats going on in discord, I should actually reduce my discord activity by like ... a lot, more than half, probably like 90% to be honest. Oh well, pay attention when farming <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4296,7 +4296,7 @@ Again forgot to write two finish/start times down heh sorry about that. Had some
 </p>
 
 <p>
-Harvest season is complete! Whohooo! :-)
+Harvest season is complete! Whohooo! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -4304,11 +4304,11 @@ Then it was just driving all the vehicles back to farm yard. After harvest seaso
 </p>
 
 <p>
-0638 Combines arrived to farm yard and were parked for the winter, harvest season is officially over ;)
+0638 Combines arrived to farm yard and were parked for the winter, harvest season is officially over <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-This harvest season got our farm 3.033 million liters of soybeans :)
+This harvest season got our farm 3.033 million liters of soybeans <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -4386,7 +4386,7 @@ Off to eat lunch while trucks roll... I'm probably going to miss at least two tr
 0938 Sold soybeans for 257.5k<br>
 0947 Sold soybeans for 257.5k<br>
 0949 Sold soybeans for 257.5k<br>
-0959 Sold soybeans for 257.5k, missed one just before this as I was quickly visiting restroom ;)<br>
+0959 Sold soybeans for 257.5k, missed one just before this as I was quickly visiting restroom <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 1004 Trucks are heading for the next loads and there is 1 million liters left in the bin silo, uuh...<br>
 1009 Sold soybeans for 257.5k<br>
 1011 Sold soybeans for 257.5k<br>
@@ -4407,11 +4407,11 @@ Off to eat lunch while trucks roll... I'm probably going to miss at least two tr
 </p>
 
 <p>
-This years harvest grain sold! Whohoo! ;)
+This years harvest grain sold! Whohoo! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-But yeah "whohoo" for you for taking from 0716hrs - 1125hrs, that is insane :(
+But yeah "whohoo" for you for taking from 0716hrs - 1125hrs, that is insane <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -4571,7 +4571,7 @@ Drove semi truck grain trailer back to farm yard, refilled seed cleaner, then dr
 </p>
 
 <p>
-okay now harvest season is wrapped up, meaning this temporary 3 day action packed season config ;)
+okay now harvest season is wrapped up, meaning this temporary 3 day action packed season config <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4586,7 +4586,7 @@ Decided to do one fertilizing contract, F119 for 61.3k reward.
 </p>
 
 <p>
-Hmm started F81 because lime spreading on F77 took so long, umm how did that happen, heh. What I mean is if your work takes a long time why would you start even more work. This fertilizing will finish much quicker than liming so it kind of passes the time, but overall point is that how did I end up doing field work, this was not what I had planned for todays early and brief farming session :)
+Hmm started F81 because lime spreading on F77 took so long, umm how did that happen, heh. What I mean is if your work takes a long time why would you start even more work. This fertilizing will finish much quicker than liming so it kind of passes the time, but overall point is that how did I end up doing field work, this was not what I had planned for todays early and brief farming session <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -4640,7 +4640,7 @@ Anyways I'll do a lime/fert list of fields now and get to work while this 3 day 
 <p>
 1358 Started fertilizing F77, courseplay ETA 30min<br>
 1416 Purchased bredal k165 with extensions and spreader disks, I need fertilizing powa!<br>
-1421 Ran out of money buying solid fertilizer to new bredal k165 ;)<br>
+1421 Ran out of money buying solid fertilizer to new bredal k165 <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 1422 Started fertilizing F73, courseplay ETA 11min<br>
 1428 Finished fertilizing F77<br>
 1429 Started fertilizing F78, courseplay ETA 15min<br>
@@ -4684,7 +4684,7 @@ Anyways I'll do a lime/fert list of fields now and get to work while this 3 day 
 </p>
 
 <p>
-Decided to go fertilize that biggest field, I just had to do it. That field will be glorious to harvest on great soybeans, guess I miss the megalodon fields of PMC Grande Gardens 16km ;)
+Decided to go fertilize that biggest field, I just had to do it. That field will be glorious to harvest on great soybeans, guess I miss the megalodon fields of PMC Grande Gardens 16km <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -4901,7 +4901,7 @@ Alright all fields that accepted spraying have been done now, next is just time 
 </p>
 
 <p>
-Uaah all done, planting season is a wrap! :)
+Uaah all done, planting season is a wrap! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5029,7 +5029,7 @@ Again awesome sense of accomplishment to finish a long harvest season.
 </p>
 
 <p>
-I'm quite amazed that semi truck hauling grain with that puny 40,000 liter demco trailer can keep up with two combines. Yes that semi was often times running constantly, but never I got so overwhelmed that I'd have to wait for the truck to return. Clearly I need to buy second truck to ease the operations but yeah kind of surprised how smoothly this harvest season went. I'm sure when we switch to canola or corn we start to have some issues :)
+I'm quite amazed that semi truck hauling grain with that puny 40,000 liter demco trailer can keep up with two combines. Yes that semi was often times running constantly, but never I got so overwhelmed that I'd have to wait for the truck to return. Clearly I need to buy second truck to ease the operations but yeah kind of surprised how smoothly this harvest season went. I'm sure when we switch to canola or corn we start to have some issues <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5102,11 +5102,11 @@ Returned leased vehicles then time accelerated until morning light (I just find 
 </p>
 
 <p>
-Budget now 8.902 million, nicely done. Then <b>bought all the land with fields</b> and paid back bank loan, budget now 4.663 million. very nice! :)
+Budget now 8.902 million, nicely done. Then <b>bought all the land with fields</b> and paid back bank loan, budget now 4.663 million. very nice! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-So now I own all the land lots with fields in them, there are like 22-24 land lots without fields which I did not buy, because... why would I, some of them are just forests with trees that has no logging value, so no point buying them. First part of the savegame finishing goal is met, buy all the land :)
+So now I own all the land lots with fields in them, there are like 22-24 land lots without fields which I did not buy, because... why would I, some of them are just forests with trees that has no logging value, so no point buying them. First part of the savegame finishing goal is met, buy all the land <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5365,7 +5365,7 @@ Another field blocked off by fences, F96. Skipping.
 </p>
 
 <p>
-Lunch break ;)
+Lunch break <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -5399,15 +5399,15 @@ Okay found the path, back to this savegame and lets drive in darkness heh.
 </p>
 
 <p>
-Okay that is it, planting season is finished! :)
+Okay that is it, planting season is finished! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Parked case ih steiger with bourgault 3320-76 into farm yard and shut it down, we are done for tonight and for this planting season ;)
+Parked case ih steiger with bourgault 3320-76 into farm yard and shut it down, we are done for tonight and for this planting season <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
-2133 Shut down FS19, tomorrow harvest season begins ;)
+2133 Shut down FS19, tomorrow harvest season begins <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -5427,7 +5427,7 @@ Today I'm going to live stream on twitch and youtube. Will be nice to have perma
 </p>
 
 <p>
-02/early-autumn in-game 0728hrs, weather +16/+20C and forecast predicts rain tomorrow morning 0600hrs. Our soybeans are harvest ready! :)
+02/early-autumn in-game 0728hrs, weather +16/+20C and forecast predicts rain tomorrow morning 0600hrs. Our soybeans are harvest ready! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -5528,7 +5528,7 @@ Night has fallen, 02/early-autumn in-game 2020hrs its getting really dark, skipp
 </p>
 
 <p>
-0111 Dead tired, been twitch and youtube live streaming for 12 hours 35 minutes. Time to sleep ;)
+0111 Dead tired, been twitch and youtube live streaming for 12 hours 35 minutes. Time to sleep <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -5536,7 +5536,7 @@ Night has fallen, 02/early-autumn in-game 2020hrs its getting really dark, skipp
 </p>
 
 <p>
-You know the drill, less typing in local html files during live streams, more harvesting ;)
+You know the drill, less typing in local html files during live streams, more harvesting <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -5665,7 +5665,7 @@ Claas Lexion 8900s were running low on fuel so brought in pickup truck 1978 with
 </p>
 
 <p>
-1031 Was snoozing off so had to go take a nap, my sleeping cycle is all out of whack :(<br>
+1031 Was snoozing off so had to go take a nap, my sleeping cycle is all out of whack <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"><br>
 1323 Okay we are back at farming, harvest continues
 </p>
 
@@ -5707,7 +5707,7 @@ Started live streaming here, only five more fields to go and then this savegame 
 </p>
 
 <p>
-That is it, this savegame has been finished, <b>I bought all the land and harvested all the fields!</b> Whohoooo! :-)
+That is it, this savegame has been finished, <b>I bought all the land and harvested all the fields!</b> Whohoooo! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -5715,7 +5715,7 @@ After finishing that harvest I drove all vehicles to farm 1 (well we only had on
 </p>
 
 <p>
-Emotional feeling, finishing a savegame :)
+Emotional feeling, finishing a savegame <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

@@ -122,7 +122,7 @@ Interesting observation that when you have many fields after a rain, you need to
 </p>
 
 <p>
-Crop moisture went down from 40 to 23% and then thunderstorms began at 1200hrs which were forecast to last until 2100hrs hehe. Well I time accelerated and after the thunderstorm was over at 2145hrs crop moisture was 41% haha. Farmers life, eh :)
+Crop moisture went down from 40 to 23% and then thunderstorms began at 1200hrs which were forecast to last until 2100hrs hehe. Well I time accelerated and after the thunderstorm was over at 2145hrs crop moisture was 41% haha. Farmers life, eh <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -289,7 +289,7 @@ Took care of the weeds with a rubicon 9000, it was really difficult to spot them
 </p>
 
 <p>
-At in-game 0715hrs all three fields sprayed for weeds, now its just time accelerating and waiting for harvest. Already starting nearvously checking weather forecast for the upcoming days that will there be rain on the harvest season :)
+At in-game 0715hrs all three fields sprayed for weeds, now its just time accelerating and waiting for harvest. Already starting nearvously checking weather forecast for the upcoming days that will there be rain on the harvest season <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -305,7 +305,7 @@ Seasons mod requires game-play style adjustment, you cannot mass harvest and see
 </p>
 
 <p>
-01/early-autumn at in-game 1230hrs fields were ready to harvest, yes! let the harvest begin! :)
+01/early-autumn at in-game 1230hrs fields were ready to harvest, yes! let the harvest begin! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -317,7 +317,7 @@ At in-game 1345hrs F05 harvested. 1446hrs next field harvested.
 </p>
 
 <p>
-At in-game 1502hrs was actually ALT-TABbed when it started to rain, oh wow surprise rain! I was looking at the sky and there was this dark nasty cloud which made me worry but I thought that nah its the 1800hrs forecasted cloud slowly forming... well, it wasnt, its still three hours away and now we have rain already :)
+At in-game 1502hrs was actually ALT-TABbed when it started to rain, oh wow surprise rain! I was looking at the sky and there was this dark nasty cloud which made me worry but I thought that nah its the 1800hrs forecasted cloud slowly forming... well, it wasnt, its still three hours away and now we have rain already <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -329,7 +329,7 @@ At in-game 1943hrs rain had stopped and crop moisture was 32 percent. So now we 
 </p>
 
 <p>
-03/early-autumn at in-game 1312hrs crop moisture dropped enough and we are back harvesting. Weather forecast predicts rain again starting from 0300hrs tonight (precipitation at midnight 90 percent chance), it unfortunately looks to be lasting all the way up to noon :(
+03/early-autumn at in-game 1312hrs crop moisture dropped enough and we are back harvesting. Weather forecast predicts rain again starting from 0300hrs tonight (precipitation at midnight 90 percent chance), it unfortunately looks to be lasting all the way up to noon <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -365,7 +365,7 @@ At in-game 0208hrs F02 harvested, all owned fields are now harvested!
 </p>
 
 <p>
-Also this harvest finished one hour before forecasted rain which was to last for 1200hrs heh. Nick of time eh ;)
+Also this harvest finished one hour before forecasted rain which was to last for 1200hrs heh. Nick of time eh <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -416,7 +416,7 @@ First night at 3000 time acceleration until 1200hrs the next day worked the same
 </p>
 
 <p>
-Weather forecast for 0900hrs is SNOW heh nice :)
+Weather forecast for 0900hrs is SNOW heh nice <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -528,7 +528,7 @@ The 24 day season is extremely long, you need to have many fields which you work
 </p>
 
 <p>
-02/early-autumn 0840hrs stopped time acceleration and whoah crop ready to harvest! :)
+02/early-autumn 0840hrs stopped time acceleration and whoah crop ready to harvest! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -568,7 +568,7 @@ Man I should have just got some cheat money hehe. Oh well I have some dezzaz sol
 </p>
 
 <p>
-21/late-autumn around noon it started to snow, 3/6C :)
+21/late-autumn around noon it started to snow, 3/6C <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -656,7 +656,7 @@ Time to preemptively herbicide spray the new fields. 1907hrs F31 herbicide spray
 </p>
 
 <p>
-2112hrs all spring work was done, now we just wait when crops grow and we get to the harvest season :)
+2112hrs all spring work was done, now we just wait when crops grow and we get to the harvest season <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -668,11 +668,11 @@ Time to preemptively herbicide spray the new fields. 1907hrs F31 herbicide spray
 </p>
 
 <p>
-18/late-summer 1237hrs F01 and F02 barley was ready to harvest. Guess I'm breaking out the combines a bit earlier this harvest season then :)
+18/late-summer 1237hrs F01 and F02 barley was ready to harvest. Guess I'm breaking out the combines a bit earlier this harvest season then <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-When harvesting F02 I was thinking that oh I need to hurry up to get cultivating, fertilizing etc whatever is required going on for F01, but then I realized that hey I have all the time in the world to do that once the F02 harvest is over because all you do is time accelerate and yawn, so what better time to do mundane field preparation work :)
+When harvesting F02 I was thinking that oh I need to hurry up to get cultivating, fertilizing etc whatever is required going on for F01, but then I realized that hey I have all the time in the world to do that once the F02 harvest is over because all you do is time accelerate and yawn, so what better time to do mundane field preparation work <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -696,7 +696,7 @@ This kind thinking from non-season game-play is hard to forget now. In a way you
 </p>
 
 <p>
-20/late-summer 0716hrs purchased the next big field number 22, its nice 611.8ha ;)
+20/late-summer 0716hrs purchased the next big field number 22, its nice 611.8ha <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -704,11 +704,11 @@ This field has harvest ready barley, ironically as it will be the biggest field 
 </p>
 
 <p>
-Oh well, don't make huge terrains if you're scared of working in one field for hours :)
+Oh well, don't make huge terrains if you're scared of working in one field for hours <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-0751hrs started harvesting F22. 1655hrs F22 NW corner harvested. So it took me 9 frigging hours to harvest this one part of that huge field, now I have THREE more to go haha :)
+0751hrs started harvesting F22. 1655hrs F22 NW corner harvested. So it took me 9 frigging hours to harvest this one part of that huge field, now I have THREE more to go haha <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -728,7 +728,7 @@ Forgot to write what time NE corner harvest was done, 0950hrs something, oh well
 </p>
 
 <p>
-Gotta love farmsim and large terrains eh ;)
+Gotta love farmsim and large terrains eh <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -740,7 +740,7 @@ Gotta love farmsim and large terrains eh ;)
 </p>
 
 <p>
-22/late-summer 0610hrs. Goood morning Grande Gaaardeeeeens! :)
+22/late-summer 0610hrs. Goood morning Grande Gaaardeeeeens! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -756,7 +756,7 @@ I was very excited about new seasons update and especially the US midwest GEO wh
 </p>
 
 <p>
-1049hrs farm bin silo all 10 million liters got full heh, had to buy silo extension one million liters for it :)
+1049hrs farm bin silo all 10 million liters got full heh, had to buy silo extension one million liters for it <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -764,7 +764,7 @@ This 611ha barley harvest was a nightmare, it felt like it will NEVER END hehe. 
 </p>
 
 <p>
-1301hrs F22 harvested, the whole huge 611ha field has been now completely harvested. Hooyah! :-)
+1301hrs F22 harvested, the whole huge 611ha field has been now completely harvested. Hooyah! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -780,7 +780,7 @@ Or sure you can do F40 as barley but don't blame me if you get bored to death af
 </p>
 
 <p>
-But again FS19 froze/locked up and had to kill the process, then had to restart all those courseplay courses, sigh :(
+But again FS19 froze/locked up and had to kill the process, then had to restart all those courseplay courses, sigh <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -792,7 +792,7 @@ The only fortunate thing was that I JUST saved it so I wont lose pretty much any
 </p>
 
 <p>
-1650hrs started seeding canola F20. Two big bud 747's pulling seed hawks, courseplay ETA 3h 35min :)
+1650hrs started seeding canola F20. Two big bud 747's pulling seed hawks, courseplay ETA 3h 35min <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -804,7 +804,7 @@ The only fortunate thing was that I JUST saved it so I wont lose pretty much any
 </p>
 
 <p>
-0706hrs F01, F02 and F20 got germinated overnight. 0710hrs started seeding canola F22. Two seed hawks courseplay ETA 7h 11min ;)
+0706hrs F01, F02 and F20 got germinated overnight. 0710hrs started seeding canola F22. Two seed hawks courseplay ETA 7h 11min <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -828,7 +828,7 @@ Did fertilizing contract for F05, it had 2.3 million reward heh, took a while to
 </p>
 
 <p>
-Actually I stop writing these play-by-plays, this is not <a href="stories.php">my usual farm story</a>, this is testing of seasons :)
+Actually I stop writing these play-by-plays, this is not <a href="stories.php">my usual farm story</a>, this is testing of seasons <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -836,7 +836,7 @@ Actually I stop writing these play-by-plays, this is not <a href="stories.php">m
 </p>
 
 <p>
-1011hrs had a lot of fertilizing and seed hawk canola seeding action going on in "western" part of my farm on the new lands I purchased. A lot of canola went to the ground and I was just laughing evil laughter that how much money do I get when this crop is harvested ;)
+1011hrs had a lot of fertilizing and seed hawk canola seeding action going on in "western" part of my farm on the new lands I purchased. A lot of canola went to the ground and I was just laughing evil laughter that how much money do I get when this crop is harvested <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -920,7 +920,7 @@ I really just want to get the upcoming soybean harvest done and then get ready f
 </p>
 
 <p>
-1528hrs its raining and I started to seed canola to F05 which will be last field to seed in this season. I bought two big bud 747's with seed hawks and they are now rocking and rolling in that field, courseplay ETA 6h 55min :)
+1528hrs its raining and I started to seed canola to F05 which will be last field to seed in this season. I bought two big bud 747's with seed hawks and they are now rocking and rolling in that field, courseplay ETA 6h 55min <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -944,7 +944,7 @@ This was my last field work task for this season (year) before the big soybean h
 </p>
 
 <p>
-Now its just time accelerating until the soybeans fields are ready to harvest. Or not... still had to go herbicide spray F48 and F49 in the NE ;)
+Now its just time accelerating until the soybeans fields are ready to harvest. Or not... still had to go herbicide spray F48 and F49 in the NE <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -960,7 +960,7 @@ Now its just time accelerating until the soybeans fields are ready to harvest. O
 </p>
 
 <p>
-08/early-autumn 0748hrs, skipped the night. Nothing new on the farm ;)
+08/early-autumn 0748hrs, skipped the night. Nothing new on the farm <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -968,11 +968,11 @@ Now its just time accelerating until the soybeans fields are ready to harvest. O
 </p>
 
 <p>
-Tomorrow night 0300hrs forecast predicts 80% chance of rain, then later that day 70% chance. Then again couple of days later two days in a row for chance of rain. Damn I hope that will not ruin my harvesting schedule too bad. But hey if it does, thats seasons for ya :)
+Tomorrow night 0300hrs forecast predicts 80% chance of rain, then later that day 70% chance. Then again couple of days later two days in a row for chance of rain. Damn I hope that will not ruin my harvesting schedule too bad. But hey if it does, thats seasons for ya <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-I bought a new ideal 9t combine and upgraded all MacDon FD75 13.7m headers to midwest durus 16.5m headers with header trailers (with fuel tank). I'm waiting for the upcoming soybean harvest like a little kid waits for christmas eve :)
+I bought a new ideal 9t combine and upgraded all MacDon FD75 13.7m headers to midwest durus 16.5m headers with header trailers (with fuel tank). I'm waiting for the upcoming soybean harvest like a little kid waits for christmas eve <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1000,7 +1000,7 @@ I got five fields now which could be fertilized, but honestly I just want to get
 </p>
 
 <p>
-15/mid-autumn 0922hrs, skipped the night, rain had ended. Now the forecast is clear for several days, this would be a great time for soybeans to get ready to harvest :)
+15/mid-autumn 0922hrs, skipped the night, rain had ended. Now the forecast is clear for several days, this would be a great time for soybeans to get ready to harvest <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1020,7 +1020,7 @@ I got five fields now which could be fertilized, but honestly I just want to get
 </p>
 
 <p>
-02/early-winter 0824hrs, skipped the night. -3/6C heh a bit chilly outside, hope my soybeans are doing alright ;)
+02/early-winter 0824hrs, skipped the night. -3/6C heh a bit chilly outside, hope my soybeans are doing alright <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1056,7 +1056,7 @@ Decided to restart FS19 because the low noise rain sound was on the background, 
 </p>
 
 <p>
-08/early-winter 0747hrs, skipped the night. Alright last day of soybean harvest and the frigging soybeans aren't even ready to harvest yet! :(
+08/early-winter 0747hrs, skipped the night. Alright last day of soybean harvest and the frigging soybeans aren't even ready to harvest yet! <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -1064,7 +1064,7 @@ Went to the F11 to use handtool and soybeans growth stage was only 67% haha oh w
 </p>
 
 <p>
-09/mid-winter 0817hrs, skipped the night. Oh well, we passed the soybean harvest season :(
+09/mid-winter 0817hrs, skipped the night. Oh well, we passed the soybean harvest season <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -1080,7 +1080,7 @@ Dunno what happens now, soybeans still are growing handtool tells me still 67%, 
 </p>
 
 <p>
-Oh well guess they wither soon and... then dunno what happens to my will to live... ;)
+Oh well guess they wither soon and... then dunno what happens to my will to live... <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1092,11 +1092,11 @@ I'm suspecting that because I upgraded seasons v1.0 to v1.0.1 and also added US 
 </p>
 
 <p>
-21/late-winter 0712hrs noticed that my soybean fields started to get withered patches... aww that just breaks my heart, they are DYING... :(
+21/late-winter 0712hrs noticed that my soybean fields started to get withered patches... aww that just breaks my heart, they are DYING... <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-All the love and care I put on those fields, man seeding and fertilizing that 300ha monster... oh wow, now they're dead :(
+All the love and care I put on those fields, man seeding and fertilizing that 300ha monster... oh wow, now they're dead <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -1144,7 +1144,7 @@ Oh this is no fault of seasons mod btw, this is all my fault for upgrading while
 </p>
 
 <p>
-02/early-summer 0642hrs all my canola fields switched to ready to harvest stage. Yawn, like I would care ;)
+02/early-summer 0642hrs all my canola fields switched to ready to harvest stage. Yawn, like I would care <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1232,7 +1232,7 @@ Oh and yes its mid-summer and I'm harvesting soybeans which is... wrong, because
 </p>
 
 <p>
-After selling last load of soybeans to selling point 1 my budget was 24.438 million! :)
+After selling last load of soybeans to selling point 1 my budget was 24.438 million! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1263,7 +1263,7 @@ I'm curious to see if my planted canola will freeze up like my soybeans did in P
 </p>
 
 <p>
-04/mid-spring at 0835hrs my double cropped canola turned into yellow flowering growth stage, so this means seasons beta build 25 upgrade worked fine :)
+04/mid-spring at 0835hrs my double cropped canola turned into yellow flowering growth stage, so this means seasons beta build 25 upgrade worked fine <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

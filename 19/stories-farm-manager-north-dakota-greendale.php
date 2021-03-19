@@ -110,7 +110,7 @@ Purchased above list.
 </p>
 
 <p>
-Then it was time for a lunch break :)
+Then it was time for a lunch break <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -127,7 +127,7 @@ Purchased seed refill tank for 7.5k.
 </p>
 
 <p>
-3320-76 paralink hoe drill and 7950 air cart rulez :)
+3320-76 paralink hoe drill and 7950 air cart rulez <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <pre>
@@ -174,7 +174,7 @@ While waiting decided to do few close by small cultivation/plowing contracts, yo
 </p>
 
 <p>
-05/mid-summer in-game 0642hrs my F04 canola turned ready to harvest, aayeah! :)
+05/mid-summer in-game 0642hrs my F04 canola turned ready to harvest, aayeah! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -187,7 +187,7 @@ Took a big loan (just buffer money), leased case 9240 combine for 21.4k initial 
 </p>
 
 <p>
-Alright first field harvested :)
+Alright first field harvested <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -250,7 +250,7 @@ Then was the first time to use that mega monster Bourgault seeder and air cart h
 </p>
 
 <p>
-Bourgault 3420-100 paralink hoe drill is a <b>BEAST!</b> hehe oh man and I thought seed hawk is a killer, but this monster is HUGE haha, just awesome :-)
+Bourgault 3420-100 paralink hoe drill is a <b>BEAST!</b> hehe oh man and I thought seed hawk is a killer, but this monster is HUGE haha, just awesome <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -299,7 +299,7 @@ What I was saying earlier about manual GPS driving and appreciating the little t
 </p>
 
 <p>
-04/mid-autumn in-game 0752hrs F04 soybeans are ready to harvest! :)
+04/mid-autumn in-game 0752hrs F04 soybeans are ready to harvest! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -320,7 +320,7 @@ Started time accelerating to get rid of the soil moisture and hoping it happens 
 </p>
 
 <p>
-Felt good again to finish harvest, ah :)
+Felt good again to finish harvest, ah <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -409,7 +409,7 @@ Then back to time accelerating. I could fertilize this field now, but... umm.
 </p>
 
 <p>
-Budget now 319.8k very nice, soon we can start to buy some harvester etc :)
+Budget now 319.8k very nice, soon we can start to buy some harvester etc <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -437,7 +437,7 @@ Trees suddenly got green leafs on 09/late-winter hmm, decided to restart FS19 to
 </p>
 
 <p>
-01/early-spring new year new fertilizing contracts :)
+01/early-spring new year new fertilizing contracts <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -507,11 +507,11 @@ I'd love to get larger fertilizing contracts as these small nibbles only get you
 </p>
 
 <p>
-Budget now 535k, aayeah half a million :)
+Budget now 535k, aayeah half a million <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-08/late-spring new fertilizing contract, again. I took it, ok <i>one</i> more with bredal K165 ;)
+08/late-spring new fertilizing contract, again. I took it, ok <i>one</i> more with bredal K165 <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -547,11 +547,11 @@ Budget now 623.2k, these fertilizing contracts sure do rack up nice amount of mo
 </p>
 
 <p>
-1818 New farming day has begun! Looking forward to this day as there will be new purchases, dunno which kind yet, but definitely new purchases :)
+1818 New farming day has begun! Looking forward to this day as there will be new purchases, dunno which kind yet, but definitely new purchases <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Okay right off the bat, fertilizing contract heh, ok ok... one more with bredal K165 ;)
+Okay right off the bat, fertilizing contract heh, ok ok... one more with bredal K165 <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -665,7 +665,7 @@ Budget now 786.1k. The land lot with F05 and F06 costs 266.6k so if I would buy 
 - header 13.7m john deere 645 fd 89k
 </pre>
 <p>
-Purchased the above list. Decent harvester with plenty of harvest capability and that soybeans field even makes tons of money, just awesome :)
+Purchased the above list. Decent harvester with plenty of harvest capability and that soybeans field even makes tons of money, just awesome <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -694,7 +694,7 @@ F06 did not require ploughing but because it had few narrow streaks on the edges
 </p>
 
 <p>
-Gotta love ploughing with Big Bud 450 :)
+Gotta love ploughing with Big Bud 450 <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -826,7 +826,7 @@ Was really tired of playing, not sleepy tired or exhausted of playing but just d
 </p>
 
 <p>
-Coronavirus COVID-19 spreads across the planet and I feel so good to just stay indoors playing Farming Simulator 19 :)
+Coronavirus COVID-19 spreads across the planet and I feel so good to just stay indoors playing Farming Simulator 19 <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -875,7 +875,7 @@ Okay 02/early-autumn in-game 2027hrs its too dark I cannot see anything below ho
 
 <p>
 0503 Started fertilizing F44, contract.<br>
-0514 Was ALT-TABbed to discord and for some reason GPS did not stop at the end of the field which was at terrain edge and I fell of the terrain ;)<br>
+0514 Was ALT-TABbed to discord and for some reason GPS did not stop at the end of the field which was at terrain edge and I fell of the terrain <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 0527 Finished fertilizing F44, contract, collected contract reward 33k.<br>
 0533 Started fertilizing F73, contract.<br>
 0543 Finished fertilizing F73, contract, collected contract reward 20.2k.<br>
@@ -965,7 +965,7 @@ There is one contract for seeding barley on 58ha field which pays 153k. I could 
 </p>
 
 <p>
-02/early-winter in-game 1510hrs barley selling point 3 market price on HIGH DEMAND 1618. Okay, thats my cue, time to sell :)
+02/early-winter in-game 1510hrs barley selling point 3 market price on HIGH DEMAND 1618. Okay, thats my cue, time to sell <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1065,11 +1065,11 @@ Now its time to blanket herbicide spray all the fields, we don't want any weeds.
 </p>
 
 <p>
-Weeds did not die when herbicide sprayed, had to actually do double take on the tank that am I spraying fertilizer because nothing happened, but no it was herbicide alright. No idea whats going on with the un-sprayable weeds :(
+Weeds did not die when herbicide sprayed, had to actually do double take on the tank that am I spraying fertilizer because nothing happened, but no it was herbicide alright. No idea whats going on with the un-sprayable weeds <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-Anyways now everything is done and we just wait for crops to grow :)
+Anyways now everything is done and we just wait for crops to grow <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1121,7 +1121,7 @@ Another harvest three and half hours hehe. Looking at that course its clear that
 </p>
 
 <p>
-<b>2020-03-15T0147</b> New farming day has started, we continue harvesting our fields F04 through F06 canola :)
+<b>2020-03-15T0147</b> New farming day has started, we continue harvesting our fields F04 through F06 canola <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1170,7 +1170,7 @@ What I'm trying to say is that the more land and better / bigger equipment you g
 </p>
 
 <p>
-It is very bizarre that the most exciting farming is when you are strugging with starter stuff and once you get all the best equipment and are overwhelmed by the THOUSANDS of hectares fields to work on... the magic is gone, sort of... its like you don't appreciate the little things anymore when you're rolling down the field with mega monster machines and own all the lands, heh, you dig? ;)
+It is very bizarre that the most exciting farming is when you are strugging with starter stuff and once you get all the best equipment and are overwhelmed by the THOUSANDS of hectares fields to work on... the magic is gone, sort of... its like you don't appreciate the little things anymore when you're rolling down the field with mega monster machines and own all the lands, heh, you dig? <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1195,7 +1195,7 @@ In-game 0212hrs price is 2228. At 0807hrs its 2240. At 1108hrs its 2246. At 1311
 </p>
 
 <p>
-0648 Decided to go cook food and eat while courseplay truck is hauling canola from farm bin silo to selling point 2 ;)
+0648 Decided to go cook food and eat while courseplay truck is hauling canola from farm bin silo to selling point 2 <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1261,7 +1261,7 @@ Plan for now is to prepare F01, F04, F05 and F31 to be planted corn next year, r
 </p>
 
 <p>
-Oh man look at those time codes, if only all field work tasks took so little time you could actually run through couple of seasons years in one gaming session :)
+Oh man look at those time codes, if only all field work tasks took so little time you could actually run through couple of seasons years in one gaming session <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1462,7 +1462,7 @@ So I decided that after this corn harvest is done (hopefully today?) that I'm go
 </p>
 
 <p>
-Uuh that is it, corn havest is DONE :)
+Uuh that is it, corn havest is DONE <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1474,7 +1474,7 @@ As I said earlier today I'm going to savegame this Bourgault DLC test career now
 </p>
 
 <p>
-1607 Signing off and heading towards another PMC Terrain :)
+1607 Signing off and heading towards another PMC Terrain <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 
@@ -1521,7 +1521,7 @@ I downloaded all twitch live stream video on demand err videos and uploaded them
 </p>
 
 <p>
-v0.2.1 was used on the server for weeks even though v0.2.2 and v0.2.3 were put to testing. I believe it was late as 2020-09-01 when server was upgraded with v0.2.3, cant remember, I'm kicking myself now for not documenting these, sorry :(
+v0.2.1 was used on the server for weeks even though v0.2.2 and v0.2.3 were put to testing. I believe it was late as 2020-09-01 when server was upgraded with v0.2.3, cant remember, I'm kicking myself now for not documenting these, sorry <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -1529,7 +1529,7 @@ v0.2.1 was used on the server for weeks even though v0.2.2 and v0.2.3 were put t
 </p>
 
 <p>
-Was awesome feeling to finish my second savegame for FS19 PMC terrain! :)
+Was awesome feeling to finish my second savegame for FS19 PMC terrain! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1541,7 +1541,7 @@ This story ends here as there is nothing to do in this savegame anymore, all lan
 </p>
 
 <p>
-Was great time spending 281 hours playing in PMC North Dakota Greendale 4km, got some great video footage to show and this text right here heh. Hope you enjoyed :-)
+Was great time spending 281 hours playing in PMC North Dakota Greendale 4km, got some great video footage to show and this text right here heh. Hope you enjoyed <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 </section>

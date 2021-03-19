@@ -29,7 +29,7 @@ Please read the background idea for <a href="stories.php">our farm sim stories</
 </p>
 
 <p>
-<b>2019-04-17T1315</b> Started <a href="pmc-iowa-garden-city-8km.php" target="_blank">Iowa Garden City</a> v0.2.3 farm-manager mode in single player and saved career. Then edited savegame for PMC start from zero mode :)
+<b>2019-04-17T1315</b> Started <a href="pmc-iowa-garden-city-8km.php" target="_blank">Iowa Garden City</a> v0.2.3 farm-manager mode in single player and saved career. Then edited savegame for PMC start from zero mode <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -37,7 +37,7 @@ Rules for the starting part were that no guidance steering or courseplay until I
 </p>
 
 <p>
-Took a 42k harvest contract for F105 of 25.4ha, it was in the far NE edge of the terrain, quite a journey to drive vehicles there and had to take product to sale point 4 which was again almost in the other side of the terrain heh. Yeah, the fun of driving around :)
+Took a 42k harvest contract for F105 of 25.4ha, it was in the far NE edge of the terrain, quite a journey to drive vehicles there and had to take product to sale point 4 which was again almost in the other side of the terrain heh. Yeah, the fun of driving around <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -57,15 +57,15 @@ This first contract in start from zero mode definitely brought memories from <a 
 </p>
 
 <p>
-About 10min or so later the field was harvested and I finished off the leftovers and then headed to sell the grain. Drove the truck to sale point 6 and sold the grain to my own pocket, got over 100k which was nice. Then decided not to take anymore harvest contracts as it takes forever and just accepted the contract payment which was like 30k something, my total budget now 145,501 :)
+About 10min or so later the field was harvested and I finished off the leftovers and then headed to sell the grain. Drove the truck to sale point 6 and sold the grain to my own pocket, got over 100k which was nice. Then decided not to take anymore harvest contracts as it takes forever and just accepted the contract payment which was like 30k something, my total budget now 145,501 <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-Yes it took a very long time even if we only count from 1336 to 1715 its oh my gosh (just realizing this) 3h 39min! :-(
+Yes it took a very long time even if we only count from 1336 to 1715 its oh my gosh (just realizing this) 3h 39min! <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
-1753 Accepted one fertilizing contract by leasing (borrow option) rubicon 9000 sprayer, then quite greedily accepted ALL remaining fertilizing contracts without leasing vehicle, I got like a huge load of them which was great. Takes a long time sure, but definitely gets me a lot of money too. Only bad thing is that by automatically leasing the rubicon it now has no guidance steering in it. Oh well, manual driving baby, poor farmer can't be picky :)
+1753 Accepted one fertilizing contract by leasing (borrow option) rubicon 9000 sprayer, then quite greedily accepted ALL remaining fertilizing contracts without leasing vehicle, I got like a huge load of them which was great. Takes a long time sure, but definitely gets me a lot of money too. Only bad thing is that by automatically leasing the rubicon it now has no guidance steering in it. Oh well, manual driving baby, poor farmer can't be picky <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -97,17 +97,17 @@ When fertilizing this second field I was thinking what was already known that ta
 
 <p>
 2021 I give up, why am I not remembering writing down when field is done heh. Anyways. I collected the current finished contracts and one of them had the rubicon leased vehicle so it disappeared, great now I can lease new one with guidance steering. My budget is 460,271 pretty nice even though its been several hours that I've been working on this career now.<br>
-2023 leased rubicon 9000 with guidance steering for 25,704 initial cost. I mentioned that I wont be using guidance steering or courseplay before I OWN my vehicles, but here I just leased this one with guidance steering. Well yeah, hmm ;)
+2023 leased rubicon 9000 with guidance steering for 25,704 initial cost. I mentioned that I wont be using guidance steering or courseplay before I OWN my vehicles, but here I just leased this one with guidance steering. Well yeah, hmm <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
 ? started fertilizing F39<br>
 ? finished fertilizing F39<br>
 ? started fertilizing F47<br>
-2057 finished fertilizing F47, whee didnt forget to write down the time haha ;)<br>
+2057 finished fertilizing F47, whee didnt forget to write down the time haha <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 ? started fertilizing F88<br>
 ? finished fertilizing F88, yep dont remember nuthin' it seems heh. somewhere around 2205hrs or so.<br>
-2213 purchased my own hardi rubicon 9000 sprayer with guidance steering for 504,000, budget now 83,699 :)<br>
+2213 purchased my own hardi rubicon 9000 sprayer with guidance steering for 504,000, budget now 83,699 <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 ? started fertilizing F113<br>
 2247 finished fertilizing F113
 </p>
@@ -208,7 +208,7 @@ During cultivating all the harvest contracts were replaced with cultivating and 
 </p>
 
 <p>
-Okay so vehicle leasing costs for this cultivation was 30,412 because obviously its not only the initial cost but hourly running costs and as you can see from the timestamps I had these guys for just over TWO hours. Contracts paid 45,554 so the total profit was 15,143... really? two hours of boredom and I got 15k? REALLY? :-(
+Okay so vehicle leasing costs for this cultivation was 30,412 because obviously its not only the initial cost but hourly running costs and as you can see from the timestamps I had these guys for just over TWO hours. Contracts paid 45,554 so the total profit was 15,143... really? two hours of boredom and I got 15k? REALLY? <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -220,7 +220,7 @@ I must say... I love playing FS19, but this is just madness to spend two hours o
 </p>
 
 <p>
-So lets do more! HEHEH! :-)
+So lets do more! HEHEH! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -255,7 +255,7 @@ Refilled rubicon with herbicide in-game 2040hrs so quite night time dark, then o
 </p>
 
 <p>
-Budget now 512,488 yeah baby half a million dollah ;)
+Budget now 512,488 yeah baby half a million dollah <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -272,7 +272,7 @@ Budget 512k. F45 which is 12.2 hectares has been harvested so it needs all the w
 </p>
 
 <p>
-But if I go to do more fertilizing contracts to get money for better starting vehicles, where does it end? How much money is enough? Am I going to do fertilize contracts with the time acceleration shuffle until I can buy big buds with seed hawks? heh, nope :)
+But if I go to do more fertilizing contracts to get money for better starting vehicles, where does it end? How much money is enough? Am I going to do fertilize contracts with the time acceleration shuffle until I can buy big buds with seed hawks? heh, nope <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <pre>
@@ -292,7 +292,7 @@ Plan to purchase:
 </pre>
 
 <p>
-0537 Purchased land lot with F45, then the listed equipment. Started to drive the vehicles and equipment to my farm, ie F45 land lot. Farm has been started :-)
+0537 Purchased land lot with F45, then the listed equipment. Started to drive the vehicles and equipment to my farm, ie F45 land lot. Farm has been started <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -323,7 +323,7 @@ It started to rain, which is really odd because it usually is hardly even cloudy
 0707 Started ploughing F45 larger, not really the field itself this area was just the umm new inner part. Using courseplay, for the first time in this career.<br>
 0717 I was falling asleep in front of the computer, no idea how I got this tired so quickly. Decided to go take a nap and let courseplay run the plow.<br>
 1008 Woke up.<br>
-1008 Finished ploughing F45 larger. Dunno when this finished the counter said 1h 12min duration and I slept 2h 45min or so heh. Tractor was circling around the end point with half a tank of gas :)<br>
+1008 Finished ploughing F45 larger. Dunno when this finished the counter said 1h 12min duration and I slept 2h 45min or so heh. Tractor was circling around the end point with half a tank of gas <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1017 Started ploughing F45 larger on north. Made a small area on the north side to enlarge the field.
 </p>
 
@@ -332,7 +332,7 @@ When I started this second field edge plowing session I thought that once I get 
 </p>
 
 <p>
-And now when courseplay was running on my own vehicle in my own field I <i>really</i> got the flashbacks from FS17 Cornbelt start from scratch :)
+And now when courseplay was running on my own vehicle in my own field I <i>really</i> got the flashbacks from FS17 Cornbelt start from scratch <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -349,7 +349,7 @@ Yes even as I have the smallest cultivator in the game, heh. But there are no fe
 </p>
 
 <p>
-Contracts was 35% progress and I was bored to death. I have said this many times over already back in FS17 days that farmsim is such an time sink that it just sucks the life out of you when everything takes forever and especially if you run a single slow/poor vehicle that you have nothing else to do, then you are absolutely wasting your real life time for no good reason. I mean use your head, why would you play a game of watch the paint dry? What is the point of me sitting here 2h 45min cultivating when I'm getting whopping 7k pay from it, like seriously seven thousand for almost three hours of my real life time going down the toilet? Umm... :(
+Contracts was 35% progress and I was bored to death. I have said this many times over already back in FS17 days that farmsim is such an time sink that it just sucks the life out of you when everything takes forever and especially if you run a single slow/poor vehicle that you have nothing else to do, then you are absolutely wasting your real life time for no good reason. I mean use your head, why would you play a game of watch the paint dry? What is the point of me sitting here 2h 45min cultivating when I'm getting whopping 7k pay from it, like seriously seven thousand for almost three hours of my real life time going down the toilet? Umm... <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -396,7 +396,7 @@ At this point courseplay hogged all the CPU bringing 30FPS performance which is 
 1345 Finally a fertilization contract appeared. I immediately went after it, this I'm going to drive myself using guidance steering.<br>
 1346 Accepted contract for fertilizing F135, 22.5ha.<br>
 1358 Started fertilizing F135, contract. This was GPS driving for me, no courseplay. The new holland T9 had constant problems backing the cultivator up on turns, I had to babysit it dozens of times.<br>
-1408 Finished cultivating F07, contract. First courseplay contract with my own vehicle finished, aayeah :)<br>
+1408 Finished cultivating F07, contract. First courseplay contract with my own vehicle finished, aayeah <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1413 Accepted contract for fertilizing F132, 74.5ha. F49, 34.1ha. F44, 17.4ha.<br>
 1415 Finished fertilizing F135, contract.<br>
 1416 Started fertilizing F132, contract.
@@ -418,7 +418,7 @@ How lucky am I as F135 and 132 are right next to each other, didnt have to drive
 </p>
 
 <p>
-More glorious money printing with fertilizing contracts heh I love it! :)
+More glorious money printing with fertilizing contracts heh I love it! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -450,11 +450,11 @@ Was checking out the available seeding contracts, there was bunch of soybean one
 </p>
 
 <p>
-Then I tried to take one of the plows to my farm to plow my first own field... but it didnt work, the contract system assigns the field the implement can be used. So guess my seeding idea is out of the window as well then. Cashed in all the contracts I had waiting, budget now 803,077 heh oh my, today I started with like what, 13k or something hehe :-)
+Then I tried to take one of the plows to my farm to plow my first own field... but it didnt work, the contract system assigns the field the implement can be used. So guess my seeding idea is out of the window as well then. Cashed in all the contracts I had waiting, budget now 803,077 heh oh my, today I started with like what, 13k or something hehe <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
-So the plan now is to purchase bredal lime spreader so I can lime F45 (my first own field) and then start to work on it. It is very strange I managed to make so much money with contracts, I mean sure I worked hard all day for it using courseplay multiple vehicles so it was not "nothing", but still that eight hundred grand feels almost like using money cheat, thats weird, eh? :)
+So the plan now is to purchase bredal lime spreader so I can lime F45 (my first own field) and then start to work on it. It is very strange I managed to make so much money with contracts, I mean sure I worked hard all day for it using courseplay multiple vehicles so it was not "nothing", but still that eight hundred grand feels almost like using money cheat, thats weird, eh? <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -473,7 +473,7 @@ What I mean is the first own tractor that cheapest Fiat 1300 DT is now really si
 </p>
 
 <p>
-F41 was ridiculously small 4 hectares and pays only 7k which is peanuts, but I still took it... because its on my way home, literally :)
+F41 was ridiculously small 4 hectares and pays only 7k which is peanuts, but I still took it... because its on my way home, literally <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -488,7 +488,7 @@ F41 was ridiculously small 4 hectares and pays only 7k which is peanuts, but I s
 </p>
 
 <p>
-Felt really good after all that hard rubicon 9000 fertilizing contract work to be in your own first field fertilizing :)
+Felt really good after all that hard rubicon 9000 fertilizing contract work to be in your own first field fertilizing <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -548,7 +548,7 @@ I was checking out prices for the proper ploughing equipment but it would come t
 1202 New fertilizer contracts available, so I took them all, without even checking where they are, these contracts rocks, I want to do them.<br>
 1216 Started fertilizing F86, contract.<br>
 1225 Finished seeding soybeans F17, contract.<br>
-1228 Even more fertilizing contracts were added and I took them all, ALL, ALL I SAY! :-)
+1228 Even more fertilizing contracts were added and I took them all, ALL, ALL I SAY! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -577,7 +577,7 @@ Budget now 557,323 so lets see how much it is when all these fertilization contr
 1600 Started fertilizing F99, contract.<br>
 1603 Finished fertilizing F99, contract.<br>
 1615 Started fertilizing F102, contract.<br>
-1623 Finished seeding corn F10, contract. Finally ;)<br>
+1623 Finished seeding corn F10, contract. Finally <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 1634 Finished fertilizing F02, contract.<br>
 1635 Started fertilizing F103, contract.<br>
 1657 Came to a rubicon 9000 refill and at the same time had to detour to herbicide spray F45 as weeds were growing there.<br>
@@ -589,7 +589,7 @@ Budget now 557,323 so lets see how much it is when all these fertilization contr
 </p>
 
 <p>
-Decided to install Kotte Universal Pack so I can haul liquid fertilizer to fields where my rubicon 9000 is. Long story short, garant kotte will not refill rubicon 9000 sprayer :(
+Decided to install Kotte Universal Pack so I can haul liquid fertilizer to fields where my rubicon 9000 is. Long story short, garant kotte will not refill rubicon 9000 sprayer <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -617,7 +617,7 @@ Decided to install Kotte Universal Pack so I can haul liquid fertilizer to field
 </p>
 
 <p>
-0739 Woke up, back at PMC Gaming computer and starting up FS19, our fertilizing contracts continue, lets make some more money :)<br>
+0739 Woke up, back at PMC Gaming computer and starting up FS19, our fertilizing contracts continue, lets make some more money <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0754 Started fertilizing F117, contract. Used guidance steering to start this day.<br>
 0801 Finished fertilizing F117, contract.<br>
 0802 Started fertilizing F120, contract.<br>
@@ -669,7 +669,7 @@ Now I finally get to concentrate on my own farm. Soybeans are fertilized, weeded
 </p>
 
 <p>
-Time accelerated with x120 a bit, then drove combine harvester bizon zo56 to the field edge so its ready to go when crop is ready to harvest. Setup Fiat 1300 DT with the strautmann SEK 802 trailer. We're good to go for our first own field harvest. Man its exciting, its been long time coming as is this like fifth day of playing and only now we got to harvest our own field :)
+Time accelerated with x120 a bit, then drove combine harvester bizon zo56 to the field edge so its ready to go when crop is ready to harvest. Setup Fiat 1300 DT with the strautmann SEK 802 trailer. We're good to go for our first own field harvest. Man its exciting, its been long time coming as is this like fifth day of playing and only now we got to harvest our own field <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -678,11 +678,11 @@ Time accelerated with x120 a bit, then drove combine harvester bizon zo56 to the
 1158 Finished fertilizing F10, contract.<br>
 1208 Purchased multi farm silo for 180k and multi silo extension for 90k. Farm silo capacity now 800k liters.<br>
 1217 After x120 time acceleration at in-game 0335hrs my first soybean crop was ready for harvest.<br>
-1218 Started harvesting soybeans F45 :)
+1218 Started harvesting soybeans F45 <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-It felt quite magical to harvest your first own field in terrain you created by yourself :-)
+It felt quite magical to harvest your first own field in terrain you created by yourself <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -694,11 +694,11 @@ On the first harvester unloading I realized that SEK 802 is too tall for this pu
 </p>
 
 <p>
-1303 Unloaded first trailer of soybeans into farm silo bin, whopping 12,000 liters :)
+1303 Unloaded first trailer of soybeans into farm silo bin, whopping 12,000 liters <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-After this I sent tractor off to vehicle shop to get trailer changed to something lower which fits under the unloading pipe without wiggling. At the vehicle shop I just removed the cover which prevented pipe to fit properly, its cosmetic only so who cares. However the auger pipe STILL hit the trailers edge, it was much better now without the cover on it but, oh wow, these cheapo vehicles hehe NEVER AGAIN haha ;)
+After this I sent tractor off to vehicle shop to get trailer changed to something lower which fits under the unloading pipe without wiggling. At the vehicle shop I just removed the cover which prevented pipe to fit properly, its cosmetic only so who cares. However the auger pipe STILL hit the trailers edge, it was much better now without the cover on it but, oh wow, these cheapo vehicles hehe NEVER AGAIN haha <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -710,7 +710,7 @@ Took a JD 6250R and send that with full speed to the vehicle shop where I custom
 </p>
 
 <p>
-I did most of the field in first person view too :)
+I did most of the field in first person view too <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -805,7 +805,7 @@ Was looking at my farm with fresh pair of eyes and I have pretty decent starter 
 </p>
 
 <p>
-Next three land lots around my farm are all 1.1m. Probably not too hard to make that kind of cash with the fertilizer contract license to print money method and these new fields I got now, couple of soybean harvests from them and I'm bathing in cash :)
+Next three land lots around my farm are all 1.1m. Probably not too hard to make that kind of cash with the fertilizer contract license to print money method and these new fields I got now, couple of soybean harvests from them and I'm bathing in cash <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -899,7 +899,7 @@ Noticed weeds had grown on F42 and half of F139, time to bring out the sprayer w
 1645 Finished spraying F42<br>
 1656 Finished seeding soybeans F139<br>
 1658 Started spraying F139<br>
-1709 Finished spraying F139, all fields seeded with soybeans, fertilized and weeded :)<br>
+1709 Finished spraying F139, all fields seeded with soybeans, fertilized and weeded <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1713 Accepted contract for cultivating F01, 31.2ha. Its right next to my fields and have nothing else to do so lets get something done.<br>
 1721 Started cultivating F01, contract. Courseplay duration 1h 1min.<br>
 1817 Accepted contract for fertilizing F71, 81.2ha. Ah yes new fertilizing contracts appeared again. I'm starting from the highest paying ones.<br>
@@ -1138,7 +1138,7 @@ This land lot contains fields 50 and 51, they are growing wheat, needs weeding, 
 </p>
 
 <p>
-Amazing feeling when you start from zero everything and now you already have more land and fields hectare wise than whole ravenport (dunno didnt do actual count but I wouldnt be surprised) :)
+Amazing feeling when you start from zero everything and now you already have more land and fields hectare wise than whole ravenport (dunno didnt do actual count but I wouldnt be surprised) <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1191,7 +1191,7 @@ First thing in the morning I decided to put my cash into good use. My vehicles a
 </p>
 
 <p>
-1005 Purchased land lot with F02, F03, F04 for 1,116,288 and land lot with F53, F137, F138 for 1,116,166 budget now 680k :)
+1005 Purchased land lot with F02, F03, F04 for 1,116,288 and land lot with F53, F137, F138 for 1,116,166 budget now 680k <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1234,7 +1234,7 @@ Started to time accelerate x120 to get through the night (in-game 1830hrs) and t
 </p>
 
 <p>
-1801 Rain stopped in-game time 0815hrs, lets begin harvest operations :)<br>
+1801 Rain stopped in-game time 0815hrs, lets begin harvest operations <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 1802 Started harvesting soybeans F139<br>
 1818 Market prices wheat 1332, barley 1305, canola 2348, corn 1391, soybeans 3096.<br>
 1834 First truck load of soybeans into the farm bin silo.<br>
@@ -1321,12 +1321,12 @@ Started to time accelerate x120 to get through the night (in-game 1830hrs) and t
 2104 Finished ploughing F50<br>
 2123 Started fertilizing F50<br>
 2158 Finished fertilizing F50<br>
-2231 Started ploughing F43. Meant to cultivate it but forgot the JD 2623 on big bud ;)<br>
+2231 Started ploughing F43. Meant to cultivate it but forgot the JD 2623 on big bud <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 2305 Finished harvesting barley F02
 </p>
 
 <p>
-2310 Reached full farm bin silo capacity for barley and still several more fields to go heh, guess I'm buying more silo extensions ;)<br>
+2310 Reached full farm bin silo capacity for barley and still several more fields to go heh, guess I'm buying more silo extensions <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
 2312 Purchased five more silo extensions for 450.5k, silo capacity 2.9 million liters, budget now 94.2k.
 </p>
 
@@ -1490,11 +1490,11 @@ Well this is interesting, I loaded up the career savegame and now all of the sud
 1523 Sold barley in PLC for 2x 51.1k<br>
 1532 Sold barley in PLC for 2x 51.1k<br>
 1539 Sold barley in PLC for 2x 51.1k<br>
-1546 Sold barley in PLC for 2x 22.4k ??? whoa what happened to the sale prices? :o
+1546 Sold barley in PLC for 2x 22.4k ??? whoa what happened to the sale prices? <img src="../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
 <p>
-My gosh, the sale price plummeted to 530 when I was hauling grain, beause night time arrived in-game and I had x300 time acceleration on, darn, should have kept hauling overnight in the darkness :(
+My gosh, the sale price plummeted to 530 when I was hauling grain, beause night time arrived in-game and I had x300 time acceleration on, darn, should have kept hauling overnight in the darkness <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -1558,7 +1558,7 @@ So this was the last full load of soybeans or any grain in our farm silo, now th
 </p>
 
 <p>
-2025 Refueled roadrunner truck and buget now 7.665m whoah, thats some cash money from grain sales! :)<br>
+2025 Refueled roadrunner truck and buget now 7.665m whoah, thats some cash money from grain sales! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 </p>
 
 <p>
@@ -1575,7 +1575,7 @@ I'm going to fix any bugs and issues found in ths game-play on iowa garden city,
 </p>
 
 <p>
-<b>2019-05-01T1822</b> I'm weak, can't help myself... I'm back in PMC Iowa Garden City 8km "Start From Zero" career HEHE :-)
+<b>2019-05-01T1822</b> I'm weak, can't help myself... I'm back in PMC Iowa Garden City 8km "Start From Zero" career HEHE <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -1605,11 +1605,11 @@ That will give me my normal high performance machinery to use, good seeding, fer
 
 <p>
 1851 Finally I was done purchasing every vehicle on that planned list. Budget now 1.905m<br>
-1901 Started seeding canola F45. This was using two big bud 747's with seed hawks, YEAH BUDDY :-)
+1901 Started seeding canola F45. This was using two big bud 747's with seed hawks, YEAH BUDDY <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
-Oh man it was a beautiful sight to see two big bud 747's pulling seed hawks, oh wow, I missed my old friends :)
+Oh man it was a beautiful sight to see two big bud 747's pulling seed hawks, oh wow, I missed my old friends <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1682,7 +1682,7 @@ Decided to give courseplay older build a chance, it was working fine but this la
 <p>
 0152 Started seeding canola F04<br>
 0202 Courseplay still errored out, time to delete it and not bring back until its been thoroughly tested to be working on other savegames.<br>
-0217 Then new build of guidance steering errored out, haha, oh my today is the day of errors! :)<br>
+0217 Then new build of guidance steering errored out, haha, oh my today is the day of errors! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
 0225 Finished seeding canola F04<br>
 0233 Finished spraying F50<br>
 0235 Started spraying F44, F43, F42. I'm running these as E to W axis top down, all three fields at once keeping the same GPS line.<br>
@@ -1722,7 +1722,7 @@ Elmers haulmaster 70k liters auger wagon can't keep up with four 60ft header ida
 </p>
 
 <p>
-Last night was so dead tired that I had to call it quits right then and there, for example my truck trailer was transporting grain to farm silo and was half way on its way in the savegame I did before shutting FS19 down heh. Well sometimes you get a bit tired... like, umm, every night ;)
+Last night was so dead tired that I had to call it quits right then and there, for example my truck trailer was transporting grain to farm silo and was half way on its way in the savegame I did before shutting FS19 down heh. Well sometimes you get a bit tired... like, umm, every night <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -1887,7 +1887,7 @@ But I must say that playing, mostly the harvesting constant grain cart driving a
 </p>
 
 <p>
-0927 Shut down FS19 for today, just dont feel like harvesting right now. I need to do some bug fixing anyways so I have my hands full for the rest of the night. We'll see how I feel tomorrow, maybe the big money in bank entices me to play and purchase new fields, but then again ... all it means is more harvesting, HAHA ;)
+0927 Shut down FS19 for today, just dont feel like harvesting right now. I need to do some bug fixing anyways so I have my hands full for the rest of the night. We'll see how I feel tomorrow, maybe the big money in bank entices me to play and purchase new fields, but then again ... all it means is more harvesting, HAHA <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>

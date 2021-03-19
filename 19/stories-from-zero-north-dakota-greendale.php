@@ -29,7 +29,7 @@ Please read the background idea for <a href="stories.php">our farm sim stories</
 </p>
 
 <p>
-<b>2020-03-08T1630</b> Started <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a> v0.1.6 farm-manager mode in single player and saved career. Then edited savegame for PMC start from zero mode :)
+<b>2020-03-08T1630</b> Started <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a> v0.1.6 farm-manager mode in single player and saved career. Then edited savegame for PMC start from zero mode <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -141,7 +141,7 @@ Budget now 37.2k and now I'm going to restart this savegame to get v0.1.7 of the
 </p>
 
 <p>
-Oh btw Bourgault DLC release day has arrived, whee! ;)
+Oh btw Bourgault DLC release day has arrived, whee! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -187,11 +187,11 @@ Budget now 128k, that gives plenty of money to lease more vehicles but is not en
 </p>
 
 <p>
-02/early-autumn one fertilizing contract appeared but it was only 10k so not worth to lease vehicles. 04/mid-autumn lucrative fertilizing contract appeared so it was time to lease vehicle again. So leased rubicon 9000 with GPS for 25.7k initial costs :)
+02/early-autumn one fertilizing contract appeared but it was only 10k so not worth to lease vehicles. 04/mid-autumn lucrative fertilizing contract appeared so it was time to lease vehicle again. So leased rubicon 9000 with GPS for 25.7k initial costs <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-But after I leased rubicon 9000, topped it up with fertilizer and went to contracts menu... the lucrative 78k contract had disappeared! :(
+But after I leased rubicon 9000, topped it up with fertilizer and went to contracts menu... the lucrative 78k contract had disappeared! <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -211,7 +211,7 @@ Its mid autumn now... I cant think of why there would be many fertilizing contra
 </p>
 
 <p>
-As I expected time accelerating with leased vehicle started to bleed my money dry in 07/late-autumn budget was 88.3k :(
+As I expected time accelerating with leased vehicle started to bleed my money dry in 07/late-autumn budget was 88.3k <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
