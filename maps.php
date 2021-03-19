@@ -143,7 +143,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 </div>
 
 <div class="terrain8km">
-<h2>FS_2017_Maize_Map_16x</h2>
+<h2>FS_2017_Maize_Map_8km</h2>
 
 <a href="images/Map-Maize.png" target="_blank"><img src="images/thumbs/Map-Maize.jpg" alt="Farming Simulator 17 Map - Maize" loading="lazy" style="width:128px;height:128px;"></a>
 
@@ -571,9 +571,9 @@ F41: 55.291 ha
 </div>
 
 <div class="terrain4km">
-<h2>Plains and Simple Seasons 4X by Stevie</h2>
+<h2>Plains and Simple Seasons 4km by Stevie</h2>
 
-<a href="images/Map-Plains-And-Simple-Seasons-4x.png" target="_blank"><img src="images/thumbs/Map-Plains-And-Simple-Seasons-4x.jpg" alt="Farming Simulator 17 Map - Plains and Simple Seasons 4x by Stevie" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Plains-And-Simple-Seasons-4x.png" target="_blank"><img src="images/thumbs/Map-Plains-And-Simple-Seasons-4x.jpg" alt="Farming Simulator 17 Map - Plains and Simple Seasons 4km by Stevie" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>Square fields which is always easier for stuff like courseplay. Animals require special foods like sheeps need something called lucerne and cows need something called proteinSilage.
 </p>
@@ -1725,7 +1725,7 @@ RDAllen mentioned mills county has few troubles and even more troubles with cour
 -->
 
 <p>
-v1.0 by C_A_N_b_O_K. From modDesc: Golden Valley 4X. Welcome to the Golden Valley 4X!
+v1.0 by C_A_N_b_O_K. From modDesc: Golden Valley 4km. Welcome to the Golden Valley 4km!
 </p>
 </div>
 

@@ -380,7 +380,7 @@ You must understand that while its cool to add like four Big Bud 747's with Seed
 </p>
 
 <p>
-So do not go putting 4x seedhawks to 25 hectare field, there is just no point to that. You'd rather get the field worked perhaps a bit slower but without incident than having super mega fast field work setup... which falls flat to its face constantly when the vehicles are colliding with each other and you are having great difficulties figuring out which vehicle is going which direction when you clear the traffic congestion.
+So do not go putting four seedhawks to 25 hectare field, there is just no point to that. You'd rather get the field worked perhaps a bit slower but without incident than having super mega fast field work setup... which falls flat to its face constantly when the vehicles are colliding with each other and you are having great difficulties figuring out which vehicle is going which direction when you clear the traffic congestion.
 </p>
 
 <p>

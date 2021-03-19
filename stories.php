@@ -1644,7 +1644,7 @@ When I was harvesting F11 I checked the actual size using courseplay and I burst
 1757 finished fertilizing F10<br>
 1827 finished fertilizing F11<br>
 ? finished seeding F44, yup..<br>
-1833 started plowing F11, with 4x 5m plows it takes 4h 15min according to courseplay.<br>
+1833 started plowing F11, with four 5m plows it takes 4h 15min according to courseplay.<br>
 1915 started seeding soybeans on F10<br>
 1928 finished seeding F10<br>
 2002 finished fertilizing F50, aand forgot to write down starting time, what else is new<br>

@@ -119,7 +119,7 @@ At the moment of writing this review KUHN and Big Bud DLC's have been released. 
 </p>
 
 <p>
-Big Bud DLC causes some stutter when many of the fancy new models are present (no wonder with 50k tri's models heh, especially if they have crappy LODs or the game handling LODs badly). Well kind of obvious and I didn't go overboard to add everything in one spot, but just buying the best plow, cultivator, seeder + tank and both big buds causes some stutter when coming to that area where they are located. This was on North West Texas 4X map, I played there for days perfectly smooth 60FPS but once purchased the above, some slight stutter.
+Big Bud DLC causes some stutter when many of the fancy new models are present (no wonder with 50k tri's models heh, especially if they have crappy LODs or the game handling LODs badly). Well kind of obvious and I didn't go overboard to add everything in one spot, but just buying the best plow, cultivator, seeder + tank and both big buds causes some stutter when coming to that area where they are located. This was on North West Texas 4km map, I played there for days perfectly smooth 60FPS but once purchased the above, some slight stutter.
 </p>
 
 
