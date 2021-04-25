@@ -80,6 +80,7 @@ For these stories I'm not going to mark $ US Dollar sign because its so cumberso
 <a href="stories-from-zero-north-dakota-greendale.php" class="button">North Dakota, Greendale. Start From Zero</a>
 <a href="stories-farm-manager-north-dakota-greendale.php" class="button">North Dakota, Greendale. Farm Manager</a>
 <a href="stories-from-zero-iowa-garden-city-unofficial.php" class="button">Garden City, Iowa. Unofficial Start From Zero</a>
+<a href="stories-from-zero-iowa-garden-city-unofficial-better-contracts.php" class="button">Garden City, Iowa. Unofficial Start From Zero Better Contracts</a>
 </p>
 
 <p>
