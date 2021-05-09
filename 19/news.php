@@ -24,6 +24,10 @@
 	<h2>News 2021</h2>
 
 <p>
+2021-05-09T00:38:00Z PMC Iowa Garden City 8km basic object placement is done! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
 2021-02-01 Midwest Horizon Start From Zero savegame finished <a href="stories-from-zero-midwest-horizon.php">read here</a>.
 </p>
 
