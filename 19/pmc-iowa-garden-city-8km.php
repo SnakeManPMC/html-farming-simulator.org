@@ -45,7 +45,7 @@ Click for larger image
 Latest PMC Iowa Garden City 8km video.
 </p>
 <iframe width="480" height="270"
-src="https://www.youtube.com/embed/GaStm37o7dI">
+src="https://www.youtube.com/embed/-0W9F-qZVbI">
 </iframe>
 </div>
 
