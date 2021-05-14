@@ -24,7 +24,7 @@
 	<h2>PMC Terrain News</h2>
 
 <p>
-<b>2021-01-13</b> First public release of <a href="pmc-eternal-sugar-beet-damnation-32km.php">PMC Eternal Sugar Beet Damnation 32km</a>. Largest terrain in farmsim history to this date, but also not a proper terrain so please read homepage through.
+<b>2021-05-09T00:38:00Z</b> <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a> basic object placement is done! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>

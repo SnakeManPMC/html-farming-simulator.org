@@ -24,7 +24,7 @@
 	<h2>News 2021</h2>
 
 <p>
-2021-05-09T00:38:00Z PMC Iowa Garden City 8km basic object placement is done! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2021-05-09T00:38:00Z <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a> basic object placement is done! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
