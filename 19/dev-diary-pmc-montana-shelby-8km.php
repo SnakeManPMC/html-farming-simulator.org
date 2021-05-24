@@ -499,6 +499,56 @@ Checked in-game and no errors, looks good for sending v1.1.4 to testers.
 2021-04-26T20:26:00Z Took backups, another good snapshot to save into archives, just in case you need it.
 </p>
 
+<p>
+<b>2021-05-16T07:48:00Z</b> Started to work on precision farming soil types image in GIMP.
+</p>
+
+<p>
+2021-05-16T08:12:00Z GIMP XCF image painted and soilmap.png exported. Took backups of terrain project dir and then started to add the terrain.i3d stuff for soilmap fileId's etc.
+</p>
+
+<p>
+2021-05-16T08:32:00Z Precision Farming soilmap complete.
+</p>
+
+<p>
+Sucks to edit such things as I have NO use for precision farming, it doesn't work with large terrains and in general while I like the idea of "more data", it just doesn't play well with FS19 right now, at least not for me. Besides if it doesn't work on large terrains, it barely works for 8.1 kilometer ones, its a moot point, the mod is crap.
+</p>
+
+<p>
+2021-05-16T09:11:00Z Finished updating screenshots for homepage, with the new farmland and precision farming images.
+</p>
+
+<p>
+<b>2021-05-17T10:20:00Z</b> Did hasty Seasons GEO for PMC Montana Shelby 8km, temperatures for freezing winter and moderately warm summer. Just little bit worried about the first region of days in planting season, for example 9 day seasons the days 1-3 are now not available for planting.
+</p>
+
+<p>
+This seems to be the case on most custom GEOs released, seen several of them.
+</p>
+
+<p>
+2021-05-17T10:54:00Z Increased farmland image channel count to 255 (or is it 256 dunno). Image not painted yet though.
+</p>
+
+<p>
+Then painted several new farmland ID channels, buyable land lots to split up those huge "desert" areas without fields.
+</p>
+
+<p>
+Whoah those colors, gooovy! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-05-17T1220.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-17T1220.jpg" alt="PMC Montana Shelby 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<p>
+Thats now total of 158 ID channels painted (159 if you count the last color as well).
+</p>
+
+<p>
+2021-05-17T12:43:00Z Compiled PMC_Montana_Shelby_8km_v1.1.5.7z for internal testers.
+</p>
+
 </section>
 
 <footer>
