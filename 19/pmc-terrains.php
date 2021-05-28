@@ -24,7 +24,7 @@
 	<h2>PMC Terrain News</h2>
 
 <p>
-<b>2021-05-09T00:38:00Z</b> <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a> basic object placement is done! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+<b>2021-05-28</b> First public release of <a href="pmc-montana-shelby-8km.php">PMC Montana Shelby 8km</a>.
 </p>
 
 <p>
