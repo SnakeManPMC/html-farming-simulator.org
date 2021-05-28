@@ -21,7 +21,7 @@
 </header>
 
 <section>
-	<h2>Developer Diary "FS19 Welker Farms Map"</h2>
+	<h2>Developer Diary "FS19 Welker Farms Map" Farming Simulator 19 Terrain</h2>
 
 <p>
 <a href="pmc-montana-shelby-8km.php">PMC Montana Shelby 8km</a> developer diary was started in late 2020 and no older records exist other than <a href="changelog-pmc-montana-shelby-8km.php">changelogs</a>. This terrain was initially created in early 2019. Just a little background reference <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
@@ -549,6 +549,39 @@ Thats now total of 158 ID channels painted (159 if you count the last color as w
 2021-05-17T12:43:00Z Compiled PMC_Montana_Shelby_8km_v1.1.5.7z for internal testers.
 </p>
 
+<p>
+2021-05-25T20:59:00Z Added welker workshop mod from giants modhub into our terrain as required mod, meaning not in our terrain <i>files</i> but just referencing welker workshop mod.
+</p>
+
+Giants Editor:
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-05-25T2058.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-25T2058.jpg" alt="PMC Montana Shelby 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+In-game:
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-05-25T2104.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-25T2104.jpg" alt="PMC Montana Shelby 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<p>
+Came out pretty nicely. Now if we only would get the two other blue-white vehicle sheds <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2021-05-27T04:23:00Z Compiled v1.1.6 for internal testing. This should be kind of like release candidate 1, if testers wont report any issues back on that welkers workshop building then I compile one more 7zip with final readme/license and release it.
+</p>
+
+<p>
+<b>2021-05-28T19:40:00Z</b> Today is release day! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Started to compile first release of this terrain, its v1.2.
+</p>
+
+<p>
+2021-05-28T19:45:00Z Compiled first release version: PMC_Montana_Shelby_8km_v1.2.7z
+</p>
+
+<p>
+Then it was just updating web pages for the release, including changelog, this dev diary, PMC terrains and of course the official PMC Montana Shelby 8km homepage. Man I need to recruit some web monkey to do this public relations crap for PMC <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
 </section>
 
 <footer>

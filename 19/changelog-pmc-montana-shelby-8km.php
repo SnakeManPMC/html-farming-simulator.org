@@ -4,7 +4,7 @@
 <title>Changelog PMC Montana Shelby 8km - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Changelog PMC Montana Shelby 8km - PMC Farming">
-<META name="keywords" content="Changelog, Montana, Shelby, Terrain, PMC, Farming">
+<META name="keywords" content="Changelog, Montana, Shelby, Terrain, FS19, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,12 +17,12 @@
 <header>
 <!-- google ads -->
 <?php include("../include/google-ads.php"); ?>
-<h1><b>Changelog PMC Montana Shelby 8km</b></h1>
+<h1><b>Changelog PMC Montana Shelby 8km Farming Simulator 19 Terrain</b></h1>
 </header>
 
 <section>
 <p>
-Changelog for <a href="pmc-montana-shelby-8km.php">PMC Montana Shelby 8km</a> terrain. See known issues from bottom of this page.
+Changelog for <a href="pmc-montana-shelby-8km.php">PMC Montana Shelby 8km</a> FS19 terrain. See known issues from bottom of this page.
 </p>
 
 <div class="changelog">
@@ -225,13 +225,34 @@ Changelog for <a href="pmc-montana-shelby-8km.php">PMC Montana Shelby 8km</a> te
 - montana shelby water tank added to SW location<br>
 - montana shelby three cell phone towers added to SW location
 </p>
+
+	<h2>v1.1.6</h2>
+
+<p>
+2021-04-27:<br>
+- montana shelby water tank texture path wrong, textures missing<br>
+2021-05-16:<br>
+- montana shelby precision farming soil map image added<br>
+2021-05-17:<br>
+- montana shelby seasons geo created<br>
+- montana shelby increase farmland image channels to 255<br>
+- montana shelby farmland image painted in gimp for few smaller areas
+</p>
+
+	<h2>v1.2 First Public Release!</h2>
+<p>
+2021-05-25:<br>
+- montana shelby giants modhub mod welker workshop added as required mod<br>
+2021-05-28:<br>
+- montana shelby v1.2 first public release! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
 </div>
 
 <div class="changelog">
 	<h2>Known Issues</h2>
 
 <p>
-<b>2021-04-26T19:02:00Z</b> Updated.
+<b>2021-05-28T20:35:00Z</b> Updated.
 </p>
 
 <p>
@@ -244,9 +265,7 @@ Changelog for <a href="pmc-montana-shelby-8km.php">PMC Montana Shelby 8km</a> te
 <footer>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains</a>
-<!--
-<a href="pmc-terrain-developer-diary-montana-shelby.php" class="button">Dev Diary PMC Montana Shelby 8km</a>
--->
+<a href="dev-diary-pmc-montana-shelby-8km.php" class="button">Dev Diary PMC Montana Shelby 8km</a>
 <a href="pmc-montana-shelby-8km.php" class="button">PMC Montana Shelby 8km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>

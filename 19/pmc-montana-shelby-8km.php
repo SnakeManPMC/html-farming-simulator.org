@@ -22,7 +22,7 @@
 
 <section>
 <div class="terrain">
-<p><b>2021-05-19</b> Updated. Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
+<p><b>2021-05-28</b> Updated. Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
 	<h2>PMC Montana Shelby 8km</h2>
 
@@ -69,12 +69,21 @@ Click for larger image
 <a href="screenshots/PMC-Montana-Shelby-8km-2021-05-17T1917.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-17T1917.jpg" alt="Farming Simulator 19 Terrain - Shelby, Montana, USA. Landscape" loading="lazy" class="terrainimg"></a>
 </div>
 
+<div>
+<p>
+Latest PMC Montana Shelby 8km video.
+</p>
+<iframe width="480" height="270"
+src="https://www.youtube.com/embed/8AWi9yOcads">
+</iframe>
+</div>
+
 <p>
 This terrain features area where <a href="https://www.youtube.com/user/WelkerFarmsInc" target="_blank">Welker Farms Inc youtube videos</a> have been recorded. This terrain is realistic, created from real world data unlike the fictional version of Welker Farms Map which was too small (2km) and tilted sideways 90 degrees counter clockwise, true east was north.
 </p>
 
 <p>
-Are you ready to work on the fields with Big Bud tractors and flexicoil cultivators just like Nick Welker in his real life farm? You better be as PMC Montana Shelby 8km is as real as it gets :)
+Are you ready to work on the fields with Big Bud tractors and Flexicoil cultivators just like Nick Welker in his real life farm? You better be as PMC Montana Shelby 8km is as real as it gets <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 	<h2>Work In Progress</h2>
@@ -99,6 +108,10 @@ Plenty of <a href="https://www.youtube.com/user/pmcsince1984/search?query=%22PMC
 More editing details and thoughts from <a href="dev-diary-pmc-montana-shelby-8km.php">Developer Diary PMC Montana Shelby 8km</a>.
 </p>
 
+<p>
+Please <a href="../contact.php">contact us</a> for feedback, bug reports, etc.
+</p>
+
 	<h2>New Farmer Game-Mode</h2>
 
 <p>
@@ -106,7 +119,7 @@ New Farmer game-mode starter buildings, vehicles and equipment.
 </p>
 
 <p>
-Buildings: PMC Farm Silo Large 10.7 million liters. PMC Farm Silo Extension 1 million liters. CBJ Midwest ?x? White Shed.
+Buildings: PMC Farm Silo Large 10.7 million liters. PMC Farm Silo Extension 1 million liters. CBJ Midwest ?x? White Shed. Welker Workshop.
 </p>
 
 <p>
@@ -128,7 +141,7 @@ Land: you own Welkers farm yard, bin site just north east of it and field 2.
 </p>
 
 <p>
-This above list of stuff allows you to kickstart your farm without any frustration because you are missing some essential item, you have all basic crop farming aspects covered here. Its now up to you if you can take the these vehicles plus 100,000 of money and conquer the whole terrain :)
+This above list of stuff allows you to kickstart your farm without any frustration because you are missing some essential item, you have all basic crop farming aspects covered here. Its now up to you if you can take the these vehicles plus 100,000 of money and conquer the whole terrain <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 	<h2>Fields</h2>
@@ -346,11 +359,15 @@ License: <b><a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target=
 	<h2>Required Mods</h2>
 
 <p>
-PMC_Farm_Silos.zip is Giants FarmSiloLarge and SiloExtension, we have adjusted it for liter capacity and fillTypes of: fertilizer, lime and seeds. CBJ Midwest Buildings Pack is used for various farm yards for that authentic American farming look. Randomsparks fuel, fertilizer/lime/seed buy point placeables FS19_Meridian_BulkBins_RNDM and FS19_Meridian_FuelTank.
+PMC_Farm_Silos.zip is Giants FarmSiloLarge and SiloExtension, we have adjusted it for liter capacity and fillTypes of: fertilizer, lime and seeds. CBJ Midwest Buildings Pack is used for various farm yards for that authentic American farming look. Randomsparks fuel, fertilizer/lime/seed buy point placeables FS19_Meridian_BulkBins_RNDM and FS19_Meridian_FuelTank. Welker workshop.
 </p>
 
 <p>
-Downloads: PMC_Farm_Silos_v1.1.7z 10kb <a href="downloads/PMC_Farm_Silos_v1.1.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1rcTZo1y3ui7dbpY97pOhNIG2GzjHqCDZ/view?usp=sharing">google drive</a>. FS19_PlaceableCBJbuildings.zip <a href="downloads/FS19_PlaceableCBJbuildings.zip">farming-simulator.org</a>, <a href="https://drive.google.com/file/d/1z82zWOkgNeGIBM2aYYOeUtC-ZLrbeHbf/view?usp=sharing">google drive</a>, <a href="http://www.modhub.us/farming-simulator-2019-mods/placeable-sheds-pack-1-1/" target="_blank">modhub.us</a>, <a href="https://fs19.lt/placeable-sheds-pack-v-1-1/" target="_blank">fs19.lt</a>, FS19_Meridian_BulkBins_RNDM.zip and FS19_Meridian_FuelTank.zip <a href="https://www.modhub.us/farming-simulator-2019-mods/meridian-fueltank-and-bulkbins-v1-0" target="_blank">modhub.us</a>.
+Downloads: PMC_Farm_Silos_v1.1.7z 10kb <a href="downloads/PMC_Farm_Silos_v1.1.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1rcTZo1y3ui7dbpY97pOhNIG2GzjHqCDZ/view?usp=sharing">google drive</a>. FS19_PlaceableCBJbuildings.zip <a href="downloads/FS19_PlaceableCBJbuildings.zip">farming-simulator.org</a>, <a href="https://drive.google.com/file/d/1z82zWOkgNeGIBM2aYYOeUtC-ZLrbeHbf/view?usp=sharing">google drive</a>, <a href="http://www.modhub.us/farming-simulator-2019-mods/placeable-sheds-pack-1-1/" target="_blank">modhub.us</a>, <a href="https://fs19.lt/placeable-sheds-pack-v-1-1/" target="_blank">fs19.lt</a>, FS19_Meridian_BulkBins_RNDM.zip and FS19_Meridian_FuelTank.zip <a href="https://www.modhub.us/farming-simulator-2019-mods/meridian-fueltank-and-bulkbins-v1-0" target="_blank">modhub.us</a>, Welker Workshop <a href="https://www.farming-simulator.com/mod.php?mod_id=209380" target="_blank">Giants Modhub</a>.
+</p>
+
+<p>
+Vehicle mods: Big Bud 450 <a href="https://www.farming-simulator.com/mod.php?mod_id=120575" target="_blank">Giants Modhub</a> and Big Brute 425/100 <a href="https://www.farming-simulator.com/mod.php?mod_id=130607" target="_blank">Giants Modhub</a>, these are only used in New-farmer game-mode. If you never play new-farmer then you don't need these. If you choose new-farmer without these mods then FS19 just silently fails without writing any error in the log and you do not see the vehicles as terrain design has laid them out.
 </p>
 
 <p>
@@ -358,22 +375,17 @@ Terrain config has no checks if these required mods are present, if you do not s
 </p>
 
 <p>
-Vehicle mods: Big Bud 450 and Big Brute, these are only used in New-farmer game-mode. If you never play new-farmer then you don't need these. If you choose new-farmer without these mods then FS19 just silently fails without writing any error in the log and you do not see the vehicles as terrain design is laid out.
-</p>
-
-<p>
 PMC terrains are error free, as long as player uses required mods.
 </p>
 
-<!--
 	<h2>Optional Mods</h2>
 
 <p>
-2021-05-19 Seasons GEO Shelby, Montana. Latitude has been properly placed at Shelby, MT. Temperatures are realistic from real world data.
+PMC Seasons GEO Shelby, Montana. Latitude has been properly placed at Shelby, MT. Yearly seasonal temperatures are realistic from real world data.
 </p>
 
 <p>
-PMC_Seasons_GEO_Montana_Shelby_v1.0.7z 10kb <a href="downloads/PMC_Seasons_GEO_Montana_Shelby_v1.0.7z">farming-simulator.org</a>, mirror: <a href="">google drive</a>.
+PMC_Seasons_GEO_Montana_Shelby_v1.0.7z 10kb <a href="downloads/PMC_Seasons_GEO_Montana_Shelby_v1.0.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1-M6SK6-Yzc6bMYvrmyB5TAkMNrQCnxoW/view?usp=sharing">google drive</a>.
 </p>
 
 <p>
@@ -383,21 +395,22 @@ If you do not use Seasons, then you do not need PMC_Seasons_GEO_Montana_Shelby.z
 	<h2>Download</h2>
 
 <p>
-PMC_Montana_Shelby_8km_v1?.7z ?mb <a href="downloads/PMC_Montana_Shelby_8km_v1?.7z">farming-simulator.org</a>, mirror: <a href="">google drive</a>.
+PMC_Montana_Shelby_8km_v1.2.7z 41.4mb <a href="downloads/PMC_Montana_Shelby_8km_v1.2.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1nFcYaywmQh5ZsupEMw8RwL1Lxdg64zRM/view?usp=sharing">google drive</a>.
 </p>
 
 <p>
 For installing please read <a href="install-mods.php">how to install FS19 mods</a> and <a href="install-pmc-terrain-mods.php">how to install PMC terrain mods</a>.
 </p>
--->
 </div>
 
 </section>
 
 <footer>
 <p>
-<a href="pmc-terrains.php" class="button">PMC Farming Simulator Terrains page</a>
-<a href="../index.php" class="button">PMC Farming Simulator root page</a><br>
+<a href="pmc-terrains.php" class="button">PMC Farming Simulator Terrains</a>
+<a href="changelog-pmc-montana-shelby-8km.php" class="button">Changelog PMC Montana Shelby 8km</a>
+<a href="dev-diary-pmc-montana-shelby-8km.php" class="button">Dev Diary PMC Montana Shelby 8km</a>
+<a href="../index.php" class="button">PMC Farming Simulator root</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
 </p>
 <?php include("../include/w3-validator-logo.php"); ?>
