@@ -24,7 +24,7 @@
 	<h2>Courseplay FS19</h2>
 
 <p>
-<b>2021-01-04</b> Updated
+<b>2021-06-12</b> Updated
 </p>
 
 <p>
@@ -32,7 +32,7 @@ See our <a href="../courseplay.php">FS17 Courseplay</a> page for background info
 </p>
 
 <p>
-Download <a href="https://github.com/Courseplay/courseplay" target="_blank">github courseplay</a> and for further documentation see <a href="http://courseplay.github.com/courseplay/" target="_blank">homepage</a> for manual etc.
+Download <a href="https://github.com/Courseplay/courseplay" target="_blank">github courseplay</a>.
 </p>
 
 
