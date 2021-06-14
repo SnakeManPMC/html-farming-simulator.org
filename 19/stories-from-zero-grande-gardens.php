@@ -6665,8 +6665,6 @@ This F28 seeding was a bit messy, first started to single seeder driving manuall
 Was watching SinisterSockz twitch streaming North Dakota Regent terrain editing so wanted to concentrate watching on that a while, also I don't really want to continue seeding more fields because the harvest gets so long then and running the risk again to not be able to finish before winter.
 </p>
 
-
-<!-- 2021-01-17T1352 added -->
 	<h2>After 5 Months Break</h2>
 
 <p>
@@ -8606,6 +8604,1353 @@ So now its time to sign off, until we return to PMC Grande Gardens Start From Ze
 
 <p>
 1143 Saved game and shut down FS19...
+</p>
+
+<!-- 2021-06-14 -->
+	<h2>After Three Months Break 2021</h2>
+
+<p>
+<b>2021-04-16T0949</b> Back at PMC Gaming after a break to this Start From Zero savegame <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Brought in PMC Grande Gardens 16km v1.1.9 terrain upgrade. Just finished getting the savegame ported with that simple starting a new savegame and copying over all XML files. Looks like some of the train zoom out distance edits did not port over like this, but its fine I won't be doing much driving with trains anyways.
+</p>
+
+<p>
+I am extremely burnt out for FS19 terrain editing, well actually burnt out for any computer stuff really including ArmA 3 editing etc, seems like no editing interests me. Only thing for which I find any motivation is playing FS19.
+</p>
+
+<p>
+I wanted to work on some fields in this savegame to get a bit more progress to it, even though there is not enough good edits in yet which I promised on the above few months ago when I "parked" this savegame. I am not happy that I continued playing this savegame now, but if I'm so burnt out that I just waste my days by watching "cat videos from youtube", its better to play this savegame for sure.
+</p>
+
+<p>
+Decided only to take a small bite out of the progress now, we have bunch of fields to do, not exactly half the terrain left but somewhat close. We got like whole SW section and also south central. I want to snip out fields in area coverage order so to speak, not to jump around in the terrain to find suitable fields.
+</p>
+
+<p>
+Its kind of funny that when I return... my first set of fields are pretty massive monsters, F56 527.960 ha, F59 527.960 ha and F82 636.495 ha. That is huge amount of field work and gets pretty boring quick I know that from experience. But I rather do some productive savegame work while watching real life farming youtube videos instead of simply wasting time.
+</p>
+
+<p>
+Since my last farming in this savegame I have moved into more realistic american farming equipment, no more four big bud 747s pulling biggest bourgault drills and I switched those unrealistic semi truck trailer end dump tipper/6 to realistic demco trailers. However now I'm faced dilemma should I finish this savegame using the existing equipment or switch to realistic stuff. Honestly... while it is cool to play with realistic stuff on small fields of PMC Iowa Garden City 8km... I think this savegame will be finished with these biggest and baddest equipment, it would just increase the playing time so much if we start to use smaller realistic equipment.
+</p>
+
+<p>
+I'm probably going to bring in some equipment like john deere 4940 sprayer/spreader as its got that crazy 35 km/h speed which just shoots it through the field work. Also if I use landoll cultivator/plow I can skip my existing plow implement completely, saving time when switching implements.
+</p>
+
+<p>
+But dunno, we'll see how this starts to run. Anyways.
+</p>
+
+<p>
+Under those huge fields I mentioned there are smaller, quite small actually, F67, F68 and F69, however I think this time I wont rush it and just do these big fields now. Was thinking of putting soybeans for the biggest F82, canola to F59 and... corn to F56. That corn harvest will be just absolutely crazy if its anyway fertilized etc heh.
+</p>
+
+<p>
+F82 is 33% fertilized. F59 needs lime but is 66% fertilized. F56 is 66% fertilized.
+</p>
+
+<p>
+Dunno as I'm bored burnt out... maybe I'll just field work all these fields properly to max fertilization and lime that F59. I mean too much grind is not fun, but beats wasting time watching cat videos, right?
+</p>
+
+<p>
+Started moving rubicons towards F59 and configured courseplay, it then froze whole game, nice start dude.
+</p>
+
+<p>
+1043 Started fertilizing F59, courseplay ETA 1h 14min, 4x tools
+</p>
+
+<p>
+Well here we go first field work over one hour <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Was surprised how nicely courseplay worked on this field work, vehicles respected convoy settings and everything was running smooth on the headland. Good to see four rubicons spraying, big operation. I was watching youtube real life farming video queue, luckily had three videos to watch.
+</p>
+
+<p>
+After these videos have been watched... there is still a lot of fertilizing to do so we'll see how quickly I get bored here. But as I already stated, I can be bored by editing computer or here actually getting some progress done to this savegame. Kind of sad to play when I'm not 100% enthusiastic about it, but what can you do.
+</p>
+
+<p>
+1135 Lead vehicle dry, okay fertilizer refill time<br>
+1211 Finished fertilizing F59
+</p>
+
+<p>
+1212 Time for a break, need to cook a meal and eat...<br>
+1304 Lunch break over, lets get back to field work...
+</p>
+
+<p>
+On lunch break I drove case puma 240 cvx tractors with bredal k165 spreaders filled with lime into F59.
+</p>
+
+<p>
+1309 Started lime spreading F59, courseplay ETA 7h 34min, 2x tools
+</p>
+
+<p>
+Oh wow what was I thinking... SEVEN HOURS field work duration!? <img src="../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+</p>
+
+<p>
+I'm going to add john deere 4940 sprayer/spreader mod and run lime using it, four of those with larger tank size, wider working width and higher working speed... yeah that sounds good to me. Also going to add real dirt color, silo displays, landoll 7450VT and updated additional field info mods.
+</p>
+
+<p>
+1321 Savegame and FS19 shutdown for new mods...<br>
+1324 Back up, mods loaded, now going to buy some vehicles
+</p>
+
+<p>
+Purchased two john deere 4940 sprayer/spreader for umm some thousands and two dry boxes. Drove them to F72 where lime buy point was and filled dry boxes up, then drove them to F59 NE ready to start spreading some lime. Generated new headland field work course.
+</p>
+
+<p>
+1347 Restarted spreading lime with 4940s now, duration 3h 24min<br>
+1513 Was watching youtube/twitch and then started bredal k165 spreader with GPS driving from the end of courseplay course, because, why not
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-17T0302.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-17T0302.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+1700 Sold two case pumas and bredal k165 as I have no used for them due JD 4940 being so great spreader<br>
+1715 Finished lime spreading F59
+</p>
+
+<p>
+We have a new king on lime spreading equipment: John Deere 4940 with L3030G4 drybox holding 19,200 liters of lime/fertilizer. Working speed 35 km/h and width 24m.
+</p>
+
+<p>
+Then it was time to call it a night even though I wasn't tired yet but it was getting late, cant get up at decent time tomorrow to see planned twitch live stream if I stay up much longer. Got some good work done for F59 today, kind of nice farming day.
+</p>
+
+<p>
+1717 Shut down FS19, more farming tomorrow for sure...
+</p>
+
+<p>
+<b>2021-04-17T0022</b> New farming day has started, this savegame now has 957hrs in it.
+</p>
+
+<p>
+Feeling enthusiastic about farming to make some good progress, so guess I'll continue fertilizing. Also most likely will upgrade plows and cultivators to landoll 7450VT which does both plowing and cultivating at the same time, its a bit slower and narrower than flexicoil st820 but as said it plows with the same pass so you cant really compare them.
+</p>
+
+<p>
+As I own all the land and have millions of money which I don't need anymore, there is no need to care for fields I should just air drill soybeans to every field without caring, but now I just want to farm properly for some reason, probably because haven't played this savegame for months. Also this current plan is quite short, just three fields, okay they are HUGE fields but still just three, it somehow makes it feel less so lets give good care to these three big fields <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+0039 Started fertilizing F56, courseplay ETA 1h 14min, 4x tools<br>
+0113 Had a lunch break here while rubicons were fertilizing, all done feeding now<br>
+0132 First rubicon is empty, its refilling time
+</p>
+
+<p>
+10/mid-winter in-game 1737hrs, all rubicons are refilled but it is dark night has fallen, time accelerated to morning daylight. 11/mid-winter in-game 0829hrs, rise and shine, lets continue fertilizing.
+</p>
+
+<p>
+Weather is pretty much just about to halt our operations, its -2/0C currently, what I recall when ground freezes up you cannot fertilize and I think spread lime etc. If we have time I'll fertilize F82 as well.
+</p>
+
+<p>
+0208 Finished fertilizing F56
+</p>
+
+<p>
+Our liquid storage tank site has 367.2k liters of herbicide and 623.6k liters of liquid fertilizer (after filling semi-truck liquid tanker for 120k liters).
+</p>
+
+<p>
+Drove semi truck liquid tanker to our liquid storage tank site by F24 NW, filled it up (as you can probably tell from above heh), then drove it back down to F82 where rubicon's were already waiting. Refilled all of the rubicons so they are good to go.
+</p>
+
+<p>
+0300 Started fertilizing F82, courseplay ETA 1h 37min, 4x tools
+</p>
+
+<p>
+PMC Grande Gardens v1.1.9 upgrade has high voltage power towers in F82, courseplay nicely avoids these cultivator_density holes no problems with that... except some multiple tool vehicles take off to a random direction when they pass these pole avoidance parts of the route. This is so fucking infuriating you just want to yell and scream.
+</p>
+
+<p>
+Overall courseplay v6.03.052 is great, its come long way since initial release... but yeah, there are still some issues like the above, random freeze on some course startups and that grain cart overloader mode just isn't working. I really hope that one day we see a FS19 courseplay which works flawlessly. Its just sad to think that this day might be around the time new farmsim game is released and we are again thrown back to square one.
+</p>
+
+<p>
+Guess its one of those annoyances when using multiple tools. I have never had these issues with single vehicle courses.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-17T0328.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-17T0328.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+Anyways. Did first round of liquid fertilizer refill on that course. You know the field is large when FOUR rubicons ran out of fertilizer <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+0456 Finished fertilizing F82
+</p>
+
+<p>
+Took rubicon number three (least engine hours) and manually fixed few spots courseplay missed like north side of the high voltage power towers and some corners (dunno why it missed these).
+</p>
+
+<p>
+0509 Was so tired that at NW corner almost snoozed off, time to go take a nap...<br>
+0711 Nap time over, back to farming...
+</p>
+
+<p>
+Then it was shuffling vehiles around, rubicons and liquid tanker truck out of F82 and john deere (I just call it JD for now) 4940s from F59 to F56 which is the next field... but because these fields are HUGE you have to use pickup truck 1978 to record temporary courseplay route for these vehicles so you don't have to slowly drive them one by one.
+</p>
+
+<p>
+This pickup truck is my go-to vehicle for recording these routes. Only problem with this pickup truck is horsepower I think, its fine on roads/grass but once you enter a field its top speed drops from 110 km/h to mere 80 km/h which forces you to stay off the lawn err I mean fields. Been thinking of finding some mod vehicle which would maintain its speed on fields too. Okay perhaps not very realistic driving a pickup truck on fields at 110 km/h, well maybe if the field was real smooth and soil was hard, but yeah anyways.
+</p>
+
+<p>
+Terrain as this size you really don't want to drive multiple not to mention slow vehicles by yourself, just record the route fast and let vehicles crawl through it slowly while you do something else.
+</p>
+
+<p>
+Next I took one of the JD 4940s and spread lime on the edge of F56, outside field definition. This outside field definition is a thing always after terrain upgrade, its a nuisance and could be avoided if you never upgrade terrain versions heh, well we all know that'll never happen <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+This sort of detailed work on fields when savegame is at this stage where you own all the fields and crop yields don't make any difference... is quite waste of time, but I just simply want to do it. I remember other times and there definitely will be those times too in the future where I'm ready to vomit when even thinking about doing such waste of time work, this is not one of those times <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+0754 While spreading lime to field edge I got hungry, lunch break (GPS vehicle keeps going)...<br>
+0759 Finished edge liming F56<br>
+0817 Feeding time over
+</p>
+
+<p>
+Then drove JD 4940s by F73 SW and refilled lime. After that it was a long drive down to F82 where I wanted to spread lime to the field edge. Yep completely insignificant task wont make any difference in the long run, well other than taking away my time... but as said, I just want to do it.
+</p>
+
+<p>
+Most likely after these three fields are harvested and I finally get those promised "good edits" in, then we are back on rock'n'roll and blast through remaining fields just air drilling soybeans directly without care in the world <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+0831 Started spreading lime to F82 edge, manual GPS driving
+</p>
+
+<p>
+Wanted to live stream but kind of was undecided about everything. Continuing this savegame yesterday feels like... almost like doing a bad thing, "naughty" like I should not be doing this, difficult to explain. Guess I treat this game-play right now like if I suddenly decide not to continue I can just delete temporary savegame and this text and poof it was like it never happened <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Guess this overall burnout bleeds through to this game-play as well, dunno.
+</p>
+
+<p>
+0850 Finished spreading lime to F82 edge
+</p>
+
+<p>
+Next was to fix the field edge plow issue due terrain upgrade... except I don't even know where john deere 2623 plow is located so wont go hunting it with dead slow big bud 450 which I use to pull it. Yeah lets forget about fixing those edges, they are good enough.
+</p>
+
+<p>
+So then... well nothing left to do other than to time accelerate several days to next year and in there to planting temperatures. This will take a really long time to get done as 16.3km terrains are notoriously slow with the seasons desync screen after 6000 speed time acceleration. Man do I wish there was some easier way to skip days (and no I wont temporarily switch season length as its such a cheaty way).
+</p>
+
+<p>
+0906 Its now 11/mid-winter and I'll start time accelerating until next year...<br>
+0936 Well I have now time accelerated for HALF AN HOUR instead of playing the game <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy"><br>
+0938 Reached next year, its now 01/early-spring
+</p>
+
+<p>
+That long time to just time accelerating seasons days, uuh... I should have just changed the seasons length to 3 days and quickly skip those then turn it back to 24 on new year. Oh well.
+</p>
+
+<p>
+Next we need stable +6C soil temperature for canola planting season, then we need to wait until +10C for corn and soybeans. This will be two part planting season.
+</p>
+
+<p>
+Feels like these seasons sync dialogs after time accelerating take few minutes each... its just really bad to skip this many days, should be avoided as much as possible.
+</p>
+
+<p>
+0957 Its 08/early-spring, weather +6/+4C and forecast does not predict less than +6C which is good for our canola planting.
+</p>
+
+<p>
+Now just have to probably time accelerate one more day to soil temperature to reach +6C and then planting season kicks off. So I'm starting to haul big bourgault air drills to F59 where we plant the canola.
+</p>
+
+<p>
+Bourgault air drills were parked on F75 NE, so took pickup truck and recorded courseplay route for big bud 747s to drive into F59 NE. Looks like lead big bud 747 needs a diesel refuel and seed refill, while second only needs diesel refuel. Odd setup to see second one full of seeds while first is not, cant remember at all how the planting season last in-game year went.
+</p>
+
+<p>
+1010 Big bud 747s with bourgault 3420-100 air drills arrived to F59 NE
+</p>
+
+<p>
+Now I need to find my seed semi truck and fill it with seeds, got no recollection if I just used one of the grain trucks or did I have dedicated seed carrying trailer heh.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-17T1012.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-17T1012.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+Brought diesel fuel semi truck tanker to F59 NE and topped off big bud 747s. Quick scan on garage owned vehicles revealed that I only have four tipper/6 trailers which are connected to grain hauling, so guess I'll borrow one of them and fill it with seeds. That also leaves me with dilemma what to do with those great plains corn planters because those cannot refill from grain trailer, they need that "top down" refill method which is auger wagon. So not only I need to borrow one end dump trailer but also fendt 1050 with elmers haulmaster auger wagon.
+</p>
+
+<p>
+No big deal, but just a bit of work. For both canola/soybeans and corn there is no shortcut, seeding/planting 500+ hectares requires SEVERAL seed refills so forget about trying to get field done with one seeder/planter tank <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Bought silo display large and placed it next to... umm farm 2 I think it was, silo. It has 7.7k liters of seeds and its full of soybeans. Oh right I remember now, it was one of the big fields F20-22 when this silo got full, it still is, heh I'm in no rush to sell my grain <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Bought another silo display large and placed it to farm 1 bin silo.  It has 28.9k liters of sunflowers, 51.5k liters of soybeans, 2.558m liters of seeds (heh) and 563.3k liters of lime. Okay so guess here is where we get our seeds <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Bought third silo display large and placed it to farm 3 bin silo. It has 7.1k liters of seeds only. Almost makes me want to go pick up these leftover seeds but we'll let them be.
+</p>
+
+<p>
+Took a semi truck which is used for grain hauling, unhooked the second trailer, then drove it to all the way to north to farm 1 to load seeds. Actually now that I think of it... why did I unhook the second trailer, who would it hurt if it was on this ride, yes of course we cannot refill seeder from the first trailer when second is connected but that would be real quick to unhook it for the duration of refilling, assuming we get to refill all 70k liters. Well ok we cant also backup the truck to seeders auger shovel with two trailers so in second thought guess it was just easier to go with the one.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-17T1040.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-17T1040.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+1049 Finished hauling seeds and refilled lead big bud 747 bourgault 71300 air cart
+</p>
+
+<p>
+Uuh its no small route to drive basically across 16.3km terrain into farm 1 bin silo and back. While I was doing this prep work I realized that F56 which is going to be corn... requires cultivating because great plains planters cant plant on harvested ground (is it "no til" or something they call it). So I drove big bud 450s with flexicoil st820s into F56 NE.
+</p>
+
+<p>
+Going to wait until I start seeding canola as when courseplay is doing its long field work courses, why not do several at the same time, there is no reason to do cultivating for who knows how many hours now, then time accelerate until seeding temperatures and then again do seeding for few hours. Lets merge both field works into one gaming session. Yes sure 4 cultivators and 2 big seeders means probably 20FPS performance, but who cares as long as the job gets done.
+</p>
+
+<p>
+So I time accelerated until soil temperature increased to +6C so I can start to seed canola. 10/mid-spring in-game 0836hrs, weather +10/+6C and forecast now shows +5C as possible minimum temperature for four days from now, but hmm heck I'll risk it, it wont get that cold and even if it did... it would be really bad luck if soil temperature actually dropped one degree because of it.
+</p>
+
+<p>
+Lets get to work! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+1123 Started cultivating F56, courseplay ETA 3h 56min, 4x tools<br>
+1127 Started seeding canola F59, courseplay ETA 5h 7min, 2x tools
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-17T1138.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-17T1138.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+Field work time is hilarious again <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+<i>Son, if you want to play with little girlie toys go back to ravenport, and if you do don't bother coming back, you're no son of mine...</i> <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+Yeah well I think for the next season after that terrain upgrade we need to upgrade our seeding fleet, these two biggest bourgault air drills wont cut it anymore. I'm probably going back to the good old seed hawk with optional fertilization mod so we can use for seeds that full 34k liter capacity (bourgault only allows 25k).
+</p>
+
+<p>
+Seed hawk is not so wide sure, but also bourgault mod sucks as if you have the air drill ON but lifted UP, it still digs into the ground when you drive around so you must turn the whole drill off when you turn if you absolutely must avoid those diggings. For me they are extremely annoying if using GPS driving manually as it basically constantly seeds. I don't understand how giants made such a buggy air drill mod. But anyways.
+</p>
+
+<p>
+And with my move towards more realistic american farming I'm thinking of getting some large commonly used tractor instead of this unrealistic unique big bud 747, I mean currently this is purely cartoon nonsense to have two tractors on the field which only has one unique model in real life. Most likely I'll go with some four wheel drive tractor, challenger mt900, new holland t9 or similar, not sure.
+</p>
+
+<p>
+But we'll see how things look when that time comes, I feel its going to take a while before those promised terrain edits are done and I'm ready to continue for SW section of this terrain.
+</p>
+
+<p>
+For now... we cultivate and seed for rest of the day haha. Its probably going to be tomorrow before this is finished, I got several hours game-play time left today... but this boring as current tasks are, I do wonder if I manage to sit here and fiddle my thumbs for that long.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-17T1143.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-17T1143.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+I switched to chill mode, going to check editing computer if anything news worth are there, going to grab a bite to eat, watch twitch/youtube and well just chill... at least until bourgault air carts need a refill, which actually might not be that many hours away as lead air cart is already down to 86% full while writing this.
+</p>
+
+<p>
+Oh and as expected FS19 performance is 20FPS, haha ... uuuh <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-17T1221.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-17T1221.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-17T1325.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-17T1325.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-17T1339.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-17T1339.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+1349 Lead bourgault air cart is empty, refill time!
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-17T1353.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-17T1353.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+1354 All done, bourgaults are back seeding, courseplay ETA 2h 53min now <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-17T1438.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-17T1438.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+1540 Finished cultivating F56
+</p>
+
+<p>
+1623 Lead bourgault air cart is empty, refill time!<br>
+1627 All done, bourgaults are back seeding, courseplay ETA 20min now <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy"><br>
+1648 Finished seeding canola F59
+</p>
+
+<p>
+My gaming day is not over yet but cant really figure out what could I get done today, so decided to call it a night here.
+</p>
+
+<p>
+1651 Shut down FS19 for today
+</p>
+
+<p>
+<b>2021-04-18T0136</b> Back at PMC Gaming, lets farm. This savegame now has 972hrs in it.
+</p>
+
+<p>
+10/mid-spring in-game 1413hrs, weather +17/+6C and canola got seeded yesterday, today we move bourgault air drills to F82 and break out great plains corn planters in preparation to plant corn on F56 when soil temperature is right.
+</p>
+
+<p>
+This means getting more seeds from farm 1 bin silo with semi truck, probably needs to take fendt 1050 with elmers haulmaster to the same seed pickup. Lotsa hauling.
+</p>
+
+<p>
+Picked up 70k liters of seeds from farm 1 bin silo, now seeds left 2.418m liters, still plenty to go. Drove them to bourgault air drills and filled them up and sent them into F82. Drove semi truck to pick up its second trailer, then drove it to farm 1 bin silo and again loaded it up with seeds, now full 140k load. Farm 1 bin silo has seeds left 2.307m liters.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-18T0200.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-18T0200.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+Then it was time for a lunch break, funny as haven't got to do any field work yet heh, logistics of large terrains man, it ain't no joke...
+</p>
+
+<p>
+0219 Lunch break...<br>
+0301 Feeding time is over, back to logistics
+</p>
+
+<p>
+Then drove semi truck with full 140k load into F82. Thinking about just taking the shortcut and refill great plains corn planters from the seed buy point at F72 SE because otherwise would have to drive slow fendt 1050 with auger wagon all the way to farm 1 and back, plus once again to go dump leftover seeds.
+</p>
+
+<p>
+Time accelerated to 11/mid-spring in-game 0826hrs. Refilled diesel fuel on four case optum 300 cvx tractors which pull great plains yp-2425a corn planters.
+</p>
+
+<p>
+Time accelerated to 14/mid-spring in-game 0836hrs. Alright lets refill great plains yp-2425a corn planters as we are slowly getting closer to corn/soybeans planting temperatures. Hmm F56 is a monster size so hmm guess I need to take BOTH fendt 1050s with elmer haulmasters, record courseplay routes to and back from farm 1 bin silo so they can go pickup seeds from there.
+</p>
+
+<p>
+Used pickup truck 1978 to record courseplay route from F82 to farm 1 and back, uuh such long driving. Then sent fendt (sentfentwhat? huh) 1050s there to get some seeds, I will not buy seeds when our own farm has over two million liters to use. Elmer haulmasters pickup up full loads of seeds, bin has now 2.167m liters left.
+</p>
+
+<p>
+Once back at F56 refilled great plains planters. And then we just time accelerate waiting for corn/soybeans planting temperatures.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-18T0424.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-18T0424.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+18/late-spring in-game 0816hrs, weather +13/+10C and forecast doesn't show anything below planting temperatures, we are good to go.
+</p>
+
+<p>
+0452 Started seeding corn F56, courseplay ETA 5h 10min, 4x tools<br>
+0457 Started seeding soybeans F82, courseplay ETA 6h 10min, 2x tools
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-18T0504.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-18T0504.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+Corn and soybeans planting season has begun, aayeah! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+Well only single field per crop so not much of a "season" there but anyways. Also check out those crazy 5-6 hours seeding times, plus any refill and turning delays we get on top of that, oh my.
+</p>
+
+<p>
+This is large scale farming, get on with the program or get the hell out, we got not room for wussies! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+Now only question is how many refills for each field, hmm I think those great plains will take... uh oh, 5 refills, at least? Bourgaults on this 636ha field... two was already on the previous smaller field so clearly three, dont think it requires fourth one, we'll see.
+</p>
+
+<p>
+So just like yesterday, now I'll just chill and watch youtube farming videos etc <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-18T0525.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-18T0525.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0526 Lead great plains corn planter is empty, refill time!
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-18T0526.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-18T0526.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0529 All great plains planters refilled, off they go<br>
+0603 Lead great plains corn planter is empty, refill time!
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-18T0604.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-18T0604.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0607 All great plains planters refilled, off they go
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-18T0625.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-18T0625.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0632 Lead bourgault air cart is empty, time to refill the big boys<br>
+063? Both bourgaults refilled, more soybeans into the ground<br>
+0641 Lead great plains corn planter is empty, refill time!<br>
+0649 All great plains planters refilled, off they go
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-18T0656.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-18T0656.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+First elmers haulmaster ran out of seed, had to bring in the second one. After refilling was complete I sent first one back to farm 1 bin silo to grab some more seeds, we're gonna need 'em ...
+</p>
+
+<p>
+0720 Elmers haulmaster picked up 70k load of seeds, bin remaining now 2.097m liters<br>
+0722 Lead great plains corn planter is empty, refill time!<br>
+0727 All great plains planters refilled, off they go<br>
+0801 Lead great plains corn planter is empty, refill time!<br>
+0805 All great plains planters refilled, off they go<br>
+0812 Lead bourgault air cart is empty, time to refill the big boys
+</p>
+
+<p>
+Semi truck trailer got empty, now need to switch into the second trailer which has dolly attached to it. Swapping the dolly off and then take second trailer was a pain, would have been much nicer to just use single trailer and send it to pickup more seeds while air drills are seeding. Using courseplay to have the semi drive that seed loop every time its seeds are less than 51k would have been just fine, well basically it would mean that one refill one pickup trip, but yeah I just don't like that dolly swapping. Maybe having two trucks with single trailers would have been even more efficient.
+</p>
+
+<p>
+Now both fields look about half way seeded, we are slowly getting there. And now I'm going to grab lunch, I'm starving...
+</p>
+
+<p>
+0817 Both bourgaults refilled, more soybeans into the ground<br>
+0838 Lead great plains corn planter is empty, refill time!<br>
+0842 Elmers haulmaster is empty, switching to full one...<br>
+0845 All great plains planters refilled<br>
+0852 Send second semi truck grain trailer to farm 1 bin silo to pickup seeds (bin silo left with 2.027m liters now)<br>
+0905 Oops forgot to send fendt 1050 elmers haulmaster to go pickup more seeds too, stay focused!<br>
+0918 Lead great plains corn planter is empty, refill time!<br>
+? All great plains planters refilled<br>
+0934 Elmers haulmaster picked up load of seeds, remaining in bin now 1.957m liters<br>
+095? Lead bourgault air cart is empty, time to refill the big boys<br>
+1002 Both bourgaults refilled, more soybeans into the ground<br>
+? Lead great plains corn planter is empty, refill time!<br>
+? All great plains planters refilled, off they go
+</p>
+
+<p>
+Heh guess I have forgotten to write down refill start/end times big time here, ouch. Watching youtube real life farming videos on the second monitor and I'm easily distracted. Hey come on now, its been already a long day planting and how many damn times I've already refilled, this is getting old so don't judge me too harshly <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+As of writing this we are getting to the last few passes on these huge fields, its not over yet but we'll get there.
+</p>
+
+<p>
+1041 Lead great plains corn planter is empty, refill time!<br>
+1045 All great plains planters refilled, off they go<br>
+1116 Finished seeding corn F56
+</p>
+
+<p>
+Refilled great plains seeds and also diesel fuel for puma optums, now they are nicely parked away and ready to go in next planting season.
+</p>
+
+<p>
+1132 Finished seeding soybeans F82
+</p>
+
+<p>
+Uaah all finished. Great feeling to get planting season wrapped up <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Drove fendt 1050 elmers haulmaster into farm 1 bin silo and overloaded remaining seeds there, then send tractor back to F82 where its harvest fleet buddies are. Also semi truck did bring remaining 21k liters of seeds back to farm 1 bin silo, our planting season is now officially over.
+</p>
+
+<p>
+After semi truck dumped seeds to bin silo, its seed amount is now 2.032m liters.
+</p>
+
+<p>
+1158 Shut down FS19 for short break...
+</p>
+
+<p>
+But that wasn't a break as I had to call it a day, just had no mental energy left to put any effort for farming game-play. We'll get to harvest season next time.
+</p>
+
+<p>
+2213 New farming day has started. This savegame now has 982hrs in it.
+</p>
+
+<p>
+2224 Started fertilizing F82, courseplay ETA 1h 31min, 4x tools
+</p>
+
+<p>
+And again in this field the courseplay infuriating bug where vehicle takes off to a random direction, this happened by the power pole avoidance spots. Just... NNNGGGH! makes me so angry <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+Actually not true, it was not so bad, more like shrugging it off "oh well its courseplay", or that its so early in the day that I'm not going to be bothered to be frustrated, yet, I just want to enjoy some good large scale farming.
+</p>
+
+<p>
+But again, I hope that some day we have a courseplay just simply... <i>works</i>.
+</p>
+
+<p>
+2317 Lead rubicon is empty, refill time<br>
+2324 All rubicons full of liquid fertilizer, we continue<br>
+2339 Again at one power pole lead rubicon took of to random fucking direction, ok NOW I'm pissed off <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+What fucking good does software that automates field work but you cannot trust as it randomly messes up vehicle routes <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+Basically I should discard courseplay anytime it fails like this without any logical reason, same as I have zero tolerance policy for log errors, I should have zero tolerance policy for courseplay bugs.
+</p>
+
+<p>
+The honest truth is that if you want stress free FS19 game-play you need to drive manually using GPS, there is no if's or but's about it, courseplay is great but doesn't work 100% all the time. Of course its pointless to play driving manually with single vehicle on terrain of this size, unless you want to spend a WEEK working on single field.
+</p>
+
+<p>
+On last pass lead rubicon again shot off to random direction but I was on top of things and corrected it immediately. Didn't need to get angry as I was expecting it.
+</p>
+
+<p>
+<b>2021-04-19T0015</b> Finished fertilizing F82
+</p>
+
+<p>
+Now all three fields are 100% fertilized, next is to herbicide spray them once field stages switch and they accept herbicide. This should have already happened on F56 and F59 so I'm moving sprayer fleet there now.
+</p>
+
+<p>
+0059 Started herbicide spraying F56, courseplay ETA 1h 13min, 4x tools
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-19T0103.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-19T0103.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0149 Lead rubicon is empty, refill time<br>
+0154 All rubicons topped up, we continue<br>
+0217 Nap time...<br>
+0700 Yawn, now that was a <i>long</i> nap, now back to farming<br>
+0709 Finished herbicide spraying F56<br>
+0719 Started herbicide spraying F59, courseplay ETA 1h 14min, 4x tools
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-19T0727.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-19T0727.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+Off they go, another one hour field work. Semi truck liquid tanker has 32.2k liters of herbicide, next refill will pretty much empty it as if all rubicons were completely dry it would take 36k liters to fill them up. As seen from F56 you can get this field done with single refill, lets hope whats left in the tanker is enough. I just try to avoid unnecessary trips all the way across the terrain.
+</p>
+
+<p>
+0810 Lead rubicon is empty, refill time<br>
+0817 All rubicons topped up, we continue
+</p>
+
+<p>
+Lead rubicon only got 6.7k liters out of 9k capacity, I don't think she will reach the course end. Oh well I'm driving semi truck tanker now to liquid storage site to pickup another full 120k load of herbicide, we don't need it all but no point driving such distances for "this should be enough" type loads. Okay off we go.
+</p>
+
+<p>
+Its now in-game 2042hrs, night is falling quickly. Liquid storage tank site has 252.1k liters of herbicide and 643.9k liters of liquid fertilizer. Then I picked up full 120k load of herbicide.
+</p>
+
+<p>
+0843 Semi truck tanker reached F59 just moments before lead rubicon finished its course<br>
+0847 Finished herbicide spraying F59
+</p>
+
+<p>
+18/late-spring in-game 2108hrs, weather +23C/+10C and night has falled, its dark. Time to skip the night when hopefully F82 also germinates and we get to herbicide spray it.
+</p>
+
+<p>
+19/late-spring in-game 0719hrs, weather +14/+11C, gooooood moooorning gaaaardens! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+It was one of those foggy days, this kind of weather kind of sucks, I don't like the grayish gloomyish weather.
+</p>
+
+<p>
+Drove semi truck liquid tanker and rubicons to F82, then refilled them. All good to go now.
+</p>
+
+<p>
+0910 Started herbicide spraying F82, courseplay ETA 1h 37min, 4x tools<br>
+1003 Lead rubicon is empty, refill time<br>
+1008 All rubicons topped up, spraying continues<br>
+1055 Started live streaming in twitch and youtube<br>
+1103 Finished herbicide spraying F82
+</p>
+
+<p>
+Parked rubicons and semi truck liquid tanker, then it was just a lot of time accelerating until our crops are ready for harvest.
+</p>
+
+<p>
+1234 Started harvesting canola F59, courseplay ETA 7h 54min, 4x tools.<br>
+1428 Feeding break is over<br>
+1656 Time to call it a night, 6hrs live stream done, shut down FS19
+</p>
+
+<p>
+<b>2021-04-20T0953</b> Another harvest day has started. This savegame now has 995hrs in it.
+</p>
+
+<p>
+1326 Shut down FS19, live streams were dead and I was bored...
+</p>
+
+<p>
+<b>2021-04-30T1841</b> Back at PMC Gaming, lets harvest some canola. This savegame now has 999hrs in it! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T1840.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T1840.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+Upgraded courseplay to v6.03.058 which is the latest and introduces new course file formats, this is very scary that are there going to be any bugs. I took of course backups of savegame and courseplay courses, even copied them to editing computer as well.
+</p>
+
+<p>
+Upgraded to PMC Grande Gardens v1.1.10 which is pretty cosmetic update to change selling point and railroad silo map label names to "SP" and "RS" style, some other changes too which I can recall now.
+</p>
+
+<p>
+Had some issue with courseplay settings, when I used the general menu scan fields automatically it froze FS19 for a long time, usually I just task manager kill the task and try again, but this time I decided to wait. I remember from long time ago that F40 or some other big field in PMC Grande Gardens 16km takes really long time to scan, the thing is I cant recall if it was 10min or something ridiculous like half an hour. I wouldn't need to scan any fields, but it would be kind of nice to have courseplay settings turned on, I guess.
+</p>
+
+<p>
+Also preparing to start a live stream, but first I'm getting this new courseplay version configured properly. No point streaming frozen screen heh. I'm hoping that today friday prime time UTC and very eary US east coast there might even be some viewers, all my recent streams has been extremely late UTC and somewhat late US east coast time. Overall my live streams have been almost without viewers recently, which is odd as back in 2020 when I streamed PMC Texas Rowena 8km my stream was in top-3 on FS19 category at peak moment (ie "middle of the night" hehe).
+</p>
+
+<p>
+While waiting I searched this page through and sure enough there was several mentions of F40 scan freezing game for 15 minutes, so yeah guess I'll turn off the field scan after this. Its just something all courseplay players have to live with when using large terrains. Field scan option is convenience and causes no hassle when you have it disabled and scan fields manually when driving your vehicle to it. No big deal.
+</p>
+
+<p>
+1915 Finally game fully loaded and we are ready to continue harvesting
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T1930.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T1930.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T1936.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T1936.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+1942 It started to rain in-game, harvest is halted, noooo
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T1949.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T1949.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T1950.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T1950.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T2006.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T2006.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+2009 Finished refueling all vehicles except semi trucks (field crop blocking)
+</p>
+
+<p>
+Time accelerated skipping the night and rain.
+</p>
+
+<p>
+2011 Crop is dry, back to harvesting
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T2011.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T2011.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T2018.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T2018.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T2019.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T2019.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T2023.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T2023.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+2037 Started to rain again
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T2043.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T2043.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+2052 Time accelerated but then night fell, now need to skip the night<br>
+2054 12/mid-summer in-game 0710hrs daylight and crops are dry, we continue harvesting
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T2104.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T2104.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T2129.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T2129.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T2131.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T2131.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T2300.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T2300.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T2303.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T2303.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-04-30T2306.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-04-30T2306.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+2347 Time to call it a night, ended live stream on 4h 28min mark
+</p>
+
+<p>
+Took a break to cook and eat a nice meal. I was ready to call it a night as seen above... but after the meal I felt great and wanted to continue farming. Not so much live streaming but just farming and listening to music and watching twitch/youtube etc.
+</p>
+
+<p>
+When I loaded this savegame up it had <b>1003hrs</b> in it, wow one thousand hours in a single savegame, now that is badass <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0223.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0223.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+<b>2021-05-01T0227</b> Surprisingly this day still continues, lets harvest some canola <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0236.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0236.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0251.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0251.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0352.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0352.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0355 Finished harvesting canola F59
+</p>
+
+<p>
+Across several days and several hours... I finally managed to finish F59 canola harvest <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0354.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0354.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0356.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0356.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+Emptied all vehicles to railroad silo 9, not sure how much canola is in that bin silo now but our farm own total of 17.548 million liters <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0400.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0400.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0403.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0403.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T040341.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T040341.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0416.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0416.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0417 All vehicles refueled, now we just time accelerate until corn and soybeans harvest season
+</p>
+
+<p>
+Railroad silo 9 has liters of; wheat 1.686m, canola 9.236m, soybeans 5.747m, corn 2.507m, seeds 79k.
+</p>
+
+<p>
+PMC Grande Gardens 16km Start From Zero with one THOUSAND hours of game-play has 30FPS performance when you load it up, it dips as low as 20FPS when four combines and two grain trucks are running under courseplay. I have theory that crops in farm bin silos could cause giants engine to lag, yes it sounds stupid but when you unload from auger wagon to a truck trailer there is performance drop during unloading, maybe this extends to the huge numbers of grain liters in our various bin silos.
+</p>
+
+<p>
+Wanted to sell some grain to see if performance increases while its sold off, but we have so insane amounts of grain stored that it would take probably a full day of game-play to sell all of it, so that will have to be another day, now I want to get into harvest season.
+</p>
+
+<p>
+01/early-autumn in-game 0820hrs, alright now we are in corn and soybeans harvest season. Our crops are still growing. 02/early-autumn in-game 0840hrs, now soybeans are ready to harvest but corn is still growing. This means we will drive combines with midwest durus headers on into this field, harvest it and once we drive back to F56 SE we can change to corn headers.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0517.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0517.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0518 Transferred harvest fleet to F82 NW
+</p>
+
+<p>
+Now I'm wondering should I try to do this whole field as single courseplay course or same way as last year when I ran out of time, in four sections. Hmm Hmm. It sounds better to do it in small pieces because on previous canola harvest driving back and forth with grain cart tractors got really tedious as that field was so long, same as F82.
+</p>
+
+<p>
+I'm thinking of doing all four sections individually starting from NW section. Semi truck grain transport goes to railroad silo 8 which is just east of F82.
+</p>
+
+<p>
+0529 Started harvesting soybeans F82 NW, courseplay ETA 2h 29min, 4x tools.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0533.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0533.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0539.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0539.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0549.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0549.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0552.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0552.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0601.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0601.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0622.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0622.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0624.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0624.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0627.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0627.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0628.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0628.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0713 Lunch break...<br>
+0741 Feeding time over, back to harvesting
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0638.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0638.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T0809.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T0809.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0849 Time to call it a night, for real this time, so tired right now
+</p>
+
+<p>
+2015 New farming day has started. This savegame now has 1009hrs in it.
+</p>
+
+<p>
+Todays plan is to continue soybeans harvest on F82 and twitch/youtube live stream it, go on as long as I get bored/exhausted.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T2047.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T2047.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+2051 Finished harvesting soybeans F82 NW
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T2104.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T2104.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+2122 Started harvesting soybeans F82 NE, courseplay ETA 2h 38min, 4x tools.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T2130.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T2130.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T2135.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T2135.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T2139.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T2139.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T2143.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T2143.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T2150.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T2150.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T2152.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T2152.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T2155.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T2155.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T2204.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T2204.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T2223.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T2223.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-01T2345.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-01T2345.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+There had been no viewers other than 1-2 and besides friend of mine nobody in the chat, neither twitch or youtube. I therefore decided after some consideration over several weeks (recent times, streams) that I will not live stream anymore. Why stream when there is nobody watching, its a waste of time. I'll focus now on farming-simulator.org website and 4k high bitrate videos for youtube.
+</p>
+
+<p>
+In a bizarre way I was hoping there is no viewers and nobody chatting so I can without hesitation call it quits for live streaming. If by a miracle there was 10+ viewers on both twitch and youtube then of course I would continue streaming. But the first 2h 45min was completely dead, nobody watching nobody chatting.
+</p>
+
+<p>
+Around 3h 53min mark of live stream still nobody chatting or even watching, so I thought that fuck it and started to watch someone elses stream muted while still playing and streaming FS19. I'll let this stream go now as long as it goes, like last chance of anyone watching, but I'm not going to waste my time monitoring chat.
+</p>
+
+<p>
+<b>2021-05-02T0055</b> Finished harvesting soybeans F82 NE
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-02T0056.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-02T0056.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+After finishing F82 NE section it was perfect time to end live streaming as I was starving. Live stream duration was 4hrs 33min and as said zero activity.
+</p>
+
+<p>
+Was going to take a lunch break here but also thinking... unless I get sudden burst of motivation this will be it for todays farming.
+</p>
+
+<p>
+Cleaned OBS so wanted to right away test that 4k 60fps video capturing works flawlessly, so going to start harvesting F82 SE section.
+</p>
+
+<p>
+0240 Started harvesting soybeans F82 SE, courseplay ETA 2h 42min, 4x tools.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-02T0305.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-02T0305.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-02T0310.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-02T0310.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-02T0402.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-02T0402.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0510 Time to call it a night, have to do canada terrain source files for Runsliketurtle <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+<b>2021-05-06T0408</b> New farming day has started. This savegame now has 1017hrs in it.
+</p>
+
+<p>
+Spent few days of just editing PMC Iowa Garden City 8km placing some trees, its been slow progress but did not want to come to play FS19 on Gaming computer at all as I consider it waste of time. Today however... I just stood up and started Gaming computer so here I am, hmm okay, I guess...
+</p>
+
+<p>
+0507 Finished quick lunch break, now back to harvesting
+</p>
+
+<p>
+Night had fallen so I had to skip until morning daylight. 03/early-autumn in-game 1042hrs, weather +11/+18C forecast clear. Lets continue harvesting.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-06T0418.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-06T0418.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0626 Finished harvesting soybeans F82 SE
+</p>
+
+<p>
+Now that F82 SE section was done I was also done playing for today, this was just a quick nice farming session to finish this section, now I'm going back to edit PMC Iowa Garden City 8km terrain until time comes to return into F82 harvest.
+</p>
+
+<p>
+0632 Shutdown FS19 for today
+</p>
+
+<p>
+<b>2021-05-10T0800</b> Back at PMC Gaming, lets continue harvesting F82. This savegame now has 1019hrs in it.
+</p>
+
+<p>
+Didn't need to refuel vehicles this time, preparations to get F82 SW started took a while, I actually was on the background 15 or so minutes.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-10T0812.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-10T0812.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0836 Started harvesting soybeans F82 SW, courseplay ETA 2h 41min, 4x tools.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-10T081250.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-10T081250.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-10T0841.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-10T0841.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-10T1110.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-10T1110.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-10T1217.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-10T1217.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-10T1221.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-10T1221.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+1229 Finished harvesting soybeans F82 SW<br>
+1240 Finished harvesting leftover corners
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-10T1233.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-10T1233.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+Alright F82 all 636ha is now harvested. As written previously this field was the one that winter ruined, but another try and had plenty of time to harvest it. Feels good to have it done.
+</p>
+
+<p>
+Now there is still the 525ha of corn in F56, that is no joke either, it will take couple of real life days to harvest because I doubt I'll be pushing any 17hrs days anytime soon, for example right now I have no plans at all to start harvesting that, probably going to take few days break again. We'll see how it turns out.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-10T1252.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-10T1252.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+1254 Shut down FS19, felt great to have finished F82 harvest but now its time for a break
+</p>
+
+<p>
+<b>2021-05-30T0433</b> Back at GARDENS, this savegame now has 1024hrs in it.
+</p>
+
+<p>
+Here we are back at it again after 20 days break, got some editing work done and idling too, but today feeling like its time to continue this harvest season again.
+</p>
+
+<p>
+Plan is to get vehicles relocated to F56 and prepare for the huge corn harvest.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T0447.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T0447.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T0451.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T0451.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+So I relocated harves fleet vehicles to F56 SE corner, then switched grain headers to corn headers for combines and refueled all vehicles. Then recorded semi truck grain hauling courseplay course. Now I was ready to start time accelerating until corn harvest time (corn is now growing stage).
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T0500.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T0500.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+03/early-autumn in-game 1723hrs, weather +19/+18C, started time accelerate until corn is ready to harvest. 10/mid-autumn in-game 0827hrs, weather +9C/+16C forecast is clear skies until tomorrow morning. But now I'm starving and have to take a lunch break.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T0528.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T0528.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0553 Lunch break...<br>
+0621 Feeding time is over, harvest begins!
+</p>
+
+<p>
+This field had no courseplay split section outlines recorded so I decided to just do as one single field work course. It will be quite bad driving back and forth with grain carts but I'm just too lazy to start recording those outlines now.
+</p>
+
+<p>
+0629 Started harvesting corn F56, courseplay ETA 11h 29min, 4x tools.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T0632.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T0632.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T0643.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T0643.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T0655.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T0655.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T0656.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T0656.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T0722.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T0722.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T0737.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T0737.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T0738.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T0738.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T0800.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T0800.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T0817.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T0817.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T0846.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T0846.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T1005.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T1005.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T1133.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T1133.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-30T1159.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-30T1159.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-31T0026.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-31T0026.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-31T0326.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-31T0326.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+1222 Dead tired, time to call it a night
+</p>
+
+<p>
+<b>2021-05-31T0020</b> New farming day has started, this savegame now has 1032hrs in it.
+</p>
+
+<p>
+You already know what todays plan is; continue corn harvest from F56 <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+After upgrading to latest courseplay before starting to play there was now some issue with combine nearest waypoint startup, combines did not respect their sideways "lane" position in the convoy at all, they just started to harvest in the middle of the course waypoints. So I needed to revert back to last stable version, which was yesterdays v6.4 upgrade.
+</p>
+
+<p>
+So restored that version and combines were starting up just nicely, alright back in business.
+</p>
+
+<p>
+0241 Lunch break...<br>
+0308 Done eating, back to corn harvesting<br>
+0411 First lexion combine is low on fuel, need to refill vehicles<br>
+? Refill operation complete, harvesting continues
+</p>
+
+<p>
+10/mid-autumn in-game 1952hrs, weather +17/+16C, night has fallen need to time accelerate until tomorrow morning. 11/mid-autumn in-game 0955hrs, weather +8C/+15C, soil is dry lets continue harvesting corn.
+</p>
+
+<p>
+0546 Time to take a quick break...<br>
+0615 Break over, back to harvesting
+</p>
+
+<p>
+Courseplay was randomly acting up sending semi truck hauling grain into west direction, it was always on the same location coordinates wise but not on every run, no idea why it did that there was no errors in the log. Very annoying, but luckily PMC Grande Gardens 16km has terrain edge blocks so vehicles wont fall off the terrain.
+</p>
+
+<p>
+0722 Lunch break...<br>
+0753 Done eating, back to corn harvesting
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-31T1008.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-31T1008.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+1016 Felt quite exhausted so decided to call it a night, actully its been a long day about 10 hours of harvesting.
+</p>
+
+<p>
+2016 Back at PMC Gaming, lets continue F56 corn harvest. This savegame now has 1041hrs in it.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-05-31T2137.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-05-31T2137.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+2225 So tired cant keep my eyes open, have to take a nap<br>
+<b>2021-06-01T0116</b> Nap time over, back to farming
+</p>
+
+<p>
+I'm going to edit current captured videos before starting FS19 back up because Gaming computer cant really run video editing and FS19 at the same time.
+</p>
+
+<p>
+Oh and month changed to june as well <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+0155 Video edited and verified, FS19 started back up, corn harvest continues
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-06-01T0157.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-06-01T0157.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0315 Lunch break...<br>
+0407 Done eating, back to corn harvesting
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-06-01T0446.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-06-01T0446.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+I left FS19 running with stopped vehicles when going to cook food and eat it, now that I came back... its 11/mid-autumn in-game 1900hrs, weather +13/+15C ... raining <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Uh oh raining, oh right this is the rain that was forecasted... or was it, hmm this seems like sudden random rain shower as the forecasted rain is now for tomorrow in-game 1200hrs all the way to midnight (weather menu slot after 2100hrs which is empty, ie midnight).
+</p>
+
+<p>
+Looking at drying potential indicator it looks like tomorrow morning 0600hrs and 0900hrs its + but then again at 1200hrs the new rain starts. Interesting to see of nightly ground moisture dissipates and we get to harvest before new big rain front arrives.
+</p>
+
+<p>
+Time accelerated through the rain and night. 12/mid-autumn in-game 0856hrs, weather +10C/+15C, no rain, forecast now shows rain from 1200hrs to 2100hrs (midnight no rain). Lets continue harvesting as long as possible.
+</p>
+
+<p>
+So continued harvesting by first driving grain cart tractor to unload combines, then started off lead combine... and I kidd you not, it got like 20 meters done when it started to rain in-game 0903hrs <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+Forecast now shows 0900hrs to 2100hrs raining oh maan <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Time accelerated through the night, it stopped raining and one point then continued againg before ending before morning daylight. 13/mid-autumn in-game 0830hrs, weather +8C/+14C, no raing (soil is wet though). Forecast now shows clear skies for couple of days, plenty of time to finish F56 corn harvest, alright we are good to go.
+</p>
+
+<p>
+Time accelerated slowly at 600 speed waiting for ground soil to dry up for harvest condition... however it didn't happen before night fell at in-game 1933hrs. When I hit key 7 to reset time scale to real time THEN soil moisture icon disappeared <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+13/mid-autumn in-game 1934hrs, weather +18C/+14c forecast clear skies. But its dark, need to time accelerate until morning daylight. 14/mid-autumn in-game 0800hrs, weather +9C/+14C, soil is dry, lets harvest some corn! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-06-01T0800.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-06-01T0800.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-06-01T0826.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-06-01T0826.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-06-01T0854.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-06-01T0854.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+0555 First combine low on fuel, its refueling time<br>
+0606 All vehicles refueled, back on harvesting corn<br>
+0922 Finished harvesting corn F56
+</p>
+
+<p>
+Harvest season is done! Hooyah! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-06-01T0922.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-06-01T0922.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+Great feeling to have this done because now I'm free of this savegames pressure that "need to get season finished". Now I can again concentrate on editing PMC Grande Gardens 16km without any consideration for savegame porting like field work being undone etc. Just awesome refreshing freeing feeling, cant wait to start add some new edits soon.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-06-01T0938.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-06-01T0938.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+Then I moved harvest fleet to F56 SE corner and parked them there into the field. Took a screenshot too of course heh.
+</p>
+
+<a href="screenshots/PMC-Grande-Gardens-16km-2021-06-01T0943.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Grande-Gardens-16km-2021-06-01T0943.jpg" alt="PMC Grande Gardens 16km Terrain, Start From Zero Story" loading="lazy" class="terrainimg"></a>
+
+<p>
+Went through all other vehicles and parked few of them into fields so next upgrade goes without vehicles colliding into possible newly added objects.
+</p>
+
+<p>
+Felt that emotional somber feeling again as this is another mile stone in this terrains and savegames history, stuff parked, going to savegame and then its all done <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+0946 Saved game and shut down FS19, we are done for this season and terrain version <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+Then took backups of savegames and only thing left to do is to edit captured videos. So I'm going to sign off here for possible long time when doing edits before I return to a re-designed terrain to have some more Start From Zero fun <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 </section>
