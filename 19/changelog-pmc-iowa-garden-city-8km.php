@@ -22,7 +22,7 @@
 
 <section>
 <p>
-Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a> FS19 terrain. See known issues from bottom of this page.
+Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a> FS19 terrain. See known issues from bottom of this page. Also check out <a href="dev-diary-pmc-iowa-garden-city-8km.php">Dev Diary PMC Iowa Garden City 8km</a>.
 </p>
 
 <div class="changelog">
@@ -307,13 +307,44 @@ Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a
 - iowa garden city v1.1.7 uploaded to internal testing
 </p>
 
+	<h2>v1.1.8 Coming Soon for Internal Testing</h2>
+
+<p>
+2021-06-12:<br>
+- seasons geo iowa garden city increased winter clouds, rain chance and amount of rain<br>
+2021-06-13:<br>
+- iowa garden city tipcol painted RGB 0,0,0 black, tipping allowed. for sure this time heh<br>
+- iowa garden city seasons mask added<br>
+2021-06-15:<br>
+- iowa garden city tipcol fixed, real proper this time <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
+2021-06-18:<br>
+- iowa garden city modDesc storeItems is properly set (using placeables works)<br>
+- iowa garden city animal dealer functionality with decorations<br>
+- iowa garden city new farmer game-mode vehicles created<br>
+- iowa garden city grass cleared off from farm 1 placeable buildings<br>
+- iowa garden city edge block invisible geometry so vehicles wont fall off<br>
+- iowa garden city transferred Location-06 farm yard buildings to player farm<br>
+2021-06-19:<br>
+- iowa garden city transferred Location-09 into player farms.<br>
+- iowa garden city transferred Location-10 into player farms.<br>
+- iowa garden city transferred Location-13 into player farms.<br>
+- iowa garden city transferred Location-19 into player farms.<br>
+- iowa garden city transferred Location-20 into player farms.<br>
+- iowa garden city transferred Location-24 into player farms.<br>
+- iowa garden city transferred Location-25 into player farms.<br>
+- iowa garden city transferred Location-26 into player farms.<br>
+2021-06-20:<br>
+- iowa garden city defaultItems.xml SiloExtensionPlaceable has wrong className<br>
+- iowa garden city new farmer vehicles kuhn sprayer switched to bredal k105 with 6m spreader discs
+</p>
+
 </div>
 
 <div class="changelog">
 	<h2>Known Issues</h2>
 
 <p>
-<b>2021-06-05T00:08:00Z</b> Updated.
+<b>2021-06-20T16:19:00Z</b> Updated.
 </p>
 
 <p>
