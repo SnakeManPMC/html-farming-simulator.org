@@ -24,7 +24,7 @@
 	<h2>Overview</h2>
 
 <p>
-<b>2021-02-04</b> This page is work in progress, will be updated as we go along.
+<b>2021-06-25</b> updated.
 </p>
 
 <p>
@@ -34,16 +34,17 @@ Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulat
 <p><a href="terrain-ai-planted-crop-types.php">AI Planted Crop Types</a></p>
 <p><a href="terrain-common-errors.php">Common Errors</a></p>
 <p><a href="terrain-create-sample.php">Create Sample Terrain</a></p>
-<p><a href="terrain-cultivator_density-gimp.php">Gimp Paint cultivator_density Image</a></p>
+<p><a href="terrain-cultivator_density-gimp.php">GIMP Paint cultivator_density Image</a></p>
+<p><a href="terrain-cultivator-fruit-density-roads.php">Cultivator, Fruit Density with Painted Roads</a></p>
 <p><a href="terrain-custom-crop-icons.php">Custom Crop Icons</a></p>
 <p><a href="terrain-density-weight-images.php">Density and Weight Images</a></p>
 <p><a href="terrain-edge-block.php">Edge Block</a></p>
 <p><a href="terrain-environmental-sounds.php">Environmental Sounds</a></p>
-<p><a href="terrain-farmland.php">Farmland</a> and <a href="terrain-farmland-painting-gimp.php">Farmland Painting Gimp</a></p>
+<p><a href="terrain-farmland.php">Farmland</a> and <a href="terrain-farmland-painting-gimp.php">Farmland Painting GIMP</a></p>
 <p><a href="terrain-field-definitions.php">Field Definitions</a></p>
 <p><a href="terrain-file-structure.php">File Structure</a></p>
 <p><a href="terrain-forests.php">Forests</a></p>
-<p><a href="terrain-fruit_density-gimp.php">Gimp Paint fruit_density Image</a></p>
+<p><a href="terrain-fruit_density-gimp.php">GIMP Paint fruit_density Image</a></p>
 <p><a href="terrain-general-editing-tips.php">General Editing Tips</a></p>
 <p><a href="terrain-giants-editor.php">Giants Editor (GE)</a></p>
 <p><a href="terrain-giants-game-mode-review.php">Giants Game Mode Review</a></p>
@@ -57,6 +58,7 @@ Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulat
 <p><a href="terrain-placeable-objects.php">Placeable Objects</a></p>
 <p><a href="terrain-porting-fs17.php">Porting Farming Simulator 17 Terrain</a></p>
 <p><a href="terrain-real-world-data.php">Real World Data Terrain</a></p>
+<p><a href="terrain-roads-painting-gimp.php">Roads Painting in GIMP</a></p>
 <p><a href="terrain-savegame-update.php">Savegame Update</a></p>
 <p><a href="terrain-selling-points.php">Selling Points</a></p>
 <p><a href="terrain-soil-types.php">Soil Types for Precision Farming</a></p>
