@@ -307,7 +307,7 @@ Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a
 - iowa garden city v1.1.7 uploaded to internal testing
 </p>
 
-	<h2>v1.1.8 Coming Soon for Internal Testing</h2>
+	<h2>v1.1.8 Internal Testing</h2>
 
 <p>
 2021-06-12:<br>
@@ -335,7 +335,30 @@ Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a
 - iowa garden city transferred Location-26 into player farms.<br>
 2021-06-20:<br>
 - iowa garden city defaultItems.xml SiloExtensionPlaceable has wrong className<br>
-- iowa garden city new farmer vehicles kuhn sprayer switched to bredal k105 with 6m spreader discs
+- iowa garden city new farmer vehicles kuhn sprayer switched to bredal k105 with 6m spreader discs<br>
+- iowa garden city new farmer lemken azurit 9 clips through vehicle shed wall<br>
+- iowa garden city new farmer added F163 to this/him
+</p>
+
+	<h2>v1.1.9 Internal Testing</h2>
+
+<p>
+2021-06-22:<br>
+- iowa garden city player farm 1 bin silos switched to auger pipe operated ones<br>
+2021-06-23:<br>
+- iowa garden city rest of player farms bin silos switched to auger pipe operated ones<br>
+2021-06-26:<br>
+- iowa garden city players farm 11 transferred from static ai farms, with auger pipe bin silo<br>
+- iowa garden city players farm 12 transferred from static ai farms, with auger pipe bin silo<br>
+2021-06-27:<br>
+- iowa garden city players farm 13 transferred from static ai farms, with auger pipe bin silo<br>
+- iowa garden city players farm 14 transferred from static ai farms, with auger pipe bin silo<br>
+- iowa garden city players farm 15 transferred from static ai farms, with auger pipe bin silo<br>
+- iowa garden city players farm 16 transferred from static ai farms, with auger pipe bin silo<br>
+2021-06-29:<br>
+- iowa garden city farmland image removed several duplicate or buggy IDs<br>
+- iowa garden city fruit_density painted in gimp, shrubbery flowers only<br>
+- iowa garden city terrainDetailHeight_density image updated for more channels for maizeplus and strawme addons
 </p>
 
 </div>
@@ -344,11 +367,28 @@ Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a
 	<h2>Known Issues</h2>
 
 <p>
-<b>2021-06-20T16:19:00Z</b> Updated.
+<b>2021-06-29T12:20:00Z</b> Updated.
 </p>
 
 <p>
-- too many to list <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+- iowa garden city courseplay cannot generate course for F80 due narrow spot (by the vehicle shed)<br>
+- fs19 all terrains american flag to farm yards<br>
+- iowa garden city new farmer player does not own his farm yard land (only F163)<br>
+- iowa garden city animal placeables pre-placed<br>
+- iowa garden city cbj etc vehicle sheds door animations must work<br>
+- iowa garden city field definitions more corner pieces at least to the most lacking shapes<br>
+- iowa garden city courseplay generate field work course for all fields after field definitions are done<br>
+- iowa garden city fuel station somewhere or a fuel tank in players farm yard<br>
+- iowa garden city sell point require road access, cannot be middle of nowhere without road leading up to it<br>
+- iowa garden city outside terrain<br>
+- iowa garden city sell point decorations<br>
+- iowa garden city sell point more unique names than "selling point 1"<br>
+- iowa garden city sell point try to fit them into real world location, not every terrain needs 6 selling points by default<br>
+- iowa garden city precision farming soil map<br>
+- iowa garden city clear grass from placeable buildings especially from defaultVehicles.xml farm sheds<br>
+- iowa garden city utility pole on driveway GE Location-88<br>
+- iowa garden city utility pole missing wires on 2 farm yards<br>
+- iowa garden city utility poles missing from the city streets
 </p>
 </div>
 

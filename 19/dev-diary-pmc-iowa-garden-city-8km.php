@@ -1372,6 +1372,177 @@ First time I've seen such "items" error, time to go check what notepad++ copy pa
 Then updated defaultVehicles.xml with operating time and wear set to zero, also added defaultFarmProperty="true" as usual.
 </p>
 
+<!--
+
+
+
+
+
+
+
+
+
+
+
+
+-->
+
+<p>
+2021-06-20T21:36:00Z Decided to add land to New Farmer game-mode which contains field 163. This field (and land) is tiny, its cute little field, however it matches really nicely to the small starter vehicles I chose to add into this game-mode.
+</p>
+
+<p>
+<b>2021-06-22T23:31:00Z</b> Took backups, lets switch those giants farm bin silos to some auger pipe operated ones.
+</p>
+
+<p>
+2021-06-22T23:45:00Z Imported brock_bin, fs19_gsi_bin_large and gsi_bin, then went to players farm 1, removed the giants bins and placed two brock bin's and four gsi bin large's. Then added them into defaultItems.xml file of course.
+</p>
+
+<p>
+<b>2021-06-23T00:26:00Z</b> Had some className issues but got those figured out, now brock and gsi large bins are in players farm 1, work as designed. Nice.
+</p>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-06-23T0031.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-06-23T0031.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<p>
+2021-06-23T01:27:00Z Switched bin silos for two more farm yards, farm 4 Location-10 and farm 6 Location-19.
+</p>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-06-23T0131.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-06-23T0131.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<p>
+Then did Farm 7, GE Location-20. And Farm 8, GE Location-24.
+</p>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-06-23T0155.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-06-23T0155.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<p>
+Next did Farm 9, GE Location-25. Then Farm 10, GE Location-26.
+</p>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-06-23T0214.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-06-23T0214.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<p>
+Tested all player farms in-game and they work nicely, buying land and the bin silo itself has capacity percent indicator working. Looking good.
+</p>
+
+<p>
+<b>2021-06-26T21:31:00Z</b> After few days break just playing in PMC Iowa Garden City v1.1.8 its time to get back to editing. Todays goal is to transfer SIX (6) farm yard buildings into player farms placeables using defaultItems.xml config.
+</p>
+
+<p>
+I want to focus on the SE and NE area, well lets just say eastern area because right now somehow all the 10 farm yards I did are in very close proximity to farm 1 in west, south west area.
+</p>
+
+<p>
+In GE transformgroup Buildings have Location sub transformgroups, looks like number 57 is in north central and from there buildings are placed in clockwise direction where 93 is directly south from garden city.
+</p>
+
+<p>
+2021-06-26T21:54:00Z Took a moment but Location-36 transferred to players farm, this is now farm 11 (farmid="0" but yeah eleventh player farm).
+</p>
+
+<p>
+2021-06-26T22:15:00Z Players farm 11 transferred from static ai farms, with auger pipe bin silo.
+</p>
+
+<p>
+<b>2021-06-27T19:29:00Z</b> Yesterday was a big failure, plan was to edit a lot but as soon as I started penalty_box_gaming went live in twitch to play test PMC Iowa Garden City 8km and I started to watch of course. Then I tried to edit on the background, even muted the stream for short while... but it just wasn't working, I could not fully concentrate on editing so I stopped.
+</p>
+
+<p>
+I actually switched to PMC Gaming computer and continued playing animal care basics testing savegame while watching that live stream. It was good day spent doing that but unfortunately it was disaster for any editing progress heh.
+</p>
+
+<p>
+So today I made a clear decision, actually made this last night already, had it all planned out etc, that I'll shut down discord, wont watch any twitch or youtube, just completely concentrate on editing farmsim terrains. This means iowa garden city and I actually still have hopes to get some work done to <a href="pmc-grande-gardens-16km.php">PMC Grande Gardens 16km</a> as well, but first things first and now we continue transferring those static farm yards to player farms <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+To recap; we now have 12 player farm yards on defaultItems.xml so they will be owned once you buy the land these objects are located at. All farm bin silos are the auger pipe operated ones.
+</p>
+
+<p>
+2021-06-27T19:44:00Z Was scoping out the next static farm yard to transfer into player farms. I wanted to distribute these evenly across the terrain even though there is no particular way for players to spot that, still its not nice to have them all bunched up in a small area when rest of the terrain remain free of player farms.
+</p>
+
+<p>
+Location-69 was on east edge somewhat close to terrain edge, but great looking farm yard though. Location-88 was in SE area, quansat hut, three bin silos but no apparent farm house, not that it really interests me but anyways. Location-89 awesome farm yard in SE area with 4 smaller bin silos and one large, this is going to be one of our farm yards for sure. Location-90 is doable but somewhat close to S edge, same as Location-91. Location-92 has three very small bin silos and two larger ones, two vehicle sheds and a farm house, yep this will be one player farm for sure. Location-93 was just S of garden city, three bin silos, two vehicle sheds and a farm house, perfect player farm. Location-94 was right next to 93, a bit too close although dunno if that matters, two bins, vehicle shop and a farm house. Location-96 was on SSW area, another great one, many bin silos, big vehicle shed and a farm house, yeah this is so going to be a player farm.
+</p>
+
+<p>
+2021-06-27T20:08:00Z Static farm yard Location-88 transferred to players farm with auger pipe operated bin silos.
+</p>
+
+<p>
+Static farm yard Location-89, 92 and 93 transferred to players farm with auger pipe operated bin silos. This makes now 16 player farms, full multiplayer server worth of players.
+</p>
+
+<p>
+Its not so much about matching the number of player farms to MP dedicated server capabilities but to have enough nice playable farms for the players. This also helps single player because all of these objects can be sold and the bin silos used.
+</p>
+
+<p>
+<b>2021-06-28T00:18:00Z</b> Editing day after that came to sudden halt, after doing those above farm yards I didn't want to edit, was yawning so went to take a nap and after waking up almost three hours later I had no mental energy to edit again.
+</p>
+
+<p>
+2021-06-28T14:15:00Z Spent remainder of 28th to just idle and then watch TV, just had no motivation to continue editing, mind was blank. Waking up the next day and motivation was much the same, just about zero. Editing (well computer stuff in general for me) burnout is no joke <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+<b>2021-06-29T06:36:00Z</b> Back to editing, this time started to fix farmland image in GIMP, it had some overlapping ie duplicate RGB colors used so need to fix or at least reduce those.
+</p>
+
+<p>
+2021-06-29T07:13:00Z Finished tweaking, debugging and bug fixing farmland image <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Its now pretty cool using 256 farmland areas, but it still ran out of farmland ID channels, would need more to add all individual farm yards and fields into buyable land. Right now its fine, more than fine actually... but I just would like to have more ID channels to use heh. Oh well maybe it can be increased to 512 havent investigated that yet.
+</p>
+
+<p>
+All in all there is SO MUCH small and cheap land lots for players to purchase it should be no issue for anyone to start their farm with small equipment and not much money.
+</p>
+
+<p>
+2021-06-29T08:37:00Z Tested GIMP painted fruit_density flowers/shrubbery, still not getting the random jitter pencils quite right but slowly getting there. (edit: these images got outdated few hours later, there ended up much less shrubbery).
+</p>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-06-29T0835.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-06-29T0835.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-06-29T0836.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-06-29T0836.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<p>
+2021-06-29T10:38:00Z Was not happy with the results, either I got too little or way too much of the flower shrubbery. Painting it manually on specific spots takes way too long, but using some other brush pencil methods cause way too much of the shrubbery to appear. Had to go back and forth several times before I got somewhat decent results.
+</p>
+
+<p>
+Its still very low amount of shrubbery, but I think this is now good starting point. Also it worries me as these shrubbery objects do not disappear on seasons winter, it looks stupid to have brightly colored flowers growing in a snow heh.
+</p>
+
+<p>
+This latest shrubbery density is so low its like every few fields you see couple of flowers, heh.
+</p>
+
+<p>
+2021-06-29T11:19:00Z Decided to add terrainDetailHeight_density channel increase whatever its called so that <a href="https://www.farming-simulator.com/mod.php?mod_id=150958" target="_blank">MaizePlus</a> and <a href="https://www.farming-simulator.com/mod.php?mod_id=177412" target="_blank">StrawMe</a> addons work properly with seasons. I really don't like this as it locks your GRLE image behind crashing GRLEConverter, but well, many people seem to request this feature so quess I have to add it.
+</p>
+
+<p>
+2021-06-29T11:34:00Z terrainDetailHeight_density image and configs updated, checked in-game, no errors.
+</p>
+
+<p>
+Obviously I did not test yet with all those maizeplus and strawme addons, that has to be left for internal testers.
+</p>
+
+<p>
+2021-06-29T12:00:00Z Compiled PMC Iowa Garden City 8km v1.1.9 for internal testing and tested it myself that log is error free, all looks good for internal testing release <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
 </section>
 
 <footer>
