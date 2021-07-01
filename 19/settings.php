@@ -77,6 +77,13 @@ Highest settings from in-game options:
 </pre>
 
 <p>
+Click for larger image to compare in-game maxed out settings from the user interface and how much further you can see by using game.xml edits for settings.
+</p>
+
+<a href="screenshots/FS19-In-Game-Maxed-Out-Settings.jpg" target="_blank"><img src="screenshots/thumbs/FS19-In-Game-Maxed-Out-Settings.jpg" alt="FS19 In-Game Maxed Out Settings" loading="lazy" class="terrainimg"></a>
+<a href="screenshots/FS19-Game-XML-Settings.jpg" target="_blank"><img src="screenshots/thumbs/FS19-Game-XML-Settings.jpg" alt="FS19 Game.XML Settings" loading="lazy" class="terrainimg"></a>
+
+<p>
 view and lod distanceCoeff as 5 works for our computer GPU, it might not work for yours. Try these and if you get bad performance then try value like 4, if even that gives you a bad performance try 3. If you get bad performance even on value 3 then whatever terrain you're playing on might be too densily populated with trees and buildings etc. Try one of the <a href="pmc-terrains.php">PMC terrains</a> which all give you guaranteed 60FPS performance assuming your computer is working properly.
 </p>
 
