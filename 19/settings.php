@@ -23,7 +23,65 @@
 <section>
 
 <p>
-<b>2019-02-26</b> This page is work in progress.
+<b>2021-07-01</b> updated.
+</p>
+
+	<h2>game.xml</h2>
+
+<p>
+game.xml file is located at:
+</p>
+<pre>
+C:\Users\MYNAME\Documents\My Games\FarmingSimulator2019\
+</pre>
+
+	<h2>Graphics Settings</h2>
+
+<p>
+<b>game.xml</b> config file allows you to configure graphics options, higher values than what in-game user interface does. Every time you change in-game options game.xml is overwritten and any edits you did there will be reset to default.
+</p>
+
+<p>
+These settings go to &lt;scalability&gt; property.
+</p>
+
+<p>
+Lowest settings with in-game options:
+</p>
+<pre>
+&lt;viewDistanceCoeff&gt;0.500000&lt;/viewDistanceCoeff&gt;
+&lt;lodDistanceCoeff&gt;0.500000&lt;/lodDistanceCoeff&gt;
+&lt;terrainLODDistanceCoeff&gt;0.500000&lt;/terrainLODDistanceCoeff&gt;
+&lt;foliageViewDistanceCoeff&gt;0.500000&lt;/foliageViewDistanceCoeff&gt;
+&lt;tyreTracksSegmentsCoeff&gt;0.000000&lt;/tyreTracksSegmentsCoeff&gt;
+</pre>
+
+<p>
+Highest settings from in-game options:
+</p>
+<pre>
+&lt;viewDistanceCoeff&gt;2.000000&lt;/viewDistanceCoeff&gt;
+&lt;lodDistanceCoeff&gt;2.000000&lt;/lodDistanceCoeff&gt;
+&lt;foliageViewDistanceCoeff&gt;2.000000&lt;/foliageViewDistanceCoeff&gt;
+</pre>
+
+<p>
+<b>Recommended</b>. These are good long view distance settings which do not cause issues to FS19 performance, we regularly play 60FPS with these settings.
+</p>
+
+<pre>
+&lt;viewDistanceCoeff&gt;5.000000&lt;/viewDistanceCoeff&gt;
+&lt;lodDistanceCoeff&gt;5.000000&lt;/lodDistanceCoeff&gt;
+&lt;foliageViewDistanceCoeff&gt;2.000000&lt;/foliageViewDistanceCoeff&gt;
+&lt;volumeMeshTessellationCoeff&gt;0.500000&lt;/volumeMeshTessellationCoeff&gt;
+</pre>
+
+<p>
+view and lod distanceCoeff as 5 works for our computer GPU, it might not work for yours. Try these and if you get bad performance then try value like 4, if even that gives you a bad performance try 3. If you get bad performance even on value 3 then whatever terrain you're playing on might be too densily populated with trees and buildings etc. Try one of the <a href="pmc-terrains.php">PMC terrains</a> which all give you guaranteed 60FPS performance assuming your computer is working properly.
+</p>
+
+<p>
+foliageViewDistanceCoeff seems to be the most resource heavy, be very careful when experimenting with these values as anything more than 2 most likely start to bring FPS performance down. In our experiments value foliageViewDistanceCoeff 3 still works more or less ok, but you most likely encounter some heavy CPU use scenarios which eventually bring FPS performance down. You can usually see it clearly if you watch directly into sky or ground at your feet without any objects on sight, when your FPS goes right back up, that means your scene (vehicles, objects etc) or these settings is just too heavy for your computer.
 </p>
 
 	<h2>HOWTO Disable Intro Movies</h2>
@@ -63,19 +121,6 @@ gsToggleFlightAndNoHUDMode. Use playerspeedmod which allows you to move the came
 <p>
 Now press J to enable/disable flying and Q key to increase and E key to decrease altitude. O key disables HUD so you dont need to use external mods for that either.
 </p>
-
-	<h2>Graphics Settings</h2>
-
-<p>
-These are the lowest settings you can set with in-game options:
-</p>
-<pre>
-&lt;viewDistanceCoeff&gt;0.500000&lt;/viewDistanceCoeff&gt;
-&lt;lodDistanceCoeff&gt;0.500000&lt;/lodDistanceCoeff&gt;
-&lt;terrainLODDistanceCoeff&gt;0.500000&lt;/terrainLODDistanceCoeff&gt;
-&lt;foliageViewDistanceCoeff&gt;0.500000&lt;/foliageViewDistanceCoeff&gt;
-&lt;tyreTracksSegmentsCoeff&gt;0.000000&lt;/tyreTracksSegmentsCoeff&gt;
-</pre>
 
 </section>
 
