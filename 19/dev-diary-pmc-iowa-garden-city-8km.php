@@ -1543,6 +1543,72 @@ Obviously I did not test yet with all those maizeplus and strawme addons, that h
 2021-06-29T12:00:00Z Compiled PMC Iowa Garden City 8km v1.1.9 for internal testing and tested it myself that log is error free, all looks good for internal testing release <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
+<p>
+2021-06-30T22:15:00Z Created american flag pole placeable object from mapUS flagPole01.i3d, made it buyable with land, then placed it on players farm 1 and tested that everything works okay.
+</p>
+
+<p>
+store item DDS image came out ugly, but thats just cosmetics will learn how to fix it later.
+</p>
+
+<p>
+2021-06-30T23:52:00Z New farmer player does not own his farm yard land (only F163), added farm yard ownership to _farmlands.xml config <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+This was the last edit for june 2021, in few minutes we start july, whee... I guess? <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2021-07-01T23:11:00Z Added american flag pole to two more player farm yards. Plan is to add them all to all player farms which just have farm house of any kind, so it looks like people actually live there.
+</p>
+
+<p>
+2021-07-01T23:22:00Z Several more added, almost done.
+</p>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-07-01T2322.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-07-01T2322.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<p>
+2021-07-01T23:40:00Z Finished generating new collision map, exporting PMC_Helpers and saving project. Now all player farms with farm houses have american flag pole.
+</p>
+
+<p>
+2021-07-02T09:53:00Z Added fuel station (mapUS gasStation.xml) next to dealership. Not sure if I like that building object, it looks kind of odd doesn't remind me of gas station, but oh well guess its a little bit more gas station alike than just meridian fuel tank, dunno.
+</p>
+
+<p>
+2021-07-02T12:36:00Z Used splines, cubes and whatnot to create railroad tracks using SplineStreetConstructor by TracMaxx. Its now just a iron train track, still no train added, but at least we have one of the noticeable landmarks in.
+</p>
+
+<p>
+I really havent decided what to do with train yet, can players drive it or is it just cosmetic eye candy.
+</p>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-07-02T1235.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-07-02T1235.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-07-02T1236.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-07-02T1236.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<p>
+2021-07-02T14:50:00Z Added train locomotive and grain wagons to the tracks. Its now player drivable so you can TAB into it, but I want to disable that feature as the train travels outside terrain edge and that is not where players should follow.
+</p>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-07-02T144523.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-07-02T144523.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-07-02T144557.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-07-02T144557.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<p>
+It looks so great to have train back in Garden City <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2021-07-02T16:45:00Z Finished setting train spline up one more time, previous one did not work train just disappeared. Now it casually loops around terrain west side. This is not what I really want to do, but its a train that drives by, in the future I want to configure it to purely cosmetic train which drives by once every maybe two or so hours so it will be a true treat when it goes by.
+</p>
+
+<p>
+Now its bad if player drives it and goes outside the terrain edge, it will then just drive in "oblivion". But yeah, need to figure out that later how to make it cosmetic only.
+</p>
+
 </section>
 
 <footer>

@@ -361,24 +361,35 @@ Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a
 - iowa garden city terrainDetailHeight_density image updated for more channels for maizeplus and strawme addons
 </p>
 
+	<h2>v1.1.10 Coming Soon to Internal Testing</h2>
+
+<p>
+2021-06-30:<br>
+- iowa garden city american flag pole added to players farm 1<br>
+- iowa garden city new farmer player does not own his farm yard land (only F163)<br>
+2021-07-01:<br>
+- iowa garden city american flag pole added to remaining players farms with farm houses<br>
+2021-07-02:<br>
+- iowa garden city fuel station added next to vehicle shop<br>
+- iowa garden city modDesc.xml description updated with website link<br>
+- iowa garden city train tracks created, no train yet though
+</p>
+
 </div>
 
 <div class="changelog">
 	<h2>Known Issues</h2>
 
 <p>
-<b>2021-06-29T12:20:00Z</b> Updated.
+<b>2021-07-04T11:50:00Z</b> Updated.
 </p>
 
 <p>
 - iowa garden city courseplay cannot generate course for F80 due narrow spot (by the vehicle shed)<br>
-- fs19 all terrains american flag to farm yards<br>
-- iowa garden city new farmer player does not own his farm yard land (only F163)<br>
 - iowa garden city animal placeables pre-placed<br>
 - iowa garden city cbj etc vehicle sheds door animations must work<br>
 - iowa garden city field definitions more corner pieces at least to the most lacking shapes<br>
 - iowa garden city courseplay generate field work course for all fields after field definitions are done<br>
-- iowa garden city fuel station somewhere or a fuel tank in players farm yard<br>
 - iowa garden city sell point require road access, cannot be middle of nowhere without road leading up to it<br>
 - iowa garden city outside terrain<br>
 - iowa garden city sell point decorations<br>
