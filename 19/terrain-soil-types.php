@@ -92,7 +92,7 @@ RGB 3,3,3 Silty Clay
 </p>
 
 <p>
-Those RGB colors are basically "shades of black", you cant really see other than plain black image, thats why you should first create GIMP XCF colorful image using extreme colors which are easy to see and paint, then replace these colors with the above grayscale RGB values. However detailed creating the colorful image is kind of outside of the scope of this tutorial.
+Those RGB colors are basically "shades of black", you cant really see other than plain black image, thats why you should first create GIMP XCF colorful image using extreme colors which are easy to see and paint, then replace these colors with the above grayscale RGB values. HOWTO create detailed colorful image is explained in <a href="terrain-soil-types-painting-gimp.php">GIMP Paint Precision Farming Soil Types Tutorial</a> page.
 </p>
 
 <p>
@@ -155,10 +155,6 @@ Test in-game, check LOG for any errors.
 </p>
 
 </section>
-<!--
-<p>
-</p>
--->
 
 <footer>
 <p><a href="map-making-tutorial.php" class="button">PMC Farming Simulator Map Making Tutorial page</a></p>

@@ -24,7 +24,7 @@
 	<h2>Overview</h2>
 
 <p>
-<b>2021-06-25</b> updated.
+<b>2021-07-05</b> updated. newest tutorial: <a href="terrain-soil-types-painting-gimp.php">Soil Types Painting in GIMP for Precision Farming</a>.
 </p>
 
 <p>
@@ -62,6 +62,7 @@ Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulat
 <p><a href="terrain-savegame-update.php">Savegame Update</a></p>
 <p><a href="terrain-selling-points.php">Selling Points</a></p>
 <p><a href="terrain-soil-types.php">Soil Types for Precision Farming</a></p>
+<p><a href="terrain-soil-types-painting-gimp.php">Soil Types Painting in GIMP for Precision Farming</a></p>
 <p><a href="terrain-traffic-system.php">Traffic System</a></p>
 <p><a href="terrain-train-system.php">Train System</a></p>
 <p><a href="terrain-unitsperpixel.php">unitsPerPixel</a></p>
