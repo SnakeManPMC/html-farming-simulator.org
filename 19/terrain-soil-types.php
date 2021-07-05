@@ -132,7 +132,7 @@ Edit TERRAIN.xml and add the following code:
 </p>
 <pre>
 &lt;precisionFarming&gt;
-	&lt;soilMap filename="CLASS/TERRAIN_soilmap.grle"/&gt;
+	&lt;soilMap filename="maps/CLASS/TERRAIN_soilmap.grle"/&gt;
 &lt;/precisionFarming&gt;
 </pre>
 
