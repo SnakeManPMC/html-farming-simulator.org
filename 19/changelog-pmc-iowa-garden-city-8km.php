@@ -381,16 +381,13 @@ Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a
 	<h2>Known Issues</h2>
 
 <p>
-<b>2021-07-04T11:50:00Z</b> Updated.
+<b>2021-07-05T02:15:00Z</b> Updated.
 </p>
 
 <p>
 - iowa garden city courseplay cannot generate course for F80 due narrow spot (by the vehicle shed)<br>
-- iowa garden city animal placeables pre-placed<br>
-- iowa garden city cbj etc vehicle sheds door animations must work<br>
 - iowa garden city field definitions more corner pieces at least to the most lacking shapes<br>
 - iowa garden city courseplay generate field work course for all fields after field definitions are done<br>
-- iowa garden city sell point require road access, cannot be middle of nowhere without road leading up to it<br>
 - iowa garden city outside terrain<br>
 - iowa garden city sell point decorations<br>
 - iowa garden city sell point more unique names than "selling point 1"<br>
