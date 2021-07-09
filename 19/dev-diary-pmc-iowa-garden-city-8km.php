@@ -1614,15 +1614,11 @@ Now its bad if player drives it and goes outside the terrain edge, it will then 
 </p>
 
 <p>
-PMC Farming website already has <a href="https://www.farming-simulator.org/19/terrain-soil-types.php">soil types precision farming tutorial</a> page, but this has no fancy GIMP painting info other than the RGB 1,1,1 colors, I want to add full tutorial how to get very nice soil map painted in GIMP.
+PMC Farming website already has <a href="https://www.farming-simulator.org/19/terrain-soil-types.php">soil types precision farming tutorial</a> page, but this has no fancy GIMP painting info other than the RGB 1,1,1 colors, I want to add full tutorial how to get very nice soil map painted in GIMP. So I created <a href="terrain-soil-types-painting-gimp.php">Soil Types Painting in GIMP for Precision Farming tutorial</a> page.
 </p>
 
 <p>
-It was bizarre feeling recording FS19 terrain dev diary video while writing farming-simulator.org terrain tutorial, reminded me of movies inception and matrix, reality becomes all so elusive... or something, hihi <img src="../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
-</p>
-
-<p>
-I love this stuff! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+It was bizarre feeling recording FS19 terrain dev diary video while writing farming-simulator.org terrain tutorial.
 </p>
 
 <p>

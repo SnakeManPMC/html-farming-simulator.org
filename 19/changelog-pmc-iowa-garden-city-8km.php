@@ -383,29 +383,35 @@ Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a
 - iowa garden city road elevation smoothing for intersections, driveways and field approaches/entrances
 </p>
 
+	<h2>v1.1.11 Coming Soon to Internal Testing</h2>
+
+<p>
+2021-07-09:<br>
+- iowa garden city field definitions german jahwol script thousands of corner pieces experiment reverted back to original<br>
+- iowa garden city asphalt road by the dealership railroad tracks quick dirty fix for elevations
+</p>
+
 </div>
 
 <div class="changelog">
 	<h2>Known Issues</h2>
 
 <p>
-<b>2021-07-07T16:03:00Z</b> Updated.
+<b>2021-07-09T05:47:00Z</b> Updated.
 </p>
 
 <p>
 - iowa garden city courseplay cannot generate course for F80 due narrow spot (by the vehicle shed)<br>
-* iowa garden city field definitions more corner pieces at least to the most lacking shapes<br>
+- iowa garden city field definitions more corner pieces at least to the most lacking shapes<br>
 - iowa garden city courseplay generate field work course for all fields after field definitions are done<br>
 - iowa garden city outside terrain<br>
 - iowa garden city sell point decorations<br>
 - iowa garden city sell point try to fit them into real world location, not every terrain needs 6 selling points by default<br>
 - iowa garden city utility pole on driveway GE Location-88<br>
 - iowa garden city utility pole missing wires on 2 farm yards<br>
-- iowa garden city utility poles missing from the city streets
-</p>
-
-<p>
-* Means it is highly experimental, assume it will be removed in next version.
+- iowa garden city utility poles missing from the city streets<br>
+- iowa garden city asphalt road 3d mesh curves are broken (jagged edges)<br>
+- iowa garden city asphalt road 3d mesh needs a remake, kinda
 </p>
 
 </div>
