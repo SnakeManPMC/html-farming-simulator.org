@@ -24,6 +24,10 @@
 	<h2>PMC Eternal Sugar Beet Damnation 32km</h2>
 
 <p>
+<b>Help wanted!</b> PMC is looking for serious terrain testers. We cannot fix issues if we don't know they exist, help us test <a href="pmc-terrains.php">PMC terrains</a> and send feedback. If interested <a href="../contact.php">contact us</a>.
+</p>
+
+<p>
 Terrain size 32,768 meters x 32,768 meters ie 32.7 kilometers x 32.7 kilometers (ravenport is 2km), terrain type: fictional, nonsense funny / scary joke map.
 </p>
 

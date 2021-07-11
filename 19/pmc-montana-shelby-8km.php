@@ -22,6 +22,10 @@
 
 <section>
 <div class="terrain">
+<p>
+<b>Help wanted!</b> PMC is looking for serious terrain testers. We cannot fix issues if we don't know they exist, help us test <a href="pmc-terrains.php">PMC terrains</a> and send feedback. If interested <a href="../contact.php">contact us</a>.
+</p>
+
 <p><b>2021-05-28</b> Updated. Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
 	<h2>PMC Montana Shelby 8km</h2>

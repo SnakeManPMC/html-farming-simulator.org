@@ -21,6 +21,9 @@
 </header>
 
 <section>
+<p>
+<b>Help wanted!</b> PMC is looking for serious terrain testers. We cannot fix issues if we don't know they exist, help us test <a href="pmc-terrains.php">PMC terrains</a> and send feedback. If interested <a href="../contact.php">contact us</a>.
+</p>
 <p>Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
 	<h2>PMC North Dakota Greendale 4km</h2>
