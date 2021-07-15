@@ -388,7 +388,10 @@ Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a
 <p>
 2021-07-09:<br>
 - iowa garden city field definitions german jahwol script thousands of corner pieces experiment reverted back to original<br>
-- iowa garden city asphalt road by the dealership railroad tracks quick dirty fix for elevations
+- iowa garden city asphalt road by the dealership railroad tracks quick dirty fix for elevations<br>
+2021-07-14:<br>
+- iowa garden city created railroad track road crossings<br>
+- iowa garden city asphalt road re-make using splinestreetconstructor and crossingconstructor
 </p>
 
 </div>
@@ -397,7 +400,7 @@ Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a
 	<h2>Known Issues</h2>
 
 <p>
-<b>2021-07-09T05:47:00Z</b> Updated.
+<b>2021-07-15T02:23:00Z</b> Updated.
 </p>
 
 <p>
@@ -409,9 +412,7 @@ Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a
 - iowa garden city sell point try to fit them into real world location, not every terrain needs 6 selling points by default<br>
 - iowa garden city utility pole on driveway GE Location-88<br>
 - iowa garden city utility pole missing wires on 2 farm yards<br>
-- iowa garden city utility poles missing from the city streets<br>
-- iowa garden city asphalt road 3d mesh curves are broken (jagged edges)<br>
-- iowa garden city asphalt road 3d mesh needs a remake, kinda
+- iowa garden city utility poles missing from the city streets
 </p>
 
 </div>
