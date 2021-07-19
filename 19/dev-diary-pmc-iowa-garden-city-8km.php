@@ -1893,6 +1893,190 @@ There was one wrinkled issue on the E/W road beginning (from the west side inter
 I guess overall I'm happy that now we have good looking asphalt roads with double yellow lines which work pretty nice.
 </p>
 
+
+<!--
+
+
+
+-->
+<p>
+2021-07-16T14:27:00Z New asphalt roads were not perfectly aligned to intersections so fixed the east/west roads intersections. It was tedious tweaking one number change at the time and exporting/importing cubes, generating road mesh etc, just terrible way to edit.
+</p>
+
+<p>
+2021-07-16T14:48:00Z Finished asphalt road N/S connection intersections. They arent perfect but should be playable.
+</p>
+
+<p>
+I hate SplineStreetConstructor (SSC), did I ever tell you that?
+</p>
+
+<p>
+Checked latest edits in-game, they look fine to me, good to release.
+</p>
+
+<p>
+2021-07-16T16:13:00Z Edited fruit_density.png to add one pixel separation to roads/fields areas and places where grass and flowers grow. Restored some custom shrubbery bushes image which seem to have way too much white flowers now, guess its better than plain grass but it needs some work.
+</p>
+
+<p>
+Except for some odd reason flowers were setup properly but grass wasnt, hum makes no sense heh, okay need to re-check fruit_density.png :)
+</p>
+
+<p>
+2021-07-16T16:49:00Z Got fruit_density sorted out and in-game test looks pretty good.
+</p>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-07-16T1647.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-07-16T1647.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-07-16T1648.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-07-16T1648.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-07-16T1649.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-07-16T1649.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-07-16T164924.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-07-16T164924.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<p>
+Hopefully in the future I can improve road 3d mesh creation.
+</p>
+
+<p>
+2021-07-16T21:19:00Z Its time to start adding corner pieces to field definitions. Knowing how large task that is for 275 fields I am going to start with just simple shapes instead of trying to do detailed shapes to each field. Goal is not to have it picture perfect but enough detail that contracts are enjoyable without needing too much courseplay outlines.
+</p>
+
+<p>
+2021-07-16T21:27:00Z Alright first three field definitions got simple shape corner pieces. Its a start. Now only 272 more ... <img src="../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+</p>
+
+<p>
+2021-07-16T23:00:00Z Started to do second row of field grid few moments ago, coming along nicely. Just have to keep reminding yourself not to get bogged down doing too detailed corner pieces because all they do is take my time. With simple shapes you can have great contract game-play, field definitions do not need to be super detailed. If you don't do contracts then its purely cosmetic feature.
+</p>
+
+<p>
+Also need to keep myself from zooming into too close, you lose sense of relativity when too close, its easy to see that oh yeah I can quickly do that corner piece, but when you zoom out you realize that oh wow that was tiny meaningless spot heh.
+</p>
+
+<p>
+2021-07-16T23:50:00Z Okay 30 fields done now, some were so fitting had to do no corner pieces, others were quite complex. This will be clearly several day task for me, its friday night now so cautiously I'd say that in monday this task will be done, hopefully.
+</p>
+
+<p>
+Maybe monday could be a good release day, I would say next week we will definitely release PMC Iowa Garden City 8km, unless I hit like a complete mental block in my editing burnout, release should happen next week. Hmm yeah, sounds good.
+</p>
+
+<p>
+2021-07-17T01:47:00Z Now got 41 fields done after a quick lunch break. Slow steady pace.
+</p>
+
+<p>
+2021-07-17T04:08:00Z Now 50 field definitions done.
+</p>
+
+<p>
+2021-07-17T06:15:00Z Now 71 field definitions done and that concludes todays editing, dead tired been up over 17hrs today, time to get some shut eye.
+</p>
+
+<p>
+2021-07-17T12:09:00Z New editing day has started, lets continue doing field definition simple shape corner pieces.
+</p>
+
+<p>
+2021-07-17T12:52:00Z Total of 80 field definitions done now. And oddly enough my pinky finger isn't even hurting, yet.
+</p>
+
+<p>
+2021-07-17T14:21:00Z Just finished 100th field definition, and now... now I'm bored. I get easily distracted to check discord for new chat messages, twitch for favorite streamers etc.
+</p>
+
+<p>
+So 100 out of 275 field definitions done, this will be a loong weekend <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2021-07-17T15:17:00Z Total of 115 field definitions done, havent taken any screenshots so here is one.
+</p>
+
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-07-17T1517.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-07-17T1517.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+
+<p>
+Can clearly see the rows of field grids I've done so far.
+</p>
+
+<p>
+2021-07-17T19:16:00Z Had to take a short 3hrs break but now back at editing, lets do more field definition corner pieces.
+</p>
+
+<p>
+2021-07-17T20:36:00Z Total of 131 field definitions done. Uuh this takes so long heh, field definition creation for large real world data terrains always seems like "no problem thats quick few hours job" but no it ain't, its like few days and you always run into motivation issues when creating these field after field... its just never ending task heh.
+</p>
+
+<p>
+2021-07-17T22:27:00Z Total of 160 field definitions done.
+</p>
+
+<p>
+2021-07-18T00:50:00Z Total of 200 field definitions done, uuh aah we broke magical 200 mark <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2021-07-18T04:43:00Z All field definition simple shape corner pieces created, aayeah! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+2021-07-18T05:20:00Z Restored heightmap and got new field sizes calculated. Now even though this is very late for me in the night, I want to give a quick try on these new field definitions using contracts game-play, so going to copy latest version into Gaming computer and do some farming before I snooze off <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Later tonight played some FS19 testing these new field definitions edits, did bunch of cultivating contracts. (hmm that sentence was clearly wrote early next morning not even bothering to read what I wrote just above haha, so silly I decided to left it here heh).
+</p>
+
+<p>
+2021-07-18T17:25:00Z New editing day has started, took backups and loaded terrain in GE, started to eyeball sell point locations. Todays plan is to find good locations for sell points and add decorations if there is no existing ones.
+</p>
+
+<p>
+2021-07-18T18:39:00Z Got sell points moved a bit, found nice locations from existing farm yards which fit quite well. I mean mapUS ravenport has that one location really lame just dump grate and some random building, so guess that level of detail is enough.
+</p>
+
+<p>
+Placed sell point 2 by animal dealer and added giants farm stable or some building to that area. Cleaned grass out of all sell point dump grates, no elevation changes were necessary but I did few anyways.
+</p>
+
+<p>
+Updated defaultItems.xml with new coordinates. Then created new ground collision map while PMC_Helpers was in GE so those buildings get added to the collisions.
+</p>
+
+<p>
+2021-07-18T22:06:00Z SinisterSockz was twitch live streaming North Dakota Regent 8.1km terrain editing in GE so I started to watch that a bit... well this "a bit" turned into over 3hrs session heh. Was helping him to GIMP paint terrain roads and fields.
+</p>
+
+<p>
+2021-07-18T23:08:00Z Finally was able to check sell points in-game, all look good, couple could use some heightmap leveling underneath them but nothing that prevents vehicles drive over the dump grate.
+</p>
+
+<p>
+2021-07-19T00:36:00Z A while ago started in-game testing courseplay field work course generation for all 275 fields. I see that some complex shape fields for example F10 takes minutes to generate course with headlands.
+</p>
+
+<p>
+F27 and F112 could not be detected by courseplay, odd. After finished first round of course generation I went back to GE and studied what is wrong with these fields, well turns out (I think) that fieldMapIndicator was not in field definition corner piece, in both fields there was empty space in middle of the field just where fieldMapIndicator was and there you go, courseplay could not see the field. Hmm thinking about it now a bit later it might actually been because there was no cultivator_density painting underneath fieldMapIndicator, hmm maybe, maybe... Anyways moved them into cultivator_density and corner piece.
+</p>
+
+<p>
+2021-07-19T01:44:00Z New in-game tested for F27 + F112 and courseplay can detect them fine, excellent.
+</p>
+
+<p>
+2021-07-19T01:48:00Z Compiled new v1.1.11 (one one eleven, huh) internal testing version and uploaded it <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+Then just some web page changelog and this dev diary updating, kind of rushed job as the internal testing release is already out but changelog hasn't even been updated heh, oh well. Maybe next release will have everything ready so all I have to do is to upload.
+</p>
+
+<p>
+Tonight I'm going to test PMC Iowa Garden City 8km v1.1.11 myself to see if I can spot anything broken or not suitable for first general public release. Will be good times running around and doing cultivating contracts <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
 </section>
 
 <footer>

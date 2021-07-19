@@ -383,7 +383,7 @@ Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a
 - iowa garden city road elevation smoothing for intersections, driveways and field approaches/entrances
 </p>
 
-	<h2>v1.1.11 Coming Soon to Internal Testing</h2>
+	<h2>v1.1.11 Internal Testing</h2>
 
 <p>
 2021-07-09:<br>
@@ -391,7 +391,21 @@ Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a
 - iowa garden city asphalt road by the dealership railroad tracks quick dirty fix for elevations<br>
 2021-07-14:<br>
 - iowa garden city created railroad track road crossings<br>
-- iowa garden city asphalt road re-make using splinestreetconstructor and crossingconstructor
+- iowa garden city asphalt road re-make using splinestreetconstructor and crossingconstructor<br>
+2021-07-16:<br>
+- iowa garden city asphalt road N/S connection road south intersection uneven<br>
+- iowa garden city asphalt road N/S connection road north intersection uneven<br>
+- iowa garden city asphalt road E/W road east intersection uneven<br>
+- iowa garden city fruit_density tweaked for grass and flowers distance from roads and fields<br>
+- iowa garden city field definitions more corner pieces at least to the most lacking shapes<br>
+2021-07-17:<br>
+- iowa garden city field definitions more corner pieces at least to the most lacking shapes<br>
+2021-07-18:<br>
+- iowa garden city field definitions finished simple shape corner pieces<br>
+- iowa garden city sell point locations shuffled a bit for better decorations<br>
+- iowa garden city clear grass from placeable buildings especially from defaultVehicles.xml farm sheds<br>
+2021-07-19:<br>
+- iowa garden city courseplay generate field work course for all fields after field definitions are done
 </p>
 
 </div>
@@ -400,19 +414,22 @@ Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a
 	<h2>Known Issues</h2>
 
 <p>
-<b>2021-07-15T02:23:00Z</b> Updated.
+<b>2021-07-19T02:01:00Z</b> Updated.
 </p>
 
 <p>
-- iowa garden city courseplay cannot generate course for F80 due narrow spot (by the vehicle shed)<br>
-- iowa garden city field definitions more corner pieces at least to the most lacking shapes<br>
-- iowa garden city courseplay generate field work course for all fields after field definitions are done<br>
+- iowa garden city courseplay cannot generate course for F80 due narrow spot (by the vehicle shed) with WIDE implements<br>
 - iowa garden city outside terrain<br>
-- iowa garden city sell point decorations<br>
-- iowa garden city sell point try to fit them into real world location, not every terrain needs 6 selling points by default<br>
 - iowa garden city utility pole on driveway GE Location-88<br>
 - iowa garden city utility pole missing wires on 2 farm yards<br>
-- iowa garden city utility poles missing from the city streets
+- iowa garden city utility poles missing from the city streets<br>
+- iowa garden city electric sub station missing<br>
+- iowa garden city round bales for that one area in SE (animal dealer?)<br>
+- iowa garden city flickering zfighting tree textures on garden city railroad treeline<br>
+- iowa garden city asphalt road elevations are missing<br>
+- iowa garden city dealership north side treeline, plug the holes so *I* cant cut through with tractors <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"><br>
+- iowa garden city animal hog/pig barns placeholders because we dont have large iowa style hog buildings<br>
+- iowa garden city F203 farm house concrete bottom flickers with terrain
 </p>
 
 </div>
