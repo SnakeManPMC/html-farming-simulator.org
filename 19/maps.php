@@ -318,9 +318,9 @@ First impressions are that high performance simple terrain. Big Bud suitable. Ov
 </div>
 
 <div class="terrain4km">
-<h2>Clover Greek</h2>
+<h2>Clover Creek</h2>
 
-<a href="images/Map-Clover-Greek.png" target="_blank"><img src="images/thumbs/Map-Clover-Greek.jpg" alt="Farming Simulator 19 Map - Clover Greek" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Clover-Creek.png" target="_blank"><img src="images/thumbs/Map-Clover-Creek.jpg" alt="Farming Simulator 19 Map - Clover Creek" loading="lazy" style="width:128px;height:128px;"></a>
 
 <p>
 v1.0 by Kastor_Ger-Converting_By_Yazu. From modDesc: Clover Creek is an American style map that is based off farm country where the midwest meets the northeast.
