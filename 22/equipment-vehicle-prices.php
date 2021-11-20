@@ -24,7 +24,7 @@
 	<h2>Equipment and Vehicle Prices FS22</h2>
 
 <p>
-<b>2021-11-20T14:48:00Z</b> updated. This page is SPECULATION until after 2021-11-21 sunday UTC 2300hrs when we get to download the game and try this info ourselves.
+<b>2021-11-20T15:51:00Z</b> updated. This page is SPECULATION until after 2021-11-21T23:00:00Z when we get to activate the game and try this info ourselves.
 </p>
 
 
