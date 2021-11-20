@@ -22,6 +22,13 @@
 </header>
 
 <section>
+	<h2>Farming Simulator 22</h2>
+
+<p>
+<a href="22/contracts.php" class="button">Contracts</a>
+</p>
+
+
 	<h2>Farming Simulator 19</h2>
 <p>
 <!-- <a href="19/editing.php" class="button">Editing</a> -->
