@@ -26,6 +26,7 @@
 
 <p>
 <a href="22/contracts.php" class="button">Contracts</a>
+<a href="22/guide.php" class="button">Guide</a>
 </p>
 
 
