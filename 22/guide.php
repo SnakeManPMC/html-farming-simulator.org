@@ -33,6 +33,17 @@ Please read <a href="../guide.php">Farming Simulator 17 Guide</a> and <a href=".
 </p>
 
 
+	<h2>Production Chains</h2>
+
+<p>
+Production chains are good old factories, where you produce your own goods. There is a long history in FS17 and FS19 for generating fertilizer, seeds, etc along with more complex goods which can then be further used in other factories.
+</p>
+
+<p>
+For more details please read <a href="guide-production-chains.php">FS22 Playing Guide Production Chains</a>.
+</p>
+
+
 	<h2>Rock Picking</h2>
 
 <p>
