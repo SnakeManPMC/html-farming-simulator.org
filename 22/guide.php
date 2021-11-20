@@ -32,6 +32,12 @@
 Please read <a href="../guide.php">Farming Simulator 17 Guide</a> and <a href="../19/guide.php">Farming Simulator 19 (FS19) Guide</a> first as we do not repeat the same stuff in this tutorial unless it has been changed.
 </p>
 
+	<h2>Build Mode</h2>
+
+<p>
+Build mode is feature under which placeables, landscaping and all related items are listed. For more details please read <a href="guide-build-mode.php">FS22 Playing Guide Build Mode</a>.
+</p>
+
 
 	<h2>Production Chains</h2>
 
