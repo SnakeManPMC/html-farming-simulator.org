@@ -30,6 +30,7 @@
 <a href="22/equipment-vehicle-prices.php" class="button">Equipment Vehicle Prices</a>
 <a href="22/map-making-tutorial.php" class="button">Map Making Tutorial</a>
 <a href="22/maps.php" class="button">Maps</a>
+<a href="22/mods.php" class="button">Mods</a>
 </p>
 
 
