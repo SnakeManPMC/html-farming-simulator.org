@@ -57,11 +57,7 @@ Back in FS19 ThundR created a mod for rock picking, now this is an in-game Farmi
 </p>
 
 <p>
-When you work the fields small patches of rocks appear. If you do not pick up these rocks they will damage your vehicles which drive over them, seeder, planter, combine harvester etc.
-</p>
-
-<p>
-Purchase rock picker (stone picker) from the store, use your tractor to pull it and work the field to collect these rocks. You can sell or dump these rocks to get rid of them. Money you get from selling rocks is very little, you do not get rich by selling rocks.
+For more details please read <a href="guide-rock-picking.php">FS22 Playing Guide Rock Picking</a>.
 </p>
 
 </section>
