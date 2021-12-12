@@ -60,6 +60,16 @@ Back in FS19 ThundR created a mod for rock picking, now this is an in-game Farmi
 For more details please read <a href="guide-rock-picking.php">FS22 Playing Guide Rock Picking</a>.
 </p>
 
+	<h2>Crops Best Selling Prices</h2>
+
+<p>
+For beginning players its always difficult to get good progress into your farm, to develop it further, buy better vehicles and more farmland, knowing the best crop selling prices is essential.
+</p>
+
+<p>
+For more details please read <a href="guide-crops-best-selling-price.php">FS22 Playing Guide Crops Best Selling Price</a>.
+</p>
+
 </section>
 
 <footer>
