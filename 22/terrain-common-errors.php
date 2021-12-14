@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Common Errors Farming Simulator 22 - PMC Farming</title>
+<LINK href="../css.css" rel=stylesheet type="text/css">
+<META name="description" content="Common Errors Farming Simulator 22 - PMC Farming">
+<META name="keywords" content="Terrain, Common, Errors, FS22, PMC, Farming">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- google analytics -->
+<?php include("../include/google-analytics.php"); ?>
+
+</head>
+<body>
+
+<header>
+<!-- google ads -->
+<?php include("../include/google-ads.php"); ?>
+<h1><b>PMC Farming Simulator 22 Terrain Common Errors</b></h1>
+</header>
+
+<section>
+	<h2>Common Errors Farming Simulator 22 (FS22)</h2>
+
+<p>
+<b>2021-12-14T10:04:00Z</b> updated. Game engine v1.1.1 used.
+</p>
+
+<pre>
+Warning (performance): Foliage lod 1 mesh 'meadow' 'cut' 'cut' is much larger than lod 0 mesh (min/maxY (-0.175/0.082 vs -0.125/0.103).
+
+Info: transform group 'C:/FS22.Mods/Dev/deleteme/maps/mapUS/data/densityMap_fruits.gdm' has elements very far out from the cell edge (59.65% expansion)
+FoliageTransformGroup 'C:/FS22.Mods/Dev/deleteme/maps/mapUS/data/densityMap_fruits.gdm' may need space for up to 4918576 instances (1819 per cell x 2704 cells)
+FoliageTransformGroup 'C:/FS22.Mods/Dev/deleteme/maps/mapUS/data/densityMap_weed.gdm' may need space for up to 663552 instances (512 per cell x 1296 cells)
+FoliageTransformGroup 'C:/FS22.Mods/Dev/deleteme/maps/mapUS/data/densityMap_stones.gdm' may need space for up to 93312 instances (72 per cell x 1296 cells)
+</pre>
+<p>
+Fix: there are no fix because in FS22 v1.1.1 everyone gets these errors even on mapAlpine, mapFR and mapUS terrains. All we can hope is Giants fix their terrains.
+</p>
+
+<pre>
+Error: Failed to load mod map 'PMC_Farm_Lab'. Missing attribute 'modDesc.maps.map(0)#defaultPlaceablesXMLFilename'.
+</pre>
+<p>
+Fix: modDesc.xml add line defaultPlaceablesXMLFilename="maps/PMC_Farm_Lab/placeables.xml" and of course the placeables.xml file itself, which is edit of old defaultItems.xml file with few changes.
+</p>
+
+<pre>
+2021-12-12 17:18   Error: Failed to find farmland in center of field '4'
+2021-12-12 17:18   Error: Failed to find farmland in center of field '7'
+2021-12-12 17:18 Error: Running LUA method 'update'.
+2021-12-12 17:18 dataS/scripts/field/FieldManager.lua(153) : attempt to index field 'farmland' (a nil value)
+2021-12-12 17:18 Error: Running LUA method 'update'.
+2021-12-12 17:18 dataS/scripts/field/Field.lua(107) : attempt to index field 'farmland' (a nil value)
+</pre>
+<p>
+Fix: farmland.xml is most likely pointing to mapUS/mapAlpine/mapFR instead your own terrain. Change this in TERRAIN.xml file on line: &lt;farmlands filename="$data/maps/mapUS/farmlands.xml" /&gt;
+</p>
+
+<pre>
+2021-12-12 17:38 Warning (performance): Texture C:/FS22.Mods/Dev/PMC_Farm_Lab/preview.png raw format.
+2021-12-12 17:38 Warning: CPU mip generation code activated for texture 'C:/FS22.Mods/Dev/PMC_Farm_Lab/preview.png' - please build mips for this image
+2021-12-12 17:38 Warning (performance): Texture C:/FS22.Mods/Dev/PMC_Farm_Lab/icon.png raw format.
+2021-12-12 17:38 Warning: CPU mip generation code activated for texture 'C:/FS22.Mods/Dev/PMC_Farm_Lab/icon.png' - please build mips for this image
+</pre>
+<p>
+Fix: this often happens with the stock sample images, use your own or open these in GIMP, edit and save into DDS again (or PNG and use ImageMagick to convert PNG to DDS).
+</p>
+
+<pre>
+2021-12-12 22:00 Error: Blocked area map is wrong size for terrain (1024 x 1024) vs (512 x 512)
+</pre>
+<p>
+Fix: error itself tells you whats wrong, your size is 1024 and it should be 512. Rescale infoLayer_placementCollisionGenerated.grle image down to 512. If your error has different sizes, act accordingly. 
+</p>
+
+<pre>
+Weird shadows in Giants Editor (GE).
+</pre>
+<p>
+Fix: GE select Sun in scenegraph, goto attributes, "Light" tab and scroll down to Fixed box min and max X, Y and Z and change values from 1024 to 2048 (maybe higher for larger terrains, not sure).
+</p>
+
+<pre>
+2021-12-13 09:34 Error: Trying to set DensityMapHeightUpdater collision map with invalid size (2097152 vs 33554432)
+</pre>
+<p>
+Fix: ?
+</p>
+
+<pre>
+2021-12-13 09:34   Warning: No tip collision map defined. Creating empty tip placement collision map.
+</pre>
+<p>
+Fix: ?
+</p>
+
+<pre>
+2021-12-13 17:10 Error: AI block info layer has invalid size.
+</pre>
+<p>
+Fix: ?. infoLayer_navigationCollision.png 2048 x 2048, so resize it to 4096 x 4096, CTD. Tried 2048 heightmap 5 unitsperpixel, CTD. 4096 heightmap with 2 or 4 unitsperpixel works OK.
+</p>
+
+</section>
+
+<footer>
+<p><a href="map-making-tutorial.php" class="button">PMC Farming Simulator 22 Map Making Tutorial page</a></p>
+<p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
+<p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
+<?php include("../include/w3-validator-logo.php"); ?>
+</footer>
+
+</body>
+</html>

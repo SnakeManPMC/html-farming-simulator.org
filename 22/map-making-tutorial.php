@@ -24,16 +24,17 @@
 	<h2>Overview</h2>
 
 <p>
-<b>2021-12-14T09:16:00Z</b> updated.
+<b>2021-12-14T10:03:00Z</b> updated.
 </p>
 
 <p>
 Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulator 17 (FS17) Map Making Tutorial</a> and <a href="../19/map-making-tutorial.php" target="_blank">Farming Simulator 19 (FS19) Map Making Tutorial</a> first because what you see below assumes you know all of that FS17 and FS19 stuff. If you have any corrections or questions please <a href="../contact.php">contact us</a>.
 </p>
 
+<p><a href="terrain-common-errors.php">Common Errors</a></p>
+<p><a href="terrain-densitymap-infolayer-resolution-mapus.php">densityMap, infoLayer Resolution mapUS</a></p>
 <p><a href="terrain-file-structure-mapalpine.php">File Structure mapAlpine (Erlengrat)</a>, <a href="terrain-file-structure-mapfr.php">mapFR (Haut-Beyleron)</a> and <a href="terrain-file-structure-mapus.php">mapUS (Elmcreek)</a></p>
 <p><a href="terrain-overview-image-mapus.php">Terrain Overview Image mapUS</a></p>
-<p><a href="terrain-densitymap-infolayer-resolution-mapus.php">densityMap, infoLayer Resolution mapUS</a></p>
 <p><a href="terrain-user-interface-images.php">User Interface Images</a></p>
 
 </section>
