@@ -67,6 +67,7 @@
 2021-04-22 Farming Simulator 22 - FS22 announced <a href="https://www.farming-simulator.com/newsArticle.php?news_id=214" target="_blank">news</a><br>
 2021-06-22 Farming Simulator 22 - Release date (2021-11-22) announced <a href="https://farming-simulator.com/newsArticle.php?&news_id=237" target="_blank">news</a><br>
 2021-11-22 Farming Simulator 22 - Released<br>
+2021-12-16 Farming Simulator 22 - v1.2 update <a href="https://farming-simulator.com/newsArticle.php?&news_id=314" target="_blank">news</a><br>
 </p>
 
 </section>
