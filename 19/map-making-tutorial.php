@@ -24,7 +24,7 @@
 	<h2>Overview</h2>
 
 <p>
-<b>2021-07-05</b> updated. newest tutorial: <a href="terrain-soil-types-painting-gimp.php">Soil Types Painting in GIMP for Precision Farming</a>.
+<b>2021-12-24T19:39:00Z</b> updated. newest tutorial: <a href="terrain-mapus-4km-source-files.php">mapUS 4km Source Files</a>.
 </p>
 
 <p>
@@ -33,7 +33,7 @@ Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulat
 
 <p><a href="terrain-ai-planted-crop-types.php">AI Planted Crop Types</a></p>
 <p><a href="terrain-common-errors.php">Common Errors</a></p>
-<p><a href="terrain-create-sample.php">Create Sample Terrain</a></p>
+<p><a href="terrain-create-sample.php">Create Sample Terrain</a>, <a href="terrain-mapus-4km-source-files.php">mapUS 4km Source Files</a></p>
 <p><a href="terrain-cultivator_density-gimp.php">GIMP Paint cultivator_density Image</a></p>
 <p><a href="terrain-cultivator-fruit-density-roads.php">Cultivator, Fruit Density with Painted Roads</a></p>
 <p><a href="terrain-custom-crop-icons.php">Custom Crop Icons</a></p>
