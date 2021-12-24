@@ -24,7 +24,7 @@
 	<h2>Common Errors Farming Simulator 22 (FS22)</h2>
 
 <p>
-<b>2021-12-14T10:04:00Z</b> updated. Game engine v1.1.1 used.
+<b>2021-12-24T20:54:00Z</b> updated. Game engine v1.2.0.2 used.
 </p>
 
 <pre>
@@ -36,7 +36,7 @@ FoliageTransformGroup 'C:/FS22.Mods/Dev/deleteme/maps/mapUS/data/densityMap_weed
 FoliageTransformGroup 'C:/FS22.Mods/Dev/deleteme/maps/mapUS/data/densityMap_stones.gdm' may need space for up to 93312 instances (72 per cell x 1296 cells)
 </pre>
 <p>
-Fix: there are no fix because in FS22 v1.1.1 everyone gets these errors even on mapAlpine, mapFR and mapUS terrains. All we can hope is Giants fix their terrains.
+Fix: there are no fix because in FS22 v1.2.0.2 everyone gets these errors even on mapAlpine, mapFR and mapUS terrains. All we can hope is Giants fix their terrains.
 </p>
 
 <pre>
@@ -100,7 +100,7 @@ Fix: ?
 2021-12-13 17:10 Error: AI block info layer has invalid size.
 </pre>
 <p>
-Fix: ?. infoLayer_navigationCollision.png 2048 x 2048, so resize it to 4096 x 4096, CTD. Tried 2048 heightmap 5 unitsperpixel, CTD. 4096 heightmap with 2 or 4 unitsperpixel works OK.
+Fix: along with a CTD is fixed by increasing infoLayer_ image resolutions to 16,384 resolution. This is an ugly fix to make such monster size images, but it works, tested on several terrains now. Most likely not all of the images need to be this size, needs more testing.
 </p>
 
 </section>
