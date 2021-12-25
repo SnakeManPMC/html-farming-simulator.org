@@ -25,9 +25,10 @@
 	<h2>Farming Simulator 22</h2>
 
 <p>
+<a href="22/pmc-terrains.php" class="button">PMC Terrains</a>
 <a href="22/contracts.php" class="button">Contracts</a>
-<a href="22/guide.php" class="button">Guide</a>
 <a href="22/equipment-vehicle-prices.php" class="button">Equipment Vehicle Prices</a>
+<a href="22/guide.php" class="button">Guide</a>
 <a href="22/map-making-tutorial.php" class="button">Map Making Tutorial</a>
 <a href="22/maps.php" class="button">Maps</a>
 <a href="22/mods.php" class="button">Mods</a>
