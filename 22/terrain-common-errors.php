@@ -59,6 +59,20 @@ Fix: farmland.xml is most likely pointing to mapUS/mapAlpine/mapFR instead your 
 </p>
 
 <pre>
+2021-12-31 10:04 Error: Farmland-Id 36 not defined in farmland xml file!
+</pre>
+<p>
+Fix: farmland.GRLE image has RGB 36,36,36 but farmlands.XML config file has no ID 36. Add it. Your ID obviously can be different, our 36 is just an example.
+</p>
+
+<pre>
+2021-12-31 10:04   Error: Failed to find farmland in center of field '316'
+</pre>
+<p>
+Fix: you have field definition 316 without a farmland. This error is accompanied by other farmland error, fix it and "center of field" gets fixed as well.
+</p>
+
+<pre>
 2021-12-12 17:38 Warning (performance): Texture C:/FS22.Mods/Dev/PMC_Farm_Lab/preview.png raw format.
 2021-12-12 17:38 Warning: CPU mip generation code activated for texture 'C:/FS22.Mods/Dev/PMC_Farm_Lab/preview.png' - please build mips for this image
 2021-12-12 17:38 Warning (performance): Texture C:/FS22.Mods/Dev/PMC_Farm_Lab/icon.png raw format.
@@ -102,6 +116,32 @@ Fix: ?
 <p>
 Fix: along with a CTD is fixed by increasing infoLayer_ image resolutions to 16,384 resolution. This is an ugly fix to make such monster size images, but it works, tested on several terrains now. Most likely not all of the images need to be this size, needs more testing.
 </p>
+
+<pre>
+2021-12-24 06:09   Warning (map.xml): Invalid vector 2 for 'map.hotspots.placeableHotspot(0)#worldPosition'.
+</pre>
+
+<p>
+Fix: change 3 number coordinates to 2 number, meaning "X Z Y" should only be "X Y", this position format does not need elevation which is the second number there.
+</p>
+
+<pre>
+2021-12-31 10:04 DensityMapModifier: masks must either be scaled up or scaled down in both directions - mask size 16384x16384, mask2 size 4096x4096 and density map size 8192x8192 are incompatible
+</pre>
+<p>
+Fix: set all densityMap and infoLayer images to 16384 x 16384 resolution. weight is 8192 x 8192 resolution. important: this doesn't mean you must use these resolutions IN GENERAL, but the above error was caused because few of the densityMap_ images was 8192 instead of the resolution as other ones.
+</p>
+
+<pre>
+Error: No fillUnitIndex for fillType SILAGE_ADDITIVE found, pallet:
+</pre>
+<p>
+Fix: add "SILAGE_ADDITIVE" to fillTypes.xml as seen below:
+</p>
+<pre>
+&lt;fillTypeCategory name="BULK" &gt;SILAGE_ADDITIVE"&lt;/fillTypeCategory&gt;
+&lt;fillTypeCategory name="PRODUCT"&gt;SILAGE_ADDITIVE"&lt;/fillTypeCategory&gt;
+</pre>
 
 </section>
 
