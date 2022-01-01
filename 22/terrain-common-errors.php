@@ -24,7 +24,7 @@
 	<h2>Common Errors Farming Simulator 22 (FS22)</h2>
 
 <p>
-<b>2021-12-24T20:54:00Z</b> updated. Game engine v1.2.0.2 used.
+<b>2022-01-01T08:53:00Z</b> updated. Game engine v1.2.0.2 used.
 </p>
 
 <pre>
