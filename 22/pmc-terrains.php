@@ -24,11 +24,12 @@
 	<h2>PMC Terrain News</h2>
 
 <p>
-<b>2022-01-01T05:11:00Z</b> Dedicated PMC Test Farm 10km terrain page created.
+<b>2022-01-01T06:50:00Z</b> PMC Test Farm 32km terrain released!<br>
 </p>
 
 <p>
 Older News:<br>
+2022-01-01T05:11:00Z Dedicated PMC Test Farm 10km terrain page created.<br>
 2021-12-25T20:56:00Z FS22 PMC Terrains page created, PMC Test Farm 10km example terrain uploaded.
 </p>
 
@@ -47,6 +48,7 @@ Do you like big maps with big fields? Map is not big enough for you unless it ta
 </p>
 
 <p><a href="pmc-test-farm-10km.php">PMC Test Farm 10km</a></p>
+<p><a href="pmc-test-farm-32km.php">PMC Test Farm 32km</a></p>
 
 </section>
 
