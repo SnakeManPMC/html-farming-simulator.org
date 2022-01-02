@@ -64,7 +64,7 @@ data\maps\mapUS\fieldGround.xml
 </pre>
 
 <p>
-After copying fieldGround.xml to your own terrain directory, edit it to remove $data/ directory so it points to your own terrain directory.
+After copying fieldGround.xml to your own terrain directory, edit it to remove $data/ directory so it points to your own terrain directory. You also must edit your TERRAIN.xml config file to point into new fieldGround.xml config file.
 </p>
 
 <p>
