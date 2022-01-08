@@ -24,16 +24,16 @@
 	<h2>PMC Test Farm 10km</h2>
 
 <p>
-<b>2022-01-01T05:16:00Z</b>
+<b>2022-01-08T14:42:00Z</b> v0.1.1
 </p>
 
 <p>
-Terrain size: 10240 meters x 10240 meters, ie 10.2 kilometers x 10.2 kilometers (elmcreek is 2km). Terrain type: fictional.
+Terrain size: 10240 meters x 10240 meters, which is 10.2 kilometers x 10.2 kilometers (elmcreek is 2km). Terrain type: fictional.
 </p>
 
 <div>
 <p style="font-size: 10px;">
-Click for larger image
+Click for larger image. Note: screenshots are outdated, terrain now has rolling hills heightmap and few objects.
 </p>
 <a href="screenshots/PMC-Test-Farm-10km-2021-12-24T0113.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Test-Farm-10km-2021-12-24T0113.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
 
@@ -47,19 +47,19 @@ Click for larger image
 </div>
 
 <p>
-This mod has errors, don't download. A very bad big map, with big square fields :)
+A very bad big map, with big square fields <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-This terrain is not meant for playing as its a simply testing version for 10.2km x 10.2km terrain size. However I was asked to share example files to test some things, so I uploaded this terrain and thought why not share with everyone.
+This terrain is not meant for playing as its a simply testing version for 10.2km x 10.2km terrain size. However I was asked to share example files to test some things, so I uploaded this terrain and thought why not share with everyone. A week or so later I edited some more and added bunch of new features like rolling hills heightmap, grass, terrain detail textures for roads, three Meridian flat bottom 3608 grain bins and a vehicle shop building. So technically this is now more or less a normal terrain.
 </p>
 
 <p>
-This is empty object-less terrain, there are no buildings, no trees and no selling points. Heightmap is flat 0 meter elevation, no hills no nothing. There are many square fields all the same size, these fields are painted in cultivator_density and there are no field definitions so contracts will not work.
+This terrain has no trees and no selling points. There are many square fields all the same size, these fields are painted in cultivator_density and there are no field definitions so contracts will not work.
 </p>
 
 <p>
-There is a vehicle shop triggers only (no 3D building), no vehicle repair trigger either. Farmland image is one ID covers all style.
+Vehicle shop has no vehicle repair trigger. Farmland image is one ID covers all style.
 </p>
 
 	<h2>License</h2>
@@ -77,7 +77,7 @@ None.
 	<h2>Download</h2>
 
 <p>
-PMC_Test_Farm_10km_v0.1.7z 1.78mb <a href="downloads/PMC_Test_Farm_10km_v0.1.7z">farming-simulator.org</a>
+PMC_Test_Farm_10km_v0.1.1.7z 38.2mb <a href="downloads/PMC_Test_Farm_10km_v0.1.1.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1I4y_axqnSI0E_rA2dhMrNMT55-D_uwvl/view?usp=sharing" target="_blank">google drive</a>.
 </p>
 
 <p>

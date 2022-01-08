@@ -24,11 +24,12 @@
 	<h2>PMC Terrain News</h2>
 
 <p>
-<b>2022-01-01T06:50:00Z</b> PMC Test Farm 32km terrain released!<br>
+<b>2022-01-08T14:51:00Z</b> PMC Test Farm 10km v0.1.1 terrain released!<br>
 </p>
 
 <p>
 Older News:<br>
+2022-01-01T06:50:00Z PMC Test Farm 32km terrain released!<br>
 2022-01-01T05:11:00Z Dedicated PMC Test Farm 10km terrain page created.<br>
 2021-12-25T20:56:00Z FS22 PMC Terrains page created, PMC Test Farm 10km example terrain uploaded.
 </p>
