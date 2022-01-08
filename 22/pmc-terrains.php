@@ -24,6 +24,7 @@
 	<h2>PMC Terrain News</h2>
 
 <p>
+<b>2022-01-08T15:07:00Z</b> PMC Test Farm 32km v0.1.1 terrain released!<br>
 <b>2022-01-08T14:51:00Z</b> PMC Test Farm 10km v0.1.1 terrain released!<br>
 </p>
 

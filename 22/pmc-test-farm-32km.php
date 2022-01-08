@@ -24,11 +24,11 @@
 	<h2>PMC Test Farm 32km</h2>
 
 <p>
-<b>2022-01-01T06:50:00Z</b>
+<b>2022-01-08T15:07:00Z</b> v0.1.1
 </p>
 
 <p>
-Terrain size: 32768 meters x 32768 meters, ie 32.7 kilometers x 32.7 kilometers (elmcreek is 2km). Terrain type: fictional.
+Terrain size: 32768 meters x 32768 meters, which is 32.7 kilometers x 32.7 kilometers (elmcreek is 2km). Terrain type: fictional.
 </p>
 
 <div>
@@ -63,7 +63,7 @@ This terrain was not meant for playing as its a simply testing version for 32.7k
 </p>
 
 <p>
-This is empty object-less terrain, there are no buildings, no trees and no selling points. Heightmap is nice smooth rolling hills type elevations. There are crazy number of square fields all the same size except on east and south edges, these fields have proper field definitions so contracts will work just fine as can be seen from screenshots.
+This is empty object-less terrain, there are no buildings, no trees and no selling points. Heightmap is nice smooth rolling hills type elevations. There are over 400 square fields all the same size except on east and south edges, these fields have proper field definitions so contracts will work just fine as can be seen from screenshots.
 </p>
 
 <p>
@@ -71,7 +71,7 @@ There is a vehicle shop triggers only (no 3D building), no vehicle repair trigge
 </p>
 
 <p>
-PMC Test Farm 32km is absolutely megalodon gigantic size terrain, our previous historical high score terrain size was <a href="../19/pmc-eternal-sugar-beet-damnation-32km.php">PMC Eternal Sugar Beet Damnation 32km (FS19)</a> which did not work very well with low density image resolutions. Now FS22 has multi core and multi thread (file handling I believe) support which allow us to run huge density images and multiple vehicles (tested 4 hired workers so far) at the same time without any freezes or even stutter. What was a mere joke in FS19 is now pretty much the largest possible maybe even playable terrain in FS22. And that farmers, is a very good news <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+PMC Test Farm 32km is absolutely megalodon gigantic size terrain, our previous <b>historical high score terrain size</b> was <a href="../19/pmc-eternal-sugar-beet-damnation-32km.php">PMC Eternal Sugar Beet Damnation 32km (FS19)</a> which did not work very well with low density image resolutions. Now FS22 has multi core and multi thread (file handling I believe) support which allow us to run huge density images and multiple vehicles (tested 4 tractors under Courseplay so far) at the same time without any freezes or even stutter, performance was 60FPS solid. What was a mere joke in FS19 is now pretty much the largest possible maybe even playable terrain in FS22. And that farmers, is a very good news <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -103,7 +103,7 @@ None.
 	<h2>Download</h2>
 
 <p>
-PMC_Test_Farm_32km_v0.1.7z 45mb <a href="downloads/PMC_Test_Farm_32km_v0.1.7z">farming-simulator.org</a>
+PMC_Test_Farm_32km_v0.1.1.7z 48.8mb <a href="downloads/PMC_Test_Farm_32km_v0.1.1.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1T__ncWoF59zx9wN5myApt93zw-9Fs1W0/view?usp=sharing" target="_blank">google drive</a>.
 </p>
 
 <p>
