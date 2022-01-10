@@ -24,7 +24,11 @@
 	<h2>GIMP Paint Fields</h2>
 
 <p>
-Paint fields in GIMP using satellite texture as base. Paint cultivated or plowed fields. GE is extremely bad software to use so painting fields using it is a torture, it is far better to paint them in GIMP.
+<b>2022-01-10T15:56:00Z</b> Updated.
+</p>
+
+<p>
+Paint fields in GIMP using satellite texture as base. Paint cultivated or plowed fields. <a href="terrain-giants-editor.php">Giants Editor (GE)</a> is extremely bad software to use so painting fields using it is a torture, it is far better to paint them in GIMP.
 </p>
 
 <p>
@@ -32,12 +36,12 @@ cultivator_density uses cultivated land RGB 1,0,0 and ploughed land RGB 2,0,0 co
 </p>
 
 <p>
-cultivator_density image assumes you have high resolution satellite image for real world data terrain available, use 8192 x 8192 resolution for 8km and 4096 x 4096 resolution for 4km terrains.
+cultivator_density image assumes you have high resolution satellite image for real world data terrain available, but fictional terrains can be painted the same way as well. Use 8192 x 8192 resolution for large and 4096 x 4096 resolution for small terrains.
 </p>
 
 <p>
-- open satellite image in gimp, <a href="https://docs.gimp.org/en/gimp-using-layers.html" target="_blank">create fields layer</a> and paint fields as some bright color like red RGB 255,0,0<br>
-- <a href="https://docs.gimp.org/en/plug-in-exchange.html" target="_blank">change colors</a> background RGB 0,0,0 and red color to RGB 1,0,0 export to cultivator_density.png<br>
+- open satellite image in gimp, <a href="https://docs.gimp.org/en/gimp-using-layers.html" target="_blank">create fields layer</a> and paint fields with RGB 255,0,0 color<br>
+- <a href="https://docs.gimp.org/2.10/en/gimp-filter-color-exchange.html" target="_blank">change colors</a> background RGB 0,0,0 and red color to RGB 1,0,0 export to cultivator_density.png<br>
 - replace RGB 0,0,0 with RGB 130,0,0 and RGB 1,0,0 with RGB 0,0,0 export to fruit_density.png<br>
 - save satellite image + painted fields as XCF so you can later make tweaks if necessary<br>
 - edit terrainname.i3d GDM to PNG on these two density images<br>
