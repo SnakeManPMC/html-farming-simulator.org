@@ -24,7 +24,7 @@
 	<h2>Overview</h2>
 
 <p>
-<b>2021-12-24T19:39:00Z</b> updated. newest tutorial: <a href="terrain-mapus-4km-source-files.php">mapUS 4km Source Files</a>.
+<b>2022-01-10T16:33:00Z</b> Updated, newest tutorial: <a href="terrain-pda-map-image-rgb-colors.php">PDA Map Image RGB Colors</a>.
 </p>
 
 <p>
@@ -55,6 +55,7 @@ Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulat
 <p><a href="terrain-lua-scripts.php">LUA Scripts</a></p>
 <p><a href="terrain-moddesc-xml.php">modDesc.xml</a></p>
 <p><a href="terrain-object-view-distance.php">Object View Distance</a></p>
+<p><a href="terrain-pda-map-image-rgb-colors.php">PDA Map Image RGB Colors</a></p>
 <p><a href="terrain-placeable-objects.php">Placeable Objects</a></p>
 <p><a href="terrain-porting-fs17.php">Porting Farming Simulator 17 Terrain</a></p>
 <p><a href="terrain-real-world-data.php">Real World Data Terrain</a></p>
