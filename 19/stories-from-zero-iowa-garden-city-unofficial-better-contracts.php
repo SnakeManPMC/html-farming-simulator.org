@@ -464,7 +464,7 @@ Then had to shutdown FS19 to restore last good version of courseplay as todays g
 </p>
 
 <p>
-1423 FS19 booted back up with properly working courseplay
+1423 FS19 booted back up with properly working courseplay<br>
 1424 Purchased 10 1k liter solid fertilizer pallets and refilled bredal spreaders
 </p>
 
@@ -585,7 +585,7 @@ So for now I'm going to time accelerate and wait for more fertilizing contracts,
 </p>
 
 <p>
-7/late-spring in-game 1208hrs, new fertilizing contracts appeared. Back to work.
+07/late-spring in-game 1208hrs, new fertilizing contracts appeared. Back to work.
 </p>
 
 <p>
@@ -708,7 +708,7 @@ Drove bredal spreader tractors to dealership and bought two 10 1k liter solid fe
 </p>
 
 <p>
-09/late-spring in-game 0716hrs, new fertilizing contracts appeared already yesterday afternoon but I skipped the whole night anyways. Now finally the big f271 contract for 100k reward appeared, nice.
+09/late-spring in-game 0716hrs, new fertilizing contracts appeared already yesterday afternoon but I skipped the whole night anyways. Now finally the big F271 contract for 100k reward appeared, nice.
 </p>
 
 <p>
@@ -766,7 +766,7 @@ Budget now 1.171 million <img src="../images/smileys/icon_mrgreen.gif" alt="Smil
 </p>
 
 <p>
-Yeah buddy, we are millionaires now. So now I could purchase high horsepower tractor and seed hawk for those seeding contracts.
+Yeah buddy, I am millionaire now. So now I could purchase high horsepower tractor and seed hawk for those seeding contracts.
 </p>
 
 <p>
@@ -804,7 +804,7 @@ That is a bit scary thought, am I ready for such undertaking? Hmm, not sure <img
 </p>
 
 <p>
-Then purchased 10 2.1k liter seed pallets for 18.9k, refilled seed hawk and then bought another seed pallet for 18.9k and finished filling seed hawk.
+Then purchased 10 2.1k liter seed pallets for 18.9k, refilled seed hawk and then bought another ten seed pallets for 18.9k and finished filling seed hawk.
 </p>
 
 <p>
@@ -812,7 +812,7 @@ Then accepted ALL normal grain seeding contracts, no point of writing them down 
 </p>
 
 <p>
-Mini map was flashing field numbers all around, this is going to take <b>several days of seeding</b> without a doubt. Interesting to see how many days do I bare, because ultimately... this savegame was just to have sun better contracts mod fun, not a legit Start From Zero, so I'm most likely going to end playing this savegame fairly soon. We'll see, one contract at the time.
+Mini map was flashing field numbers all around, this is going to take <b>several days of seeding</b> without a doubt. Interesting to see how many days do I bare, because ultimately... this savegame was just to have a little better contracts mod fun, not a legit Start From Zero, so I'm most likely going to end playing this savegame fairly soon. We'll see, one contract at the time.
 </p>
 
 <p>
