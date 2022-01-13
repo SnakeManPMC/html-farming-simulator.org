@@ -254,3 +254,13 @@ PMC Farm Lab features ;)
 {
 	padding: 5px;
 }
+
+/*
+warning label for unfinished pages, red background, black text and kind of narrow centered text area
+*/
+.warninglabel
+{
+	background: rgb(255,0,0);
+	color: rgb(10,10,10);
+	padding: 5px 100px;
+}
