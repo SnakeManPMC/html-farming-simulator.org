@@ -24,7 +24,7 @@
 	<h2>HOWTO Paint Terrain Design Doc in GIMP</h2>
 
 <p>
-<b>2022-01-13T14:29:00Z</b> Updated.
+<b>2022-01-17T18:18:00Z</b> Updated.
 </p>
 
 <div class="warninglabel">
@@ -50,7 +50,7 @@ Paint background grass RGB 104,107,79 color using foreground fill tool CTRL-, (c
 <a href="screenshots/FS19-GIMP-Design-Doc-Tutorial-2022-01-10T1833.jpg" target="_blank"><img src="screenshots/thumbs/FS19-GIMP-Design-Doc-Tutorial-2022-01-10T1833.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 19 Screenshot"></a>
 
 <p>
-Save image with CTRL-S into GIMP XCF format. Choose proper descriptive file name to it.
+Save image with CTRL-S into GIMP XCF format. Choose proper descriptive file name to it (no special characters, etc).
 </p>
 
 <p>
@@ -64,7 +64,19 @@ Click OK or press enter to create the new layer.
 </p>
 
 <p>
-For railroad tracks we use RGB 68,68,60 color. So in "Change Foreground Color" dialog make sure "0..255" and "HSV" is selected by clicking on them, then type in R 68, G 68 and B 60, as shown below.
+Open "Change Foreground Color" dialog by clicking the button in GIMP top left corner area, kind of like two squares overlapping. See below screenshot:
+</p>
+
+<a href="screenshots/GIMP-HOWTO-Open-Change-Foreground-Color-Dialog.jpg" target="_blank"><img src="screenshots/thumbs/GIMP-HOWTO-Open-Change-Foreground-Color-Dialog.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 19 Screenshot"></a>
+
+<p>
+So in "Change Foreground Color" dialog make sure "0..255" and "HSV" is selected by clicking on them.
+</p>
+
+<img src="screenshots/GIMP-Change-Foreground-Color-Dialog.png" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 19 Screenshot"/>
+
+<p>
+For railroad tracks we use RGB 68,68,60 color. In change foreground color dialog type in R 68, G 68 and B 60, as shown below.
 </p>
 
 <a href="screenshots/FS19-GIMP-Design-Doc-Tutorial-2022-01-10T1842.jpg" target="_blank"><img src="screenshots/thumbs/FS19-GIMP-Design-Doc-Tutorial-2022-01-10T1842.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 19 Screenshot"></a>
@@ -158,6 +170,10 @@ Then go through all the remaining layers except background, you sould end up ALL
 <a href="screenshots/FS19-GIMP-Design-Doc-Tutorial-2022-01-10T1956.jpg" target="_blank"><img src="screenshots/thumbs/FS19-GIMP-Design-Doc-Tutorial-2022-01-10T1956.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 19 Screenshot"></a>
 
 <p>
+Please note that if you have several layers selected and the image resolution is very large, lets say higher than 10240 x 10240 resolution, GIMP becomes quite sluggish. Well at least it does in our i7 4790K + nvidia GTX 1060 3gb hardware computer. This is unfortunate, but expected behavior so be aware of that.
+</p>
+
+<p>
 Now comes the next tricky part. We must enlarge / grow this selection by 30 pixels. Use menu select -&gt; grow.
 </p>
 
@@ -192,7 +208,7 @@ Then press CTRL-, foreground fill, now your fields appear as red.
 <a href="screenshots/FS19-GIMP-Design-Doc-Tutorial-2022-01-10T2010.jpg" target="_blank"><img src="screenshots/thumbs/FS19-GIMP-Design-Doc-Tutorial-2022-01-10T2010.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 19 Screenshot"></a>
 
 <p>
-Now would be a good time to CTRL-S save this image.
+Now would be a good time to CTRL-S save this image <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
