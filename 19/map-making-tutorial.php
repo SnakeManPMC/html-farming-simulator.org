@@ -24,7 +24,7 @@
 	<h2>Overview</h2>
 
 <p>
-<b>2022-02-02T07:01:00Z</b> Updated, newest tutorial: <a href="terrain-design-document-graphicsmagick.php">GIMP Terrain Design Document GraphicsMagick</a>.
+<b>2022-02-02T07:15:00Z</b> Updated, newest tutorial: <a href="terrain-design-document-graphicsmagick.php">GIMP Terrain Design Document GraphicsMagick</a>.
 </p>
 
 <p>
@@ -46,6 +46,7 @@ Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulat
 <p><a href="terrain-edge-block.php">Edge Block</a></p>
 <p><a href="terrain-environmental-sounds.php">Environmental Sounds</a></p>
 <p><a href="terrain-farmland.php">Farmland</a> and <a href="terrain-farmland-painting-gimp.php">Farmland Painting GIMP</a></p>
+<p><a href="terrain-farmland-channels.php">HOWTO Increase Farmland ID Channels</a></p>
 <p><a href="terrain-field-definitions.php">Field Definitions</a></p>
 <p><a href="terrain-file-structure.php">File Structure</a></p>
 <p><a href="terrain-forests.php">Forests</a></p>
