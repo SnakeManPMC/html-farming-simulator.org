@@ -24,14 +24,12 @@
 	<h2>HOWTO Paint Terrain Design Doc in GIMP</h2>
 
 <p>
-<b>2022-01-17T18:18:00Z</b> Updated.
+<b>2022-02-02T05:03:00Z</b> Updated.
 </p>
 
-<div class="warninglabel">
 <p>
-<b>WARNING! Unfinished page! WARNING!</b> This tutorial walks you through step by step how to paint terrain design document (design doc) in GIMP, however in the end all you have is "pretty picture" nothing more, you get nothing in GE yet, so this is not a full "paint and put in GE" tutorial. If a full complete guide / tutorial is what you're looking for, please stop reading now.
+Ever wanted to sketch a terrain design in GIMP wishing you could transfer it to <a href="terrain-giants-editor.php">Giants Editor (GE)</a> by click of a button? This tutorial teaches you how to do that.
 </p>
-</div>
 
 <p>
 The RGB colors used in this tutorial are still work in progress, they match Farming Simulator 19 (FS19) PDA map meaning ESC mapview image colors pretty closely, but some parts like forest is not even used in mapUS image so we use whatever color felt like best fit. Most likely we change these RGB colors when we refine the tool pipeline.
@@ -238,11 +236,11 @@ That is all <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading=
 </p>
 
 <p>
-GIMP Terrain Design Document tutorial was specific to GIMP painting design doc image, on other tutorial you'll learn how to use GraphicsMagick when processing GIMP exported images to <a href="terrain-giants-editor.php">Giants Editor</a> readable _weight images, unfortunately that tutorial haven't been written, the GraphicsMagick bat files haven't been finalized and released yet.
+GIMP Terrain Design Document tutorial was specific to GIMP painting design doc image, on other tutorial you'll learn how to use GraphicsMagick when processing GIMP exported images to <a href="terrain-giants-editor.php">Giants Editor</a> readable _weight images.
 </p>
 
 <p>
-Hey don't look at me! I told you this was unfinished tutorial <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Please continue reading <a href="terrain-design-document-graphicsmagick.php">Design Doc To Density And Weight Images Using GraphicsMagick</a> tutorial page.
 </p>
 
 </section>
