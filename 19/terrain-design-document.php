@@ -24,7 +24,7 @@
 	<h2>HOWTO Paint Terrain Design Doc in GIMP</h2>
 
 <p>
-<b>2022-02-02T05:03:00Z</b> Updated.
+<b>2022-02-02T05:28:00Z</b> Updated.
 </p>
 
 <p>
@@ -36,7 +36,7 @@ The RGB colors used in this tutorial are still work in progress, they match Farm
 </p>
 
 <p>
-In GIMP create new image (CTRL-N), it should be one pixel per meter scale, so if your terrain is 2.5km x 2.5km the image should be 2560 x 2560 pixel resolution.
+In GIMP create new image (CTRL-N), it should be one pixel per meter scale, so if your terrain is 2.5km x 2.5km the image should be 2560 x 2560 pixel resolution. If interested see <a href="terrain-design-document-resolution.php">GIMP Terrain Design Document Image Resolution</a> page for details.
 </p>
 
 <a href="screenshots/FS19-GIMP-Design-Doc-Tutorial-2022-01-10T1830.jpg" target="_blank"><img src="screenshots/thumbs/FS19-GIMP-Design-Doc-Tutorial-2022-01-10T1830.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 19 Screenshot"></a>
