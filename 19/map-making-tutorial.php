@@ -24,7 +24,7 @@
 	<h2>Overview</h2>
 
 <p>
-<b>2022-02-02T06:39:00Z</b> Updated, newest tutorial: <a href="terrain-design-document-graphicsmagick.php">GIMP Terrain Design Document GraphicsMagick</a>.
+<b>2022-02-02T07:01:00Z</b> Updated, newest tutorial: <a href="terrain-design-document-graphicsmagick.php">GIMP Terrain Design Document GraphicsMagick</a>.
 </p>
 
 <p>
@@ -59,6 +59,7 @@ Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulat
 <p><a href="terrain-howto-create-16km.php">HOWTO Create 16.3km Terrain</a></p>
 <p><a href="terrain-lua-scripts.php">LUA Scripts</a></p>
 <p><a href="terrain-moddesc-xml.php">modDesc.xml</a></p>
+<p><a href="terrain-multi-angle.php">Multi Terrain Angle</a></p>
 <p><a href="terrain-object-view-distance.php">Object View Distance</a></p>
 <p><a href="terrain-pda-map-image-rgb-colors.php">PDA Map Image RGB Colors</a></p>
 <p><a href="terrain-placeable-objects.php">Placeable Objects</a></p>
