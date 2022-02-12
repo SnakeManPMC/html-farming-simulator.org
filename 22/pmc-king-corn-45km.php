@@ -180,7 +180,7 @@ Once I started studying FS22 terrain editing, I wanted to see if larger terrains
 </p>
 
 <p>
-First I created 32.7km terrain (<a href="pmc-test-farm-32km.php">PMC Test Farm 32km</a>) and it ran great, then week(s) later I wanted to try 40km terrain and that failed with CTD on loading, I gave up. Again some time later the defeat was troubling me and was trying to figure out is there anything I missed, something I could done differently etc. Solution actually was pretty simple, in the game LOG the last error was "Error: AI block info layer has invalid size." which lead me to focus my efforts into infoLayer images. I increased their size to 32678 pixel resolution and boom, it worked <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+First I created 32.7km terrain (<a href="pmc-cereal-region-32km.php">PMC Cereal Region 32km</a>) and it ran great, then week(s) later I wanted to try 40km terrain and that failed with CTD on loading, I gave up. Again some time later the defeat was troubling me and was trying to figure out is there anything I missed, something I could done differently etc. Solution actually was pretty simple, in the game LOG the last error was "Error: AI block info layer has invalid size." which lead me to focus my efforts into infoLayer images. I increased their size to 32678 pixel resolution and boom, it worked <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

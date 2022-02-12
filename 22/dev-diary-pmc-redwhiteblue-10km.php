@@ -360,7 +360,7 @@ Changed PMC RedWhiteBlue 10km to v0.1.2 now.
 </p>
 
 <p>
-2022-01-30T11:06:42Z New editing day has started, well I hope it WONT be an editing day but just a quick overview verification that this terrain is ready for a new release. This is part of bigger operation to check all 6km, (this one), 20km, <a href="pmc-test-farm-32km.php">32km</a>, 40km and 45km terrains for release ready status.
+2022-01-30T11:06:42Z New editing day has started, well I hope it WONT be an editing day but just a quick overview verification that this terrain is ready for a new release. This is part of bigger operation to check all 6km, (this one), 20km, <a href="pmc-cereal-region-32km.php">32km</a>, 40km and 45km terrains for release ready status.
 </p>
 
 <p>
