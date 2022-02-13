@@ -107,6 +107,17 @@ Hmm probably have to remake the design, initially I wanted to do boring US road 
 </p>
 
 <p>
+There is a CTD with error:
+</p>
+<pre>
+2021-12-23 22:04 Error: AI block info layer has invalid size.
+</pre>
+
+<p>
+2021-12-24T21:05:00Z Fixed above CTD with infoLayer_* 16384 image resolution change.
+</p>
+
+<p>
 2022-01-24T22:49:53Z Back to working on PMC Super Six 6km. Funnily at PMC Gaming computer I don't have my yesterdays dev diary to read here so I'm starting the editing day blind, what I recall was that heightmap is way too high/rough and the design doc layout was goofy. I can easily fix the heightmap but design doc would need some serious work, basically a remake.
 </p>
 
