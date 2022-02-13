@@ -1493,6 +1493,38 @@ Uuh what a great feeling to have this terrain finished for its first release <im
 </p>
 
 <p>
+2022-02-09T15:22:35Z New editing day has started. Its time to give this terrain project a proper name, its "PMC Undefined Farms 20km" <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+So the usual rename shuffle, change directly and file names, then powergrep4 mass string replace to all the i3d/xml files.
+</p>
+
+<p>
+2022-02-09T15:29:42Z Directory and file name rename and mass string replace complete.
+</p>
+
+<p>
+Next copy pasted mapUS storeItems.xml trees and plants lines to our storeItems.xml which fixes the landscaping tool not being able to see those tabs.
+</p>
+
+<p>
+2022-02-09T15:43:19Z In-game test complete, works ok, landscaping tool also does trees and plants.
+</p>
+
+<p>
+2022-02-11T04:30:52Z Final editing day before release has started <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Plan now is to create new farmer game-mode starter vehicles.
+</p>
+
+<p>
+And it got done.
+</p>
+
+<p>
 2022-02-13T17:18:00Z Created PMC_Undefined_Farms_20km_v0.1.3.7z release packet, we are good to go.
 </p>
 
