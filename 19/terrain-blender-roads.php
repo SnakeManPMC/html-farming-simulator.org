@@ -24,7 +24,7 @@
 	<h2>HOWTO Create Roads in Blender for Giants Editor</h2>
 
 <p>
-<b>2022-02-02T11:02:00Z</b> Updated.
+<b>2022-02-13T18:44:00Z</b> Updated.
 </p>
 
 <p>
@@ -151,6 +151,12 @@ Note that the road mesh generation just follows the beziercurve, it does not sto
 
 <p>
 Exporting roads its simple, click on the road, file -> export -> obj -> save it and load it in GE.
+</p>
+
+	<h2>Common Issues</h2>
+
+<p>
+If road is really jagged in the curves/corners, then the road source/seed 3d model mesh is too long. Reduce its length and it should fix itself.
 </p>
 
 </section>
