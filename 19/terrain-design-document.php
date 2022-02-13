@@ -24,7 +24,7 @@
 	<h2>HOWTO Paint Terrain Design Doc in GIMP</h2>
 
 <p>
-<b>2022-02-13T19:49:00Z</b> Updated.
+<b>2022-02-13T20:06:00Z</b> Updated.
 </p>
 
 <p>
@@ -263,6 +263,26 @@ In GIMP cutting that fields layer excess fat from the edge is done with rectangl
 
 <p>
 Another option is to paint this selection with color of your choice to mark it as "off limits" from fields, or even from railroads / roads. Either way works, painted off limits area is permanent, the selection cutting you must do every time after changing field design by using mass selection edits.
+</p>
+
+	<h2>Field Shape Bad Design Choices</h2>
+
+<p>
+<i>Special note: this info was taken from <a href="dev-diary-pmc-undefined-farms-20km.php">dev diary PMC Undefined Farms 20km</a> page.</i>
+</p>
+
+<p>
+This farm yard has position too close to the field corner which created this kind of narrow field location, its otherwise a big field but now this long narrow spot causes issues with courseplay multiple tools operations, try to imagine harvesting that field with four combines or cultivating it with two wide implements, there will be bad overlap. 
+</p>
+
+<a href="../22/screenshots/PMC-Terrain-Design-Doc-Bad-Field-Shape-2022-01-31.jpg" target="_blank"><img src="../22/screenshots/thumbs/PMC-Terrain-Design-Doc-Bad-Field-Shape-2022-01-31.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 GIMP Design Doc Bad Design Choices"></a>
+
+<p>
+This design level issue should have been solved by having better overall "vision" not to place the farm yard so close to the west side road. This could have been achieved in various ways, either creating this location more center of the field in general, or simply making the farm yard less wide and more "tall" instead. Just overall you have to be careful not go create those narrow spots on otherwise a big field.
+</p>
+
+<p>
+Don't get me wrong, there is nothing wrong in a big terrain to have small fields, but you have to decide if you are generating a large field or a small field, you just cant do a large field with such narrow spots, it just frustrates players/farmers and especially courseplay.
 </p>
 
 </section>
