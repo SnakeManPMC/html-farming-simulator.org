@@ -601,6 +601,10 @@ I could do some game-play testing, but that takes hours if not days, if players 
 2022-02-06T19:15:00Z Finished proof reading <i>this</i> dev diary page and now its go time, release is upon us <img src="../images/smileys/icon_cool.gif" alt="Smiley :cool:" loading="lazy">
 </p>
 
+<p>
+2022-02-09T14:49:56Z New editing day has started, fixed landscaping tool not working for trees and plants. Copied mapUS storeItems.xml config lines for trees and plants into PMC Super Six 6km storeItems.xml file. Easy fix.
+</p>
+
 </section>
 
 <footer>
