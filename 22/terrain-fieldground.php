@@ -24,7 +24,7 @@
 	<h2>fieldGround.xml Farming Simulator 22 (FS22)</h2>
 
 <p>
-<b>2021-12-24T19:49:00Z</b> updated. Game engine v1.2.0.2 used.
+<b>2022-02-13T20:33:00Z</b> updated. Game engine v1.2.0.2 used.
 </p>
 
 <p>
@@ -100,6 +100,10 @@ Below is screenshot of fieldGround.xml edit with infoLayer_sprayLevel.png 8192 x
 </p>
 
 <a href="screenshots/FS22-10km-Terrain-2021-12-24T0941.jpg" target="_blank"><img src="screenshots/thumbs/FS22-10km-Terrain-2021-12-24T0941.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a> 
+
+<p>
+HOWTO turn infoLayer "Level" PNG images into GRLE file format? See <a href="terrain-infolayer-level-grle.php">infoLayer Level GRLE</a> page for details.
+</p>
 
 </section>
 
