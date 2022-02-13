@@ -520,6 +520,14 @@ Compiled release version and sent it to penalty_box_gaming to try out if it work
 2022-02-08T18:35:00Z PMC RedWhiteBlue 10km v0.1.2 has been released! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
+<p>
+2022-02-09T14:42:57Z New editing day has started, debugging why landscaping tool is not working.
+</p>
+
+<p>
+I tested, its not working. Then copy pasted mapUS/storeItems.xml trees and plants lines into PMC_RedWhiteBlue_10km storeItems.xml and now it works.
+</p>
+
 </section>
 
 <footer>
