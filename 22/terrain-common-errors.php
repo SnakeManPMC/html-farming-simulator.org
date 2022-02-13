@@ -24,7 +24,7 @@
 	<h2>Common Errors Farming Simulator 22 (FS22)</h2>
 
 <p>
-<b>2022-01-01T08:53:00Z</b> updated. Game engine v1.2.0.2 used.
+<b>2022-02-13T20:14:00Z</b> updated. Game engine v1.2.0.2 used.
 </p>
 
 <pre>
@@ -142,6 +142,10 @@ Fix: add "SILAGE_ADDITIVE" to fillTypes.xml as seen below:
 &lt;fillTypeCategory name="BULK" &gt;SILAGE_ADDITIVE"&lt;/fillTypeCategory&gt;
 &lt;fillTypeCategory name="PRODUCT"&gt;SILAGE_ADDITIVE"&lt;/fillTypeCategory&gt;
 </pre>
+
+<p>
+ESC mapview -> soil composition causes CTD. One possible scenario is that cultivator/fruit density images are 8192 x 8192 pixel resolution while rest are 16384 x 16384 pixels. Fix: Make all density images the same resolution.
+</p>
 
 </section>
 
