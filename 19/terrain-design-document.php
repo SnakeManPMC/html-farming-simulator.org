@@ -24,7 +24,7 @@
 	<h2>HOWTO Paint Terrain Design Doc in GIMP</h2>
 
 <p>
-<b>2022-02-02T05:28:00Z</b> Updated.
+<b>2022-02-13T19:49:00Z</b> Updated.
 </p>
 
 <p>
@@ -241,6 +241,28 @@ GIMP Terrain Design Document tutorial was specific to GIMP painting design doc i
 
 <p>
 Please continue reading <a href="terrain-design-document-graphicsmagick.php">Design Doc To Density And Weight Images Using GraphicsMagick</a> tutorial page.
+</p>
+
+	<h2>Terrain Edge Cut</h2>
+
+<p>
+Edge cut, or border "buffer" so to speak, so that your fields will end before reaching the far edge of the terrain.
+</p>
+
+<p>
+Why is that important? Well imagine cultivating or seeding a field which reaches into the absolute end of the terrain, there you have either the oblivion beginning and you tractor can "fall off the map" or if you have properly done terrain with edge geometry blocks your tractor or more likely implement will collide into this geometry. You should have a nice amount of distance from any field edges into the actual terrain edge.
+</p>
+
+<p>
+This example is for 10240 x 10240 resolution design doc XCF image.
+</p>
+
+<p>
+In GIMP cutting that fields layer excess fat from the edge is done with rectangle selection, use position 10, 10 and size 10220, 10220 values and rectangle selection tool snaps into correct position and size, then just hit enter to "do it" and then CTRL-I to invert and finally DELete to cut off the excess fat.
+</p>
+
+<p>
+Another option is to paint this selection with color of your choice to mark it as "off limits" from fields, or even from railroads / roads. Either way works, painted off limits area is permanent, the selection cutting you must do every time after changing field design by using mass selection edits.
 </p>
 
 </section>
