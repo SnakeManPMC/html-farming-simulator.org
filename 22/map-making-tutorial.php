@@ -24,7 +24,7 @@
 	<h2>Overview</h2>
 
 <p>
-<b>2022-02-14T00:14:00Z</b> updated.
+<b>2022-02-14T00:41:00Z</b> updated.
 </p>
 
 <p>
@@ -41,6 +41,7 @@ Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulat
 <p><a href="terrain-moddesc-xml.php">modDesc.xml</a></p>
 <p><a href="terrain-overview-image-mapus.php">Terrain Overview Image mapUS</a></p>
 <p><a href="terrain-overview-image-rgb-colors.php">Terrain Overview Image RGB Colors</a></p>
+<p><a href="terrain-placeables-xml.php">Placeables.xml</a></p>
 <p><a href="terrain-user-interface-images.php">User Interface Images</a></p>
 
 </section>
