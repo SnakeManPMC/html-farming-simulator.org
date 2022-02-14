@@ -24,7 +24,7 @@
 	<h2>Overview</h2>
 
 <p>
-<b>2022-02-02T11:02:00Z</b> Updated, newest tutorial: <a href="terrain-design-document-graphicsmagick.php">GIMP Terrain Design Document GraphicsMagick</a>.
+<b>2022-02-14T05:24:00Z</b> Updated, latest page: <a href="terrain-pmc-helpers.php">PMC Helpers (for Giants Editor)</a>.
 </p>
 
 <p>
@@ -65,6 +65,7 @@ Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulat
 <p><a href="terrain-object-view-distance.php">Object View Distance</a></p>
 <p><a href="terrain-pda-map-image-rgb-colors.php">PDA Map Image RGB Colors</a></p>
 <p><a href="terrain-placeable-objects.php">Placeable Objects</a></p>
+<p><a href="terrain-pmc-helpers.php">PMC Helpers (for Giants Editor)</a></p>
 <p><a href="terrain-porting-fs17.php">Porting Farming Simulator 17 Terrain</a></p>
 <p><a href="terrain-real-world-data.php">Real World Data Terrain</a></p>
 <p><a href="terrain-roads-painting-gimp.php">Roads Painting in GIMP</a></p>
