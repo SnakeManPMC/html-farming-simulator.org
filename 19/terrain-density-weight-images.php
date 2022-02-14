@@ -4,7 +4,7 @@
 <title>Density and Weight Images Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Density and Weight Images Farming Simulator 19 - PMC Farming">
-<META name="keywords" content="Terrain, Density and Weight Images, PMC, Farming">
+<META name="keywords" content="Terrain, Density, Weight, Images, FS19, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,7 +17,7 @@
 <header>
 <!-- google ads -->
 <?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Farming Simulator Terrain Density and Weight Images</b></h1>
+<h1><b>Density and Weight Images Farming Simulator 19 - PMC Farming</b></h1>
 </header>
 
 <section>
@@ -205,6 +205,10 @@ tipColInfoLayer.png PNG 1024x1024+0+0 PseudoClass 256c 8-bit 28.1Ki
 <b>mapUS - Ravenport</b> _farmland and tipColInfoLayer image resolutions:<br>
 mapUS_farmland.png PNG 1024x1024+0+0 PseudoClass 256c 8-bit 19.7Ki<br>
 tipColInfoLayer.png PNG 1024x1024+0+0 PseudoClass 256c 8-bit 22.3Ki
+</p>
+
+<p>
+FS19 Terrain Editing.
 </p>
 
 </section>
