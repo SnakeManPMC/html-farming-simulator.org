@@ -17,14 +17,14 @@
 <header>
 <!-- google ads -->
 <?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Farming Simulator Terrain Heightmap</b></h1>
+<h1><b>Heightmap Farming Simulator 19 - PMC Farming</b></h1>
 </header>
 
 <section>
-	<h2>Heightmap</h2>
+	<h2>Heightmap FS19</h2>
 
 <p>
-Heightmap or Digital Elevation Map (DEM) as its called in FS19, is the terrain elevations in 16bit grayscale png image format.
+Heightmap or Digital Elevation Model (DEM) as its called in FS19, is the terrain elevations in 16bit grayscale png image format.
 </p>
 
 <p>
