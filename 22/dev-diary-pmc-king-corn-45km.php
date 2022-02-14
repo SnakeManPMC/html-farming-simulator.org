@@ -27,7 +27,7 @@ This is a developer diary for Farming Simulator 22 terrain called <a href="pmc-k
 </p>
 
 <p>
-2022-01-23T04:58:52Z I wanted to learn what is the largest terrain I can do in fs22. Currently <b>PMC Test Farm 40km is the largest terrain in the history of farming simulator games</b>, but... can I squeeze few more kilometers out of it? <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-01-23T04:58:52Z I wanted to learn what is the largest terrain I can do in fs22. Currently <b>PMC Korkscrew 40km is the largest terrain in the history of farming simulator games</b>, but... can I squeeze few more kilometers out of it? <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -39,7 +39,7 @@ That would in theory still work as its twice as large as 32768 number which our 
 </p>
 
 <p>
-So I'm going to simply backup PMC Test Farm 40km and change its unitsPerPixel and XML height/width to see wether fs22 loads it up, or even GE.
+So I'm going to simply backup <a href="pmc-korkscrew-40km.php">PMC Korkscrew 40km</a> and change its unitsPerPixel and XML height/width to see wether fs22 loads it up, or even GE.
 </p>
 
 <p>
@@ -634,7 +634,7 @@ I have to call it a night regarding fs22 terrain editing, just don't feel like c
 </p>
 
 <p>
-2022-01-28T22:11:01Z Back at PMC Gaming win10 horrible garbage system, time to edit some more terrains. Todays goal, hum finish PMC King Corn 45km and finally be done with the editing phase of these test farm series of terrains.
+2022-01-28T22:11:01Z Back at PMC Gaming win10 horrible garbage system, time to edit some more terrains. Todays goal, hum finish PMC King Corn 45km and finally be done with the editing phase of these test-farm series of terrains.
 </p>
 
 <p>
@@ -863,7 +863,7 @@ Guess they wont hurt, unless there is some size limitations in placeables.xml bu
 </p>
 
 <p>
-For the scope of this "test farm" terrain series, heh this is well and beyond the call of duty to put this amount of work into it, I mean its a simple fact that this terrain has turned into legit and I didn't even realize when that happened hehe.
+For the scope of this "test-farm" terrain series, heh this is well and beyond the call of duty to put this amount of work into it, I mean its a simple fact that this terrain has turned into legit and I didn't even realize when that happened hehe.
 </p>
 
 <a href="screenshots/PMC-King-Corn-45km-2022-01-29T1425.jpg" target="_blank"><img src="screenshots/thumbs/PMC-King-Corn-45km-2022-01-29T1425.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
@@ -1123,7 +1123,7 @@ PMC_King_Corn_45km.i3d saved in 765559.062900 ms, uuh.
 </p>
 
 <p>
-And that... concludes PMC King Corn 45km editing session for today. Not only today but for the first release. It also means this whole "test farm" terrain series is now ready for a release.
+And that... concludes PMC King Corn 45km editing session for today. Not only today but for the first release. It also means this whole "test-farm" terrain series is now ready for a release.
 </p>
 
 <p>

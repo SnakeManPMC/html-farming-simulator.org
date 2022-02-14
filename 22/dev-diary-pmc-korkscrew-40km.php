@@ -317,7 +317,7 @@ Tested savegame load, that worked ok, could even purchase tractor, plow and star
 </p>
 
 <p>
-When I checked the last graphicsmagick PNG image specifications report text file, it listed density images as 8192, which actually makes sense now as I just copied them over from the PMC Test Farm 20km project and forgot to run increase resolution custom bat heh. Oh well.
+When I checked the last graphicsmagick PNG image specifications report text file, it listed density images as 8192, which actually makes sense now as I just copied them over from the <a href="pmc-undefined-farms-20km.php">PMC Undefined Farms 20km</a> project and forgot to run increase resolution custom bat heh. Oh well.
 </p>
 
 <p>
@@ -377,7 +377,7 @@ But yeah, plowing a field in 40km terrain works <img src="../images/smileys/icon
 </p>
 
 <p>
-Well I looked around in 3D and heightmap is not there, its just RGB 0,0,0 black. ESC mapview shows just blob of melted mess hehe. The actual cultivator_density and lime/etc level content is from PMC Test Farm 20km terrain. So what I want to do first is to make some real nice and smooth rolling hills 4096 heightmap in L3DT to give some character to this terrain.
+Well I looked around in 3D and heightmap is not there, its just RGB 0,0,0 black. ESC mapview shows just blob of melted mess hehe. The actual cultivator_density and lime/etc level content is from PMC Undefined Farms 20km terrain. So what I want to do first is to make some real nice and smooth rolling hills 4096 heightmap in L3DT to give some character to this terrain.
 </p>
 
 <p>
@@ -451,7 +451,7 @@ Then just exporting all layers into PNGs.
 </p>
 
 <p>
-Copied graphicsmagick design doc to weight images bat files from PMC Test Farm 20km source directory. Had to edit cultivator_density bat to find the new file name "fields.png" instead of the cumbersome long satellite_texture_cultivator_density.png heh.
+Copied graphicsmagick design doc to weight images bat files from PMC Undefined Farms 20km source directory. Had to edit cultivator_density bat to find the new file name "fields.png" instead of the cumbersome long satellite_texture_cultivator_density.png heh.
 </p>
 
 <p>
@@ -573,7 +573,7 @@ In-game check confirmed, block area map is wrong size error fixed.
 </p>
 
 <p>
-And this concludes editing of PMC Korkscrew 40km for today, I need to put in some work for PMC Test Farm 20km as penalty_box requested some <a href="../19/terrain-farmland-painting-gimp.php">farmland image</a> fixes etc.
+And this concludes editing of PMC Korkscrew 40km for today, I need to put in some work for PMC Undefined Farms 20km as penalty_box requested some <a href="../19/terrain-farmland-painting-gimp.php">farmland image</a> fixes etc.
 </p>
 
 <p>
@@ -953,11 +953,11 @@ Heh sorry for todays opening text, bunch of useless thoughts while getting orien
 </p>
 
 <p>
-2022-02-01T12:08:10Z Hmm what to do next... I am not going to start days long editing phase on PMC Korkscrew 40km, its good to go as is. So hmm guess that wraps everything up as the last terrain I already know for sure is good to go as well. I have now edited and went through all these "Test Farm" series of terrains.
+2022-02-01T12:08:10Z Hmm what to do next... I am not going to start days long editing phase on PMC Korkscrew 40km, its good to go as is. So hmm guess that wraps everything up as the last terrain I already know for sure is good to go as well. I have now edited and went through all these "Test-Farm" series of terrains.
 </p>
 
 <p>
-Yeah I am now switching over to screenshots taking phase so I can create the official web pages for all these terrains. Trying to also come up with proper terrain names, I am not going to release them as test farm's anymore.
+Yeah I am now switching over to screenshots taking phase so I can create the official web pages for all these terrains. Trying to also come up with proper terrain names, I am not going to release them as test-farm's anymore.
 </p>
 
 <p>

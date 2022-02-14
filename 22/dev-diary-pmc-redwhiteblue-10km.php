@@ -491,7 +491,7 @@ Oh and the initial goal, rocks, work too, of course <img src="../images/smileys/
 </p>
 
 <p>
-Okay I'm going to switch to PMC Test Farm 40km which is the next terrain in the list to fix for rocks_density.
+Okay I'm going to switch to <a href="pmc-korkscrew-40km.php">PMC Korkscrew 40km</a> which is the next terrain in the list to fix for rocks_density.
 </p>
 
 <p>

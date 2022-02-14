@@ -506,7 +506,7 @@ Also learned lesson while doing that, there are no shortcuts when it comes to fa
 </p>
 
 <p>
-Man... never do farmland image painting again for these throw away "test farm" terrains, its way too much work I mean look at how many hours I spent painting this, wow.
+Man... never do farmland image painting again for these throw away "test-farm" terrains, its way too much work I mean look at how many hours I spent painting this, wow.
 </p>
 
 <a href="screenshots/PMC-Undefined-Farms-20km-2022-01-20T0903.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2022-01-20T0903.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
@@ -744,7 +744,7 @@ Now becomes the problem of where do I place this trigger, if its in middle of no
 </p>
 
 <p>
-Placed them behind dealership without a building now, hey this is a test farm to begin with <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Placed them behind dealership without a building now, hey this is a test-farm to begin with <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>

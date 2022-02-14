@@ -85,7 +85,7 @@ Error: Blocked area map is wrong size for terrain (16384 x 16384) vs (4096 x 409
 </pre>
 
 <p>
-2022-01-06T18:02:00Z Started to fix this error after just completing fixing PMC Test Farm 10km which had the exact same error.
+2022-01-06T18:02:00Z Started to fix this error after just completing fixing PMC RedWhiteBlue 10km which had the exact same error.
 </p>
 
 <p>
@@ -176,7 +176,7 @@ But I should be able to make the roads more narrow while keeping fields at the s
 </p>
 
 <p>
-Also we need to remember that PMC Test Farm 40km and <a href="pmc-king-corn-45km.php">PMC King Corn 45km</a> are kind of replacing what this 32.7km "little" terrain is heh. So I might just let this be as-is and put in more work on those two other terrains instead. Hmm.
+Also we need to remember that <a href="pmc-korkscrew-40km.php">PMC Korkscrew 40km</a> and <a href="pmc-king-corn-45km.php">PMC King Corn 45km</a> are kind of replacing what this 32.7km "little" terrain is heh. So I might just let this be as-is and put in more work on those two other terrains instead. Hmm.
 </p>
 
 <p>
@@ -188,7 +188,7 @@ South and east edge fields are drawn right into the terrain edge, this should be
 </p>
 
 <p>
-2022-01-26T00:32:59Z I am extremely distracted by discord, feel like I should simply shut it down to concentrate on task at hand. I cannot brag about todays editing hardcore plan if all I do is chat in discord. And I believe in top of the hour penalty_box goes live on twitch while hes playing on PMC Test Farm 20km.
+2022-01-26T00:32:59Z I am extremely distracted by discord, feel like I should simply shut it down to concentrate on task at hand. I cannot brag about todays editing hardcore plan if all I do is chat in discord. And I believe in top of the hour penalty_box goes live on twitch while hes playing on <a href="pmc-undefined-farms-20km.php">PMC Undefined Farms 20km</a>.
 </p>
 
 <p>
@@ -236,7 +236,7 @@ Alright lets continue adding selling points.
 </p>
 
 <p>
-2022-01-26T01:54:26Z Twitch live stream for penalty_box_gaming started, PMC Test Farm 20km, another distraction heh. No, not really, it runs nicely on my second monitor while I'm editing, wont get too much distracted.
+2022-01-26T01:54:26Z Twitch live stream for penalty_box_gaming started, <a href="pmc-undefined-farms-20km.php">PMC Undefined Farms 20km</a>, another distraction heh. No, not really, it runs nicely on my second monitor while I'm editing, wont get too much distracted.
 </p>
 
 <p>
@@ -456,7 +456,7 @@ Or I could just cut off a small corner on some fields for placeable farm yard us
 </p>
 
 <p>
-It all comes down to the scope. What do I want to achieve with this terrain, really. When it was first created it was largest terrain in the farming simulator games history, but after that I created PMC Test Farm 45km which took that high score world record, so this terrain is now just kind of huge without identity or purpose heh.
+It all comes down to the scope. What do I want to achieve with this terrain, really. When it was first created it was largest terrain in the farming simulator games history, but after that I created <a href="pmc-king-corn-45km.php">PMC King Corn 45km</a> which took that high score world record, so this terrain is now just kind of huge without identity or purpose heh.
 </p>
 
 <p>

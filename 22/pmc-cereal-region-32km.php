@@ -150,7 +150,7 @@ More editing details and thoughts from <a href="dev-diary-pmc-cereal-region-32km
 </p>
 
 <p>
-<i>The following paragraph was written in december 2021 and has now been outdated by <!--<a href="pmc-test-farm-40km.php">PMC Test Farm 40km</a>--> PMC Test Farm 40km and <a href="pmc-king-corn-45km.php">PMC King Corn 45km</a> terrain releases, but was left in-place as historical note:</i>
+<i>The following paragraph was written in december 2021 and has now been outdated by <a href="pmc-korkscrew-40km.php">PMC Korkscrew 40km</a> and <a href="pmc-king-corn-45km.php">PMC King Corn 45km</a> terrain releases, but was left in-place as historical note:</i>
 </p>
 
 <p>
