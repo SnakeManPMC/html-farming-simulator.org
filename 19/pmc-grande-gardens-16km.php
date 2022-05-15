@@ -33,7 +33,7 @@ Fictional terrain, no reference to any real world location, this is completely m
 <p style="font-size: 10px;">
 Click for larger image
 </p>
-<a href="images/PMC-Grande-Gardens-16km-PDA.png" target="_blank"><img src="images/thumbs/PMC-Grande-Gardens-16km-PDA.jpg" alt="Farming Simulator 19 Terrain - PMC Grande Gardens 16km" style="padding: 3px 15px;width:256px;height:256px;"></a>
+<a href="images/PMC-Grande-Gardens-16km-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-Grande-Gardens-16km-PDA.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
 
 <a href="images/PMC-Grande-Gardens-16km-Fields.jpg" target="_blank"><img src="images/thumbs/PMC-Grande-Gardens-16km-Fields.jpg" alt="Farming Simulator 19 Terrain - PMC Grande Gardens 16km. Fields" style="padding: 3px 15px;width:256px;height:256px;"></a>
 

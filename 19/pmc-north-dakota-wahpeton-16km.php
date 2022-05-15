@@ -37,7 +37,7 @@ PMC North Dakota Wahpeton 16km <a href="https://www.google.com/maps/@46.2737351,
 <p style="font-size: 10px;">
 Click for larger image
 </p>
-<a href="images/PMC-North-Dakota-Wahpeton-Satellite-PDA.png" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Wahpeton-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Wahpeton, North Dakota, USA" style="padding: 3px 15px;width:256px;height:256px;"></a>
+<a href="images/PMC-North-Dakota-Wahpeton-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Wahpeton-Satellite-PDA.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
 
 <a href="images/PMC-North-Dakota-Wahpeton-16km-Fields.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Wahpeton-16km-Fields.jpg" alt="Farming Simulator 19 Terrain - Wahpeton, North Dakota, USA. Fields" style="padding: 3px 15px;width:256px;height:256px;"></a>
 

@@ -40,7 +40,7 @@ PMC North Dakota Greendale 4km <a href="https://www.google.com/maps/@46.0182883,
 <p style="font-size: 10px;">
 Click for larger image
 </p>
-<a href="images/PMC-North-Dakota-Greendale-Satellite-PDA.png" target="_blank"><img class="terrainimg" src="images/thumbs/PMC-North-Dakota-Greendale-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA"></a>
+<a href="images/PMC-North-Dakota-Greendale-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Greendale-Satellite-PDA.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
 
 <a href="images/PMC-North-Dakota-Greendale-4km-Fields.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/PMC-North-Dakota-Greendale-4km-Fields.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Fields"></a>
 

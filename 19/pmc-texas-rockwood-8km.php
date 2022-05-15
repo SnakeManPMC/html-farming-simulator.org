@@ -33,7 +33,7 @@ PMC Texas Rockwood 8km <a href="https://www.google.com/maps/@31.5217821,-99.3755
 <p style="font-size: 10px;">
 Click for larger image
 </p>
-<a href="images/USA-Texas-Rockwood-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Texas-Rockwood-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Rockwood, Texas, USA" style="padding: 3px 15px;width:256px;height:256px;"></a>
+<a href="images/PMC-Texas-Rockwood-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rockwood-Satellite-PDA.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
 
 <a href="images/USA-Texas-Rockwood-8km-Fields.jpg" target="_blank"><img src="images/thumbs/USA-Texas-Rockwood-8km-Fields.jpg" alt="Farming Simulator 19 Terrain - Rockwood, Texas, USA. Fields" style="padding: 3px 15px;width:256px;height:256px;"></a>
 

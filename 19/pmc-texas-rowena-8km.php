@@ -41,7 +41,7 @@ PMC Texas Rowena 8km <a href="https://www.google.com/maps/@31.628138,-100.007363
 <p style="font-size: 10px;">
 Click for larger image
 </p>
-<a href="images/PMC-Texas-Rowena-Satellite-PDA.png" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="images/PMC-Texas-Rowena-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-Satellite-PDA.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
 
 <a href="images/PMC-Texas-Rowena-8km-Fields.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-8km-Fields.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Fields" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
 

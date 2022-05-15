@@ -33,7 +33,7 @@ PMC Ohio Westhope 8km <a href="https://www.google.com/maps/@41.3021489,-83.96768
 <p style="font-size: 10px;">
 Click for larger image
 </p>
-<a href="images/USA-Ohio-Westhope-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Ohio-Westhope-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Westhope, Ohio, USA" style="padding: 3px 15px;width:256px;height:256px;"></a>
+<a href="images/PMC-Ohio-Westhope-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-Ohio-Westhope-Satellite-PDA.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
 
 <a href="images/USA-Ohio-Westhope-8km-Fields.jpg" target="_blank"><img src="images/thumbs/USA-Ohio-Westhope-8km-Fields.jpg" alt="Farming Simulator 19 Terrain - Westhope, Ohio, USA. Fields" style="padding: 3px 15px;width:256px;height:256px;"></a>
 

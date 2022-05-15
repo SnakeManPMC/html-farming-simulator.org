@@ -33,7 +33,7 @@ PMC Minnesota Elrosa 8km <a href="https://www.google.com/maps/@45.5645842,-94.95
 <p style="font-size: 10px;">
 Click for larger image
 </p>
-<a href="images/USA-Minnesota-Elrosa-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Minnesota-Elrosa-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Elrosa, Minnesota, USA" style="padding: 3px 15px;width:256px;height:256px;"></a>
+<a href="images/PMC-Minnesota-Elrosa-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-Minnesota-Elrosa-Satellite-PDA.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
 
 <a href="images/USA-Minnesota-Elrosa-8km-Fields.jpg" target="_blank"><img src="images/thumbs/USA-Minnesota-Elrosa-8km-Fields.jpg" alt="Farming Simulator 19 Terrain - Elrosa, Minnesota, USA. Fields" style="padding: 3px 15px;width:256px;height:256px;"></a>
 

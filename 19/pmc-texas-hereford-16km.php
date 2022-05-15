@@ -33,7 +33,7 @@ PMC Texas Hereford 16km <a href="https://www.google.com/maps/@35.0290774,-102.84
 <p style="font-size: 10px;">
 Click for larger image
 </p>
-<a href="images/USA-Texas-Hereford-Satellite-PDA.png" target="_blank"><img src="images/thumbs/USA-Texas-Hereford-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Hereford, Texas, USA" style="padding: 3px 15px;width:256px;height:256px;"></a>
+<a href="images/PMC-Texas-Hereford-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Hereford-Satellite-PDA.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
 
 <a href="images/USA-Texas-Hereford-16km-Fields.jpg" target="_blank"><img src="images/thumbs/USA-Texas-Hereford-16km-Fields.jpg" alt="Farming Simulator 19 Terrain - Hereford, Texas, USA. Fields" style="padding: 3px 15px;width:256px;height:256px;"></a>
 

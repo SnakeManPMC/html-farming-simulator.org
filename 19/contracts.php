@@ -127,8 +127,10 @@ In general I don't think giants fully planned how contracts scale up in large te
 </p>
 
 <p>
-This video shows me fertilizing absolutely massive gigantic 2800 hectare field <a href="https://www.youtube.com/watch?v=AslQMBvsCYw" target="_blank">PMC Grande Gardens 16km terrain 2019-06-21</a>. The reward for that contract was insane <a href="images/PMC-Grande-Gardens-16km-2019-06-22T0900.png" target="_blank">5.6 million</a> heh.
+This video shows me fertilizing absolutely massive gigantic 2800 hectare field <a href="https://www.youtube.com/watch?v=AslQMBvsCYw" target="_blank">PMC Grande Gardens 16km terrain 2019-06-21</a>. The reward for that contract was insane 5.6 million heh.
 </p>
+
+<a href="images/PMC-Grande-Gardens-16km-2019-06-22T0900.jpg" target="_blank"><img src="images/thumbs/PMC-Grande-Gardens-16km-2019-06-22T0900.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
 
 <p>
 Now obviously 2800 hectare field is more like an spectacle circus freak that anything normal you would work on, even in real world data wise unless your terrain is located in australia you rarely see fields this massive.
