@@ -4,7 +4,6 @@
 <title>Farming Simulator 19 Maps / Terrains - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Farming Simulator 19 Maps / Terrains - PMC Farming">
-<META name="keywords" content="Farming, Simulator, Maps, Terrain, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -29,7 +28,7 @@
 </p>
 
 <p>
-<b>2021-01-06</b> Updated.
+<b>2022-05-15T02:58:00Z</b> Updated.
 </p>
 
 <p>
@@ -103,7 +102,7 @@ Maps / Terrains listed below are 4 Kilometer (km) size, this is quite small terr
 <div class="terrain4km">
 <h2>Paradise Farms</h2>
 
-<a href="images/Map-Paradise-Farms.png" target="_blank"><img src="images/thumbs/Map-Paradise-Farms.jpg" alt="Farming Simulator 19 Map - Paradise Farms" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Paradise-Farms.jpg" target="_blank"><img src="images/thumbs/Map-Paradise-Farms.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v1.0.0.3 by Tinman. From modDesc: The land is fertile and the days are long.
@@ -142,7 +141,7 @@ Got my first courseplay and guidance steering mod testing done in Paradise Farms
 <div class="terrain4km">
 <h2>Fruitland</h2>
 
-<a href="images/Map-Fruitland.png" target="_blank"><img src="images/thumbs/Map-Fruitland.jpg" alt="Farming Simulator 19 Map - Fruitland" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Fruitland.jpg" target="_blank"><img src="images/thumbs/Map-Fruitland.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v1.0 by Walter. From modDesc: Fruitland
@@ -204,7 +203,7 @@ Overall I like this terrain, its solid there is nothing extremely bad in it and 
 <div class="terrain4km">
 <h2>Wisniowo 2019</h2>
 
-<a href="images/Map-Wisniowo.png" target="_blank"><img src="images/thumbs/Map-Wisniowo.jpg" alt="Farming Simulator 19 Map - Wisniowo" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Wisniowo.jpg" target="_blank"><img src="images/thumbs/Map-Wisniowo.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v1.0 by wisnia. From modDesc: Wi?niowo 2019 v1.0. Autor: wisnia | Testy: Mateusz, Kamil, wisnia, Atrix
@@ -252,9 +251,9 @@ Biogas plant location is completely fenced off, there is no way to drive in or o
 </div>
 
 <div class="terrain4km">
-<h2>Honey Dew farms XL</h2>
+<h2>Honey Dew Farms XL</h2>
 
-<a href="images/Map-Honey-Dew-Farms-XL.png" target="_blank"><img src="images/thumbs/Map-Honey-Dew-Farms-XL.jpg" alt="Farming Simulator 19 Map - Honey Dew Farms XL" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Honey-Dew-Farms-XL.jpg" target="_blank"><img src="images/thumbs/Map-Honey-Dew-Farms-XL.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v1.0 by Tinman. From modDesc: Welcome to Honey Dew Farms XL
@@ -320,7 +319,7 @@ First impressions are that high performance simple terrain. Big Bud suitable. Ov
 <div class="terrain4km">
 <h2>Clover Creek</h2>
 
-<a href="images/Map-Clover-Creek.png" target="_blank"><img src="images/thumbs/Map-Clover-Creek.jpg" alt="Farming Simulator 19 Map - Clover Creek" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Clover-Creek.jpg" target="_blank"><img src="images/thumbs/Map-Clover-Creek.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v1.0 by Kastor_Ger-Converting_By_Yazu. From modDesc: Clover Creek is an American style map that is based off farm country where the midwest meets the northeast.
@@ -342,7 +341,7 @@ Error: Blocked area map is wrong size for terrain (1024 x 1024) vs (2048 x 2048)
 <div class="terrain4km">
 <h2>Flusstal XXL 19</h2>
 
-<a href="images/Map-Flusstal-XXL.png" target="_blank"><img src="images/thumbs/Map-Flusstal-XXL.jpg" alt="Farming Simulator 19 Map - Flusstal XXL" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Flusstal-XXL.jpg" target="_blank"><img src="images/thumbs/Map-Flusstal-XXL.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v2.0.3 by ole22143/edited_parzival. From modDesc: A Hugh Modmap with lagre Fields
@@ -360,7 +359,7 @@ Terrain is very mountain heavy, has busy looking sea port.
 <div class="terrain4km">
 <h2>Ag Vitkov</h2>
 
-<a href="images/Map-Ag-Vitkov.png" target="_blank"><img src="images/thumbs/Map-Ag-Vitkov.jpg" alt="Farming Simulator 19 Map - Ag Vitkov" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Ag-Vitkov.jpg" target="_blank"><img src="images/thumbs/Map-Ag-Vitkov.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v1.0.0.1 by Ledy. From modDesc: Agrodružstvo Vítkov Open Beta. Map for Extreme Farmers.
@@ -388,7 +387,7 @@ Overall I get the feeling that this terrain dev really loved placing detailed ob
 <div class="terrain4km">
 <h2>Western Australia</h2>
 
-<a href="images/Map-Western-Australia.png" target="_blank"><img src="images/thumbs/Map-Western-Australia.jpg" alt="Farming Simulator 19 Map - Western Australia" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Western-Australia.jpg" target="_blank"><img src="images/thumbs/Map-Western-Australia.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v1.0 by oliba DecanKane dasAlex. From modDesc: Western Australia.
@@ -564,7 +563,7 @@ Maps / Terrains listed below are 2 Kilometer (km) size, same as original games R
 <div class="terrain2km">
 <h2>Baldeykino</h2>
 
-<a href="images/Map-Baldeykino.png" target="_blank"><img src="images/thumbs/Map-Baldeykino.jpg" alt="Farming Simulator 19 Map - Baldeykino" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Baldeykino.jpg" target="_blank"><img src="images/thumbs/Map-Baldeykino.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v2.0 by Tautvis, Edit By Tomi098. From modDesc: Baldeykino Edit V2 By Tomi098
@@ -578,7 +577,7 @@ Some russian theme, not very good but much better than ravenport.
 <div class="terrain2km">
 <h2>American Outback</h2>
 
-<a href="images/Map-American-Outback.png" target="_blank"><img src="images/thumbs/Map-American-Outback.jpg" alt="Farming Simulator 19 Map - American Outback" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-American-Outback.jpg" target="_blank"><img src="images/thumbs/Map-American-Outback.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v3.0 by somethingonmyshoe2. From modDesc: A map located in the American Outback.
@@ -591,7 +590,7 @@ v3.0 by somethingonmyshoe2. From modDesc: A map located in the American Outback.
 <div class="terrain2km">
 <h2>Big Fields</h2>
 
-<a href="images/Map-Big-Fields.png" target="_blank"><img src="images/thumbs/Map-Big-Fields.jpg" alt="Farming Simulator 19 Map - Big Fields" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Big-Fields.jpg" target="_blank"><img src="images/thumbs/Map-Big-Fields.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v2.0 by zoltanm. From modDesc: Big Fields BETA
@@ -612,7 +611,7 @@ Note! download from modland.net states this is "v4.0" but modDesc.xml shows clea
 <div class="terrain2km">
 <h2>Sunrise Farms</h2>
 
-<a href="images/Map-Sunrise-Farms.png" target="_blank"><img src="images/thumbs/Map-Sunrise-Farms.jpg" alt="Farming Simulator 19 Map - Sunrise Farms" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Sunrise-Farms.jpg" target="_blank"><img src="images/thumbs/Map-Sunrise-Farms.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v1.0.0.2 by Tinman. From modDesc: Welcome to Sunrise Farms
@@ -629,7 +628,7 @@ v1.0.0.2 by Tinman. From modDesc: Welcome to Sunrise Farms
 <div class="terrain2km">
 <h2>Rolling Hills</h2>
 
-<a href="images/Map-Rolling-Hills.png" target="_blank"><img src="images/thumbs/Map-Rolling-Hills.jpg" alt="Farming Simulator 19 Map - Rolling Hills" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Rolling-Hills.jpg" target="_blank"><img src="images/thumbs/Map-Rolling-Hills.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v1.0 by DR Modding. From modDesc: FS19 Rolling Hills BETA V.01. Welcome to the Rolling Hills of the United States Midwest.
@@ -646,7 +645,7 @@ v1.0 by DR Modding. From modDesc: FS19 Rolling Hills BETA V.01. Welcome to the R
 <div class="terrain2km">
 <h2>Michigan Farming</h2>
 
-<a href="images/Map-Michigan-Farming.png" target="_blank"><img src="images/thumbs/Map-Michigan-Farming.jpg" alt="Farming Simulator 19 Map - Michigan Farming" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Michigan-Farming.jpg" target="_blank"><img src="images/thumbs/Map-Michigan-Farming.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v2.0 by Taylor Farms and Daze Farms. From modDesc: Farming Michigan Style
@@ -664,7 +663,7 @@ Download link no longer working due developer taking it down.
 <div class="terrain2km">
 <h2>Fenton Forest</h2>
 
-<a href="images/Map-Fenton-Forest.png" target="_blank"><img src="images/thumbs/Map-Fenton-Forest.jpg" alt="Farming Simulator 19 Map - Fenton Forest" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Fenton-Forest.jpg" target="_blank"><img src="images/thumbs/Map-Fenton-Forest.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v1.0.0.1 by Stevie. From modDesc: Fenton Forest By Stevie.
@@ -678,7 +677,7 @@ v1.0.0.1 by Stevie. From modDesc: Fenton Forest By Stevie.
 <div class="terrain2km">
 <h2>Estancia Lapacho</h2>
 
-<a href="images/Map-Estancia-Lapacho.png" target="_blank"><img src="images/thumbs/Map-Estancia-Lapacho.jpg" alt="Farming Simulator 19 Map - Estancia Lapacho" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Estancia-Lapacho.jpg" target="_blank"><img src="images/thumbs/Map-Estancia-Lapacho.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v1.0.1 by GIANTS Software. From modDesc: Welcome to the Estancia Lapacho!
@@ -699,7 +698,7 @@ Official terrain (mod, heh) by Giants Software.
 <div class="terrain2km">
 <h2>Richland County</h2>
 
-<a href="images/Map-Richland-County.png" target="_blank"><img src="images/thumbs/Map-Richland-County.jpg" alt="Farming Simulator 19 Map - Richland County" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Richland-County.jpg" target="_blank"><img src="images/thumbs/Map-Richland-County.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v2.0 by Dairyland Maps. From modDesc: Richland County V2. This is Richland County, WI. By Dairyland Maps.
@@ -725,7 +724,7 @@ Very nice looking terrain, getting that american feeling out of it. I could real
 <div class="terrain2km">
 <h2>Hardin County Kentucky</h2>
 
-<a href="images/Map-Hardin-County-Kentucky.png" target="_blank"><img src="images/thumbs/Map-Hardin-County-Kentucky.jpg" alt="Farming Simulator 19 Map - Hardin County Kentucky" loading="lazy" style="width:128px;height:128px;"></a>
+<a href="images/Map-Hardin-County-Kentucky.jpg" target="_blank"><img src="images/thumbs/Map-Hardin-County-Kentucky.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 Terrain Screenshot"></a> 
 
 <p>
 v2.0 by Farmerjon9660. From modDesc: Hardin County, Kentucky
