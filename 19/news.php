@@ -4,7 +4,6 @@
 <title>PMC Farming Simulator 19 News - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC Farming Simulator 19 News - PMC Farming">
-<META name="keywords" content="FS19, Simulator, News, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -21,6 +20,12 @@
 </header>
 
 <section>
+	<h2>News 2022</h2>
+
+<p>
+2022-05-30T18:57:00Z First public release of <a href="pmc-grande-gardens-16km.php">PMC Grande Gardens 16km</a>.
+</p>
+
 	<h2>News 2021</h2>
 
 <p>

@@ -4,7 +4,6 @@
 <title>PMC Terrains Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC Terrains Farming Simulator 19 - PMC Farming">
-<META name="keywords" content="Terrain, Farming, Simulator, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -24,7 +23,7 @@
 	<h2>PMC Terrain News</h2>
 
 <p>
-<b>2021-05-28</b> First public release of <a href="pmc-montana-shelby-8km.php">PMC Montana Shelby 8km</a>.
+<b>2022-05-30T18:57:00Z</b> First public release of <a href="pmc-grande-gardens-16km.php">PMC Grande Gardens 16km</a>.
 </p>
 
 <p>
