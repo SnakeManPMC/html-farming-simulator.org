@@ -4,7 +4,6 @@
 <title>Contact - PMC Farming</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="Contact - PMC Farming">
-<META name="keywords" content="Contact, Discord, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -28,7 +27,7 @@ Get in touch with us for any questions or suggestions you have about PMC Farming
 </p>
 
 <p>
-Our main community communication is discord <a href="https://discord.gg/sBkvjC2HRk" target="_blank">join PMC Farming discord server</a>.
+Our main community communication is <a href="https://www.pmctactical.org/forum/" target="_blank">PMC Tactical Forums</a>.
 </p>
 
 <p>
@@ -36,11 +35,11 @@ When I'm live streaming you can chat with me in twitch: <a href="https://www.twi
 </p>
 
 <p>
-Twitch channel note: if our channel has any archived live streams those will be played as Rerun's, I am in the twitch chat during all reruns but obviously I cannot monitor the chat 24/7. If you say hello or want to chat there, be patient because it might take a long time for me to reply. If you really want to chat, join PMC Farming Discord instead.
+Twitch channel note: if our channel has any archived live streams those will be played as Rerun's, I am in the twitch chat during all reruns but obviously I cannot monitor the chat 24/7. If you say hello or want to chat there, be patient because it might take a long time for me to reply. If you really want to chat, join <a href="https://www.pmctactical.org/forum/" target="_blank">PMC Tactical Forums</a>.
 </p>
 
 <p>
-No, PMC does not have a facebook account.
+No, PMC does not have a facebook account. If you found PMC Farming discord link somewhere on the internet, don't bother joining there, that server is now obsolete read-only due users inactivity.
 </p>
 
 </section>
