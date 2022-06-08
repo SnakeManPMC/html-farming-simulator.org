@@ -23,6 +23,10 @@
 	<h2>News 2022</h2>
 
 <p>
+2022-06-08T17:59:00Z New terrain announced <a href="pmc-ohio-arcanum-8km.php">PMC Ohio Arcanum 8km</a>.
+</p>
+
+<p>
 2022-05-30T18:57:00Z First public release of <a href="pmc-grande-gardens-16km.php">PMC Grande Gardens 16km</a>.
 </p>
 

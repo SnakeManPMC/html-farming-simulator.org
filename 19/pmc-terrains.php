@@ -23,7 +23,7 @@
 	<h2>PMC Terrain News</h2>
 
 <p>
-<b>2022-05-30T18:57:00Z</b> First public release of <a href="pmc-grande-gardens-16km.php">PMC Grande Gardens 16km</a>.
+<b>2022-06-08T17:59:00Z</b> New terrain announced <a href="pmc-ohio-arcanum-8km.php">PMC Ohio Arcanum 8km</a>.
 </p>
 
 <p>
@@ -31,7 +31,7 @@ Older PMC terrain news please read <a href="news.php">news page</a>.
 </p>
 
 <p>
-Latest work in progress videos see <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC Farming Simulator 19 youtube playlist</a> and live streams / reruns on <a href="https://www.twitch.tv/snakemanpmc" target="_blank">PMC Twitch channel</a>.
+Latest work in progress videos see <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC Farming Simulator 19 youtube playlist</a>.
 </p>
 
 	<h2>Real World Data</h2>
@@ -120,6 +120,7 @@ Below green texts are links, click them to open more detailed terrain pages with
 <p><a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a></p>
 <p><a href="pmc-north-dakota-sonora-8km.php">PMC North Dakota Sonora 8km</a></p>
 <p><a href="pmc-north-dakota-wahpeton-16km.php">PMC North Dakota Wahpeton 16km</a></p>
+<p><a href="pmc-ohio-arcanum-8km.php">PMC Ohio Arcanum 8km</a></p>
 <p><a href="pmc-ohio-westhope-8km.php">PMC Ohio Westhope 8km</a></p>
 <p><a href="pmc-ohio-wheatville-8km.php">PMC Ohio Wheatville 8km</a></p>
 <p><a href="pmc-texas-hereford-16km.php">PMC Texas Hereford 16km</a></p>
