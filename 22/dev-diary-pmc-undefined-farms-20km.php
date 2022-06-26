@@ -4,7 +4,6 @@
 <title>Dev Diary PMC Undefined Farms 20km PMC Farming Simulator 22</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Dev Diary PMC Undefined Farms 20km PMC Farming Simulator 22">
-<META name="keywords" content="Farming, Simulator, Dev, Diary, PMC, Test, FS22">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -104,6 +103,8 @@ Can you fucking believe I had to COPY PASTE this string into the attributes name
 <p>
 In furious anger I formatted C: windows 10 garbage install, of course I took full backups of my personal files first. Then I proceeded to re-install win10 pro 64bit edition just to fix that stupid CTRL-SHIFT-E crap. I love microsoft.. <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
+
+	<h2>2022-01-14 Buildings And Trees</h2>
 
 <p>
 2022-01-14T14:18:16Z New editing day has started after spending so much time yesterday reinstalling win10 + fs22 + gimp + graphicsmagic + misc tools.
@@ -303,6 +304,8 @@ I absolutely have to increase density image resolution to 16384, there is no way
 2022-01-15T05:32:15Z Shut down FS22, time to call it a night at least with PMC Gaming computer, this game-play testing was going nicely but dunno what else could I learn from it at this point. Need to get some computer chores done before bed time, so time to shut it all down.
 </p>
 
+	<h2>2022-01-15 Placing With Splines</h2>
+
 <p>
 2022-01-15T17:19:33Z New editing day has started... sorry, already started like half an hour ago when I was studying splinePlacement v1.3 script by TracMax, why didn't it work yesterday for placing trees.
 </p>
@@ -444,6 +447,8 @@ I added two more field definitions and updated overview.dds image. Then on last 
 <p>
 2022-01-16T01:33:10Z Finally v0.1.1 with selling points was loaded in-game and I was ready for some relaxing farming <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
+
+	<h2>2022-01-20 Painting Farmlands Image</h2>
 
 <p>
 2022-01-20T04:15:10Z New editing day has started, todays goal is to add some <a href="../19/terrain-farmland-channels.php">farmland ID channels</a> so penalty_box can have more enjoyable game-play.
@@ -598,6 +603,8 @@ There was issue of the outline not showing, but either its my video preset LOW o
 <p>
 2022-01-20T11:56:03Z Dead tired, have to call it a night.
 </p>
+
+	<h2>2022-01-21 Utility Pole Forest</h2>
 
 <p>
 2022-01-21T01:35:43Z New editing day has started, as usual it begins by taking a backup. Then copied another 7-zip project dir archive to PMC DevSurf because I need to compile new version for penalty_box on his saturdays stream.
@@ -856,6 +863,8 @@ Always save your careerSavegame.xml, Courseplay.xml, farms.xml, guidanceSteering
 2022-01-22T09:00:36Z Time to call it a night, still want to do few computer chores before going to bed. Also feel almost guilty for just playing instead of editing heh.
 </p>
 
+	<h2>2022-01-30 Farm Yard Mess</h2>
+
 <p>
 2022-01-30T13:04:51Z New editing day has started, todays goal is to check and verify this terrain is good to go for release. My issues list have note about farm yards being on fields without a road access, that is indeed troublesome, its ... unacceptable, makes no sense whatsoever to have them designed like this. However I believe the farmland image was quite detailed so if I change the farm yards in design doc, then I need to edit that pesky farmland image as well, I am really not looking forward of such re-design.
 </p>
@@ -916,6 +925,8 @@ I need to call it here but write latest updates from fresh memory here so that t
 Personal summary message for tomorrow hah: So GIMP design doc got new farm yards and they look cool, but in the fields grow/shrink selection operation went slightly sideways, fields are now extremely rounded corners and feel smaller, also many small fields were discarded by the grow/shrink selection process. Tomorrow... it would be nice to re-try this with fresh energetic head, to get the fields right. Oh and also new farm yards have no forest tree line patch paintings on them, that should be added as well.
 </p>
 
+	<h2>2022-01-31 Grow Invert Shrink Repeat</h2>
+
 <p>
 2022-01-31T01:48:37Z Tomorrow is here! Yeah new editing day and was excellent to get started after reading the above paragraph, no need to wonder and try to figure out what I did or did not do last night, it was all written there. Now I can just jump in and continue editing.
 </p>
@@ -945,7 +956,7 @@ Lets try this formula again: grow 15, invert, shrink 5, grow 15. That results in
 </p>
 
 <p>
-This below GIMP design doc screenshot is from PMC Super Six 6km terrain XCF image because it was more light weigh 6144x6144 resolution to test on than the bigger 20km terrains one, so nevermind that, just look at the selection heh.
+This below GIMP design doc screenshot is from PMC Super Six 6km terrain XCF image because it was more light weight 6144x6144 resolution to test on than the bigger 20km terrains one, so nevermind that, just look at the selection heh.
 </p>
 
 <a href="screenshots/PMC-Undefined-Farms-20km-2022-01-31T0221.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2022-01-31T0221.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
@@ -1330,6 +1341,8 @@ Except I forgot placeables.xml, the filenames are not set, uuh need to put those
 
 <a href="screenshots/PMC-Undefined-Farms-20km-2022-01-31T1824.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2022-01-31T1824.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
 
+	<h2>2022-02-01 Resolving Map CTD</h2>
+
 <p>
 2022-02-01T02:58:00Z New editing day has started, but honestly after yesterdays big push... not sure what would I edit today. Day starts with usual in-game orientation check and, yeah dunno what then.
 </p>
@@ -1377,6 +1390,8 @@ Checked selling points, now silage, grass and hay is only accepted on animal dea
 <p>
 2022-02-01T05:08:41Z I feel very good about this current build, yes it needs more trees and utility pole lines, but it is awesome for what it is, I'm going to switch editing into the next terrain project which is PMC Cereal Region 32km.
 </p>
+
+	<h2>2022-02-04 Editing Objects</h2>
 
 <p>
 2022-02-04T09:29:24Z New editing day has started, I think, my sleeping schedule is so off everything has become a o.n.e.b.i.g.b.l.u.r...
@@ -1492,6 +1507,8 @@ But still one more in-game test just to verify log is error free...
 Uuh what a great feeling to have this terrain finished for its first release <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
+	<h2>2022-02-09 Proper Name</h2>
+
 <p>
 2022-02-09T15:22:35Z New editing day has started. Its time to give this terrain project a proper name, its "PMC Undefined Farms 20km" <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
@@ -1512,6 +1529,8 @@ Next copy pasted mapUS storeItems.xml trees and plants lines to our storeItems.x
 2022-02-09T15:43:19Z In-game test complete, works ok, landscaping tool also does trees and plants.
 </p>
 
+	<h2>2022-02-11 Final Editing Day</h2>
+
 <p>
 2022-02-11T04:30:52Z Final editing day before release has started <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
@@ -1524,12 +1543,186 @@ Plan now is to create new farmer game-mode starter vehicles.
 And it got done.
 </p>
 
+	<h2>2022-02-13 First Release Day</h2>
+
 <p>
 2022-02-13T17:18:00Z Created PMC_Undefined_Farms_20km_v0.1.3.7z release packet, we are good to go.
 </p>
 
 <p>
 2022-02-13T18:06:00Z PMC Undefined Farms v0.1.3 first release! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+	<h2>2022-05-09 Farmland Image And Field Definitions</h2>
+
+<p>
+2022-05-09T01:07:55Z Notes from my bugs/issues website (used rather honest language there heh):
+</p>
+
+<p>
+undefined farms 20km farmland image for farm yards is basically missing
+</p>
+
+<p>
+today's game-play test shows that you cannot buy a single farm yard, you have to buy some 1 million - 2.5 million costing mega land lot.
+</p>
+
+<p>
+central east farm yard actually is split in half between two land lots costing more than 2 million each. hah awesome farm yard, no? <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+make farm yards their individual farmland images, you know this, why the fuck didn't you do it before. moron. fix your shit.
+</p>
+
+<p>
+2022-05-10T1644 not only farm yards are missing, but most of the fields are split between two farmland lots, this is just extremely sloppy and stupid.
+</p>
+
+<p>
+hate to tell you this, but easiest way would probably be to just remake the whole fucking thing with detailed 255 colors.
+</p>
+
+	<h2>2022-06-15 Farm Yards Image Editing</h2>
+
+<p>
+2022-06-15T01:03:00Z New editing day has started, been long time on my mind mainly due my Start From Zero savegame, but need to add field numbers and fix farm yards in the farmland image.
+</p>
+
+<p>
+Just took backups of the terrain project, then GIMP design doc dir.
+</p>
+
+<p>
+2022-06-15T01:19:00Z First row in the north is done, all farm yards in that row are now individual small compact and cheap farmland buyable land lots <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2022-06-15T01:48:00Z About half of the terrain's farm yards are now their own individual buyable land lots.
+</p>
+
+<p>
+2022-06-15T02:32:00Z Done, all farm yards painted. Hopefully didn't make any RGB mistakes.
+</p>
+
+<p>
+Then ran graphicsmagick bat file to generate farmland PNG image for GE importing. Copied it over to terrain project dir, deleted farmland.grle, edited TERRAIN.i3d to swap grle with png file extension, then loaded terrain project in GE v9.0.2 and checked it out. Looks good so far.
+</p>
+
+<p>
+Saved, exited. Then edited TERRAIN.i3d farmland.png back to .grle, then loaded project back up again to check if everything is OK. It does.
+</p>
+
+<p>
+Next I opened fields and toggled render field areas... hmm now I should add all the field numbers, only numbers no corner pieces, so they would still be "meadow" fields without AI planting them but having numbers so players can identify them.
+</p>
+
+<p>
+But once I started to add new fields numbers only... I realized that there is no way for me to tell which field has field definitions already because the corner piece-less transformgroup is not show in the map, well obviously, DOH! <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+Hmm this needs more thought... Then proceeded to create those very small field definitions with corner piece.
+</p>
+
+<p>
+2022-06-15T03:33:00Z My pinky copy-paste CTRL pressing finger is scremaing in agony :x
+</p>
+
+<p>
+Also getting really tired, almost in full zombi mode.
+</p>
+
+<p>
+2022-06-15T05:05:00Z Field definitions done, total number of fields 1880 :D
+</p>
+
+	<h2>2022-06-18 Painful Field Definitions</h2>
+
+<p>
+2022-06-18T05:08:00Z New editing day has started, todays goal is to sort out the mess I did with v0.1.4 which was the version I created couple of days ago. Issues there are that all the new fields are GRASS, I accidentally copy-pastes one of the grass fields so now we have 1800+ tiny hectare size grass fields. Another issue is that all these new fields have field definitionc orner pieces so AI will plant on them and they appear as contracts, we don't want that, all we want is the field number to identify the field.
+</p>
+
+<p>
+So while its not copy-paste finger torture, its going to be quite huge task to delete corner pieces from 1800+ fields, not to mention the field grass mission. Yesterday I already took a look at TERRAIN.i3d file and the node bullshit is just linked together with ID numbers so we cant just use text editor to remove stuff from there, it would all fall apart like a house of cards.
+</p>
+
+<p>
+Need to fire up GE and painstakingly delete all corner pieces, I'm hoping the field grass mission attribute wont matter after that. This whole deal pisses me off as I cannot just do one field and test as my win10 computer (SSD device) is offline.
+</p>
+
+<p>
+2022-06-18T05:14:00Z Loaded undefined farms project in GE v9.0.2 and then simply exported Fields transformgroup, let me try if I could actually text edit and remove those attributes and corner pieces, I believe you cant but lets get a confirmation for it right now...
+</p>
+
+<p>
+This is the actual first field I added, its identified by "fieldXX" name:
+</p>
+
+<pre>
+        &lt;TransformGroup name="fieldXX" translation="532.734 9.50049 91.683" nodeId="24544"&gt;
+          &lt;TransformGroup name="fieldDimensions" nodeId="24545"&gt;
+            &lt;TransformGroup name="corner01_1" translation="75.5767 0.72699 -15.2097" nodeId="24546"&gt;
+              &lt;TransformGroup name="corner01_2" translation="-40.4294 -0.31366 85.3845" nodeId="24547"/&gt;
+              &lt;TransformGroup name="corner01_3" translation="-168.792 0.153137 35.031" nodeId="24548"/&gt;
+            &lt;/TransformGroup&gt;
+          &lt;/TransformGroup&gt;
+</pre>
+
+<p>
+So I loaded the exported fields i3d in text editor, searched that above location, then simply deleted "corner01_1" transformgroup and its child transformgroups corner01_2 and corner01_3, I assume that when I load this i3d back to GE there will be some missing / mismatch nodeId error, but lets try and see what happens.
+</p>
+
+<p>
+It worked without errors, hmm very strange, wonder what use the nodeId's are then if they have no bearing in missing stuff heh.
+</p>
+
+<p>
+2022-06-18T05:53:00Z Uuh been deleting what feels like endless number of transformgroups now and the scroll bar in text editor hasn't move much at all, it is just insane amount of stuff I need to delete in these 1800+ fields. Was even considering just re-creating the field definitions in GE but that would be much worse.
+</p>
+
+<p>
+Oh man, such a small mistake of choosing the wrong field definition to copy-paste and now I'm suffering through all this text editing work.
+</p>
+
+<p>
+Luckily I won't be doing the same mistake again so lesson learned.
+</p>
+
+<p>
+2022-06-18T07:16:00Z Unfuckingbelievable it took me all this time to get those transformgroup deleted with text editor, uuh my mind is blur right now and fingers are hurting from 1800+ repetitive 5+ (at least) commands <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+Never. Again. <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+And now, if it doesn't work in GE or in-game... yeah I don't even want to think about that, its rage quit time then <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2022-06-18T07:18:00Z Loaded terrain project in GE, deleted Fields transformgroup, then started to import the text editor edited fields I3D file...
+</p>
+
+<p>
+It took a really long time while GE was processing, that was a bad sign...
+</p>
+
+<p>
+2022-06-18T07:25:00Z Finished importing, no errors that I can see, pfewf! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Well get field sizes script of course it not working as there is no corner pieces to measure, I'm just hoping that this crap works in-game, if it doesn't then we are back in square one, we need to decide if we add fields to our terrain or not, there is no "just add field numbers" option then. But that is for testers to discover.
+</p>
+
+<p>
+Changed modDesc to v0.1.5, updated readme, generic release compile bat and then compiled that 7-zip release packet.
+</p>
+
+<p>
+2022-06-18T07:29:00Z We are done here, now its up to testers to report back does this version even work in-game.
 </p>
 
 </section>
