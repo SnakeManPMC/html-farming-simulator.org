@@ -1725,6 +1725,42 @@ Changed modDesc to v0.1.5, updated readme, generic release compile bat and then 
 2022-06-18T07:29:00Z We are done here, now its up to testers to report back does this version even work in-game.
 </p>
 
+	<h2>2022-07-03 Broken Fields Editing</h2>
+
+<p>
+2022-07-03T21:06:00Z Was extremely pissed off yesterday when discovered that v0.1.5 edits are total garbage, those gave over 1800 multi-line errors in the log. This is what you get when you edit blindly without the ability to immediately test your edits. PMC DevSurf computer is running windows 8.1 which as we all know, doesn't run fs22 so I did not test these edits.
+</p>
+
+<p>
+Now I wanted to restore the old v0.1.3 official first release version project dir just to erase the memory of that editing fuckup. Well turns out... the backup is nowhere to be seen. I am baffled because as it reads above I did take that backup on june 15th but I cannot find it now, only thing I have is june 18th backup which is from v0.1.4 which already has those 1800 field definitions and the farmland image edits.
+</p>
+
+<p>
+I have no idea where I placed the backup taken in jun 15th, its not in PMC DevSurf or PMC Linux hard disks anywhere, yes I looked everywhere. Makes no sense.
+</p>
+
+<p>
+2022-07-03T21:14:00Z So nothing more to do than try to fix this piece of shit broken ass v0.1.4 now. I selected all the new field definitions labeled "fieldXX" transformgroups and deleted them.
+</p>
+
+<p>
+Edited modDesc.xml and changed version number to v0.1.6 to erase the shame of zero point one point five crap. Also changed descVersion to 67 as I saw on courseplay github repo that it is the current version.
+</p>
+
+	<h2>2022-07-04 v0.1.6 Into Testing</h2>
+
+<p>
+2022-07-04T23:10:00Z Compiled v0.1.6 for testing, went to PMC Gaming computer to test it out and was relieved to see that farmland image works as designed.
+</p>
+
+<p>
+Uploaded PMC_Undefined_Farms_20km_v0.1.6.7z to farming-simulator.org and then posted message to PMC Tactical forum about the testing release (nothing to test I tested it already but still).
+</p>
+
+<p>
+Now all is good as the terrible 1800 error mess has been fixed. Sure its not really a fix when all the erroneous field definitions got simply deleted, but hey zero tolerance policy for errors no matter the collateral damage. All the way.
+</p>
+
 </section>
 
 <footer>
