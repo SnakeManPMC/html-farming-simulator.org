@@ -4,7 +4,6 @@
 <title>Farming Simulator History - PMC Farming</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="Farming Simulator History - PMC Farming">
-<META name="keywords" content="Farming Simulator History, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -68,6 +67,14 @@
 2021-06-22 Farming Simulator 22 - Release date (2021-11-22) announced <a href="https://farming-simulator.com/newsArticle.php?&news_id=237" target="_blank">news</a><br>
 2021-11-22 Farming Simulator 22 - Released<br>
 2021-12-16 Farming Simulator 22 - v1.2 update <a href="https://farming-simulator.com/newsArticle.php?&news_id=314" target="_blank">news</a><br>
+2022-02-24 Farming Simulator 22 - v1.3.1 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=321" target="_blank">news</a><br>
+2022-04-19 Farming Simulator 22 - Precision Farming released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=350" target="_blank">news</a><br>
+2022-04-21 Farming Simulator 22 - v1.4 update release <a href="https://www.farming-simulator.com/newsArticle.php?news_id=351" target="_blank">news</a><br>
+2022-05-24 Farming Simulator 22 - Free AGI Pack release <a href="https://www.farming-simulator.com/newsArticle.php?news_id=362" target="_blank">news</a><br>
+2022-05-24 Farming Simulator 22 - v1.5 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=363" target="_blank">news</a><br>
+2022-06-27 Farming Simulator 22 - v1.6 update released <a href="https://www.farming-simulator.com/newsArticle.php?&news_id=371" target="_blank">news</a>, <a href="https://www.farming-simulator.com/changelog-fs22.php" target="_blank">changelog</a><br>
+2022-06-28 Farming Simulator 22 - Kubota Pack released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=370" target="_blank">news</a><br>
+2022-07-13 Farming Simulator 22 - Platinum Expansion and Platinum Edition Announced <a href="https://www.farming-simulator.com/newsArticle.php?news_id=385" target="_blank">news</a><br>
 </p>
 
 </section>
