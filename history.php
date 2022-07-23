@@ -75,6 +75,7 @@
 2022-06-27 Farming Simulator 22 - v1.6 update released <a href="https://www.farming-simulator.com/newsArticle.php?&news_id=371" target="_blank">news</a>, <a href="https://www.farming-simulator.com/changelog-fs22.php" target="_blank">changelog</a><br>
 2022-06-28 Farming Simulator 22 - Kubota Pack released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=370" target="_blank">news</a><br>
 2022-07-13 Farming Simulator 22 - Platinum Expansion and Platinum Edition Announced <a href="https://www.farming-simulator.com/newsArticle.php?news_id=385" target="_blank">news</a><br>
+2022-07-23 Farming Simulator 22 - Vermeer Pack announced <a href="https://www.farming-simulator.com/newsArticle.php?news_id=372" target="_blank">news</a><br>
 </p>
 
 </section>
