@@ -4,7 +4,6 @@
 <title>Farming Simulator 22 Maps / Terrains - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Farming Simulator 22 Maps / Terrains - PMC Farming">
-<META name="keywords" content="Farming, Simulator, FS22, Maps, Terrain, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -22,47 +21,474 @@
 
 <section>
 
-	<h2>Maps / Terrains</h2>
+	<h2>Terrain Downloads</h2>
 
 <p>
-<b>2021-11-20T16:18:00Z</b> updated. This page is SPECULATION until after 2021-11-21T23:00:00Z when we get to activate the game and try this info ourselves.
+<b>2022-09-16T19:18:00Z</b> updated.
 </p>
 
 <p>
-Also it will take some hours? days? before first user made terrains are released, so this page remains empty placeholder until that time when we get first terrain release.
+If you have released FS22 map / terrain and want to have it listed here, please <a href="../contact.php">contact us</a>.
 </p>
-
 
 <div class="wrapper8km">
-	<h2>8.1 Kilometer x 8.1 Kilometer Maps / Terrains</h2>
+<p>
+Maps / Terrains listed below are publicly available for download.
+</p>
+
+
+<div class="terrain8km">
+<h2>Frankenmuth</h2>
+
+<!--
+<a href="images/Map-.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-.jpg" alt="Farming Simulator 22 Map - Frankenmuth" loading="lazy"></a>
+
+<a href="images/Map-Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Farmland.jpg" alt="Farming Simulator 22 Map - Frankenmuth Farmland" loading="lazy"></a>
+-->
+<p>
+Frankenmuth by TaylorFarms.
+</p>
+
+<!--
+<p>
+Terrain Size:  kilometers x  kilometers.
+</p>
+-->
 
 <p>
-Maps / Terrains listed below are 8.1 kilometer (km) size, which are quite large.
+This terrain is a Michigan, USA style farming terrain located near the city of Frankenmuth.
 </p>
+
+<p>
+- Terrain has 41 fields ranging from small to large in size.<br>
+- There are 3 farms located on the Terrain. You must buy the land before you can use or sell the buildings.<br>
+- There are 2 small forest areas on the Terrain for logging.<br>
+- Water can be found at the water tower in town for a small fee.<br>
+- There are 100 wooden toys, 5 sugar beets, and 5 small model Massey Ferguson 1155 tractors on the Terrain to be found.<br>
+- There multiple sell points, production faculties placed in the Terrain and a train. No BGA placed.<br>
+- Terrain has custom growth calendar.<br>
+- The terrain is mostly flat with some rolling hills, valleys, and ditches.
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?mod_id=230791" target="_blank">Giants Modhub</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+<h2>Gnadenthal</h2>
+
+<!--
+<a href="images/Map-.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-.jpg" alt="Farming Simulator 22 Map - Gnadenthal" loading="lazy"></a>
+
+<a href="images/Map-Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Farmland.jpg" alt="Farming Simulator 22 Map - Gnadenthal Farmland" loading="lazy"></a>
+-->
+<p>
+Gnadenthal by Iron Thunder.
+</p>
+
+<p>
+Terrain Size: 4 kilometers x 4 kilometers.
+</p>
+
+<p>
+Welcome to Gnadenthal, located in Manitoba, Canada. The terrain is based off the real town of Gnadenthal and the fields around it, but quite a bit of things were changed to improve gameplay. This terrain is 4km x 4km and has:
+</p>
+
+<p>
+- Over 100 realistically sized fields.<br>
+- Contracts on all the fields.<br>
+- Three farms.<br>
+- Nearly 50 houses with individual farmlands and sleeping points.<br>
+- Two rivers, in which you can refill your trailers with water.<br>
+- 100 Collectibles.<br>
+- 4 Production sites.<br>
+- Refill points for seeds, solid and liquid fertilizer, lime, herbicide and salt.
+</p>
+
+<p>
+This terrain is perfect for running big scale farming operations.
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?mod_id=249001" target="_blank">Giants Modhub</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+<h2>GrayStone Farm</h2>
+
+<a href="images/Map-Graystone-Farm.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Graystone-Farm.jpg" alt="Farming Simulator 22 Map - GreyStone Farm" loading="lazy"></a>
+
+<a href="images/Map-Graystone-Farm-Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Graystone-Farm-Farmland.jpg" alt="Farming Simulator 22 Map - GreyStone Farm Farmland" loading="lazy"></a>
+
+<p>
+GrayStone Farm Rockingham NC by Large H.
+</p>
+
+<p>
+Terrain Size: 2 kilometers x 2 kilometers.
+</p>
+
+<p>
+A terrain set in the real life area of Rockingham County North Carolina.
+</p>
+
+<p>
+There are 5 different playable farms, 1 grain sellpoint, Three horse pastures, 4 Greenhouses, And over a 110 playable fields.
+</p>
+
+<p>
+<a href="https://largehmapping.itch.io/graystone-farm-rockingham-nc" target="_blank">itch.io</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+<h2>Green Valley Nebraska</h2>
+
+<a href="images/Map-Green-Valley-Nebraska.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Green-Valley-Nebraska.jpg" alt="Farming Simulator 22 Map - Green Valley Nebraska" loading="lazy"></a>
+
+<a href="images/Map-Green-Valley-Nebraska-Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Green-Valley-Nebraska-Farmland.jpg" alt="Farming Simulator 22 Map - Green Valley Nebraska Farmland" loading="lazy"></a>
+
+<p>
+Green Valley Nebraska by DJ.
+</p>
+
+<p>
+Terrain Size: 4 kilometers x 4 kilometers.
+</p>
+
+<p>
+This is a fictional 4km x 4km terrain based on the northwest region of Nebraska.
+</p>
+
+<p>
+- A corn Dryer is inbuilt in the map produces dry corn from corn, Need to Buy it first to work.<br>
+- Custom harvestore is inbuilt in map produces silage from grass/chaff, Need to Buy it first to work.<br>
+- Whiskey, Beer, Wine, Ethanol, Chips, Soymilk, Pasta, and Oatmeal productions are included on the map.<br>
+- Map has Custom Geo inbuilt. Corn and Soybeans can be planted in spring and harvested in winter.<br>
+- Map has additional ground textures and can be used in paint mode.<br>
+- Custom lighting added, orange sunrise and sunset, darker nights.<br>
+- Map has 39 arable lands, ranging from medium to large, and a few meadows.<br>
+- Custom grain bins added and NEED AUGERS to dump in grains.<br>
+- Nebraska license plates added.<br>
+- 4 custom farm areas on the map with 7 dairy barns and 2 pigsty.<br>
+- Added Anhydrous Ammonia as a new fertilizer type.<br>
+- 2 Fire Stations are added to the map with animated doors.<br>
+- All farms have water and fuel triggers. I left out the house trigger so players can add their own triggers.<br>
+- A BGA plant can be found in the center-right with a methane sell point and charging station.<br>
+- 21 sell points are included and vary for each product.<br>
+- There is a Case Dealership, a bulk feed shop for buying seeds, lime, herbicide, fertilizer, anhydrous, and propane.<br>
+- Added sell point for chaff, for those that don't want to mess with making silage like me.<br>
+- Multi-Terrain Angle installed, using 32 angles.<br>
+- Map is completely Error-free and just a few small warnings that are harmless.
+</p>
+
+<p>
+Required Mods: trailers to carry Anhydrous and Propane, although there might be some great mods around, <a href="https://djmodding.itch.io/fs22-trailers-edit-by-dj" target="_blank">FS22 Trailers Edit by DJ</a> and
+<a href="https://collins-custom.itch.io/fs22-precision-farming-anhydrous-ready" target="_blank">FS22 Precision Farming DLC Anhydrous Ready</a>.
+</p>
+
+<p>
+<a href="https://djmodding.itch.io/fs22-green-valley-nebraska-4x" target="_blank">itch.io</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+<h2>Griffin Indiana 22</h2>
+
+<!--
+<a href="images/Map-.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-.jpg" alt="Farming Simulator 22 Map - Griffin Indiana 22" loading="lazy"></a>
+
+<a href="images/Map-Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Farmland.jpg" alt="Farming Simulator 22 Map - Griffin Indiana 22 Farmland" loading="lazy"></a>
+-->
+<p>
+Griffin Indiana 22 by ajFarmer.
+</p>
+
+<!--
+<p>
+Terrain Size:  kilometers x  kilometers.
+</p>
+-->
+
+<p>
+Griffin is a Real life town located in Southern Indiana, USA. The town and area are typical of older Midwestern settlements. Most farmers today plant maize, soybeans and winter wheat here. However its your time to take the reigns and shape this sandbox friendly terrain the way you want. This is a complete rebuild of FS19 Griffin Indiana.
+</p>
+
+<p>
+Terrain Features: Highly Detailed, Real World Location, Real Terrain Data, Real Soil Data for Precision Farming DLC, Real off Terrain Border Image, Custom Area Growth Calendar, Custom License Plate, Custom Farm Workshop At Main Farm, Usable Buildings on Farms, Standard Crops, Field Contracts, Baling Contracts, Collectible Coins, Working Train, Pedestrian Traffic, Vehicle Traffic, AI Splines, Helper Friendly, Small/Medium/Large Fields, Fields Easily Merged, Large Riding Trail Network, Main Roads Will Not Accumulate Snow, Roads Ownable Free, Deco Bush Mowable.
+</p>
+
+<p>
+The Numbers: 100 Collectible Coins, 18 Train Cars, 15 Minute Train Interval, 21 Paintable Terrain Textures, 3 Built in Placeable Old Barns, 1 Built in Placeable Old Fermenting Silo, 5 Production Points with Farmland acquired when purchased, 26 Buyable In Town Residential Lots with Barns Individually Sellable, 7 Buyable In Town Empty Production Lots, 1 Buyable Motel Lot, Hard to see on PDA, 2 Buyable Campground Lots, Hard to see on PDA, 1 Main Farm with all Buildings Individually Sellable and Fencing Removable, 8 Auxiliary Farms with all Barns Individually Sellable and Fencing Removable, 3 Farmlands Dedicated For Forestry, 16 Farmlands Wooded and Meadow, 31 Farmlands with Arable Fields 220ha, 7 Farmlands with Grass Fields 14ha, 234 Hectares Total Ready To Be Worked, 106 Farmlands Total, 10250 Trees.
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?mod_id=252262" target="_blank">Giants Modhub</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+<h2>Hanna Indiana</h2>
+
+<a href="images/Map-Hanna-Indiana.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Hanna-Indiana.jpg" alt="Farming Simulator 22 Map - Hanna Indiana" loading="lazy"></a>
+
+<a href="images/Map-Hanna-Indiana-Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Hanna-Indiana-Farmland.jpg" alt="Farming Simulator 22 Map - Hanna Indiana Farmland" loading="lazy"></a>
+
+<p>
+Hanna Indiana by Large H.
+</p>
+
+<p>
+Terrain Size: 4 kilometers x 4 kilometers.
+</p>
+
+<p>
+The terrain location is based roughly 5 miles from the town of Hanna Indiana in the county of LaPorte. Based on real life terrain along with images of the area along with the aid of video's from Werner AG, also located in Hanna Indiana.
+</p>
+
+<p>
+The terrain Features:<br>
+3 Main Farms - Three highly detailed farms based on real life counterparts<br>
+1 Grain Storage Location<br>
+1 Pig Farm - (Barns By Western Iowa)<br>
+1 Cattle Pasture - (Pasture By EMR Modding)<br>
+1 Sell Point - Based off of a Co-Op East of map<br>
+Buy Point Location that includes, lime, solid fertilizer, liquid fertilizer, herbicide, seed, and animals.
+</p>
+
+<p>
+<a href="https://largehmapping.itch.io/hanna-indiana-4x" target="_blank">itch.io</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+<h2>Hobos Hollow</h2>
+
+<!--
+<a href="images/Map-.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-.jpg" alt="Farming Simulator 22 Map - Hobos Hollow" loading="lazy"></a>
+
+<a href="images/Map-Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Farmland.jpg" alt="Farming Simulator 22 Map - Hobos Hollow Farmland" loading="lazy"></a>
+-->
+<p>
+Hobos Hollow by Haggis.
+</p>
+
+<p>
+Terrain Size: 4 kilometers x 4 kilometers.
+</p>
+
+<p>
+- There are 57 fields of various sizes and a selection of forestry plots to suit all of your logging needs.<br>
+- The map includes a selection of empty plots that are ideal for production placement, or maybe starting a new farm.<br>
+- There are 8 sellpoints, sawmill, debris crusher etc., and a starter farm with everything you need to get started on new farmer mode.<br>
+- Benefit from a custom growth calendar which allows double cropping. Plant a winter crop and harvest the next summer. If you are quick you can plant again and harvest in the autumn.
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?mod_id=236591" target="_blank">Giants Modhub</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+<h2>Huron County Michigan</h2>
+
+<a href="images/Map-Huron-County-Michigan.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Huron-County-Michigan.jpg" alt="Farming Simulator 22 Map - Huron County Michigan" loading="lazy"></a>
+
+<a href="images/Map-Huron-County-Michigan-Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Huron-County-Michigan-Farmland.jpg" alt="Farming Simulator 22 Map - Huron County Michigan Farmland" loading="lazy"></a>
+
+<p>
+Huron County Michigan by MIAxeman.
+</p>
+
+<p>
+Terrain Size: 8.1 kilometers x 8.1 kilometers.
+</p>
+
+<p>
+This 8.1 km terrain is loosely based on the farms near Bad Axe Michigan. The area has been altered slightly to make room for more sell points and better forestry. There are custom versions of all the base game production factories that have higher speeds and increased storage capacities plus a fertilizer factory and a forage mixing plant. The turbines on the terrain are purchased when you buy the farmland they are on and they will generate hourly income after they are purchased. There are 215 fields ranging from small to very large.
+</p>
+
+<p>
+<a href="https://www.modhub.us/farming-simulator-22-mods/huron-county-michigan-v1104" target="_blank">modhub.us</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+<h2>Iowa Plains</h2>
+
+<!--
+<a href="images/Map-.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-.jpg" alt="Farming Simulator 22 Map - TERRAINNAME" loading="lazy"></a>
+
+<a href="images/Map-Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Farmland.jpg" alt="Farming Simulator 22 Map - TERRAINNAME Farmland" loading="lazy"></a>
+-->
+<p>
+Iowa Plains View by celobuki.
+</p>
+
+<p>
+Terrain Size: 2 kilometers x 2 kilometers.
+</p>
+
+<p>
+The terrain is based on the State of Iowa, US, but has been modified to fit the gameplay I like and will not represent any particular place or city.
+</p>
+
+<p>
+This terrain is 2km x 2km size and here you can build your game as you want, arable, productions or forestry or all of those.
+The main farm is equipped with pre-placed farm buildings along with Cow Barn, Chicken Barn, Pig Barn and starter machines to help you grow your farm. All placeables on main farm, including trees, fence even farm road, can be sold.
+</p>
+
+<p>
+On the map you will find:<br>
+- 30 fields, from small to big. Two fields are with Grass Mission<br>
+- 2 Forestry sites<br>
+- Collectibles<br>
+- BGA<br>
+- Traffic<br>
+- Pedestrians<br>
+- Added more paintable terrain texture
+</p>
+
+<p>
+Productions available:<br>
+- Dairy<br>
+- Sawmill<br>
+- Carpenter<br>
+- Bakery<br>
+- Oil Plant<br>
+- Sugar Mill<br>
+There are two new one:<br>
+- Watermill which will take your corn as well, and produce corn flour, which can be sold or sent to our local Bakery where you can make Corn bread, and<br>
+- Popcorn factory for producing of Popcorn and Popcorn Butter. For the production of both, you will need sea salt, which you can buy in the store.
+</p>
+
+<p>
+Selling stations are:<br>
+- Livestock Bale Sell Point<br>
+- Jackon's Farm and Grain Sell Point will take your grains and root crops<br>
+- Garden Restaurant and Town Store will take your other goods<br>
+- There is also a train that will ship your goods to Ravenport
+</p>
+
+<p>
+Iowa licence plates. The seasonal growth plan has been adjusted to closer follow the region.
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?mod_id=250894" target="_blank">Giants Modhub</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+<h2>Spring Creek 12km</h2>
+
+<!--
+<a href="images/Map-.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-.jpg" alt="Farming Simulator 22 Map - Spring Creek 12km" loading="lazy"></a>
+
+<a href="images/Map-Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Farmland.jpg" alt="Farming Simulator 22 Map - Spring Creek 12km Farmland" loading="lazy"></a>
+-->
+<p>
+Spring Creek 12km by ARG_afb.
+</p>
+
+<p>
+Terrain Size: 12.2 kilometers x 12.2 kilometers.
+</p>
+
+<p>
+FS22 Spring Creek terrain, or a Hastings North Dakota remake, whatever, as a lot of people liked the hastings map I decided to remake it from zero and make it bigger and better, the terrain features a lot of things, including a stunning landscape, a town, a BGA plant, fields variating from small to HUGE, some forests, a lot of trees, and a lot more things!
+</p>
+
+<p>
+Also the terrain is Anhydrous Ready (Credits to son_of_ragnar_iv), Robin Melia also he helped me a LOT with the terrain and also was one of the people that made this terrain possible.
+</p>
+
+<p>
+<a href="https://afb-mapping.itch.io/fs22-spring-creek-12km" target="_blank">itch.io</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+<h2>Stone Valley 22</h2>
+
+<!--
+<a href="images/Map-.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-.jpg" alt="Farming Simulator 22 Map - Stone Valley 22" loading="lazy"></a>
+
+<a href="images/Map-Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Farmland.jpg" alt="Farming Simulator 22 Map - Stone Valley 22 Farmland" loading="lazy"></a>
+-->
+<p>
+Stone Valley 22 by lancyboi.
+</p>
+
+<!--
+<p>
+Terrain Size:  kilometers x  kilometers.
+</p>
+-->
+
+<p>
+- All fields are real life with waterways some areas are fictional<br>
+- 2 x custom crop added - Clover Alfalfa {Drylucerne Windrow can be given to cows}<br>
+- New farmer Farm manager Start from scratch added<br>
+- Oxygendavid Custom lighting<br>
+- All new redesigned farm models by my self Lancyboi<br>
+- latitude Coordinates matches same as illinois<br>
+- AI Helper Added<br>
+- Compost added production will be added later date<br>
+- Water ways do flood so be carefull<br>
+- 31 Fields with water ways which may flood<br>
+- 2 Placeables areas<br>
+- 9 Sell points<br>
+- 2 Production area land must be brought<br>
+- Seasons visuals<br>
+- Collectables<br>
+- Illinois license plates built into map<br>
+- Land must be purchased before animals can be used
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?mod_id=245231" target="_blank">Giants Modhub</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+<h2>Virginia Richmond</h2>
+
+<a href="images/Map-Virginia-Richmond.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Virginia-Richmond.jpg" alt="Farming Simulator 22 Map - Virginia Richmond" loading="lazy"></a>
+
+<a href="images/Map-Virginia-Richmond-Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Virginia-Richmond-Farmland.jpg" alt="Farming Simulator 22 Map - Virginia Richmond Farmland" loading="lazy"></a>
+
+<p>
+Virginia Richmond by ARG_afb.
+</p>
+
+<p>
+Terrain Size: 2 kilometers x 2 kilometers.
+</p>
+
+<p>
+I finished this terrain in one week so dont expect much, it has multi terrain angle, some decorations and 2 selling points, its a small 2km x 2km terrain also so it isnt that big, it doesnt have a main farm but it has some room to make one.
+</p>
+
+<p>
+<a href="https://afb-mapping.itch.io/fs22-virginia-richmond" target="_blank">itch.io</a>
+</p>
+</div>
 
 <!-- end of wrapper8km -->
-</div>
-
-
-<div class="wrapper4km">
-	<h2>4 Kilometer x 4 Kilometer Maps / Terrains</h2>
-
-<p>
-Maps / Terrains listed below are 4 Kilometer (km) size, this is quite small terrain but people in FS19 and earlier games have most often done this sized terrain when they want larger, even in FS19 this seems to be very common size because people have not yet learned to fully utilize <a href="map-making-tutorial.php">latest developments in terrain editing</a>.
-</p>
-
-<!-- end of wrapper4km -->
-</div>
-
-
-<div class="wrapper2km">
-	<h2>2 Kilometer x 2 Kilometer Maps / Terrains</h2>
-
-<p>
-Maps / Terrains listed below are 2 Kilometer (km) size, same as original games Erlengrat, Haut-Beyleron and Elmcreek, meaning... small <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
-</p>
-
-<!-- end of wrapper2km -->
 </div>
 
 </section>
