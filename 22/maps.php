@@ -638,6 +638,38 @@ FS22_XLFarms_X1.zip
 </p>
 </div>
 
+
+<div class="terrain8km">
+<h2>Vesele</h2>
+
+<!--
+<a href="images/Map-Vesele.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Vesele.jpg" alt="Farming Simulator 22 Map - Vesele" loading="lazy"></a>
+
+<a href="images/Map-Vesele-Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Vesele-Farmland.jpg" alt="Farming Simulator 22 Map - Vesele Farmland" loading="lazy"></a>
+-->
+
+<p>
+Vesele v0.9 by Ser-hi-i, dynamofan.
+</p>
+
+<p>
+Terrain Size: 2 kilometers x 2 kilometers.
+</p>
+
+<p>
+The terrain was created on the basis of the terrain of one of the picturesque corners of Ukraine.<br>
+-The terrain has 18 fields of different sizes and configurations.<br>
+-Two plots with forest that can be purchased.<br>
+-There are two lakes where you can collect water for your farm.<br>
+-There are collectible items.<br>
+-Five points of sale where you can sell all crops - a shop in the center of the village, two elevators, a boiler house, a point of sale of root crops, hay, straw, etc.
+</p>
+
+<p>
+<a href="https://sharemods.com/p1qat1gl6r46/FS22_Vesele.zip.html" target="_blank">FS22_Vesele.zip sharemods.com</a>, <a href="https://www.modhub.us/farming-simulator-22-mods/vesele-v0900" target="_blank">modhub.us</a>
+</p>
+</div>
+
 <!-- end of wrapper8km -->
 </div>
 
