@@ -4,7 +4,6 @@
 <title>Dev Diary PMC Super Six 6km PMC Farming Simulator 22</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Dev Diary PMC Super Six 6km PMC Farming Simulator 22">
-<META name="keywords" content="Farming, Simulator, Dev, Diary, PMC, Test, FS22">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -614,6 +613,68 @@ I could do some game-play testing, but that takes hours if not days, if players 
 
 <p>
 2022-02-09T14:49:56Z New editing day has started, fixed landscaping tool not working for trees and plants. Copied mapUS storeItems.xml config lines for trees and plants into PMC Super Six 6km storeItems.xml file. Easy fix.
+</p>
+
+	<h2>Grass Is Always Greener</h2>
+
+<p>
+2022-09-21T15:55:00Z New editing day has started. Todays goal is to quickly add several new field definitions where few of them are also grass fields for contracts.
+</p>
+
+<p>
+First ran _run_backup_PMC_Super_Six_6km.bat which 7-zip compressed .7z packet and then copied it to two other hard drives and one other computer in LAN. Never forget backups.
+</p>
+
+<p>
+Then went to E:\Farming.Simulator.22.Editing\PMC_Super_Six_6km\maps\PMC_Super_Six_6km\data\ dir, took 7zip backup of PMC_Super_Six_6km_dem.png heightmap image, then opened this PNG in GIMP, painted the image RGB 0,0,0 black which is 0 meter elevations and then saved.
+</p>
+
+<p>
+Started Giants Editor v9.0.2 which notified that v9.0.3 is available, pfft I need no stinking updates (heh), loaded PMC Super Six 6km terrain project up and got to work.
+</p>
+
+<p>
+Imported PMC_Helpers.i3d so can get my 2d top-down camera.
+</p>
+
+<p>
+2022-09-21T16:49:00Z Finished editing in GE, added bunch of new fields, added few more corner pieces to couple of fields, then turned about four small to medium size fields to grass contracts aka fieldGrassMission boolean attribute. Exported new PMC_Helpers.i3d with the top-down camera, saved project and we are done.
+</p>
+
+<p>
+Unpacked 7-zip backup of the heightmap PNG.
+</p>
+
+<p>
+Edited modDesc.xml to v0.2.2 and now we are ready for new release packaging.
+</p>
+
+<p>
+2022-09-21T16:52:00Z PMC_Super_Six_6km_v0.2.2.7z compiled, we are ready for testing :)
+</p>
+
+<p>
+2022-09-21T20:50:00Z Was playing at PMC Gaming when ran into a bug, all selling points accept grass, hay and silage etc but this does not work in the game engine, bales are not accepted in normal selling points, they only work at animal dealer trigger.
+</p>
+
+<p>
+This is extremely frustrating as I already fixed this issue, why is it still in this particular terrain, sigh.
+</p>
+
+<p>
+Okay looks like PMC Undefined Farms 20km has selling points fixed for bales, but my copy-paste template dir in my editing dir is NOT. Also in my faint memory I recall perhaps it was just fixed for undefined farms as kind of test and the fix was never applied to other terrains or even into my XML copy-paste template dir.
+</p>
+
+<p>
+So now I took all the undefined farms 20km placeables/sellingpoints/ XML files and copied over to PMC Super Six 6km dir. That should fix the regular selling points.
+</p>
+
+<p>
+2022-09-21T20:57:00Z Compiled v0.2.3 and now it needs testing after my lunch break. Probably if it works then this dev diary gets text written hours from now after todays farming session heh.
+</p>
+
+<p>
+2022-10-02T06:33:00Z Yup v0.2.3 worked just fine, played several real life days on it.
 </p>
 
 </section>
