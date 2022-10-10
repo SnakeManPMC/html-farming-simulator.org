@@ -4,7 +4,6 @@
 <title>Developer Diary PMC Iowa Garden City 8km - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Developer Diary PMC Iowa Garden City 8km - PMC Farming">
-<META name="keywords" content="Developer, Diary, Iowa, Garden, City, 8km, PMC, Farming, FS19">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -62,7 +61,7 @@
 <a href="screenshots/PMC-Iowa-Garden-City-8km-2020-09-05T1634.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2020-09-05T1634.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
 
 <p>
-At this time in fall of 2020 I was still running Windows 7 64bit with 125% user interface scaling, which can easily be seen on screenshots from this era. The desktop I was running has text font so small you need a hubble space telescope to see characters properly ;)
+At this time in fall of 2020 I was still running Windows 7 64bit with 125% user interface scaling, which can easily be seen on screenshots from this era. The desktop I was running has text font so small you need a hubble space telescope to see characters properly <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -86,7 +85,7 @@ At this time in fall of 2020 I was still running Windows 7 64bit with 125% user 
 </p>
 
 <p>
-2020-09-06T11:02:00Z Decided to try scaling up building to match <a href="https://www.google.com/maps/@42.2530498,-93.3576931,148m/data=!3m1!1e3" target="_blank">google/maps real world data building</a>. This is a big no no in arma3 editing you simply dont scale buildings as it will mess up so many things, however natural objects like rocks, bushes and trees are perfectly fine to scale 75 to 125 percent range.
+2020-09-06T11:02:00Z Decided to try scaling up building to match <a href="https://www.google.com/maps/@42.2530498,-93.3576931,148m/data=!3m1!1e3" target="_blank">google/maps real world data building</a>. This is a big no no in <a href="https://www.pmctactical.org/arma3/" target="_blank">ArmA 3</a> editing you simply dont scale buildings as it will mess up so many things, however natural objects like rocks, bushes and trees are perfectly fine to scale 75 to 125 percent range.
 </p>
 
 <p>
@@ -454,7 +453,7 @@ After this I again slid into the idling mode, just staring empty screen with bla
 </p>
 
 <p>
-I actually felt like playing <a href="https://www.pmctactical.org/arma3/" target="_blank">ArmA 3</a>, immersing myself into some huge european woodland rolling hills cold war terrain for hours, heck rest of the day. But unfortunately there is no LARGE such terrains available, largest is PMC Rugen and well been there done that, so yeah...
+I actually felt like playing <a href="https://www.pmctactical.org/arma3/" target="_blank">ArmA 3</a>, immersing myself into some huge european woodland rolling hills cold war terrain for hours, heck rest of the day. But unfortunately there is no LARGE such terrains available, largest is <a href="https://www.pmctactical.org/arma3/pmc-rugen.php" target="_blank">PMC Rugen 25.6km x 25.6km terrain</a> and well been there done that, so yeah...
 </p>
 
 <p>
@@ -763,7 +762,7 @@ Well yeah what can you do, there are lot of fields. I guess those paintings coul
 </p>
 
 <p>
-But dunno, there is so many small individual fields buyable now that NOBODY can whine that Start From Zero savegames are hard as land lots are so large and cost so much, there is plenty of small cheapo lands available now.
+But dunno, there is so many small individual fields buyable now that NOBODY can whine that <a href="stories.php">Start From Zero savegames</a> are hard as land lots are so large and cost so much, there is plenty of small cheapo lands available now.
 </p>
 
 <p>
@@ -909,7 +908,7 @@ Spline coordinates are: 4094.55810547 9.91044426 1449.92602539
 </p>
 
 <p>
-Third splne done with coordinates: 339.76501465 25.62941742 4094.38110352
+Third spline done with coordinates: 339.76501465 25.62941742 4094.38110352
 </p>
 
 <p>
@@ -1025,7 +1024,7 @@ Talking about real time bug fixing <img src="../images/smileys/icon_wink.gif" al
 </p>
 
 <p>
-First took backups, never forget backups. Just to recap my backup batch file created 7-Zip archive with UTC time stamp, so now I created this file name: PMC_Iowa_Garden_City_8km_2021-06-02T0658.7z - with these kind of backup archives it is very easy to revert back to pick up something you messed up etc. And best yet, its one click batch file, taking backups cant get any easier than that :)
+First took backups, never forget backups. Just to recap my backup batch file created 7-Zip archive with UTC time stamp, so now I created this file name: PMC_Iowa_Garden_City_8km_2021-06-02T0658.7z - with these kind of backup archives it is very easy to revert back to pick up something you messed up etc. And best yet, its one click batch file, taking backups cant get any easier than that <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -1051,7 +1050,7 @@ There is still issue with giants siloExtension which cant be sold, no idea why, 
 <a href="screenshots/PMC-Iowa-Garden-City-8km-2021-06-02T2224.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-06-02T2224.jpg" alt="PMC Iowa Garden City 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
 
 <p>
-Did all that asphalt road intersection terrain heightmap smoothing manually in GE, right from the start I knew it was waste of time because next time I need to revert heightmap back to previous backup all this work will be lost. Intersection and field approaches smoothing needs to be done splines, so its non destructive work and can be re-created at any time as many times you want. Oh well, whats done is done.
+Did all that asphalt road intersection terrain heightmap smoothing manually in GE, right from the start I knew it was waste of time because next time I need to revert heightmap back to previous backup all this work will be lost. Intersection and field approaches smoothing needs to be done using splines, so its non destructive work and can be re-created at any time as many times you want. Oh well, whats done is done.
 </p>
 
 <p>
@@ -1089,7 +1088,7 @@ Changed one selling point to Max Yield CO-OP name, another for Prairie Land Coop
 </p>
 
 <p>
-2021-06-04T10:14:00Z Had quite a lot of edits in now so next is the in-game test if everything works okay. Have to carefully go through the changelog to check every edit if it works ok not. Lastly to check log for errors of course.
+2021-06-04T10:14:00Z Had quite a lot of edits in now so next is the in-game test if everything works okay. Have to carefully go through the changelog to check every edit if they work OK. Lastly to check log for errors of course.
 </p>
 
 <p>
@@ -1444,7 +1443,7 @@ In GE transformgroup Buildings have Location sub transformgroups, looks like num
 </p>
 
 <p>
-2021-06-26T22:15:00Z Players farm 11 transferred from static ai farms, with auger pipe bin silo.
+2021-06-26T22:15:00Z Players farm 11 transferred from static AI farms, with auger pipe bin silo.
 </p>
 
 <p>
@@ -1548,7 +1547,7 @@ Obviously I did not test yet with all those maizeplus and strawme addons, that h
 </p>
 
 <p>
-store item DDS image came out ugly, but thats just cosmetics will learn how to fix it later.
+Store item DDS image came out ugly, but thats just cosmetics will learn how to fix it later.
 </p>
 
 <p>
@@ -1662,11 +1661,11 @@ Big_guy86 was twitch live streaming last night and I noticed one tiny grass spot
 </p>
 
 <p>
-Then took german jahwol sausage eating LSD company garbage field definitions script and create 21.4 megabytes and 301,000 lines of XML parameters field definitions. I actually created the PNG images and setup the script already couple of days ago so this was real quick task.
+Then took german jahwol sausage eating LSD company garbage field definitions script and created 21.4 megabytes and 301,000 lines of XML parameters field definitions. I actually created the PNG images and setup the script already couple of days ago so this was real quick task.
 </p>
 
 <p>
-It scares me so much to add such trash field definitions config to any PMC terrain, it is completely crazy to have HUNDREDS of corner pieces per field, I did not check them all but few had like 300 - 450 corner pieces per field. This is absolutely way too much, every single corner piece eats like 3 lines of XML parameters/code and as said these fields now have over three hundred thousand lines of XML.
+It scares me so much to add such trash field definitions config to any PMC terrain, it is completely crazy to have HUNDREDS of corner pieces per field, I did not check them all but few had like 300 - 450 corner pieces per field. This is absolutely way too much, every single corner piece eats about 3 lines of XML parameters/code and as said these fields now have over three hundred thousand lines of XML.
 </p>
 
 <p>
@@ -1878,7 +1877,7 @@ Yes yes sure it will get easier now that I have somewhat understanding how SSC l
 </p>
 
 <p>
-I could have made couple arma3 terrains in this time it took me to get few asphalt road meshes done with SSC, completely insane... <img src="../images/smileys/icon_rolleyes.gif" alt="Smiley :rolleyes:" loading="lazy">
+I could have made couple ArmA 3 terrains in this time it took me to get few asphalt road meshes done with SSC, completely insane... <img src="../images/smileys/icon_rolleyes.gif" alt="Smiley :rolleyes:" loading="lazy">
 </p>
 
 <p>
