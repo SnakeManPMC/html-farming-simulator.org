@@ -4,7 +4,6 @@
 <title>Developer Diary PMC Montana Shelby 8km - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Developer Diary PMC Montana Shelby 8km - PMC Farming">
-<META name="keywords" content="Developer, Diary, Montana, Shelby, Welker, Terrain, PMC, Farming, FS19">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -536,7 +535,7 @@ Then painted several new farmland ID channels, buyable land lots to split up tho
 </p>
 
 <p>
-Whoah those colors, gooovy! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Whoah those colors, grooovy! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <a href="screenshots/PMC-Montana-Shelby-8km-2021-05-17T1220.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-17T1220.jpg" alt="PMC Montana Shelby 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
