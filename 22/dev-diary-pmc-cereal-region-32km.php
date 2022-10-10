@@ -4,7 +4,6 @@
 <title>Developer Diary PMC Cereal Region 32km - PMC Farming Simulator 22</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Developer Diary PMC Cereal Region 32km - PMC Farming Simulator 22">
-<META name="keywords" content="Developer, Diary, Cereal, Region, 32km, PMC, Farming, Simulator, FS22">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -192,7 +191,7 @@ South and east edge fields are drawn right into the terrain edge, this should be
 </p>
 
 <p>
-The more I look at the design doc the more neantherdal it looks like, I'm going to pass on editing it and just add stuff in GE, selling points, grain bins and some trees.
+The more I look at the design doc the more neanderthal it looks like, I'm going to pass on editing it and just add stuff in GE, selling points, grain bins and some trees.
 </p>
 
 <p>
@@ -212,7 +211,7 @@ Noticed that this terrain uses disgusting "mapUS.i3d" directory and file naming,
 </p>
 
 <p>
-Edited map.xml to add storeItems.xml into our terrain dir, then copied placeables.xml and storeItems.xml files from PMC_Test_Farm_20km terrain.
+Edited map.xml to add storeItems.xml into our terrain dir, then copied placeables.xml and storeItems.xml files from PMC_Undefined_Farms_20km terrain.
 </p>
 
 <p>
@@ -312,7 +311,7 @@ But first I'll fix few more things. Those mapUS tutorial floating icons and hots
 </p>
 
 <p>
-In-game looked pretty nice, tree lines were there. Had to exit rather soon because PMC_Helpers visibility off still have the geometries present so you cant see stuff but they are still there, I just need to remove them no ifs or buts about it.
+In-game looked pretty nice, tree lines were there. Had to exit rather soon because PMC_Helpers visibility off still have the geometries present so you cant see stuff but they are still there, I just need to remove them no if's or but's about it.
 </p>
 
 <p>
@@ -484,11 +483,11 @@ PMC_Cereal_Region_32km/maps/mapUS/map.i3d saved in 697120.080400 ms
 </pre>
 
 <p>
-Then in-game check that grass fields appear, all is good, two fields appear OK. However farmland image was not detailed enough, cheapest land around vehicle shop was 29 million, so yeah there wont be any New Farmer or Start From Zero savegames in this terrain thats for sure.
+Then in-game check that grass fields appear, all is good, two fields appear OK. However farmland image was not detailed enough, cheapest land around vehicle shop was 29 million, so yeah there wont be any New Farmer or <a href="../19/stories.php">Start From Zero</a> savegames in this terrain thats for sure.
 </p>
 
 <p>
-GIMP opened up PMC_Cereal_Region_32km_farmland.xcf as I have to get the farmland fixed, I'm a big believer or those two starter savegame modes and if they are not working, the terrain is not worth playing.
+GIMP opened up PMC_Cereal_Region_32km_farmland.xcf as I have to get the farmland fixed, I'm a big believer for those two starter savegame modes and if they are not working, the terrain is not worth playing.
 </p>
 
 <p>
@@ -548,7 +547,7 @@ And with those edits, we are done here, nothing more to edit within this scope. 
 </p>
 
 <p>
-So took PMC_Cereal_Region_32km and renamed it to PMC_Cereal_Region_32km project directory name. Then ran powergrep mass string replace, but it missed a lot of lines because the bad mapUS/ default stuff still in place, okay okay, I need to do those manually, no big deal, for this one time only.
+So took the old directory name and renamed it to PMC_Cereal_Region_32km project dir name. Then ran powergrep mass string replace, but it missed a lot of lines because the bad mapUS/ default stuff still in place, okay okay, I need to do those manually, no big deal, for this one time only.
 </p>
 
 <p>
