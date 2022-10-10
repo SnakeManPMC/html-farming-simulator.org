@@ -4,7 +4,6 @@
 <title>Dev Diary PMC Korkscrew 40km PMC Farming Simulator 22</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Dev Diary PMC Korkscrew 40km PMC Farming Simulator 22">
-<META name="keywords" content="Farming, Simulator, Dev, Diary, PMC, Korkscrew, 40km, Terrain, Map, FS22">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -89,7 +88,7 @@ Don't think there is any point testing larger because it takes this long to save
 	<h2>PMC Korkscrew 40km Project Name</h2>
 
 <p>
-2021-12-31T00:07:00Z Decided to try 40km terrain working after the initial failed attempt. I recall GE was saving the project for a very long time and I gave up, but even the 32.7km terrain saves 17min so maybe I gave up too soon. Obviously you cannot normally edit terrain which saves 17min but at least an tech demo it would be cool to have.
+2021-12-31T00:07:00Z Decided to try to get 40km terrain working after the initial failed attempt. I recall GE was saving the project for a very long time and I gave up, but even the 32.7km terrain saves 17min so maybe I gave up too soon. Obviously you cannot normally edit terrain which saves 17min but at least an tech demo it would be cool to have.
 </p>
 
 <p>
@@ -265,7 +264,7 @@ But seriously though 32768 is <a href="https://www.pmctactical.org/arma3/terrain
 </p>
 
 <p>
-I shut down all extra software just incase my 16gb RAM rans out, I remember long time ago using graphicsmagick for 40960 res image and it was a huge struggle with nothing else running. Now I have firefox with discord and twitch running along with EditPadPro 7. Lets see what happens <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+I shut down all extra software just incase my 16gb RAM runs out, I remember long time ago using graphicsmagick for 40960 res image and it was a huge struggle with nothing else running. Now I have firefox with discord and twitch running along with EditPadPro 7. Lets see what happens <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -463,7 +462,7 @@ Hmm what the hell, I ran _run_convert_gdm_grle_to_png_and_delete_gdm_grle_FS22.b
 </p>
 
 <p>
-2022-01-18T21:51:31Z Lunch break time, been chatting on discord helping guys to use graphicsmagick etc, its been fairly on/off editing, like right now... I honestly lost rack what I did previously heh "ooh look shiny! *runs off*" haha. Anyways off to eat, when I'm done need to figure out what is the next step <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-01-18T21:51:31Z Lunch break time, been chatting on discord helping guys to use graphicsmagick etc, its been fairly on/off editing, like right now... I honestly lost track what I did previously heh "ooh look shiny! *runs off*" haha. Anyways off to eat, when I'm done need to figure out what is the next step <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -681,7 +680,7 @@ Design doc for fields is really odd, some fields near the vehicle shop are extre
 </p>
 
 <p>
-2022-01-27T03:21:46Z Anyways field definitions are mostly done now, I did several close to ten, so making any more is just waste of my time because the impact on game-play would not change much unless it was the whole terrains fields done.
+2022-01-27T03:21:46Z Anyways field definitions are mostly done now, I did several, close to ten, so making any more is just waste of my time because the impact on game-play would not change much unless it was the whole terrains fields done.
 </p>
 
 <p>
@@ -909,7 +908,7 @@ That opening paragraph for today is copy-paste (except UTC stamp) because nothin
 </p>
 
 <p>
-First I moved PMC_Korkscrew_40km/ mod dir to fs22 dev mods dir (wow a lot of dirs) for in-game orientation check. These days always begin with some orientation, I don't even have access to the previous dev diaries I wrote (seen above in this page) when sitting and writing this paragraph now today (did I make it sound weird?). So I'm going in basically quite blind, cant remember much in what stage this terrain was on last editing session, honestly I cant even remember how this terrain looks as I have <a href="pmc-super-six-6km.php">6km</a>, <a href="pmc-redwhiteblue-10km.php">10km</a>, 20km, <a href="pmc-cereal-region-32km.php">32km</a>, this one and <a href="pmc-king-corn-45km.php">45km</a> terrains under work now hehe.
+First I moved PMC_Korkscrew_40km/ mod dir to fs22 dev mods dir (wow a lot of dirs) for in-game orientation check. These days always begin with some orientation, I don't even have access to the previous dev diaries I wrote (seen above in this page) when sitting and writing this paragraph now today (did I make it sound weird?). So I'm going in basically quite blind, cant remember much in what stage this terrain was on last editing session, honestly I cant even remember how this terrain looks as I have <a href="pmc-super-six-6km.php">6km</a>, <a href="pmc-redwhiteblue-10km.php">10km</a>, <a href="pmc-undefined-farms-20km.php">20km</a>, <a href="pmc-cereal-region-32km.php">32km</a>, this one and <a href="pmc-king-corn-45km.php">45km</a> terrains under work now hehe.
 </p>
 
 <p>
@@ -969,7 +968,7 @@ First I took backups, its scary to work with these huge terrains, I don't want t
 </p>
 
 <p>
-Added to TPF sheds to new farmer game-mode placeables. Then on second location the slope was too steep for these huge buildings, other end would have floated so I skipped that location. These nice rolling hills heightmaps are difficult for buildings. Yeah yeah I could sculpt the heightmap, but not with GE heightmap tools heh, I need to do it in L3DT.
+Added two(?) TPF sheds to new farmer game-mode placeables. Then on second location the slope was too steep for these huge buildings, other end would have floated so I skipped that location. These nice rolling hills heightmaps are difficult for buildings. Yeah yeah I could sculpt the heightmap, but not with GE heightmap tools heh, I need to do it in L3DT.
 </p>
 
 <p>
