@@ -4,7 +4,6 @@
 <title>Dev Diary PMC King Corn 45km PMC Farming Simulator 22</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Dev Diary PMC King Corn 45km PMC Farming Simulator 22">
-<META name="keywords" content="Farming, Simulator, Dev, Diary, PMC, Largest, 45km, FS22">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -27,7 +26,7 @@ This is a developer diary for Farming Simulator 22 terrain called <a href="pmc-k
 </p>
 
 <p>
-2022-01-23T04:58:52Z I wanted to learn what is the largest terrain I can do in fs22. Currently <b>PMC Korkscrew 40km is the largest terrain in the history of farming simulator games</b>, but... can I squeeze few more kilometers out of it? <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-01-23T04:58:52Z I wanted to learn what is the largest terrain I can do in fs22. Currently <b>PMC Korkscrew 40km is the Largest Terrain In The History Of Farming Simulator Games</b>, but... can I squeeze few more kilometers out of it? <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -99,7 +98,7 @@ Sure I'll test 11.5 meter unitsPerPixel just to be thorough but I kind of expect
 </p>
 
 <p>
-Okay it is official, largest terrain in the history of farming simulator games is 45km.
+Okay it is official, Largest Terrain In The History Of Farming Simulator Games is 45km.
 </p>
 
 <p>
@@ -217,7 +216,7 @@ Basic railroad, asphalt and dirt road grid is done. When I say basic it means fo
 </p>
 
 <p>
-It is so extremely difficult to believe the area you are seeing in the image is so huge as 45km x 45km. Designing it a real mind job.
+It is so extremely difficult to believe the area you are seeing in the image is so huge as 45km x 45km. Designing it is a real mind job...
 </p>
 
 <p>
@@ -835,7 +834,7 @@ How crazy would it be if this terrain, all 45 kilometers x 45 kilometers of it, 
 </p>
 
 <p>
-2022-01-29T12:55:22Z Feeding time over, back to slave labor in GE to work on largest terrain in the history of farming simulator games. OK.
+2022-01-29T12:55:22Z Feeding time over, back to slave labor in GE to work on <b>Largest Terrain In The History Of Farming Simulator Games.</b> OK.
 </p>
 
 <p>
@@ -909,7 +908,7 @@ Next up is fruit_density bushes, flowers and shrubbery missing issue, hmm, well 
 </p>
 
 <p>
-Opened design doc in GIMP and took a look if I could spray some odd fruit colors around... and I did... but ... realized that I would have to come up a new fruit_density handling graphicsmagick bat command line setup and that is WAY beyond the scope of this project right now, I mean imagine testing brand new bushs and flowers painting method (well "new", heh but you know what I mean) on the largest terrain in history of farming simulator games haha.
+Opened design doc in GIMP and took a look if I could spray some odd fruit colors around... and I did... but ... realized that I would have to come up a new fruit_density handling graphicsmagick bat command line setup and that is WAY beyond the scope of this project right now, I mean imagine testing brand new bushes and flowers painting method (well "new", heh but you know what I mean) on the <b>Largest Terrain In The History Of Farming Simulator Games</b> haha.
 </p>
 
 <p>
@@ -1305,7 +1304,7 @@ Changed version number to 0.1, then it was first in-game test, so first used the
 </p>
 
 <p>
-2022-02-09T23:06:00Z PMC King Corn 45km v0.1 has been released! :D
+2022-02-09T23:06:00Z PMC King Corn 45km v0.1 has been released! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 </section>
