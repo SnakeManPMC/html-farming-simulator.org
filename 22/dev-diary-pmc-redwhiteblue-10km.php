@@ -4,7 +4,6 @@
 <title>Dev Diary PMC RedWhiteBlue 10km PMC Farming Simulator 22</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Dev Diary PMC RedWhiteBlue 10km PMC Farming Simulator 22">
-<META name="keywords" content="Farming, Simulator, Dev, Diary, PMC, RedWhiteBlue, Terrain, Map, FS22">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -122,7 +121,7 @@ However I noticed hilarious bug, all fields are gone, there are no <a href="../1
 </p>
 
 <p>
-2022-01-06T22:25:00Z Already feeling quite tired, not yawning yet but eyes are strained so just feel that zombi mode slowing coming up. Going to try edit some more as I really enjoy it now for this terrain and really don't want to go to sleep yet.
+2022-01-06T22:25:00Z Already feeling quite tired, not yawning yet but eyes are strained so just feel that zombi mode slowly coming up. Going to try edit some more as I really enjoy it now for this terrain and really don't want to go to sleep yet.
 </p>
 
 <p>
@@ -252,7 +251,7 @@ Finished bunch of dirt roads, straight boring grid roads heh. Then proceeded to 
 </p>
 
 <p>
-Finished off farm yards painting, then switched to forests, going to do them with free hand selection. Just a few forest tree lines near farm yards, wont be making too many of them as they are pure horror to create in GE as trees, but gotta do few of course. probably gong to focus on the vehicle shop area.
+Finished off farm yards painting, then switched to forests, going to do them with free hand selection. Just a few forest tree lines near farm yards, wont be making too many of them as they are pure horror to create in GE as trees, but gotta do few of course. Probably going to focus on the dealership aka vehicle shop area.
 </p>
 
 <p>
@@ -272,7 +271,7 @@ Maybe today is the last time editing with Gaming computer, probably not but lets
 </p>
 
 <p>
-2022-01-25T09:17:59Z Still trying to match GIMP design doc colors with the graphicsmagick bat file which I actually downloaded from <a href="../19/terrain-design-document-graphicsmagick.php">our website on the not yet published/linked/git-committed page</a>. It was just a frustrating mess. I really hope win10 fs22 editing is soon over.
+2022-01-25T09:17:59Z Still trying to match GIMP design doc colors with the graphicsmagick bat file which I actually downloaded from <a href="../19/terrain-design-document-graphicsmagick.php">our website on the not yet published/linked/git-committed page</a>. It was just a frustrating mess. I really hope win10 fs22 editing will be over soon.
 </p>
 
 <p>
@@ -280,7 +279,7 @@ Maybe today is the last time editing with Gaming computer, probably not but lets
 </p>
 
 <p>
-Didn't take long to figure out that yeah the bat file from out website is using FS19 RGB colors, so obviously it doesn't work. Uuh this mess, I'm going out of my mind! heh.
+Didn't take long to figure out that yeah the bat file from our website is using FS19 RGB colors, so obviously it doesn't work. Uuh this mess, I'm going out of my mind! heh.
 </p>
 
 <p>
@@ -420,7 +419,7 @@ Then project dir sync to fs22 mods dir and in-game check. Hopefully everything w
 </p>
 
 <p>
-Had a slight hiccup with farmland image, <a href="../19/terrain-farmland.php">ID channel 17</a> was not painted, so had to go investigate why not. Sometimes this happens that you can easily skip one RGB colors if you get distracted, farmland painting is relaxing... but make sure you are not distracted by discord/twitch or similar when you are going through the colors, start and finish one color in one go no matter which kind of notifications or distrations would appear.
+Had a slight hiccup with farmland image, <a href="../19/terrain-farmland.php">ID channel 17</a> was not painted, so had to go investigate why not. Sometimes this happens that you can easily skip one RGB colors if you get distracted, farmland painting is relaxing... but make sure you are not distracted by discord/twitch or similar when you are going through the colors, start and finish one color in one go no matter which kind of notifications or distractions would appear.
 </p>
 
 <p>
@@ -503,7 +502,7 @@ Okay I'm going to switch to <a href="pmc-korkscrew-40km.php">PMC Korkscrew 40km<
 </p>
 
 <p>
-This edit happened on PMC DevSurf computer which runs windows 8.1, so I'm editing blind, I have no way to check this in-game until I copy the project dir to PMC Gaming computer which has win10 that can actually run fs22.
+This edit happened on PMC DevSurf computer which runs windows 8.1, so I'm editing blind, I have no way to check this in-game until I copy the project dir to PMC Gaming computer which has win10 garbage that can actually run fs22.
 </p>
 
 <p>

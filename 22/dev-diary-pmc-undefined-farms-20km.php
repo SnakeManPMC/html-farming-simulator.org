@@ -41,7 +41,7 @@ heightScale="78.45"
 </p>
 
 <p>
-Brought the terrain source files into <a href="../19/terrain-giants-editor.php">Giants Editor (GE)</a> v9.0.2 the first time, aligned careerStart to the ground and saved, this was another long saving, I really don't get it what the hell is wrong with FS22 GE as it saves forever, those dreaded 17min saves on <a href="pmc-test-farm-32km.php">32.7km terrain</a> still haunt my dreams.
+Brought the terrain source files into <a href="../19/terrain-giants-editor.php">Giants Editor (GE)</a> v9.0.2 the first time, aligned careerStart to the ground and saved, this was another long saving, I really don't get it what the hell is wrong with FS22 GE as it saves forever, those dreaded 17min saves on <a href="pmc-cereal-region-32km.php">32.7km terrain</a> still haunt my dreams.
 </p>
 
 <p>
@@ -115,7 +115,7 @@ Todays agenda is to add buildings and trees into PMC Undefined Farms 20km and se
 </p>
 
 <p>
-I re-read yesterdays dev diary text and was great to have a recap of what happened, now I know exactly where I left off before win10 reinstall mess took over. I was editing objects in GE, I believe created first three grain bins to placeables.xml config file.
+I re-read yesterdays dev diary text and was great to have a recap of what happened, now I know exactly where I left off before crap win10 reinstall mess took over. I was editing objects in GE, I believe created first three grain bins to placeables.xml config file.
 </p>
 
 <p>
@@ -131,7 +131,7 @@ Seems like cultivator_density was 8192 pixel resolution for 20.4km terrain which
 </p>
 
 <p>
-2022-01-14T14:44:52Z Days first lunch break, havent eaten anything since waking up...
+2022-01-14T14:44:52Z Days first lunch break, haven't eaten anything since waking up...
 </p>
 
 <p>
@@ -417,7 +417,7 @@ I might try to do fields in GE today, not sure, my pinky finger is already hurti
 </p>
 
 <p>
-For now I'm going to remove the field definitions crap lines from TERRAIN.i3d file and then proceed to make few more field definitions, just quickly.
+For now I'm going to remove the german script crap lines from TERRAIN.i3d file and then proceed to make few more field definitions, just quickly.
 </p>
 
 <p>
@@ -1088,7 +1088,7 @@ In that image you have a slightly bad terrain design doc drawing for a field, ca
 </p>
 
 <p>
-So here is the below image which explains what I mean. This farm yard was positions too close to the field corner which created this kind of narrow field location, its otherwise a big field but now this long narrow spot causes issues with courseplay multiple tools operations, try to imagine harvesting that field with four combines or cultivating it with two wide implements, there will be bad overlap.
+So here is the below image which explains what I mean. This farm yard is located too close to the field corner which created this kind of narrow field spot, its otherwise a big field but now this long narrow spot causes issues with courseplay multiple tools operations, try to imagine harvesting that field with four combines or cultivating it with two wide implements, there will be bad overlap.
 </p>
 
 <a href="screenshots/PMC-Terrain-Design-Doc-Bad-Field-Shape-2022-01-31.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Terrain-Design-Doc-Bad-Field-Shape-2022-01-31.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
@@ -1120,7 +1120,7 @@ Cute little farm yard for those small scale hobby farms, where you tend your gar
 <a href="screenshots/PMC-Undefined-Farms-20km-2022-01-31T0950.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2022-01-31T0950.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
 
 <p>
-Joking aside, that is truly a small farm yard, when you look at the sizes of trees and then imagine putting a grain bin(s) and vehicle shed(s) there, yeah it wont leave much room. Heh need to make anote about that too small farm yards are all but useless, bare minimum yard size should be maybe like two grain bins and two vehicle sheds so that there are still room to maneuvre your vehicles around them.
+Joking aside, that is truly a small farm yard, when you look at the sizes of trees and then imagine putting a grain bin(s) and vehicle shed(s) there, yeah it wont leave much room. Heh need to make a note about that too small farm yards are all but useless, bare minimum yard size should be maybe like two grain bins and two vehicle sheds so that there are still room to maneuvre your vehicles around them.
 </p>
 
 <p>
@@ -1626,7 +1626,7 @@ Hmm this needs more thought... Then proceeded to create those very small field d
 </p>
 
 <p>
-2022-06-15T03:33:00Z My pinky copy-paste CTRL pressing finger is scremaing in agony :x
+2022-06-15T03:33:00Z My pinky copy-paste CTRL pressing finger is screaming in agony <img src="../images/smileys/icon_redface.gif" alt="Smiley :redface:" loading="lazy">
 </p>
 
 <p>
@@ -1634,13 +1634,13 @@ Also getting really tired, almost in full zombi mode.
 </p>
 
 <p>
-2022-06-15T05:05:00Z Field definitions done, total number of fields 1880 :D
+2022-06-15T05:05:00Z Field definitions done, total number of fields 1880 <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 	<h2>2022-06-18 Painful Field Definitions</h2>
 
 <p>
-2022-06-18T05:08:00Z New editing day has started, todays goal is to sort out the mess I did with v0.1.4 which was the version I created couple of days ago. Issues there are that all the new fields are GRASS, I accidentally copy-pastes one of the grass fields so now we have 1800+ tiny hectare size grass fields. Another issue is that all these new fields have field definitionc orner pieces so AI will plant on them and they appear as contracts, we don't want that, all we want is the field number to identify the field.
+2022-06-18T05:08:00Z New editing day has started, todays goal is to sort out the mess I did with v0.1.4 which was the version I created couple of days ago. Issues there are that all the new fields are GRASS, I accidentally copy-pasted one of the grass fields so now we have 1800+ tiny hectare size grass fields. Another issue is that all these new fields have field definition corner pieces so AI will plant on them and they appear as contracts, we don't want that, all we want is the field number to identify the field.
 </p>
 
 <p>
