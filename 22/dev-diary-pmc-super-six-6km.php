@@ -165,7 +165,7 @@ Edited <a href="terrain-moddesc-xml.php">modDesc.xml</a> for v0.1 which was incl
 </p>
 
 <p>
-Deleted unused .shape etc cache files from maps\PMC_Test_Farm_6km\ dir. These unused and wrong file name files seem to haunt several terrains of mine, they are now fixed in my generate_terrain bat file, but yeah residue is lingering for a long time heh.
+Deleted unused .shape etc cache files from maps\PMC_Super_Six_6km\ dir. These unused and wrong file name files seem to haunt several terrains of mine, they are now fixed in my generate_terrain bat file, but yeah residue is lingering for a long time heh.
 </p>
 
 <p>
@@ -173,7 +173,7 @@ Edited my _run_generate_terrain_template_from_sample_data_FS22.bat file accordin
 </p>
 
 <p>
-Edited PMC_Test_Farm_6km.xml config file, removed mapUS tutorial floating icons. Removed map interactive icons for animal dealer and vehicle shop.
+Edited PMC_Super_Six_6km.xml config file, removed mapUS tutorial floating icons. Removed map interactive icons for animal dealer and vehicle shop.
 </p>
 
 <pre>
@@ -214,7 +214,7 @@ Then copied infoLayer _Level images and fieldGround.xml into this terrain, gotta
 
 <pre>
 2022-01-25 00:45 Warning: Farmland-Ids not set for all pixel in farmland-infoLayer!
-2022-01-25 00:45 Error: Farmland-Id 1 not defined in farmland ownage file 'C:/FS22.Mods/Dev/PMC_Test_Farm_6km/maps/PMC_Test_Farm_6km/data/PMC_Test_Farm_6km_farmland.grle'. Skipping farmland definition!
+2022-01-25 00:45 Error: Farmland-Id 1 not defined in farmland ownage file 'C:/FS22.Mods/Dev/PMC_Super_Six_6km/maps/PMC_Super_Six_6km/data/PMC_Super_Six_6km_farmland.grle'. Skipping farmland definition!
 </pre>
 
 <p>
@@ -230,11 +230,11 @@ And GE is now saving forever again, sigh. I've so had it with this piece of shit
 </p>
 
 <pre>
-PMC_Test_Farm_6km.i3d saved in 894357.510200 ms
+PMC_Super_Six_6km.i3d saved in 894357.510200 ms
 </pre>
 
 <p>
-Well got the farmland error fixed, but the soil composition page is still off scale. Hmm. It was because I forgot to edit PMC_Test_Farm_6km.xml fieldGround line, got that fixed.
+Well got the farmland error fixed, but the soil composition page is still off scale. Hmm. It was because I forgot to edit PMC_Super_Six_6km.xml fieldGround line, got that fixed.
 </p>
 
 <p>
@@ -310,7 +310,7 @@ But man that goofy screwy looking design again heh.
 </p>
 
 <p>
-First as usual took backups. Had to create _run_backup_PMC_Test_Farm_6km.bat file which 7-zip compresses it tight with -mx=9 parameter, then the bat copies it to PMC Linux ubuntu server network directory.
+First as usual took backups. Had to create _run_backup_PMC_Super_Six_6km.bat file which 7-zip compresses it tight with -mx=9 parameter, then the bat copies it to PMC Linux ubuntu server network directory.
 </p>
 
 <p>
@@ -330,7 +330,7 @@ Copied _run_graphicsmagick_FS22_infoLayer_to_PROPER_size.bat which is kind of te
 </p>
 
 <p>
-Did the usual GDM/GRLE PMC_Test_Farm_6km.i3d mass replace, loaded it up in GE. Then renamed transformgroup fields to Fields, oh my major change hoho. Created Buildings transformgroup and moved vehicleshop there. Then saved (just because, no reason) and uh oh this takes a long time again <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+Did the usual GDM/GRLE PMC_Super_Six_6km.i3d mass replace, loaded it up in GE. Then renamed transformgroup fields to Fields, oh my major change hoho. Created Buildings transformgroup and moved vehicleshop there. Then saved (just because, no reason) and uh oh this takes a long time again <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
@@ -346,7 +346,7 @@ While GE was saving I went and started to write <a href="https://trailerparkfarm
 </p>
 
 <pre>
-PMC_Test_Farm_6km.i3d saved in 828062.468600 ms
+PMC_Super_Six_6km.i3d saved in 828062.468600 ms
 </pre>
 
 <p>
@@ -354,7 +354,7 @@ Imported PMC_Helpers.i3d, edited "Grain.Bins" transformgroup to "Placeables" and
 </p>
 
 <pre>
-PMC_Test_Farm_6km.i3d saved in 7566.849300 ms
+PMC_Super_Six_6km.i3d saved in 7566.849300 ms
 </pre>
 
 <p>
@@ -374,7 +374,7 @@ Farmland image has no farm yards or other detailed cheap areas, ugh <a href="../
 </p>
 
 <p>
-In GIMP opened PMC_Test_Farm_6km_design_doc.xcf image, well she's missing a background color, of course heh.
+In GIMP opened PMC_Super_Six_6km_design_doc.xcf image, well she's missing a background color, of course heh.
 </p>
 
 <p>
@@ -390,7 +390,7 @@ I have to change my editing habits with GE v9.0.2 with these remaining terrain e
 </p>
 
 <pre>
-PMC_Test_Farm_6km.i3d saved in 862658.429800 ms
+PMC_Super_Six_6km.i3d saved in 862658.429800 ms
 </pre>
 
 <p>
@@ -480,7 +480,7 @@ That concludes PMC Super Six 6km new placeable additions, nothing more to do. No
 </p>
 
 <p>
-Tested in-game and it took few trys to get it right, first I forgot to load TPF shed packs, then had error in the log because I forgot to add lines to storeItems.xml config file. And third time failed because I forgot to copy the actual XML's into PMC_Test_Farm_6km/maps/placeables/ directories <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Tested in-game and it took few trys to get it right, first I forgot to load TPF shed packs, then had error in the log because I forgot to add lines to storeItems.xml config file. And third time failed because I forgot to copy the actual XML's into PMC_Super_Six_6km/maps/placeables/ directories <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -584,7 +584,7 @@ First another set of backups, yes, never forget backups especially when there is
 </p>
 
 <p>
-Final old name backup 7-zip filename is: PMC_Test_Farm_6km_2022-02-06T1536.7z
+Final old name backup 7-zip filename is: PMC_Super_Six_6km_2022-02-06T1536.7z
 </p>
 
 <p>
