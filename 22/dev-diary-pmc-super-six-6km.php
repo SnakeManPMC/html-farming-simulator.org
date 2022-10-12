@@ -677,6 +677,40 @@ So now I took all the undefined farms 20km placeables/sellingpoints/ XML files a
 2022-10-02T06:33:00Z Yup v0.2.3 worked just fine, played several real life days on it.
 </p>
 
+	<h2>Spray This Spray That</h2>
+
+<p>
+2022-10-03T01:07:00Z New editing day has started, well not really but was just playing start from zero and got extremely frustrated because the stupid liquid fertilizer usage rate in stock default FS22 game settings, decided that enough, saved game and came to editing computer to fix this issue on terrain level.
+</p>
+
+<p>
+Opened maps/PMC_Super_Six_6km/PMC_Super_Six_6km.xml file, replaced maps_sprayTypes.xml path with our terrains dir path and then copied original fs22 base game data/maps/maps_sprayTypes.xml into our terrain dir. Actually my editing computer only had FS22 v1.0 installed so had to copy the XML from Gaming computer instead.
+</p>
+
+<p>
+Edited this new maps_sprayTypes.xml and reduced all types by 50%, no idea how this translates in-game but will find out.
+</p>
+
+<p>
+Added the required mods modDesc.xml dependency config lines as well for TrailerParkFarms vehicle shed mods.
+</p>
+
+<p>
+Changed modDesc descversion to 69 (he said sixty nine, huhu huh, huhuhu huh, huhuhuh, huh huhu huhuh with beavis and butt-head sounds).
+</p>
+
+<p>
+Changed terrain version to v0.2.4 yup.
+</p>
+
+<p>
+Edited the long full website web page link to just read website, nobody will type the full link into browser one character at the time. Although not sure if it would somehow show up as clickable link in multiplayer server browser thing, hmm need to figure that out.
+</p>
+
+<p>
+2022-10-03T01:28:00Z Compiled PMC_Super_Six_6km_v0.2.4.7z for testing.
+</p>
+
 </section>
 
 <footer>
