@@ -670,6 +670,42 @@ The terrain was created on the basis of the terrain of one of the picturesque co
 </p>
 </div>
 
+
+<div class="terrain8km">
+<h2>FS22 Belgium</h2>
+
+<!--
+<a href="images/Map-.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-.jpg" alt="Farming Simulator 22 Map - FS22 Belgium" loading="lazy"></a>
+
+<a href="images/Map--Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map--Farmland.jpg" alt="Farming Simulator 22 Map - FS22 Belgium Farmland" loading="lazy"></a>
+-->
+<p>
+FS22 Belgium by LsPT.
+</p>
+
+<p>
+Terrain Size: 4 kilometers x 4 kilometers.
+</p>
+
+<p>
+The playing area is 4x4 km.<br><br>
+
+On the map you can find:<br>
+- 115 candidate fields<br>
+this includes pastures.<br>
+- 3 forests<br>
+- The valley is crossed by a river.<br>
+- No collectibles.<br>
+Several farms (cows, pigs, sheep).<br><br>
+
+Available productions: Almost all except for one or two things.
+</p>
+
+<p>
+<a href="https://files.modhub.us/download?file=/15/2022-10/belgium-map-v1000/jrhvf1665735602/1665735602-FS22_Belgium.zip&fileName=FS22_Belgium.zip" target="_blank">FS22_Belgium.zip</a>, <a href="https://www.modhub.us/farming-simulator-22-mods/belgium-map-v1000" target="_blank">modhub.us</a>
+</p>
+</div>
+
 <!-- end of wrapper8km -->
 </div>
 
