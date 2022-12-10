@@ -527,6 +527,70 @@ Compiled release version and sent it to penalty_box_gaming to try out if it work
 I tested, its not working. Then copy pasted mapUS/storeItems.xml trees and plants lines into PMC_RedWhiteBlue_10km storeItems.xml and now it works.
 </p>
 
+
+	<h2>DensityMapHeightUpdater Error Fixed</h2>
+
+<p>
+2022-12-09T17:49:00Z New editing day has started, edited modDesc.xml descVersion to 72.
+</p>
+
+<p>
+This terrain has old error in the log:
+</p>
+
+<pre>
+2022-09-30 23:02 Error: Trying to set DensityMapHeightUpdater collision map with invalid size (536870912 vs 134217728)
+2022-09-30 23:02   Warning: No tip collision map defined. Creating empty tip placement collision map.
+</pre>
+
+<p>
+Quite embarrassing actually that it sneaked in there, I have no recollection of seeing that during development and first release phase. Lets get it fixed now. I don't know what that error is, but logical thing would be to just run the script which generated ground collision map.
+</p>
+
+<p>
+2022-12-09T20:43:00Z First took backups using _run_backup_PMC_RedWhiteBlue_10km.bat which copied the 7-zip backup archive to two other HDDs. Never forget backups.
+</p>
+
+<p>
+Started GE v9.0.2 which complained about v9.0.3 update available, hoh not now I'm busy. Loaded PMC_RedWhiteBlue_10km.i3d project, ran the large terrain script even though I'm not sure if its visual thing only, then ran scripts -> map -> create ground collision map, saved project and exited GE.
+</p>
+
+<p>
+BTW I was shocked how long time GE v9.0.2 saved this 10.2km terrain project.
+</p>
+
+<pre>
+Scenefile 'E:/Farming.Simulator.22.Editing/PMC_RedWhiteBlue_10km/maps/PMC_RedWhiteBlue_10km/PMC_RedWhiteBlue_10km.i3d' saved in 347844.341409 ms at Fri Dec  9 20:55:06 2022.
+</pre>
+
+<p>
+Whoah <img src="../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+</p>
+
+<p>
+Next changed modDesc to v0.1.3 so I can tell these versions apart in-game mod selector menu. Then edited compilation bat file and readme.txt where I added <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22719" target="_blank">PMC RedWhiteBlue 10km official forum topic link</a>.
+</p>
+
+<p>
+Then it was time to test this edit, does it fix the error or not. Need to fire up PMC Gaming computer, copy the new release there and launch FS22.
+</p>
+
+<p>
+2022-12-09T22:02:00Z Tried to fix "Error: Trying to set DensityMapHeightUpdater collision map with invalid size" and used v0.1.4 as new release, no idea if it works but that is why we are testing it.
+</p>
+
+<p>
+2022-12-09T22:09:00Z FS22 test complete, no more error! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+tipColInfoLayer.grle and infoLayer_tipCollisionGenerated.grle were 16384 res, so I converted them to PNG, resized them DOWN to 8192 and then GE re-saved the project to create new GRLE's. All the rest GDM/GRLE images were 8192 so this error was exactly what it said "invalid size" which means 16384 pixel versus 8192 pixel. Now that all GDM/GRLE are 8192, no more error <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2022-12-10T03:27:00Z Started to upload new PMC_RedWhiteBlue_10km_v0.1.4.7z so it can be linked in PMC Tactical forum for users to test and play.
+</p>
+
 </section>
 
 <footer>

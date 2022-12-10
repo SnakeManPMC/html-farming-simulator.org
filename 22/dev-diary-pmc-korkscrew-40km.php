@@ -1057,6 +1057,85 @@ Unpacked new farmer starter vehicles.xml from 7zip file, that should be ready to
 2022-02-12T23:14:00Z PMC Korkscrew 40km v0.1 released! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
+
+	<h2>DensityMapHeightUpdater Terror</h2>
+
+<p>
+2022-12-09T17:49:00Z New editing day has started, edited modDesc.xml descVersion to 72.
+</p>
+
+<p>
+Took backup from the current project dir, now plan is to try to fix the "Error: Trying to set DensityMapHeightUpdater collision map with invalid size" which comes from wrong size GDM/GRLE images. I said "try" because cant remember how these mega big terrains infoLayer and density images are done, meaning that grleConverter cannot convert the huge GDM/GRLE back to PNG and it has to be created from scratch using graphicsmagick.
+</p>
+
+<p>
+Converted all GDM images to PNG, they were 16384 pixel resolution. Then did same for GRLE and here is where the problems start, all except infoLayer_placementCollisionGenerated.grle were 32768 pixel resolution, so grleConverter crashed.
+</p>
+
+<p>
+This means those GRLE images have to be created from scratch using graphicsmagick.
+</p>
+
+<p>
+So I checked out _run_graphicsmagick_FS22_infoLayer_create_black_32768.bat file and for some odd reason infoLayer_placementCollisionGenerated was set for 4096x4096 pixel resolution, hmm odd. I have no recollection to late winter 2022 when I discovered how to get 40km terrains working and created these huge terrains like PMC Korkscrew 40km, maybe the 4096 res image "works" but then gives error in the log. Previously the "does huge terrain work" issue was that whole FS22 crashed when tried to load 40km terrain with 16k res GRLEs.
+</p>
+
+<p>
+Anyways this is just speculation before getting to GE and then maybe in-game.
+</p>
+
+<p>
+Edited PMC_Korkscrew_40km.p3d, changed GRLE to PNG for these new images, then started GE v9.0.2 and loaded the project up. Then ran script for large terrains, saved project and exited. Project saving took forever again with these huge terrains hehe.
+</p>
+
+<pre>
+Scenefile 'E:/Farming.Simulator.22.Editing/PMC_Korkscrew_40km/maps/PMC_Korkscrew_40km/PMC_Korkscrew_40km.i3d' saved in 551344.175502 ms at Fri Dec  9 22:50:44 2022.
+</pre>
+
+<p>
+Yikes. Then deleted the 32k res PNGs, edited PMC_Korkscrew_40km.i3d to point back to GRLEs and we were ready to test FS22 in-game.
+</p>
+
+<p>
+Changed modDesc to v0.1.1, edited terrain release compilation bat and readme.txt files.
+</p>
+
+<p>
+2022-12-09T22:56:00Z PMC_Korkscrew_40km_v0.1.1.7z has been compiled, now off to test it in-game <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Unfortunately in-game test still shows same error in the log <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+Loaded terrain project in GE again, used create ground collision map script, I hightly doubt this does anything as the image file was already correct size, but hey lets try anyways. Files tipColInfoLayer.grle and infoLayer_tipCollisionGenerated.grle both are currently 4.01mb in size, if that size changed after saving the project, well then most likely the script did change the collision map somehow.
+</p>
+
+<p>
+This generation lasted so long I was bored to death while waiting. Once done, hit save and again more waiting heh. This save did not take long at all, well at least some good news.
+</p>
+
+<p>
+The mentioned GRLE's are same file size. Next changed modDesc.xml to v0.1.2 and did the usual compiling, time for another in-game test.
+</p>
+
+<p>
+2022-12-09T23:56:00Z Negative, still the same error, hmm hmm.
+</p>
+
+<p>
+2022-12-10T00:36:00Z Did several tests almost randomly, just throwing shit to the wall in hopes that something would stick... and finally managed to get rid of this densitymapcrap error by going FS22 in-game, starting a new savegame, saving it, then copying infoLayer_placementCollisionGenerated.grle and infoLayer_tipCollisionGenerated.grle files into terrain project dir and compiling an new version.
+</p>
+
+<p>
+infoLayer_tipCollisionGenerated.png from the savegame is 16384 pixel resolution, hmm hmm. Okay so, maybe I assumed all infoLayer images need to be 32k res when I created that graphicsmagick bat, I just cant remember anymore. Oh well now the error is gone and I know how to fix it, make infoLayer_tipCollisionGenerated to 16k res <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2022-12-10T03:42:00Z Started to upload PMC_Korkscrew_40km_v0.1.4.7z for PMC Tactical forum testing.
+</p>
+
 </section>
 
 <footer>
