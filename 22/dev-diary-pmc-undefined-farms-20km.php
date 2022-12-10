@@ -1761,6 +1761,120 @@ Uploaded PMC_Undefined_Farms_20km_v0.1.6.7z to farming-simulator.org and then po
 Now all is good as the terrible 1800 error mess has been fixed. Sure its not really a fix when all the erroneous field definitions got simply deleted, but hey zero tolerance policy for errors no matter the collateral damage. All the way.
 </p>
 
+
+	<h2>2022-12-09 Fix My Fields Punk</h2>
+
+<p>
+2022-12-09T17:50:00Z New editing day has started, edited modDesc.xml descVersion to 72.
+</p>
+
+<p>
+2022-12-10T04:09:00Z Took 7-zip backup, copied the .7z archive to three HDDs for safe keeping. Now I want to add few more field definitions.
+</p>
+
+<p>
+Started GE v9.0.2 which announced v9.0.3 update, not now. Loaded PMC_Undefined_Farms_20km.i3d, ran script for setup large terrain, then toggled field view thing and then imported PMC_Helpers.i3d which took fooooorever, man what a bizarre piece of shit GE v9 is <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Its already been quite a long editing day for me, did some good edits, but I would still like to add several field definitions to PMC Undefined Farms 20km before bed time, then hopefully continue tomorrow with the ultimate goal of adding all of them. I'm just a bit scared of how many fields there are in this terrain, its 20.4km with nothing but fields after all <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Once got started I realized heightmap PNG is still in place which means not very enjoyable 2D top down flat field definition work plane, saved and exited GE, I need to level the heightmap out, its the best way to create field definitions.
+</p>
+
+<p>
+Took backup of PMC_Undefined_Farms_20km_dem.png, opened PNG in GIMP and set it to RGB 0,0,0 which is 0 meters flat. Then again loaded all that junk to GE <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2022-12-10T04:41:00Z Total of 38 new field definitions are done and my copy-paste pinky finger is already screaming in agony <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+Creating field definitions wouldn't be that bad, if the controls were just a bit easier to operate, CTRL-D to duplicate/copy-paste a field definition and CTRL-B at least 4 times to align it and its corner pieces to correct location. Not fun.
+</p>
+
+<p>
+2022-12-10T05:04:00Z Hmm decided to create a tiny field definition which will be pasted to all cultivator_density field areas to have full "NUMBER" coverage, then once pinky copy-paste finger gets better and I have more enthusiasm, I'll edit the corner pieces to fit the cultivator density better. This regular even single shape creation just feels so fucking awful right now, its like torture, heh no joke <img src="../images/smileys/icon_redface.gif" alt="Smiley :redface:" loading="lazy">
+</p>
+
+<p>
+Then I configured GE keyboard shortcuts to have CTRL-D set to key 1 and CTRL-B to key 2. Those keys are easy to press and then you have ready to place field definition, small yes which doesn't fit very well to larger cultivator_density area, but at least this way its a bit more comfortable to create those many field definitions for the number purpose.
+</p>
+
+<p>
+2022-12-10T07:57:00Z Had to take couple of hours break to do a chore, now back few more moments before bed time, I'm actually already over 17hrs awake today so dunno how long can I go on.
+</p>
+
+<p>
+2022-12-10T08:22:00Z Okay need to call it a night, going into zombi mode now, more editing tomorrow...
+</p>
+
+
+	<h2>1888 Field Definitions Clutter</h2>
+
+<p>
+2022-12-10T15:52:00Z New editing day has started, today we continue creating single shape field definitions, those small patches. Lets see how many I'll manage to do.
+</p>
+
+<p>
+2022-12-10T17:09:00Z GE finished creating single shape small patch field definitions! Now they are all done, I cant see any fields without field definition now, nice! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Yes of course these are copy-pasted identical size patches, too small to be useful, but now field NUMBERS are are in, its easy to start improving them from this point <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2022-12-10T17:36:00Z Did some tweaks to few fields, exported fields-2022-10-10.i3d for backups as that saves time, no need to CTRL-S save the whole project which is slow when you can just export small I3D. Then counted field sizes, there are total of 1212 fields now, hmm that is odd I remember it being 1880 before when there was the buggy grass field thing going on, oh well anyways.
+</p>
+
+<p>
+Usually I'd continue editing here, but lately those "editing blindly" things have scared me so bad that now I'm going to compile a new testing version and right away check it out at Gaming computer just to see if new fields work OK.
+</p>
+
+<p>
+Changed modDesc version to 0.1.7, edited compile bat and readme.
+</p>
+
+<p>
+2022-12-10T17:55:00Z Compiled PMC_Undefined_Farms_20km_v0.1.7.7z for testing.
+</p>
+
+<p>
+And of course I forgot to unpack the original heightmap PNG so everything was flat 0m elevations <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+So changed to v0.1.8 and compiled a new release.
+</p>
+
+<p>
+2022-12-10T18:17:00Z Tested v0.1.8 and it runs good, no errors. However those new fields were total of 1888 (dunno why GE v9.0.2 only showed me 1212, maybe it was still processing when I checked the log) and they completely clutter minimap (9) so its useless.
+</p>
+
+<p>
+Goofy stuff man.
+</p>
+
+<a href="screenshots/PMC-Undefined-Farms-20km-2022-12-10T1757.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2022-12-10T1757.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
+
+<a href="screenshots/PMC-Undefined-Farms-20km-2022-12-10T1808.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2022-12-10T1808.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
+
+<p>
+But guess there are no other way around it if you have a huge terrain with small fields. If the fields were larger, lets say well above 20ha or maybe even 50ha, then I don't think there would be that much cluttering in minimap (9).
+</p>
+
+<p>
+Anyways, time to ship v0.1.8 for testers in our forum.
+</p>
+
+<p>
+2022-12-10T18:30:00Z Started uploading PMC_Undefined_Farms_20km_v0.1.8.7z for testers.
+</p>
+
 </section>
 
 <footer>
