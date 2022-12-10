@@ -1307,6 +1307,41 @@ Changed version number to 0.1, then it was first in-game test, so first used the
 2022-02-09T23:06:00Z PMC King Corn 45km v0.1 has been released! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
+
+	<h2>DensityMapHeightUpdater Error Begone</h2>
+
+<p>
+2022-12-09T17:49:00Z New editing day has started, edited modDesc.xml descVersion to 72.
+</p>
+
+<p>
+2022-12-10T00:42:00Z I already fixed "Error: Trying to set DensityMapHeightUpdater collision map with invalid size" on <a href="pmc-redwhiteblue-10km.php">PMC RedWhiteBlue 10km</a> and <a href="pmc-korkscrew-40km.php">PMC Korkscrew 40km</a>, now its time to fix it on PMC King Corn 45km as well. Issue is infoLayer_tipCollisionGenerated should not be 32768 pixel resolution but only 16384, heh.
+</p>
+
+<p>
+First took backup of the existing terrain project, copied the 7-zip archive safety to three other HDDs. Then graphicsmagick generated new infoLayer images 32k and that one tip-thing 16k, deleted the old GRLEs and edited I3D file.
+</p>
+
+<p>
+Then started GE v9.0.2 which screamed update to v9.0.3 hoh, loaded PMC_King_Corn_45km.i3d and immediately hit save, which again took forever...
+</p>
+
+<pre>
+Scenefile 'E:/Farming.Simulator.22.Editing/PMC_King_Corn_45km/maps/PMC_King_Corn_45km/PMC_King_Corn_45km.i3d' saved in 831570.837178 ms at Sat Dec 10 01:06:54 2022.
+</pre>
+
+<p>
+Uuh. Then edited PMC_King_Corn_45km.i3d back from PNG to GRLE and changed modDesc to v0.1.1 before compiling new testing version.
+</p>
+
+<p>
+2022-12-10T01:20:00Z Testing done, v0.1.1 got no more DensityMapHeightUpdater error <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2022-12-10T03:56:00Z Started to upload PMC_King_Corn_45km_v0.1.1.7z for PMC Tactical forum users testing and playing.
+</p>
+
 </section>
 
 <footer>
