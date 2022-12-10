@@ -711,6 +711,71 @@ Edited the long full website web page link to just read website, nobody will typ
 2022-10-03T01:28:00Z Compiled PMC_Super_Six_6km_v0.2.4.7z for testing.
 </p>
 
+
+	<h2>Field Definitions Added</h2>
+
+<p>
+2022-12-09T17:50:00Z New editing day has started, edited modDesc.xml descVersion to 72.
+</p>
+
+<p>
+Then ran _run_backup_PMC_Super_Six_6km.bat which copied backup 7-zip archive to two other HDDs for safe keeping. Took backup of heightmap PNG image, opened it with GIMP and set RGB to 0,0,0 which is flat 0 meter elevation, now I'm ready to do some <a href="../19/terrain-field-definitions.php">field definitions</a> work with GE.
+</p>
+
+<p>
+Started GE v9.0.2 which complained about v9.0.3 release upgrade, pfft nope, loaded PMC_Super_Six_6km up, ran setup for large terrain script and imported PMC_Helpers.i3d file. Now we can start to add some field definitions.
+</p>
+
+<p>
+2022-12-09T18:34:00Z Added all remaining field definitions as single shapes, two had more corner pieces than one.
+</p>
+
+<a href="screenshots/PMC-Super-Six-6km-2022-12-09T1834.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Super-Six-6km-2022-12-09T1834.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
+
+<p>
+Felt kind of good to be back in farming simulator editing, but then again its been months since I did heavy editing so no wonder <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Then created one more medium size grass field (fieldGrassMission attribute) with few more corner pieces for details.
+</p>
+
+<p>
+2022-12-09T19:11:00Z Finished adding more corner pieces to few more most lacking field definitions, this is good enough for now, already started to hurt my copy-paste finger and patience.
+</p>
+
+<p>
+Restored backup heightmap PNG, then loaded project back to GE, ran scripts -> create ground collision map, just to be sure. Saved project and exited, alright field definitions are now done for single and few simple shapes.
+</p>
+
+<p>
+Restarted GE, loaded sounds.i3d and started to hunt down the idiotic crow "top left" sound.
+</p>
+
+<p>
+Deleted baseballStadiumUS01 and storeLoop, actually the whole root "special" transformgroup. Deleted environment river1 through river3 transformgroups.
+</p>
+
+<p>
+Hmm but for some odd reason I could not find that annoying crow/raven sound bit, it was not in sounds.i3d at all, maybe its some universal default sound applied to all terrains hmm hmm. Then I listened the actual game file OGG sounds using VLC player and looks like its raven1.ogg and raven2.ogg in root\data\sounds\maps\shared\fauna\ directory.
+</p>
+
+<p>
+Checked PMC_Super_Six_6km.xml and that config points to sound.xml in our terrain dir, sound.xml (or sound.i3d) configs have no "raven" string in them, so umm err I am truly baffled of where that hideous bird sound is coming from, well hunt continues another time.
+</p>
+
+<p>
+Edited modDesc.xml version to 0.2.5 and then it was time to compile new testing version. Updated readme.txt and compile bat.
+</p>
+
+<p>
+2022-12-09T19:35:00Z Compiled PMC_Super_Six_6km_v0.2.5.7z for testing <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2022-12-10T03:00:00Z Started to prepare v0.2.5 <a href="https://www.pmctactical.org/forum/viewtopic.php?f=78&t=22779" target="_blank">PMC Tactical forum topic</a> testing release by uploading it, etc.
+</p>
+
 </section>
 
 <footer>
