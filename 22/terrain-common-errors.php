@@ -24,7 +24,7 @@
 	<h2>Common Errors Farming Simulator 22 (FS22)</h2>
 
 <p>
-<b>2022-02-13T20:14:00Z</b> updated. Game engine v1.2.0.2 used.
+<b>2022-12-14T20:50:00Z</b> updated. Game engine v1.8.2 used.
 </p>
 
 <pre>
@@ -100,14 +100,14 @@ Fix: GE select Sun in scenegraph, goto attributes, "Light" tab and scroll down t
 2021-12-13 09:34 Error: Trying to set DensityMapHeightUpdater collision map with invalid size (2097152 vs 33554432)
 </pre>
 <p>
-Fix: ?
+Fix: <a href="https://www.pmctactical.org/forum/viewtopic.php?f=78&t=22810" target="_blank">PMC Tactical forum FS22 DensityMapHeightUpdater error topic</a> HOWTO fix this.
 </p>
 
 <pre>
 2021-12-13 09:34   Warning: No tip collision map defined. Creating empty tip placement collision map.
 </pre>
 <p>
-Fix: ?
+Fix: <a href="https://www.pmctactical.org/forum/viewtopic.php?f=78&t=22810" target="_blank">PMC Tactical forum FS22 DensityMapHeightUpdater error topic</a> HOWTO fix this.
 </p>
 
 <pre>
