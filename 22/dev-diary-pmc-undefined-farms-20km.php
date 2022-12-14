@@ -1875,6 +1875,37 @@ Anyways, time to ship v0.1.8 for testers in our forum.
 2022-12-10T18:30:00Z Started uploading PMC_Undefined_Farms_20km_v0.1.8.7z for testers.
 </p>
 
+
+	<h2>2022-12-13 Field Definition Corner Pieces</h2>
+
+<p>
+2022-12-13T22:12:00Z New editing day has started, kind of... I'm currently editing ArmA 3 terrain PMC Latvia Lielvarde and there are long processes running leaving me bored with nothing to do, so why not add few more field definition corner pieces into PMC Undefined Farms 20km FS22 terrain ;)
+</p>
+
+<p>
+As always I first ran 7-zip backup bat file which copied the created .7z archive into three other HDDs and one other computer, never forget backups. Then unpacked heightmap PNG with 0 meter elevation flat setup, yeah I still had the 7-zip backup of that file too, good choice to save it for future use.
+</p>
+
+<p>
+Started GE v9.0.2, loaded terrain project up, ran large terrain script and toggle render field areas script. Now I'm ready to start adding editing field definition corner pieces.
+</p>
+
+<p>
+2022-12-13T22:36:00Z Finished editing field definition corner pieces, added few more grass fields too, all in the dealership neighborhood for short traveling distance.
+</p>
+
+<p>
+Changed modDesc version to v0.1.9 and edited compilation bat file and readme.txt file.
+</p>
+
+<p>
+2022-12-13T22:39:00Z Compiled PMC_Undefined_Farms_20km_v0.1.9.7z new testing version packet.
+</p>
+
+<p>
+Short while later tested these edits, I did F591 oat harvest contract and it worked fine, it was close with the "can keep" better contracts mod announced value but yeah it worked fine.
+</p>
+
 </section>
 
 <footer>
