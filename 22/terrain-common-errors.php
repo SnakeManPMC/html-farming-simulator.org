@@ -147,6 +147,15 @@ Fix: add "SILAGE_ADDITIVE" to fillTypes.xml as seen below:
 ESC mapview -> soil composition causes CTD. One possible scenario is that cultivator/fruit density images are 8192 x 8192 pixel resolution while rest are 16384 x 16384 pixels. Fix: Make all density images the same resolution.
 </p>
 
+TestRunner errors:
+<pre>
+CRITICAL root - XML parse error
+ERROR root - XML parse error
+</pre>
+<p>
+Fix: please read <a href="https://www.pmctactical.org/forum/viewtopic.php?p=188347#p188347" target="_blank">PMC Tactical forum farming-simulator.org Tutorials for FS22 post</a>.
+</p>
+
 </section>
 
 <footer>
