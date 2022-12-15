@@ -1941,6 +1941,69 @@ Exited GE v9.0.2 and then restored original heightmap PNG again. Changed modDesc
 2022-12-15T07:00:00Z Compiled PMC_Undefined_Farms_20km_v0.2.7z new testing version <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
+
+	<h2>2022-12-15 Utility Pole Wires</h2>
+
+<p>
+2022-12-15T22:18:00Z New editing day has started, todays short term goal is to add utility pole wires which I learned to do late last night (black wires for FS22). Also late last night I released v0.2 for testing with more field definition corner pieces, so that update was somewhat small even though it adds a lot of playability.
+</p>
+
+<p>
+Editing day starts with taking backups, as usual. Now backups are especially important as I start to mess with utility poles.
+</p>
+
+<p>
+Started GE v9.0.3, loaded terrain project, ran script to setup GE for large terrain and imported PMC_Helpers. Importing that tiny I3D again took forever, well I believe the I3D imports fast but then GE v9.0.3 is frozen (Not Responding) mode for many many minutes.
+</p>
+
+<p>
+2022-12-15T22:38:00Z Created first utility pole line with wires attached to the poles, it went through alright, starting to get muscle memory back, I have placed a lot of these wires with this technique.
+</p>
+
+<p>
+2022-12-15T22:43:00Z Second utility pole wire setup created, there was only two very long lines in this terrain. Cant recall if they were work in progress or by design only two lines.
+</p>
+
+<p>
+Then saved project and exited GE, we are done for utility pole wire editing <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Changed modDesc version to v0.2.1, edited readme.txt and release compilation bat files.
+</p>
+
+<p>
+2022-12-15T22:48:00Z Compiled PMC_Undefined_Farms_20km_v0.2.1.7z testing version, first I'm going to test it on Gaming computer before uploading to PMC Tactical forum developer testing, cant let buggy stuff through.
+</p>
+
+<p>
+2022-12-15T23:03:00Z Utility pole wire test was successful, no issues no errors. However after test was complete I checked required mods functionality... and there was none, log got errors for missing required mods when I started it without TrailerParkFarms (TPF) vehicle sheds.
+</p>
+
+<pre>
+2022-12-15 23:00   Warning: PlaceableUtil.loadPlaceable can only load existing store items, no store item for xml filename 'C:/FS22.Mods/PMC_Terrain_Testing/FS22_90x200ShedPack/92x200RedWhite.xml'
+2022-12-15 23:00   Warning: PlaceableUtil.loadPlaceable can only load existing store items, no store item for xml filename 'C:/FS22.Mods/PMC_Terrain_Testing/FS22_72x150ShedPack/72x150shedRedMain.xml'
+</pre>
+
+<p>
+So came back to editing computer and added modDesc.xml lines for:
+</p>
+
+<pre>
+	&lt;dependencies&gt;
+		&lt;dependency&gt;FS22_72x150ShedPack&lt;/dependency&gt;
+		&lt;dependency&gt;FS22_90x200ShedPack&lt;/dependency&gt;
+	&lt;/dependencies&gt;
+</pre>
+
+<p>
+And changed version to v0.2.2, then compiled another test version before heading to restroom for a much needed relief <img src="../images/smileys/icon_razz.gif" alt="Smiley :p" loading="lazy">
+</p>
+
+<p>
+2022-12-15T23:18:00Z Started to put together forum post for PMC_Undefined_Farms_20km_v0.2.2.7z testing release.
+</p>
+
 </section>
 
 <footer>
