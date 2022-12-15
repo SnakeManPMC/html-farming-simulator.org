@@ -1906,6 +1906,41 @@ Changed modDesc version to v0.1.9 and edited compilation bat file and readme.txt
 Short while later tested these edits, I did F591 oat harvest contract and it worked fine, it was close with the "can keep" better contracts mod announced value but yeah it worked fine.
 </p>
 
+
+	<h2>2022-12-15 Final Field Definition Corner Piece Edit</h2>
+
+<p>
+2022-12-15T05:55:00Z New editing day has started, plan is to add few more field definition corner pieces around the dealership.
+</p>
+
+<p>
+You know the drill, first taking backups, then unpacking 0m elevation heightmap PNG and only then launching GE v9.0.2 to start editing.
+</p>
+
+<p>
+2022-12-15T06:00:00Z First corner piece just W of the dealership edited, increased the single corner piece size now its much bigger field and covers cultivator_density pretty nicely.
+</p>
+
+<p>
+2022-12-15T06:11:00Z Finished small editing session, dunno how many fields I did, funny how it was only 11 minutes and my pinky copy-paste finger is already hurting (the previous keyboard shortcut keys did not work anymore, dunno why huh), but I pretty much got those fields done that I had plans for. Now I'm taking a lunch break.
+</p>
+
+<p>
+2022-12-15T06:37:00Z Lunch break over, hmm I'm going to do few more corner pieces...
+</p>
+
+<p>
+2022-12-15T06:56:00Z Uuh another set of corner pieces done, got some pretty nice medium to big size fields done now. At this point we are in the "what difference does it make" situation, there are already SO many fields with field definitions that nobody can claim there aren't enough to get Start From Zero or any other kind of savegame going and with 1888 fields... there is probably about 1800 field definitions to fix which I am for sure not going to do. So any further work would be just waste of time for no tangible result.
+</p>
+
+<p>
+Exited GE v9.0.2 and then restored original heightmap PNG again. Changed modDesc version to v0.2, edited readme.txt and release compilation bat files for new version.
+</p>
+
+<p>
+2022-12-15T07:00:00Z Compiled PMC_Undefined_Farms_20km_v0.2.7z new testing version <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
 </section>
 
 <footer>
