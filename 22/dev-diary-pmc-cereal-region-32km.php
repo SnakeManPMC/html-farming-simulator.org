@@ -740,6 +740,164 @@ Otherwise v0.1.3 build 3 is good to go, no errors in the log <img src="../images
 2022-02-12T01:07:00Z PMC Cereal Region 32km v0.1.3 released! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
+
+	<h2>2022-12-15 Terrain Edge Block And Some Bales</h2>
+
+<p>
+2022-12-09T17:48:00Z New editing day has started, edited modDesc.xml descVersion to 72.
+</p>
+
+<p>
+2022-12-15T07:54:00Z New editing day has started, this is very late in the day for me so plan is to just plug in few small fixes in nothing major. Do whatever I can before I get too sleepy.
+</p>
+
+<p>
+First took backups which 7-zip archive got copied to three HDDs and one other computer, never forget backups.
+</p>
+
+<p>
+Took selling point XML config files from <a href="pmc-super-six-6km.php">PMC Super Six 6km</a> and copied them over to PMC Cereal Region 32km placeables/ dir, also did the selling point 13 which should be removed but that is another issue. Now selling points should not interfere with baling contracts offering selling points as delivery locations which do not accept bales.
+</p>
+
+<p>
+Actually I'm not sure if this terrain has animal dealer, so while yeah that was a fix... the contracts still do not work as you cant deliver the bales anywhere heh. But as said, that is an separate issue <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Removed selling point 13, no more issue separate or not <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2022-12-15T08:05:00Z Scanned through bugs / issues list and there is no more text based edits I could do, now would need to fire up GE to do some heavy editing. Trying to plan ahead what to edit.
+</p>
+
+<p>
+2022-12-15T08:11:00Z Installed Giants Editor v9.0.3, just didn't want to see the update announcement any longer, don't know anything in v9.0.3 readme changelog what would be useful to me.
+</p>
+
+<p>
+2022-12-15T08:28:00Z Finished creating terrain edge blocks, 32768 in size, I followed my own tutorial <a href="../19/terrain-edge-block.php">FS19 Terrain Edge Block</a>. Was not difficult to do at all, just had to type in bunch of numbers. This transformgroup with those four planes can now be exported to other terrains and save few more clicks when doing other sizes, obviously for 32km terrain this can be just imported in and its done.
+</p>
+
+<p>
+Hit GE v9.0.3 CTRL-S save, now this... probably is going to last a very long time, I recall some silly numbers like 17 minutes.
+</p>
+
+<p>
+It took a while, but was not 17 min:
+</p>
+
+<pre>
+Scenefile 'E:/Farming.Simulator.22.Editing/PMC_Cereal_Region_32km/maps/PMC_Cereal_Region_32km/PMC_Cereal_Region_32km.i3d' saved in 395991.925678 ms at Thu Dec 15 08:34:50 2022.
+</pre>
+
+<p>
+Still too long though <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Now have to compile testing version, I want to make sure that terrain edge block works, it should, but until I see me hitting an invicible block in-game I cant be sure.
+</p>
+
+<p>
+Changed modDesc version to v0.1.4, edited readme.txt and compilation bat files.
+</p>
+
+<p>
+2022-12-15T08:42:00Z Compiled PMC_Cereal_Region_32km_v0.1.4.7z for testing.
+</p>
+
+<p>
+2022-12-15T09:05:00Z Finished testing, terrain edge block works as designed, nice. However got an error:
+</p>
+
+<pre>
+2022-12-15 08:46 Error: Failed to open xml file 'C:/FS22.Mods/PMC_Terrain_Testing/PMC_Cereal_Region_32km/maps/placeables/sellingpoints/sellingStation13.xml'.
+</pre>
+
+<p>
+Hmm that is bizarre, how can there be error when I removed that XML from placeables.xml config file, hmm where does this terrain reference that file, hmm hmm.
+</p>
+
+<p>
+Ah, found the issue. Did quick powergrep4 search across all my FS22 editing dir I3D and XML files and found this:
+</p>
+
+<pre>
+&lt;storeItem xmlFilename="maps/placeables/sellingpoints/sellingStation13.xml" /&gt;
+</pre>
+
+<p>
+Of course, that is on storeItems.xml file <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Got that fixed, did not change modDesc version number yet, I want to do that just before compiling new version and no point doing it right now after removing one line from XML config file. Just glad to have that fixed, there should be no more error.
+</p>
+
+<p>
+2022-12-15T09:49:00Z Had hard time finding something easy to fix, that it would not require some serious GE or GIMP editing along with other GDM/GRLE fiddling, but could not really find anything. Googled some selling point names and posted to <a href="https://www.pmctactical.org/forum/viewtopic.php?f=76&t=22813" target="_blank">PMC Tactical forum Catalog of selling point names topic</a>.
+</p>
+
+
+	<h2>2022-12-15 Utility Pole Wires</h2>
+
+<p>
+2022-12-15T23:44:00Z New editing day has started, todays goal is to add utility pole wires and do any small text based bug fixes I can, perhaps give unique names to selling points, not sure yet what I can manage and how long the utility pole wire work takes.
+</p>
+
+<p>
+As usual editing day begins with taking 7-zip backup and copying the .7z archive to another computer and three separate HDDs for safety.
+</p>
+
+<p>
+Started GE v9.0.3, loaded terrain project, ran script for large terrain and started to import PMC_helpers after which GE is frozen for a very long time...
+</p>
+
+<p>
+While waiting I was wondering if it would be worth the effort to create few more utility pole splines, but as this terrain is already several months old and besides one dude nobody is showing any interest on it, any time spent here most likely would be wasted. On the other hand if I would edit for the sake of feedback / interest, I would not be editing much <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+GE was processing so I went and added required mods classes to modDesc.xml dependencies property.
+</p>
+
+<p>
+2022-12-16T00:05:00Z GE finally finished that small I3D import task, now we can continue.
+</p>
+
+<p>
+First imported the utility pole with those wire transformgroups attached to it, then imported the actual wires object. Then deleted existing two utility pole lines.
+</p>
+
+<p>
+2022-12-16T00:22:00Z First utility pole objects set re-created with wires, looking good. These telephone wire lines in this terrain are just ridiculously long, this first line had 503 poles, I doubt there are that many poles in the whole elmcreek <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Now I would like to save, but hmm it might take a long time so its better to just export PMC_Helpers and the new utility pole objects to temporary I3D files until this editing session is over.
+</p>
+
+<p>
+2022-12-16T00:39:00Z Finished creating second utility pole wire line, uuh maaan these lines are LONG <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Saved project, this time it only took 15517.132945 ms, and exited GE. Changed modDesc version to v0.1.5, edited readme.txt and release compilation bat files.
+</p>
+
+<p>
+2022-12-16T00:43:00Z Compiled PMC_Cereal_Region_32km_v0.1.5.7z testing version. Now its time to test it out on Gaming computer before pushing it to PMC Tactical forum for public testing.
+</p>
+
+<p>
+2022-12-16T00:53:00Z Testing complete, we have a green light, aayeah <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2022-12-16T01:10:00Z Started to upload v0.1.5 for PMC Tactical forum testing <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
 </section>
 
 <footer>
