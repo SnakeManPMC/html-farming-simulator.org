@@ -1136,6 +1136,101 @@ infoLayer_tipCollisionGenerated.png from the savegame is 16384 pixel resolution,
 2022-12-10T03:42:00Z Started to upload PMC_Korkscrew_40km_v0.1.4.7z for PMC Tactical forum testing.
 </p>
 
+
+	<h2>2022-12-18 Utility Pole Wires</h2>
+
+<p>
+2022-12-18T12:08:00Z New editing day has started, todays goal is to add utility pole wires.
+</p>
+
+<p>
+First took backup, copied the 7-zip archive to three different HDDs and one another computer for safety, never forget backups, especially when you start to fiddle with big feature like utility poles (well, at least visible feature).
+</p>
+
+<p>
+Started GE v9.0.3, loaded terrain project up, ran setup large terrains script and then imported PMC_Helpers which caused GE to go into (Not Responding) mode for a very long time.
+</p>
+
+<p>
+Its so stupid that I'm wasting my valuable editing time just waiting for GE to finish freezing, just crazy stuff man.
+</p>
+
+<p>
+2022-12-18T12:19:00Z Finally GE sorted itself out, project loaded we are good to go. Was happy to see that this terrain only has two (2) utility pole splines so adding wires wont take long at all. However guess in a big picture its kind of bad that we only have two telephone lines here, hmm.
+</p>
+
+<p>
+Deleted existing utility pole objects which had no wires on them, imported new utility pole object with three transformgroups setup for the wires to connect and then imported the actual wire object, setup initial transformgroup IDs for EasyFence.lua script, now we are ready to start <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2022-12-18T12:29:00Z First utility pole objects (without wires) line re-created, whoah it was really long total of 745 poles on it, felt like flying along with it using RMB-WASD never ends heh.
+</p>
+
+<p>
+2022-12-18T12:42:00Z Finished re-creating both utility pole lines, put the new objects into Utility.Poles transformgroup and moved the source objects into PMC_Helpers and exported PMC_Helpers to its Exclude.For.Release/ dir location. Okay, it is done <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Decided to save the project at this point while I am going to stretch my legs and visit the head while GE is processing that saving (assuming it takes forever again).
+</p>
+
+<p>
+2022-12-18T12:59:00Z Saving done and now its time to add terrain edge block geometry things.
+</p>
+
+<p>
+Finished doing the planes, used my own <a href="../19/terrain-edge-block.php">PMC Farming Terrain Edge Block Tutorial</a>. Then ran into issue that cant find anything small and quick to fix, so lets delete PMC_Helpers, save the project, compile a new testing version and check it out so if there was some issue, its better to catch it now than hours later.
+</p>
+
+<p>
+Changed modDesc to v0.1.5 version. Added required mods dependency for TrailerParkFarms (TPF) vehicle sheds. Edited readme.txt and release compilation bat files.
+</p>
+
+<p>
+2022-12-18T13:12:00Z Compiled new PMC_Korkscrew_40km_v0.1.5.7z testing version.
+</p>
+
+<p>
+FS22 in-game test gives bad error:
+</p>
+
+<pre>
+2022-12-18 13:18 Error: Blocked area map is wrong size for terrain (32768 x 32768) vs (4096 x 4096)
+</pre>
+
+<p>
+Luckily its a known bug, so can easily fix, well ok not "easily" but there is nothing to it, just have to suffer through some GE work.
+</p>
+
+<p>
+Ran _run_graphicsmagick_FS22_infoLayer_create_black_32768.bat to create proper size infoLayer images. Then created new powergrep4 action file to replace GRLE with PNG on *.i3d and *.xml files, ran it, loaded terrain project in GE.
+</p>
+
+<p>
+2022-12-18T13:35:00Z Started GE saving.
+</p>
+
+<p>
+2022-12-18T13:44:00Z Finished saving, uuuh.
+</p>
+
+<p>
+Then did the usual new testing release shuffle.
+</p>
+
+<p>
+2022-12-18T13:45:00Z Compiled new PMC_Korkscrew_40km_v0.1.6.7z testing release.
+</p>
+
+<p>
+2022-12-18T13:51:00Z FS22 in-game test complete, no errors no warnings <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2022-12-18T14:00:00Z Started to put together PMC Tactical forum release for v0.1.6 testing version <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
 </section>
 
 <footer>
