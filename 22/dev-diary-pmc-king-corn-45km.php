@@ -1342,6 +1342,224 @@ Uuh. Then edited PMC_King_Corn_45km.i3d back from PNG to GRLE and changed modDes
 2022-12-10T03:56:00Z Started to upload PMC_King_Corn_45km_v0.1.1.7z for PMC Tactical forum users testing and playing.
 </p>
 
+
+	<h2>2022-12-18 Utility Pole Wires And Bug Hunt</h2>
+
+<p>
+2022-12-18T01:01:00Z New editing day has started, todays goal is to add wires to utility poles which means re-creating the poles and then add wires to them.
+</p>
+
+<p>
+First took backup of the terrain project dir, just in case there will be any issues while editing, backup 7-zip archive got copied to three different HDDs and one other computer for safety.
+</p>
+
+<p>
+Started GE v9.0.3, loaded terrain project up, ran large terrain script, then started to import PMC_Helpers which is fast but after which GE goes to (Not Responding) mode for a very very long time.
+</p>
+
+<p>
+2022-12-18T01:05:00Z While GE was processing whatever crap its doing, I'm going to grab a days first meal ...
+</p>
+
+<p>
+2022-12-18T01:30:00Z Feeding time is over, back to editing. GE had resolved its issues by now, nice.
+</p>
+
+<p>
+When I opened PMC_Helpers/Splines/ tranformgroup I was shocked to see how many splines there are, this re-creating poles with wires will take a long time as I got this many splines to do and its a huge 45km size terrain <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+Imported the new non flashing wire.i3d object, then imported utility pole object which has those three transformgroups where wires attach. Set them up to right transformgroups and added their IDs to EasyFence.lua script. Okay we are ready to begin re-creating some telephone / utility pole lines <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Was wondering how do I keep track which spline lines have been done or not, of course its easy to see if there are poles in the spline but still it would be nicer to have the actual splines in transformgroup be handled in some systematical way where no checking of existing poles is necessary, hmm hmm. So decided to create temporary jail-cell transformgroup for the done splines.
+</p>
+
+<p>
+2022-12-18T01:50:00Z First utility pole line with wires created and stored into fresh transformgroup, uuh it took a while to get that done as the spline was SO long. My estimate of this will take a while might have been a slightly optimistic, this will take hours <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+When creating the second line I realized that it could be tricky to RMB-WASD flying along the line that I don't mistakenly start flying along the first line, err difficult to explain. But if I want to be sure which line I'm following I'd have to select the pole root transformgroup and that causes slight performance issue with GE v9.0.3, nothing too bad but when wires are added then it gets real bad.
+</p>
+
+<p>
+Why am I RMB-WASD flying along a placed utility pole line? Well to make sure that on crossing roads the pole is not ON the road, also if there are any forests or tree lines, we don't want to end up really deep into the forest although usually that is not an issue as the spline does avoid forests. Its just an good idea to make sure the objects got created properly.
+</p>
+
+<p>
+Also after the fly around check I'll align all the objects to ground again, they are supposedly aligned to ground in the first place, but don't ask me how, sometimes they still "align better" when you use the align to ground LUA script.
+</p>
+
+<p>
+Actually nevermind about the difficulties following created utility pole lines, its easy to spot the just created objects as those are the ones WITHOUT wires <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2022-12-18T03:14:00Z Finished re-creating utility poles with wires, uuh took a while, but in the end after all... not actually as long as I feared. Feels great to have these fixed, now I get to attack the next bug on the list.
+</p>
+
+<p>
+2022-12-18T03:28:00Z Created terrain edge block geometry border thing. Terrain size is 45056 meters and that divided to two is 22528 meters, used <a href="../19/terrain-edge-block.php">PMC Farming Terrain Edge Block Tutorial</a>.
+</p>
+
+<p>
+Went through the bugs / issues list to find something else to fix, but hmm there was nothing "small" and easy to fix, was again hard to choose what issue to attack next. One issue was "small fields are missing" which would require heightmap PNG set to zero meters elevations for easy field definition editing, hmm so exit and reload of GE which takes ages, but guess its gotta be done.
+</p>
+
+<p>
+2022-12-18T03:36:00Z Exported PMC_Helpers and then deleted it. Saved project and exited GE.
+</p>
+
+<p>
+Took backup from heightmap PNG image, opened it in GIMP, set to RGB 0,0,0 flat zero meters and saved. Then started GE and loaded terrain project back up. Imported PMC_Helpers (for top down camera) and for some bizarre reason this did not take long time, no idea why, it just did earlier today on first start, heh odd <img src="../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+</p>
+
+<p>
+For some odd reason field definitions were oddly colored, they were not blue, they had different colors, huh what never seen that before? <img src="../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+</p>
+
+<a href="screenshots/PMC-King-Corn-45km-2022-12-18T0347.jpg" target="_blank"><img src="screenshots/thumbs/PMC-King-Corn-45km-2022-12-18T0347.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a> 
+
+<p>
+Oh well, time to add some fields.
+</p>
+
+<p>
+2022-12-18T04:10:00Z Exported temporary deleteme-fields i3d file for "saving" the fields, I don't want to save the whole 45km terrain project with 32768 pixel resolution infolayer files heh. Been adding several fields now, not copy pasting small field everywhere but just doing the old school style one by one, mostly single shapes but where its necessary I've added multiple corner pieces as well. Slow going, in big picture you could hardly tell that new fields were added yet, its only been like less than 10 new fields maybe.
+</p>
+
+<p>
+I was fixing the bug / issue of <i>"king corn 45km small fields are missing"</i>, but haven't actually added any small fields <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2022-12-18T04:52:00Z Finished adding field definitions, for now. Pretty good result, more fields, more corner pieces.
+</p>
+
+<p>
+Unpacked heightmap PNG original backup file to restore elevations. Okay its again time to do FS22 in-game test to see if I messed up anything that needs immediate correction.
+</p>
+
+<p>
+But while updating modDesc.xml config file I added required mods dependencies lines for TrailerParkFarms (TPF) vehicle sheds, then changed version to v0.1.2, updated readme.txt and compilation bat files.
+</p>
+
+<p>
+2022-12-18T05:06:00Z Compiled new PMC_King_Corn_45km_v0.1.2.7z testing version.
+</p>
+
+<p>
+2022-12-18T05:36:00Z FS22 in-game testing complete, and we got bad news. For some reason this terrain now screams for following error:
+</p>
+
+<pre>
+Available mod: (Hash: b7efedce205a332582d0568091a1a004) (Version: 0.1.1.0) PMC_King_Corn_45km
+2022-12-18 05:25 Error: Blocked area map is wrong size for terrain (32768 x 32768) vs (4096 x 4096)
+
+Available mod: (Hash: a6424a1d86da1932df676da678db73e1) (Version: 0.1.2.0) PMC_King_Corn_45km
+2022-12-18 05:13 Error: Blocked area map is wrong size for terrain (32768 x 32768) vs (4096 x 4096)
+</pre>
+
+<p>
+I also added v0.1.1 as reference point there, this error is on that version as well, I did test before releasing v0.1.1 to PMC Tactical forum testing and I got no error... I don't know why there is error now on the release packet. So started GE, loaded terrain project up and ran script -> setup large terrains and map -> create ground collision map, which took a long time to process. While GE was chewing on the collisions, I already changed moddesc version to 0.1.3 and updated rest of the compile files.
+</p>
+
+<p>
+Running that script took so long I was bored to DEATH.
+</p>
+
+<p>
+2022-12-18T06:20:00Z Its my lunch break, I'll leave piece of shit GE processing on the background <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2022-12-18T06:40:00Z Feeding time is over, lets get back to GE. During feeding collision map generation script finished so I hit CTRL-S to save, this saving did not take too long.
+</p>
+
+<p>
+I left GE running when I compiled v0.1.3 for in-game test, just in case there is still issues and need to do something in GE. Although... dunno what, if GDM / GRLE stuff is broken then those need to be edited in grleConverter PNG format.
+</p>
+
+<p>
+2022-12-18T06:42:00Z Compiled PMC_King_Corn_45km_v0.1.3.7z and switched to Gaming computer to test it out.
+</p>
+
+<p>
+2022-12-18T06:51:00Z Negative, still the same error, it was not the ground collision map.
+</p>
+
+<pre>
+Available mod: (Hash: d01da98cdb02d3bdaac549329d06fb78) (Version: 0.1.3.0) PMC_King_Corn_45km
+2022-12-18 06:46 Error: Blocked area map is wrong size for terrain (32768 x 32768) vs (4096 x 4096)
+</pre>
+
+<p>
+Exited GE as we need to start digging into GDM and GRLE images.
+</p>
+
+<p>
+Spent a lot of time debugging what resolution GDM and GRLE images are, GDM are 16384 and GRLE are 32768 except infoLayer_tipCollisionGenerated.grle is 16384 res.
+</p>
+
+<p>
+So I just proceeded to re-create infoLayer images and run them through GE save conversion to GRLE again, I doubt this changes anything but lets give it a try. On the next FS22 in-game test I'll try the official v0.1 release that what errors does that give with FS22 v1.8.2 engine version.
+</p>
+
+<p>
+2022-12-18T07:54:00Z Compiled PMC_King_Corn_45km_v0.1.4.7z for testing. I don't have high hopes for this, but gotta give it a try...
+</p>
+
+<p>
+Tested and no change, still the same error. Then tested v0.1 which is the first official release and current stable version... it does not give this blocked area map error, but the same old error I fixed already several days ago by adjusting size of the infoLayer images.
+</p>
+
+<p>
+Alright I'm going to take a quick frustration break to watch two tv show episodes, then I'll continue editing <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2022-12-18T10:18:00Z TV watching is over, back to editing. Got back several minutes ago, did some background research before broke back into dev diary. Next I'm going to try putting infoLayer all 32768 except placementCollisionGenerated to 4096, this should give the same densitymap error I had before... or something, I'm so confused with all these shit resolutions that takes a moment to write all variations down etc.
+</p>
+
+<p>
+Annoying that have to go through the infoLayer black image creation, GE loading and saving which takes forever, but yeah well.
+</p>
+
+<p>
+So once again used _run_graphicsmagick_FS22_infoLayer_create_black_32768.bat which now sets placementCollisionGenerated to 4096 res.
+</p>
+
+<p>
+2022-12-18T10:51:00Z All done, changed modDesc version to v0.1.5 and updated readme and compilation files.
+</p>
+
+<p>
+2022-12-18T11:03:00Z Yeah buddy! We have a winner and its called v0.1.5 <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+Tested: created new savegame, saved it, restarted FS22, reloaded savegame, no errors no warnings <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Awesome.
+</p>
+
+<p>
+So the fix here was to put placementCollisionGenerated to 4096 res and tipCollisionGenerated to 16384 res. That gives completely error and warning free terrain.
+</p>
+
+<p>
+Have to say that this was quite a bit of confusion, few days ago fixed densitymap error by adjusting infoLayer resolutions against what they were back in february 2022. I cant be sure, cant even remember, but it would not surprise me of the stuff worked error free back then and now giants changed something in the engine and I had to do this fix. But maybe it was never working and I just somehow didn't see the error... that sounds crazy, but yeah... anyways this is now, there is no error anymore so why dwell on what-was scenarios <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2022-12-18T11:15:00Z Started to upload PMC_King_Corn_45km_v0.1.5.7z for PMC Tactical forum testing <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
 </section>
 
 <footer>
