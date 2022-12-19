@@ -591,6 +591,85 @@ tipColInfoLayer.grle and infoLayer_tipCollisionGenerated.grle were 16384 res, so
 2022-12-10T03:27:00Z Started to upload new PMC_RedWhiteBlue_10km_v0.1.4.7z so it can be linked in PMC Tactical forum for users to test and play.
 </p>
 
+
+	<h2>2022-12-19 Utility Pole Wires</h2>
+
+<p>
+2022-12-19T00:37:00Z New editing day has started, todays goal is to add wires to utility poles, plus some smaller fixes anything I can manage.
+</p>
+
+<p>
+Day started by taking 7-zip backup, copying the .7z archive into three different HDDs and one other computer, never forget backups, especially today when starting to fiddle with utility pole wires.
+</p>
+
+<p>
+Loaded terrain project in GE v9.0.3 and ran setup large terrains script. Then imported PMC_Helpers which was fast but of course GE went into (Not Responding) mode for a long time, this shit never gets old... (not) <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+2022-12-19T00:47:00Z GE took ages in (Not Responding) mode, so I decided to go grab days first meal...
+</p>
+
+<p>
+2022-12-19T01:14:00Z Feeding time is over, back to PMC RedWhiteBlue 10km terrain editing.
+</p>
+
+<p>
+Imported utility pole object I3D with those three transformgroups setup so wires can be attached to them, then imported the actual wire object with plain and simple black color. Was again surprised to see that this terrain only has three (3) splines for the poles, hmm why so few <img src="../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+</p>
+
+<p>
+Well makes my job here quite easy or quick rather, wont take long to get these three splines done.
+</p>
+
+<p>
+2022-12-19T01:18:00Z Deleted the old utility poles which have no transformgroups for the wires, then started to create new ones.
+</p>
+
+<p>
+2022-12-19T01:27:00Z First spline placement with wires is complete. Looks like second one is very short, hmm.
+</p>
+
+<p>
+2022-12-19T01:34:00Z All three splines done, utility poles with wires created, all looking good. Well that did not take long, I haven't even finished my days first meal beverage yet.
+</p>
+
+<p>
+Next on the fixing list is to get terrain edge block geometry done so vehicles wont fall off the terrain, I'm using my <a href="https://www.farming-simulator.org/19/terrain-edge-block.php" target="_blank">Farming Simulator 19 Terrain Edge Block Tutorial</a> for that.
+</p>
+
+<p>
+2022-12-19T01:42:00Z OK terrain edge block geometry planes done, whats next? <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Vehicle shop aka the dealership spawn points were facing the building which made it annoying to drive your vehicles out of the yard, rotated these to face away from the building.
+</p>
+
+<p>
+2022-12-19T01:51:00Z Added several grass fields for contracts, small ones mostly, with one quite large one, should be a great grass contracting setup now.
+</p>
+
+<p>
+Saved GE terrain project and exited, oddly enough saving was instant aka normal now. Now its time to test this terrain, after a short restroom break <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Changed modeDesc version to v0.1.5, added required mods dependency config for TrailerParkFarms (TPF) vehicle sheds, edited readme.txt and release compilation bat files.
+</p>
+
+<p>
+2022-12-19T02:04:00Z Compiled new PMC_RedWhiteBlue_10km_v0.1.5.7z for testing. And now switching to Gaming computer to test that everything is working OK before pushing this release to public testing.
+</p>
+
+<p>
+2022-12-19T02:15:00Z v0.1.5 test complete, no errors no warnings, we're good to go <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+2022-12-19T02:28:00Z Started to upload v0.1.5 for PMC Tactical forum testing, aayeah! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
 </section>
 
 <footer>
