@@ -776,6 +776,118 @@ Edited modDesc.xml version to 0.2.5 and then it was time to compile new testing 
 2022-12-10T03:00:00Z Started to prepare v0.2.5 <a href="https://www.pmctactical.org/forum/viewtopic.php?f=78&t=22779" target="_blank">PMC Tactical forum topic</a> testing release by uploading it, etc.
 </p>
 
+
+	<h2>2022-12-19 Utility Pole Wires</h2>
+
+<p>
+2022-12-19T02:35:00Z New editing day has started, todays goal is to add wires to utility poles which I know from recent experience only takes mere hours if not less, then maybe I'll add in few more smaller edits, we'll take it one step at the time.
+</p>
+
+<p>
+Editing session begins with backups, never forget backups. 7-zip packet copied to three HDDs and one other computer for safe keeping.
+</p>
+
+<p>
+Hmm I like PMC Super Six 6km, got active savegame on it, Start From Zero, old school rules no stupid money making placeables <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2022-12-19T02:40:00Z Started GE v9.0.3, ran setup large terrains script, then imported PMC_Helpers which oddly enough did not leave GE processing forever in (Not Responding) mode, strange. Maybe its the small 6.1km terrain size, dunno.
+</p>
+
+<p>
+This terrain only has three splines for utility poles, hmm. Imported utility pole object with the three transformgroups setup where wires get attached, then imported the actual wire I3D model with black color, set these up to proper transformgroups so can start to create objects.
+</p>
+
+<p>
+2022-12-19T02:54:00Z All three utility pole splines have now new pole objects with wires generated. Well that did not take long at all, got a pretty good muscle memory for re-creating utility poles with wires now <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Then was scanning bugs / issues report list for something else to fix, hmm hmm.
+</p>
+
+<p>
+Terrain edge block geometry was missing so got that done using my <a href="https://www.farming-simulator.org/19/terrain-edge-block.php" target="_blank">Farming Simulator 19 Terrain Edge Block Tutorial</a> page.
+</p>
+
+<p>
+2022-12-19T03:08:00Z Now could not find anything "small" to fix in bugs / issues report list, hmm.
+</p>
+
+<p>
+Decided to export PMC_Helpers, save terrain project, exit GE and start to compile new testing version.
+</p>
+
+<p>
+Changed modDesc version to v0.2.6, edited readme.txt and release compilation bat files.
+</p>
+
+<p>
+2022-12-19T03:11:00Z Compiled new PMC_Super_Six_6km_v0.2.6.7z testing version, switched to Gaming computer to give it a try.
+</p>
+
+<p>
+2022-12-19T03:21:00Z FS22 in-game test complete, utility poles with wires looked mighty fine, but uh oh! there was a bad error:
+</p>
+
+<pre>
+Available mod: (Hash: 1eb6bbadb7bab93da140917849eaa040) (Version: 0.2.6.0) PMC_Super_Six_6km
+2022-12-19 03:18 Error: Blocked area map is wrong size for terrain (4096 x 4096) vs (2048 x 2048)
+</pre>
+
+<p>
+<img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+All GDM images are 8192 x 8192 pixel resolution. GRLE images are mixture of all kinds of fucking sizes, infoLayer_indoorMask.grle is 8192, infoLayer_navigationCollision.grle and infoLayer_placementCollisionGenerated.grle are 4096, infoLayer_tipCollisionGenerated.grle is 8192, PMC_Super_Six_6km_farmland.grle and tipColInfoLayer.grle are 2048, uuh <img src="../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+</p>
+
+<p>
+Converted GDM and GRLE to PNG using my usual bat file, then deleted GDM/GRLE images. Then used graphicsmagick to resize all infoLayer_* images to 8192 x 8192 pixel resolution. Then powergrep4 string replaced I3D file .GDM and .GRLE with .PNG extensions.
+</p>
+
+<p>
+Loaded terrain project in GE, did basic look around check everything looks normal, then saved project and exited GE. Next powergrep4 string replaced PNG with appropriate GDM/GRLE extensions. Did one more GE check to be sure everything looks OK, it did, alright time to make another testing version.
+</p>
+
+<p>
+2022-12-19T03:44:00Z Compiled PMC_Super_Six_6km_v0.2.7.7z for testing, hopefully this works...
+</p>
+
+<p>
+2022-12-19T03:48:00Z No dice, same error. Well makes sense, it says 4096 vs 2048, so hmm one of the infoLayer images must be 2048 just need to check my notes which one, hmm need to make Super Six unique graphicsmagick bat, or well 6.1km terrain unique.
+</p>
+
+<p>
+It just pisses me off to do these tests by bunny hopping between editing and gaming computers, especially if the test lasts just about 30sec <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+Looking at PMC King Corn 45km terrains graphicsmagic infoLayer generating bat file, its placementCollisionGenerated which needs to be smaller size.
+</p>
+
+<p>
+2022-12-19T04:07:00Z Compiled and tested v0.2.8 using all 8192 res infoLayer images, that fixed the error, uah. Have to admit, start to get, not tired sleeping wise but this latest round of back and forth between editing and gaming computers got so fucking OLD that I'm just about ready to chill rest of the day...
+</p>
+
+<p>
+2022-12-19T06:41:00Z Placeable selling points now do not accept straw, grass or silage etc few other items, bales are sold by the animal dealer.
+</p>
+
+<p>
+2022-12-19T06:50:00Z Compiled PMC_Super_Six_6km_v0.2.9.7z for testing.
+</p>
+
+<p>
+2022-12-19T07:03:00Z FS22 in-game test complete, new farmer game-mode vehicles do not appear in farm-manager or start from scratch anymore, straw and grass etc is only accepted on animal dealer now, all confirmed, v0.2.9 is looking good. Now going to take a short refreshment break.
+</p>
+
+<p>
+2022-12-20T09:52:00Z Well that short refreshment break turned into lack of motivation, now its the next day and time to start uploading v0.2.9 for PMC Tactical forum testing.
+</p>
+
 </section>
 
 <footer>
