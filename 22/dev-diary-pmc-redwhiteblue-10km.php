@@ -670,6 +670,41 @@ Changed modeDesc version to v0.1.5, added required mods dependency config for Tr
 2022-12-19T02:28:00Z Started to upload v0.1.5 for PMC Tactical forum testing, aayeah! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
+
+	<h2>Start From Zero check</h2>
+
+<p>
+2023-01-02T05:45:00Z Launched PMC RedWhiteBlue 10km v0.1.5 farm-manager savegame.
+</p>
+
+<p>
+First thing I noticed that in farm-manager game-mode new farmer vehicles are still present, so this has not been fixed in v0.1.5 ouch.
+</p>
+
+<p>
+Farmland areas are small for farm yards, smallest field area was farmland 35 which is 0.85ha and costs mere 8k. Absolutely no problem whatsoever to have start from zero here regarding farmland areas, this is probably one of the best farmlands I've done.
+</p>
+
+<p>
+Two small and one "huge" grass fields.
+</p>
+
+<p>
+Contracts filtered out fertilizing, sowing and spraying, then refreshed as much as possible... and available contracts list was less than one page. This terrain needs more field definitions, definitely. Highest paying contract was baling silage F29 15.3ha with ETA 2hrs 15min, must deliver 773.7k and can keep 86k liters. Lowest paying was harvest wheat F17 0.4ha with ETA 5min (haha), must deliver 6.3k and can keep 500 liters.
+</p>
+
+<p>
+This terrain needs more field definitions. But dunno isn't the goal anyways to make copy-paste field definitions to all fields aka those 0.9ha size place holders.
+</p>
+
+<p>
+2023-01-02T05:55:00Z This test result was: SUCCESS! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2023-01-03T19:11:00Z New editing day has started, not really, but in Sources/ dir GIMP design doc image dir files are still named "test" so I renamed it properly to PMC_RedWhiteBlue_10km. Renamed one bat and two GIMP XCF files too. Replaced test strings in the bat files using powergrep4.
+</p>
+
 </section>
 
 <footer>
