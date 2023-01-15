@@ -162,7 +162,7 @@ I immediately got fired up and switchd to PMC Gaming to try again <img src="../i
 </p>
 
 <p>
-Guess this should be embarrassing or goofy etc, but I didn't even blink as I noticed that oh okay I do have PMC_Korkscrew_40km terrain still here in the fs22 editing directory <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+Guess this should be embarrassing or goofy etc, but I didn't even blink as I noticed that oh okay I do have PMC_Korkscrew_40km terrain still here in the FS22 editing directory <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -174,7 +174,7 @@ I was surprised to find out that infoLayer resolutions are already 16384 so that
 </p>
 
 <p>
-Synced into fs22 mods dir and started game up, lets see what happens...
+Synced into FS22 mods dir and started game up, lets see what happens...
 </p>
 
 <pre>
@@ -388,7 +388,7 @@ heightScale="34" from L3DT quickly generated heightmap, it originally came out a
 </p>
 
 <p>
-Edited PMC_Korkscrew_40km.i3d for new heightScale value, actually forgot to do this before loading it in GE so exited, edited and then back into GE again. Aligned careerStart and vehicle shop to the ground and off the field, saved and then synced into fs22 mods dir, time for another in-game test.
+Edited PMC_Korkscrew_40km.i3d for new heightScale value, actually forgot to do this before loading it in GE so exited, edited and then back into GE again. Aligned careerStart and vehicle shop to the ground and off the field, saved and then synced into FS22 mods dir, time for another in-game test.
 </p>
 
 <p>
@@ -588,7 +588,7 @@ No placeables created.
 </p>
 
 <p>
-Design doc dir shows graphicsmagick bat files in the separated compartmentalized file setup before the all in one bat (I don't think there are one for fs22 yet, hmm). Terrain design is the goofy screwy looking which I really don't like, especially some of the roads are so wicked looking I never seen something like that in any google/maps areas.
+Design doc dir shows graphicsmagick bat files in the separated compartmentalized file setup before the all in one bat (I don't think there are one for FS22 yet, hmm). Terrain design is the goofy screwy looking which I really don't like, especially some of the roads are so wicked looking I never seen something like that in any google/maps areas.
 </p>
 
 <p>
@@ -604,11 +604,11 @@ PMC_Korkscrew_40km_design_doc.xcf is 10240 x 10240 resolution, so that makes it 
 </p>
 
 <p>
-And we start by taking backups. Then the basic get me up to speed orientation in-game check. When I synced the terrain project dir to fs22 mods dir and launched the game, the terrain was 45km trial version, oh right now I remember I initially tested it on this terrains project files, so now I need to restore the previous backup to get the original 40km version back.
+And we start by taking backups. Then the basic get me up to speed orientation in-game check. When I synced the terrain project dir to FS22 mods dir and launched the game, the terrain was 45km trial version, oh right now I remember I initially tested it on this terrains project files, so now I need to restore the previous backup to get the original 40km version back.
 </p>
 
 <p>
-When done that and a new sync launched fs22, first thing I noticed this terrain only has placeaholder text version of icon/preview images, so need to take a screenshot for some nicer preview image or perhaps use the design doc image.
+When done that and a new sync launched FS22, first thing I noticed this terrain only has placeaholder text version of icon/preview images, so need to take a screenshot for some nicer preview image or perhaps use the design doc image.
 </p>
 
 <p>
@@ -762,7 +762,7 @@ Then did... umm what, third? field divider adjustment in GIMP, this time it look
 </p>
 
 <p>
-2022-01-27T06:49:11Z Okay in GE it looks good enough for me, its still not american farming realistic tight field dividers but yeah this is good for now. Started to import PMC_Helpers again and seems like the usual insane long processing time delay, well this will be todays last import. After this is done I'm switching into the next terrain in our fs22 testing terrains release list.
+2022-01-27T06:49:11Z Okay in GE it looks good enough for me, its still not american farming realistic tight field dividers but yeah this is good for now. Started to import PMC_Helpers again and seems like the usual insane long processing time delay, well this will be todays last import. After this is done I'm switching into the next terrain in our FS22 testing terrains release list.
 </p>
 
 <p>
@@ -830,7 +830,7 @@ Created _run_rename_farmland_image_to_terrain_specific.bat file to rename farmla
 </p>
 
 <p>
-Then just copied PNG to terrain project dir, loaded it up in GE, checked (just in case) that it shows up, it did, save and exit. Next just removing GDM/GRLE equivalent PNGs, switching PMC_Korkscrew_40km.i3d PNG back to GDM/GRLE and then sync files to fs22 mods dir. Ready to test farmland.
+Then just copied PNG to terrain project dir, loaded it up in GE, checked (just in case) that it shows up, it did, save and exit. Next just removing GDM/GRLE equivalent PNGs, switching PMC_Korkscrew_40km.i3d PNG back to GDM/GRLE and then sync files to FS22 mods dir. Ready to test farmland.
 </p>
 
 <p>
@@ -908,11 +908,11 @@ That opening paragraph for today is copy-paste (except UTC stamp) because nothin
 </p>
 
 <p>
-First I moved PMC_Korkscrew_40km/ mod dir to fs22 dev mods dir (wow a lot of dirs) for in-game orientation check. These days always begin with some orientation, I don't even have access to the previous dev diaries I wrote (seen above in this page) when sitting and writing this paragraph now today (did I make it sound weird?). So I'm going in basically quite blind, cant remember much in what stage this terrain was on last editing session, honestly I cant even remember how this terrain looks as I have <a href="pmc-super-six-6km.php">6km</a>, <a href="pmc-redwhiteblue-10km.php">10km</a>, <a href="pmc-undefined-farms-20km.php">20km</a>, <a href="pmc-cereal-region-32km.php">32km</a>, this one and <a href="pmc-king-corn-45km.php">45km</a> terrains under work now hehe.
+First I moved PMC_Korkscrew_40km/ mod dir to FS22 dev mods dir (wow a lot of dirs) for in-game orientation check. These days always begin with some orientation, I don't even have access to the previous dev diaries I wrote (seen above in this page) when sitting and writing this paragraph now today (did I make it sound weird?). So I'm going in basically quite blind, cant remember much in what stage this terrain was on last editing session, honestly I cant even remember how this terrain looks as I have <a href="pmc-super-six-6km.php">6km</a>, <a href="pmc-redwhiteblue-10km.php">10km</a>, <a href="pmc-undefined-farms-20km.php">20km</a>, <a href="pmc-cereal-region-32km.php">32km</a>, this one and <a href="pmc-king-corn-45km.php">45km</a> terrains under work now hehe.
 </p>
 
 <p>
-Synced latest project dir files into fs22 mods dir, now we are ready for in-game check.
+Synced latest project dir files into FS22 mods dir, now we are ready for in-game check.
 </p>
 
 <p>
@@ -1229,6 +1229,223 @@ Then did the usual new testing release shuffle.
 
 <p>
 2022-12-18T14:00:00Z Started to put together PMC Tactical forum release for v0.1.6 testing version <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+
+	<h2>Start From Zero Check</h2>
+
+<p>
+2023-01-02T05:30:00Z Launched PMC Korkscrew 40km v0.1.6 farm-manager savegame.
+</p>
+
+<p>
+First thing I noticed that in farm-manager game-mode new farmer vehicles are still present, so this has not been fixed in v0.1.6 ouch.
+</p>
+
+<p>
+Farmland areas for farm yards are done. Cheapest and smallest farmland area is 55 which is 34.2ha and costs 325.6k. This terrain in the center area has tons of 300-600k costing land areas which surround farm yard land area 2 which costs 632.3k.
+</p>
+
+<p>
+No grass fields.
+</p>
+
+<p>
+Contracts filtered out fertilizing, sowing and spraying, then refreshed as much as possible... and available contracts list was less than one page. This terrain needs more field definitions, definitely. Highest paying contract was harvest oat F15 207.9ha with ETA 16hrs 35min, must deliver 2.039m and can keep 153.5k liters. Lowest paying was plowing F04 44ha with ETA 3hrs 21min, which is kind of in the high duration even for plowing.
+</p>
+
+<p>
+2023-01-02T05:43:00Z This test result was: FAILED!
+</p>
+
+<p>
+2023-01-03T19:00:00Z New editing day has started, not really, but in Sources/ dir GIMP design doc image dir is still named "test" so I renamed it properly to PMC_Korkscrew_40km. Renamed one bat and two GIMP XCF files too. Replaced test strings in the bat files using powergrep4.
+</p>
+
+
+	<h2>2023-01-11 Editing Field Definitions</h2>
+
+<p>
+2023-01-11T08:49:00Z New editing day has started, today is on the last quarter for me already but there is still several hours time so need to get started, no specific goal just to add as many fixes as I can within time and motivation remaining.
+</p>
+
+<p>
+Took backup of design doc even though I have no plans of editing it today, copied it over three different HDDs and also PMC Linux computer for safety. Then did same for the terrain project dir itself.
+</p>
+
+<p>
+Edited vehicles.xml and changed farmId="1" to farmId="1" defaultFarmProperty="true" string, now new farmer vehicles do not show up in farm-manager and start from scratch game-modes. Easy fix <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Selling points accepted grass, hay, silage etc which should only be accepted in animal dealer because the bale thing, fixed this by replacing sellingpoints/ dir from my objects.for.terrains/ template dir, a very simple fix heh.
+</p>
+
+<p>
+Then added selling point proper unique names, I made these from top of my head dunno if they came out OK but easy to change later if they still suck.
+</p>
+
+<p>
+Took backup of PMC_Korkscrew_40km_dem.png heightmap image, then opened PNG in GIMP, foreground fill painted RGB 0,0,0 meaning 0 meter flat elevations everywhere, saved and closed the image. Took backup of this 0m elevation heightmap PNG for future use as well.
+</p>
+
+<p>
+2023-01-11T09:17:00Z Started GE v9.0.2 (yeah v0.9.3 is buggy for me, crashes often) and loaded terrain project up, ran setup large terrains script, imported PMC_Helpers which was done fast and that surprised me.
+</p>
+
+<p>
+Then ran script to toggle field render areas. Had to go into GIMP design doc to check how this terrain looks like as I don't remember from top of my head, need to orient myself to north/south in GE heh.
+</p>
+
+<p>
+2023-01-11T09:23:00Z Started to create single shape field definitions, this will take a while and tortures my CTRL copy-paste finger <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+2023-01-11T09:45:00Z Reached end of first row, NW corner to NE corner, three cultivator_density fields.
+</p>
+
+<p>
+But now... I'm going to cook food and eat before continuing any further.
+</p>
+
+<p>
+2023-01-11T10:37:00Z Feeding time is over, back to suffering with field definitions.
+</p>
+
+<p>
+2023-01-11T11:23:00Z Reached SE corner, now one more row to go and then we are done unless I missed any spots <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+<b>2023-01-11T11:27:00Z Field definitions single shapes are now done!</b> <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+Did preferences hotkeys configuration as G for CTRL-D and H for CTRL-B, this way it was easier to press without using CTRL key which always murders my pinky finger in long typing sessions.
+</p>
+
+<p>
+Flew around in WASD-RMB mode, could not spot any missing field definitions, I think we are solid here.
+</p>
+
+<p>
+Moments later I realized that my G and H hotkeys were bad, if you type in transformgroup or attribute names, those keys trigger their shortcut action, ouch. Oh well need to disable them after done editing field definitions.
+</p>
+
+<p>
+2023-01-11T12:32:00Z Short break to do a household chore, now back to edit field definition corner pieces for the dealership area fields.
+</p>
+
+<p>
+2023-01-11T13:42:00Z Finished adding more corner pieces to the dealership area so Start From Zero savegames can get to easy beginning, don't have to drive half across the terrain for lucrative fertilizing contracts etc.
+</p>
+
+<p>
+Ran get field sizes script, number of fields 719, largest is Field 18 361.086ha, bulk of the copy-pasted single shape fields are 19ha and smallest field is Field 472 2.247ha in size.
+</p>
+
+<p>
+Then added several small to medium size grass fields. Did not manage to add any tiny ones for quick baling contracts, but well they are small enough I guess.
+</p>
+
+<p>
+Bugs / issues list had "small fields missing", well its up for a debate but yeah now I hadded tons of small fields when single shape field definitions got created.
+</p>
+
+<p>
+2023-01-11T13:58:00Z Deleted PMC_Helpers and saved project, exited GE. Right now I'm feeling tired, happy to have done all field definitions but I just feel tired like sleepy and kind of exhausted from the editing as well, going to "reward myself" with some TV watching now before snoozing off to sleep tonight. Today was pretty nice and important day for PMC Korkscrew 40km editing, cant wait to check out the results tomorrow in FS22 <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+
+	<h2>2023-01-11 Corner Pieces</h2>
+
+<p>
+2023-01-11T23:30:00Z New editing day has started, todays goal is to umm err hopefully create Start From Zero savegame to see if this terrain is compatible after all these fixes. But editing wise, hmm selling point locations might need a reshuffle, hmm dunno what else, need to do FS22 in-game test to find out.
+</p>
+
+<p>
+Last night field definition editing left heightmap as 0m elevations PNG, so I now restored the original from 7-zip backup packet.
+</p>
+
+<p>
+Copied maps_sprayTypes.xml from PMC Cereal Region 32km terrain, edited PMC_Korkscrew_40km.xml to point into this new file, now our fields spray rates are more decent levels.
+</p>
+
+<p>
+Edited modDesc.xml to v0.1.7, edited readme.txt and release compilation bats as well.
+</p>
+
+<p>
+2023-01-11T23:38:00Z Compiled PMC_Korkscrew_40km_v0.1.7.7z for testing, crossing fingers everything works.
+</p>
+
+<p>
+2023-01-12T00:05:00Z FS22 in-game check complete, everything was fine, great actually, except field definitions where the F020 - F071 were done with big single shapes and rest are just the tiny "copy-paste tiny fitting anywhere template" field definition. It looks extremely bad as just a bit more than half of the first two rows are big fields and rest are copy-paste tiny ones, that needs to be fixed no matter how crappy editing field definitions is.
+</p>
+
+<p>
+So unpacked 7-zip with heightmap 0m PNG image on it and started GE v9.0.2, ran setup large terrains and toggle render field areas scripts. Imported PMC_Helpers as I need my 2D top-down camera for accurate field definition creation, luckily that import did not take forever, dunno why. Then just browsed to F071 transformgroup and started to enlarge corner pieces. I am not going to do them all, but at least several, we'll see.
+</p>
+
+<p>
+2023-01-12T02:57:00Z All done editing field definition corner pieces, did some good work but I don't think its even half way done yet, probably more like 25% heh. Its just so mind numbingly boring and tedious task that I cant do any longer. Now I need to get into FS22 in-game test and if its OK then start autodrive MASTER savegame to record some network waypoints.
+</p>
+
+<p>
+Unpacked 7-zip heightmap backup, then edited modDesc readme etc yadi yada.
+</p>
+
+<p>
+2023-01-12T03:00:00Z Compiled PMC_Korkscrew_40km_v0.1.8.7z for testing and autodrive recording session, possibly even Start From Zero compatibility test as well.
+</p>
+
+<p>
+2023-01-12T03:48:00Z Finished FS22 in-game test and autodrive recording session for 2 selling points around the dealership, I immediately was shocked by the disgusting low res ground detail textures aka _weight image resolution, they were so blocky it was horrible. I need to change _weight image resolution from 4096 to 8192, also need to double check that _density images are 16384 res. All this requires graphcismagick work from design doc source, should not be a problem but lets take it carefully one step at the time.
+</p>
+
+<p>
+Took backup from terrain project dir, but not from design doc dir as that was done just hum yesterday or when it was. Now I can mess up the project and can still restore this last good stable version.
+</p>
+
+<p>
+Deleted some old PNGs and graphicsmagick bat files from design doc dir, then copied latest all-in-one graphicsmagick design doc to GE image processor bat file.
+</p>
+
+<p>
+I would like to increase GIMP XCF design doc image resolution to 16384, but hmm nah not now, some other time, lets not make things more complicated than they have to be.
+</p>
+
+<p>
+Used _run_graphicsmagick_FS19_weight_to_8192_ADVANCED.bat to resize _weight PNG images from 4096 to 8192 pixel resolution in PMC_Korkscrew_40km/data/ dir. Now these match the new ones coming from design doc. Next ran _run_graphicsmagick_FS19_weight_images_to_all_black_blank.bat to make sure there are no leftover overlapping etc pixels. Deleted cultivator_density.gdm and fruit_density.gdm images.
+</p>
+
+<p>
+Then edited PMC_Korkscrew_40km.i3d and replaced cultivator_density.gdm and fruit_density.gdm file extensions with PNG. Copied new _weight images into terrain project dir and then loaded it up with GE v9.0.2 fearing what might broke ...
+</p>
+
+<p>
+2023-01-12T04:23:00Z Well something did, hmm looks like cultivator_density and fruit_density are 10240 x 10240 resolution so number one, why do they work, I thought GE wont accept such resolutions? Interesting. Then second they make the terrain off-set, err dunno how to explain it, fields are too big for the terrain scale, hmm.
+</p>
+
+<p>
+Oops now I see what I did wrong, forgot to run _run_graphicsmagick_resize_cultivator-fruit_density_to_16384.bat to resize those images to 16384 res heh. Got that done, copied images to terrain dir and launched GE again ... and no issues. Hit CTRL-S to save GDM images, which took forever, it was now saving some new .cache. file.
+</p>
+
+<p>
+Once GE was finally done I again edited PNG to GDM file extensions in I3D file, deleted the _density.PNG's and thats about it.
+</p>
+
+<p>
+Did the file edit shuffle for v0.1.9 release.
+</p>
+
+<p>
+2023-01-12T04:41:00Z Compiled PMC_Korkscrew_40km_v0.1.9.7z for testing, hopefully now I can enjoy autodrive network recording better.
+</p>
+
+<p>
+2023-01-15T00:31:00Z With the above v0.1.9 testing release I did autodrive network and Start From Zero game-play compatibility test without any problems. Sure field definitions were unfinished, but single shapes are working OK.
 </p>
 
 </section>
