@@ -944,7 +944,7 @@ Vehicle sheds especially those CBJ ones with 1 million meter view distance would
 </p>
 
 <p>
-So I started PMC King Corn 45km terrain up in Farm Manager game mode, oh right that seems to work OK too, its tested now heh, with TPF's both vehicle shed packs included. No errors and the vehicle sheds look great.
+So I started PMC King Corn 45km terrain up in farm-manager game mode, oh right that seems to work OK too, its tested now heh, with TPF's both vehicle shed packs included. No errors and the vehicle sheds look great.
 </p>
 
 <p>
@@ -1558,6 +1558,341 @@ Have to say that this was quite a bit of confusion, few days ago fixed densityma
 
 <p>
 2022-12-18T11:15:00Z Started to upload PMC_King_Corn_45km_v0.1.5.7z for PMC Tactical forum testing <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+
+	<h2>Start From Zero Check</h2>
+
+<p>
+2023-01-02T04:45:00Z Launched PMC King Corn 45km v0.1.5 farm-manager savegame.
+</p>
+
+<p>
+First thing I noticed that in farm-manager game-mode new farmer vehicles are still present, so this has not been fixed in v0.1.5 ouch.
+</p>
+
+<p>
+Farmland image is decent, smallest area was farm yard farmland 3 which costs 19.7k. Cheapest actual field farmland was farmland 33 which is 8ha and costs 76.3k which is nothing really, not in terrain of this size.
+</p>
+
+<p>
+Land buy areas result is: EXCELLENT <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Grass fields count: 5 and go from smallish to medium to large.
+</p>
+
+<p>
+Contracts in this savegame start were oddly many plowing ones. Highest paying was plowing F39 711.5ha for 1.643m with estimated time 94hrs 45min haha. Cheapest contract plowing F09 10.5ha for 24.4k with estimated time 1hrs 20min. Harvest contracts were few mostly for fields over 100ha which means crazy big with ETAs beginning from 9hrs.
+</p>
+
+<p>
+However that movie duration F09 plowing contract is doable, its hard to steer plow tractor manually for one and a half hours, but... it is doable considering this is The Largest Terrain In Farming Simulator History.
+</p>
+
+<p>
+Just wondering if creating new savegames randomizes these contracts a bit, or are they more or less the same every time, that can this result be generalized on all starts.
+</p>
+
+<p>
+2023-01-02T05:01:00Z This test result was: SUCCESS! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2023-01-03T19:06:00Z New editing day has started, not really, just renaming some Source/ dir GIMP XCF design doc files and graphicsmagick bat files. Renamed two XCF images from test to PMC_King_Corn_45km file names, plus one L3DT exported PNG file. Replaced test strings in the bat files using powergrep4.
+</p>
+
+
+	<h2>2023-01-07 Editing For Zero</h2>
+
+<p>
+2023-01-07T20:23:00Z New editing day has started, todays goal is to add full Start From Zero compatibility or lets say confirm its there, add more if not all field definitions single shapes and once all that is done begin recording autodrive network routes. Also overall plan is to quickly fix any text based bug / issue reports I can for example proper names for all selling points.
+</p>
+
+<p>
+Day begins with backup, I created new _run_backup_Design_Doc_PMC_King_Corn_45km.bat bat file to backup design doc directory even though I am not planning on editing design doc, just want to get a backup to archives from it now. So ran that bat first, then ran _run_backup_PMC_King_Corn_45km.bat which took backup of the terrain project dir itself. Both of these 7-zip archives were copied to three different HDDs and also to PMC Linux computer. Never forget backups.
+</p>
+
+<p>
+Decided to begin todays editing with possibly the hardest task, creating single shape field definitions to all fields. If I manage to get this done, then rest will be a childs play in comparison.
+</p>
+
+<p>
+It was good to see my previous _backup_PMC_King_Corn_45km_dem_0meters.7z heightmap PNG backup file for 0m elevations which is perfect for greating field definitions on flat surface, so I unpacked that, now we have a "FLAT MAP" <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Started GE v9.0.3 and loaded PMC Kign Corn 45km terrain project, ran script setup for large terrains and toggle render field areas. Alright we are ready to begin creating field definitions. Err no wait, have to import PMC_Helpers to get 2D top-down camera, that will take a while with FS22 GE crap delays.
+</p>
+
+<p>
+2023-01-07T20:37:00Z Uh what, it loaded already, took no time, it just normally imported without delays, that is odd? Well I'm not complaining <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Okay first batch of copy-pasted single shape field definitions done.
+</p>
+
+<a href="screenshots/PMC-King-Corn-45km-2023-01-07T2043.jpg" target="_blank"><img src="screenshots/thumbs/PMC-King-Corn-45km-2023-01-07T2043.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
+
+<p>
+Now we continue doing rest of them, uuh this is going to be fun (not) heh.
+</p>
+
+<p>
+2023-01-07T20:57:00Z GE v9.0.3 crashed <img src="../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+</p>
+
+<p>
+What the fuck was that, I mean... REALLY? It just crashed when I LMB clicked field definition? <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+I lost a lot of work, in the grand scheme of things not a lot, but yeah crashes are completely unacceptable! <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+This sucks! <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+Okay, lets begin again <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+But this time I'll export field definitions transformgroup to an I3D file after every row of new field definitions are created. What really scares me is I did nothing special, just copy-pasted (duplicate CTRL-D using my shortcut "1" key) and then LMB clicked the actual field definition transformgroup for last field done, if that simply crashes... oh boy.
+</p>
+
+<p>
+2023-01-07T21:12:00Z First (northern most, from NW corner) row re-created, not yet there where it crashed the last time.
+</p>
+
+<p>
+2023-01-07T21:27:00Z Unbelievable, another crash <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<a href="screenshots/PMC-King-Corn-45km-2023-01-07T2127.jpg" target="_blank"><img src="screenshots/thumbs/PMC-King-Corn-45km-2023-01-07T2127.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
+
+<p>
+Not exactly crash, but GE failed to export the fields transformgroup. This is not good, not good at all <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+Saved GE and exited, worked OK, now lets restart and load the project back up, is it still working or not. Actually I'm going to use GE v9.0.2 which might work better, at least it never crashed on me before.
+</p>
+
+<p>
+Loaded still with same GE v9.0.3, project seems to work fine, I'll continue creating field definitions and if / when it crashes the next time, I'll switch to GE v9.0.2 then.
+</p>
+
+<p>
+2023-01-07T21:36:00Z Hmm reached end of second row, I think now we are somewhere near where the first crash went down, OK we continue.
+</p>
+
+<p>
+2023-01-07T21:45:00Z Another error dialog when trying to export Fields transfromgroup, alright saving the whole project then loading it back up with GE v9.0.2 (nine point zero point TWO). Lets see if that crap tool version would work any better.
+</p>
+
+<p>
+2023-01-07T21:55:00Z Had a problem configuring GE v9.0.2 shortcut hotkeys, could not get them to work so now have to use the piece of shit CTRL-D duplicate and CTRL-B interactive placement which is killing my pinky CTRL pressing finger on long run working / typing <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+But we continue, one row at the time <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+Some of these fields are a bit smaller than others, then have to shrink corner piece in the single shape I'm using as copy-paste template.
+</p>
+
+<a href="screenshots/PMC-King-Corn-45km-2023-01-07T2208.jpg" target="_blank"><img src="screenshots/thumbs/PMC-King-Corn-45km-2023-01-07T2208.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
+
+<p>
+2023-01-07T22:14:00Z Finished another row, so far no crashes with v9.0.2, crossing fingers even that pinky finger which presses CTRL and starts to get pretty sore already, ouch.
+</p>
+
+<p>
+2023-01-07T22:33:00Z Another row, another field export I3D.
+</p>
+
+<p>
+2023-01-07T22:45:00Z Row completed in W end, fields I3D exported. This is about the center height of the terrain now, about half way done.
+</p>
+
+<p>
+2023-01-07T22:52:00Z Reached E end of the row, exporting I3D again.
+</p>
+
+<p>
+2023-01-07T22:57:00Z Aand W end reached, this goes pretty well now, no crashed and pinky copy-paste CTRL finger while hurting, I can take the pain so far...
+</p>
+
+<p>
+2023-01-07T23:08:00Z Reached E end and was pleasantly surprised when scrolled 2D top-down view down, we have reached SE corner of the terrain, yes! One more row to go and then we are done <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+<b>2023-01-07T23:13:00Z All field definition single shapes done! Whohoo!</b> <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+Ran the script to get field sizes, there are total of 1095 fields now. Surprisingly low number but guess these fields in average are so much larger that it balances out the massive 45km terrain size. For example PMC Undefined Farms 20km has 1888 fields and its less than half the size of this terrain <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Then deleted PMC_Helpers transformgroup and saved terrain project, need to restore the real heightmap PNG before continuing next bug fix.
+</p>
+
+<p>
+Bulk of the single shape field definitions I copy-pasted around are 71.163 hectares of field size.
+</p>
+
+<p>
+Restored original heightmap PNG with elevations, started GE v9.0.2 and loaded terrain project up. Imported PMC_Helpers so get to work with selling point placeable models and now GE went into the 10+ min (Not Responding) mode where it does some processing on the background, no idea why.
+</p>
+
+<p>
+While GE was doing whoever knows what, I went to created proper selling point names for all 12 of them.
+</p>
+
+<p>
+New farmer vehicles appear in farm-manager and start from scratch game-modes, fixed that with vehicles.xml edit to add farmId="1" defaultFarmProperty="true" properties (farmid was already there but, they go together).
+</p>
+
+<p>
+2023-01-07T23:36:00Z Don't have anymore small text based editing to do, now need to wait until GE finished processing.
+</p>
+
+<p>
+Moved selling point 2 to south central region. Moved 9 to eastern region. Moved 10 to south east region. Updated new coordinates to placeables.xml config file.
+</p>
+
+<p>
+Spotted that selling point 12 was in a tree line, moved it across the road.
+</p>
+
+<p>
+Once all that was done exported PMC_helpers out again with these new edits, then saved project and shutdown GE, we are done here for now, its time to fs22 in-game test this beast.
+</p>
+
+<p>
+Changed modDesc.xml to v0.1.6, edited readme.txt and release compilation bat files.
+</p>
+
+<p>
+2023-01-08T00:02:00Z Compiled PMC_King_Corn_45km_v0.1.6.7z for testing.
+</p>
+
+<p>
+Tested in FS22, no errors, field definitions actually looked pretty decent in mapview, unfortunately I messed up the selling point coordinates and now those locations is very north heavy.
+</p>
+
+<p>
+2023-01-08T02:43:00Z Loaded terrain up in GE v9.0.2, imported PMC_Helpers which again took forever. Need to fix those selling point coordinates, they cant all be slammed into the northern region. I would like to paint selling point locations in GIMP design doc, but its a huge ordeal to go through all that tool pipeline to get new images show up in GE. Basically I do want to make nice fixes, but I don't want to end up messing up the whole terrain design for minimal gain (sure we have backup but still).
+</p>
+
+<p>
+Plan is now to move at least three selling points from the north to SE region, if I just can figure out the GE coords heh.
+</p>
+
+<p>
+2023-01-08T02:57:00Z Finally GE had gotten through the (Not Responding) process crap, lets get to work.
+</p>
+
+<p>
+The thing is that I don't remember all the locations in PMC King Corn 45km, in GE I can easily get disoriented that north looks like south and east looks like west, which is what happened earlier with selling point 2 for example, I tried to place it on SE region but it appeared in NW region heh. But now I have oriented myself correctly, I checked the train tracks which are coming from NE and go diagonally to S-SW, its now fairly easy to get your bearings.
+</p>
+
+<p>
+Placed selling point 2, 9, 10 and 12 into about SE region. Exported and deleted PMC_helpers, then saved project and exited. Its new in-game test.
+</p>
+
+<p>
+Changed modDesc.xml to v0.1.7, edited readme and compile files.
+</p>
+
+<p>
+2023-01-08T03:09:00Z Compiled PMC_King_Corn_45km_v0.1.7.7z for testing, here we go again.
+</p>
+
+<p>
+Test shows that selling points are now evenly distributed around the terrain, literally, in the center by the dealership we have selling point 1 (didn't check its proper name) and all the others are almost like in circle shape 50% way to the edges dunno how to explain it, its like a ring around the center of the terrain, which means that ANY other selling point besides the first and you are looking for huge distance to drive, there are no groups of selling points in the center area. Not that its anykind of requirement, selling points can be where ever because fields and farm yards are where ever, but just for someone who measures from the dealership, yup... every other than first selling point and its probably like 15-20km driving distance, one way <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+But that is fine for me, this is not a claustrophobic BRITISH MAPZ heh.
+</p>
+
+
+	<h2>2023-01-09 Narrow Roads Just Got PHAT</h2>
+
+<p>
+2023-01-09T00:28:00Z New editing day has started, todays goal is to increase asphalt and dirt road width and then start recording autodrive network waypoint routes. Day starts by taking backup of the terrain project, no need to take backup of design doc as I just did it (yesterday or day before?) and there has been no edits.
+</p>
+
+<p>
+First need to load design doc in GIMP, then enabled roads asphalt layer only, did select by color, grow 2 pixels and then foreground fill with asphalt color. Then selected layer railroads, select by color, then selected roads asphalt and hit delete, same for roads dirt, now there are no overlap on the ground detail textures for these three.
+</p>
+
+<p>
+Exported roads_asphalt.png and roads_dirt.png images. Saved XCF image and closed it. Then ran _run_design_doc_to_density_weight_images_all_in_one_2022-01-28.bat to graphicsmagick process all the PNG images into GE readable format.
+</p>
+
+<p>
+I am hoping this "simple" edit wont cause any havoc, I need to bring in fruit_density.png into GE because along with ground detail textures the grass has to be removed from roads which are now wider, so fruit_density is required, but for example cultivator_density is not needed because there were no changes to it.
+</p>
+
+<p>
+While graphicsmagick took its time processing, I already edited PMC_King_Corn_45km.i3d file to replace fruit_density.gdm with PNG file extension. Before copying new weight and density images to terrain project dir I ran _run_graphicsmagick_resize_cultivator-fruit_density_to_16384.bat file which sounds silly, but the design doc is 10240 x 10240 pixel resolution and density on terrain project dir are 16384 pixel resolution, so yup.
+</p>
+
+<p>
+Started GE v9.0.2 (yeah, I dislike v9.0.3 now with it crashing and LSD colored field definitions), loaded project up and ran setup large terrain script. Everything came out OK in GE... except roads are now way too fat, these start to remind me of the massive PMC Cereal Region 32km "50m wide" roads heh, at least dirt road is way way too fat. Also spotted that dirt road creeps into asphalt road so I forgot to cut dirt roads same as I did with train track selection.
+</p>
+
+<p>
+Close GE without saving, need to go back to GIMP and enlarge the selections only with 1 pixel, well I mean now I have to re-create them from scratch. Back in GIMP had to rename the "unnamed NUMBER" paths to railroad, asphalt and dirt so I recognize which is which. Then deleted roads asphalt painting, selected all the paths, selected RGB 150,150,150 and did stroke path using 6 pixels.
+</p>
+
+<p>
+Then selected roads dirt layer, next I'm going to do dirt roads with ... 4 pixels I think heh. Selected RGB 178,164,142 color, then went through each and every dirt (road) path and did stroke path with 4 pixels, this took a while as there are thirty dirt roads.
+</p>
+
+<p>
+Once all that was done I cut the railroad down to asphalt and dirt roads and asphalt roads down to dirt roads, get it? Good <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Then exported road PNGs again, saved XCF and close it, then ran graphicsmagick bat times two, copied PNGs to terrain project dir and launched GE.
+</p>
+
+<p>
+2023-01-09T01:34:00Z Terrain loaded up, setup large terrain script ran and results are; awesome! both asphalt and dirt roads now look "natural" regarding width, excellent <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+There was only one problem, all farm yards lost their "driveway" short dirt road. Hmm hmm. I recall doing that manually because using paths to that would have been too much work for no gain, hmm but guess thinking about it now, I would rather paint the paths than go paint driveways by hand all over again. Lesson learned.
+</p>
+
+<p>
+But for now I'll just save the project and I want to see how things look in FS22. Its one thing to see this in GE, its completely another matter how it works in practical vehicle driving conditions, like recording autodrive networks using semi-truck and grain trailer.
+</p>
+
+<p>
+2023-01-09T01:38:00Z I'm starving, while GE is saving going to grab some lunch ...
+</p>
+
+<p>
+2023-01-09T02:05:00Z Feeding time is over, back to GE to finish this terrain edit. Project was saved so exited.
+</p>
+
+<p>
+Edited PMC_King_Corn_45km.i3d to change fruit_density.png back to .GDM again, then deleted _density.png images from data\ dir. Changed modDesc.xml to v0.1.8, edited readme.txt and release compilation bat files to new version.
+</p>
+
+<p>
+2023-01-09T02:08:00Z Compiled PMC_King_Corn_45km_v0.1.8.7z for testing, time to switch to PMC Gaming computer with hopes that this works OK.
 </p>
 
 </section>
