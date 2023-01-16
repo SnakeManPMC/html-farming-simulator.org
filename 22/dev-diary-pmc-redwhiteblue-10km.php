@@ -705,6 +705,115 @@ This terrain needs more field definitions. But dunno isn't the goal anyways to m
 2023-01-03T19:11:00Z New editing day has started, not really, but in Sources/ dir GIMP design doc image dir files are still named "test" so I renamed it properly to PMC_RedWhiteBlue_10km. Renamed one bat and two GIMP XCF files too. Replaced test strings in the bat files using powergrep4.
 </p>
 
+
+	<h2>2023-01-15 Field Definitions</h2>
+
+<p>
+2023-01-15T02:46:00Z New editing day has started, todays goal is to prepare PMC RedWhiteBlue 10km terrain to autodrive network and Start From Zero game-play compatibility.
+</p>
+
+<p>
+First created _run_backup_Design_Doc_PMC_RedWhiteBlue_10km.bat backup file for design doc, not planning on editing it today but still want to have good backup. Ran that and also _run_backup_PMC_RedWhiteBlue_10km.bat for the terrain project itself. Now we are ready to continue editing without fear of losing progress if mistakes happen.
+</p>
+
+<p>
+Launched GE v9.0.2 (yeah .2 because .3 crashes often), loaded terrain project up, ran script setup large terrains 16km to cover whole 10km area, then ... uuh realized I forgot to do the heightmap PNG dance, argh hah. Okay exit GE <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Took 7-zip backup of PMC_RedWhiteBlue_10km_dem.png image, then opened PNG in GIMP, RGB 0,0,0 foreground filled the whole image, saved and closed PNG. Now our heightmap elevations are 0m everywhere, aka FLAT MAPZ <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+GE back up with the terrain and script, also selected Fields transformgroup and turned on toggle render field areas, then started to import PMC_Helpers, this surprisingly did not take a long time, odd. Okay now we are ready to start putting down single shape field definitions.
+</p>
+
+<p>
+Apparently there was no 2d top-down camera at all, hum, so created one with rotate X -90, NOW we are ready to start copy-pasting field definitions <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2023-01-15T03:23:00Z First row is complete, this was the NW to NE corners top most row of three fields. This terrain has road grid pattern so there are several different field sizes... yet they are pretty uniform, there is square big, square medium, narrow horizontal, narrow vertical and very narrow vertical, these are the types / shapes I've seen so far. So I am copy-pasting from the so called "first one" of each type so I don't have to edit corner pieces and get pretty much ready to be CTRL-B stamped down perfect size for a new field. Its somewhat slow going, I could be very fast by just copy pasting a small "one size fits all" template, but I rather want to have as fitting corner pieces as possible.
+</p>
+
+<p>
+2023-01-15T03:41:00Z And reached W end, switching to the next row of three fields, its going... not too fast, but, its going <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2023-01-15T04:32:00Z Forgot to write reaching E end and turning back, now reached W end again. Getting quite well not tired but hum bored and just simply don't want to do these crap field definitions in crap GE, but hey what can ya do, gotta take care of business.
+</p>
+
+<p>
+Need to take a short break though so I can get through this stuff.
+</p>
+
+<p>
+2023-01-15T05:05:00Z E end reached, I'm tempted to zoom out and take a look how much is left to do but that is always the big no no in terrain development, <i>"never ever zoom out..."</i> <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+Actually I know this is only about 50% done because in this row I tipped the bottom end of the central dealership area fields, so I hate to admit it but there is still about half left. I'm sort of wanting to just start using "tiny one size fits all" copy-paste field definition and with proper GE keyboard shortcuts do rest of the terrain in few minutes. However if I do that, then editing the corner pieces later is more work, than proceeding like this nice and slow.
+</p>
+
+<p>
+2023-01-15T05:26:00Z W end reached, uuh when does this torture stop? <img src="../images/smileys/icon_evil.gif" alt="Smiley :evil:" loading="lazy">
+</p>
+
+<p>
+Checked if I could go cook food already at this time and yes! I can, awesome, any moments I can stay away from shitty field definitions is a victory <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2023-01-15T05:29:00Z Cooking food and lunch break...
+</p>
+
+<p>
+2023-01-15T06:16:00Z Feeding time is over, back to terror of field definitions <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+2023-01-15T06:46:00Z reached W end and now the next row down is one single field at the S edge of the terrain, not much more to go, excited.
+</p>
+
+<p>
+<b>2023-01-15T06:55:00Z Field definitions are all done now!</b>
+</p>
+
+<a href="screenshots/PMC-RedWhiteBlue-10km-2023-01-15T0655.jpg" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-2023-01-15T0655.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
+
+<p>
+Uuh so glad that torture is over, what an relief. So now I'm going to scan through bugs / issues list of anything I can edit while GE is still running.
+</p>
+
+<p>
+Grass, hay, silage, straw is accepted on all selling points, replaced placeables/sellingpoints/ dir with objects.for.terrains/ template ones, now they have proper product list.
+</p>
+
+<p>
+Added unique proper names for all selling points.
+</p>
+
+<p>
+2023-01-15T07:07:00Z GE exported PMC_Helpers then saved project and exited.
+</p>
+
+<p>
+Restored original heightmap from backup, elevations are back.
+</p>
+
+<p>
+Hmm at this point I don't really know what else to edit, so did one last check in GE to make sure there are enough grass fields for those lucrative and easy (silage) baling contracts. Added few more small to medium size grass fields, saved and exited. We are done with GE for now, next it FS22 in-game test.
+</p>
+
+<p>
+Well this time saving seems to take a long time again. In the mean time changed modDesc.xml to v0.1.6, edited readme.txt and release compilation bat files.
+</p>
+
+<p>
+2023-01-15T07:26:00Z Compiled PMC_RedWhiteBlue_10km_v0.1.6.7z for testing, this is now the last terrain to be tested for Start From Zero compatibility, all others are OK.
+</p>
+
 </section>
 
 <footer>
