@@ -4,7 +4,6 @@
 <title>PMC Farm Lab - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC Farm Lab, Small Terrain To Test New Mods - PMC Farming">
-<META name="keywords" content="Terrain, Testing, Map, Mods, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -28,24 +27,10 @@ Terrain size 1280 meters x 1280 meters ie 1.2 kilometers x 1.2 kilometers (raven
 </p>
 
 <div>
-<p style="font-size: 10px;">
-Click for larger image
+<p>
+Click map image for more <a href="screenshots-pmc-farm-lab.php" target="_blank">screenshots</a>.
 </p>
-<a href="images/PMC-Farm-Lab-PDA.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/PMC-Farm-Lab-PDA.jpg" alt="Farming Simulator 19 Terrain - PMC Farm Lab, PDA Map" loading="lazy"></a>
-
-<a href="images/PMC-Farm-Lab-Precision-Farming-Soil-Types-2021-01-02T1821.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/PMC-Farm-Lab-Precision-Farming-Soil-Types-2021-01-02T1821.jpg" alt="Farming Simulator 19 Terrain - PMC Farm Lab, Precision Farming Soil Types" loading="lazy"></a>
-
-<a href="images/PMC-Farm-Lab-Precision-Farming-pH-2021-01-02T1821.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/PMC-Farm-Lab-Precision-Farming-pH-2021-01-02T1821.jpg" alt="Farming Simulator 19 Terrain - PMC Farm Lab, Precision Farming pH" loading="lazy"></a>
-
-<a href="images/PMC-Farm-Lab-Precision-Farming-Nitrogen-2021-01-02T1821.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/PMC-Farm-Lab-Precision-Farming-Nitrogen-2021-01-02T1821.jpg" alt="Farming Simulator 19 Terrain - PMC Farm Lab, Precision Farming Nitrogen" loading="lazy"></a>
-
-<a href="screenshots/PMC-Farm-Lab-2021-01-02T1833.jpg" target="_blank"><img class="terrainimg" src="screenshots/thumbs/PMC-Farm-Lab-2021-01-02T1833.jpg" alt="Farming Simulator 19 Terrain - PMC Farm Lab, Landscape" loading="lazy"></a>
-
-<a href="screenshots/PMC-Farm-Lab-2021-01-02T183437.jpg" target="_blank"><img class="terrainimg" src="screenshots/thumbs/PMC-Farm-Lab-2021-01-02T183437.jpg" alt="Farming Simulator 19 Terrain - PMC Farm Lab, Landscape" loading="lazy"></a>
-
-<a href="screenshots/PMC-Farm-Lab-2021-01-02T1834.jpg" target="_blank"><img class="terrainimg" src="screenshots/thumbs/PMC-Farm-Lab-2021-01-02T1834.jpg" alt="Farming Simulator 19 Terrain - PMC Farm Lab, Landscape" loading="lazy"></a>
-
-<a href="images/PMC-Farm-Lab-TestRunner-2021-01-03T1937.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/PMC-Farm-Lab-TestRunner-2021-01-03T1937.jpg" alt="Farming Simulator 19 Terrain - PMC Farm Lab, testRunner" loading="lazy" style="max-height:256px;"></a>
+<a href="screenshots-pmc-farm-lab.php" target="_blank"><img class="terrainimg" src="images/thumbs/PMC-Farm-Lab-PDA.jpg" alt="Farming Simulator 19 Terrain - PMC Farm Lab, PDA Map" loading="lazy"></a>
 </div>
 
 <p>
@@ -217,6 +202,7 @@ For installing please read <a href="install-mods.php">how to install FS19 mods</
 <footer>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<a href="screenshots-pmc-farm-lab.php" class="button">Screenshots PMC Farm Lab</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
 </p>
