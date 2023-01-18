@@ -257,7 +257,7 @@ For installing please read <a href="../19/install-mods.php">how to install FS19 
 
 <footer>
 <p>
-<a href="pmc-terrains.php" class="button">PMC Terrains FS22 page</a>
+<a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-redwhiteblue-10km.php" class="button">Changelog PMC RedWhiteBlue 10km</a>
 <a href="dev-diary-pmc-redwhiteblue-10km.php" class="button">Dev Diary PMC RedWhiteBlue 10km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>

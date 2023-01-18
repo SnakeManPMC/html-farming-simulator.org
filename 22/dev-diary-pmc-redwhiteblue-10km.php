@@ -881,7 +881,7 @@ Edited modDesc.xml to v0.2, readme.txt and compilation bat files as well.
 
 <footer>
 <p>
-<a href="pmc-terrains.php" class="button">PMC Terrains FS22 page</a>
+<a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-redwhiteblue-10km.php" class="button">Changelog PMC RedWhiteBlue 10km</a>
 <a href="pmc-redwhiteblue-10km.php" class="button">PMC RedWhiteBlue 10km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>

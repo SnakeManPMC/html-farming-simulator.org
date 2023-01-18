@@ -243,7 +243,7 @@ For installing please read <a href="install-mods.php">how to install FS19 mods</
 
 <footer>
 <p>
-<a href="pmc-terrains.php" class="button">PMC Farming Simulator 22 Terrains</a>
+<a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-korkscrew-40km.php" class="button">Changelog PMC Korkscrew 40km</a>
 <a href="dev-diary-pmc-korkscrew-40km.php" class="button">Dev Diary PMC Korkscrew 40km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root</a><br>
