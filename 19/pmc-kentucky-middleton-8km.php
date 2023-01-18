@@ -329,7 +329,7 @@ Field 276 (field) : 18.436 ha
 </section>
 
 <footer>
-<p><a href="pmc-terrains.php" class="button">PMC Farming Simulator Terrains page</a></p>
+<p><a href="pmc-terrains.php" class="button">PMC Terrains FS19</a></p>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>

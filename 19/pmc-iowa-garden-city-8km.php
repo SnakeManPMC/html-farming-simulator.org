@@ -338,7 +338,7 @@ Field 275 (field) : 2.859 ha
 
 <footer>
 <p>
-<a href="pmc-terrains.php" class="button">PMC Farming Simulator Terrains</a>
+<a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="changelog-pmc-iowa-garden-city-8km.php" class="button">Changelog PMC Iowa Garden City 8km</a>
 <a href="dev-diary-pmc-iowa-garden-city-8km.php" class="button">Dev Diary PMC Iowa Garden City 8km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root</a><br>
