@@ -20,7 +20,7 @@
 </header>
 
 <section>
-<p><b>2022-05-30T18:57:00Z</b> Updated. Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
+<p><b>2023-01-18T06:29:00Z</b> Updated. Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
 	<h2>PMC Grande Gardens 16km</h2>
 
@@ -29,25 +29,10 @@ Terrain size: 16384 meters x 16384 meters, which is 16.3 kilometers x 16.3 kilom
 </p>
 
 <div>
-<p style="font-size: 10px;">
-Click for larger image
-</p>
-<a href="images/PMC-Grande-Gardens-16km-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-Grande-Gardens-16km-PDA.jpg" alt="Farming Simulator 19 Terrain - PMC Grande Gardens 16km" loading="lazy" class="terrainimg"></a>
-
-<a href="images/PMC-Grande-Gardens-16km-Fields.jpg" target="_blank"><img src="images/thumbs/PMC-Grande-Gardens-16km-Fields.jpg" alt="Farming Simulator 19 Terrain - PMC Grande Gardens 16km. Fields" loading="lazy" class="terrainimg"></a>
-
-<a href="images/PMC-Grande-Gardens-16km-Soil-Composition.jpg" target="_blank"><img src="images/thumbs/PMC-Grande-Gardens-16km-Soil-Composition.jpg" alt="Farming Simulator 19 Terrain - PMC Grande Gardens 16km. Soil Composition" loading="lazy" class="terrainimg"></a>
-
-<a href="images/PMC-Grande-Gardens-16km-Farmland.jpg" target="_blank"><img src="images/thumbs/PMC-Grande-Gardens-16km-Farmland.jpg" alt="Farming Simulator 19 Terrain - PMC Grande Gardens 16km. Farmland" loading="lazy" class="terrainimg"></a>
-</div>
-
-<div>
 <p>
-Latest PMC Grande Gardens 16km Start From Zero video.
+Click map image for <a href="screenshots-pmc-grande-gardens-16km.php" target="_blank">screenshots</a>.
 </p>
-<iframe width="480" height="270"
-src="https://www.youtube.com/embed/Q3s0aliIDWs">
-</iframe>
+<a href="screenshots-pmc-grande-gardens-16km.php" target="_blank"><img src="images/thumbs/PMC-Grande-Gardens-16km-PDA.jpg" alt="Farming Simulator 19 Terrain - PMC Grande Gardens 16km" loading="lazy" class="terrainimg"></a>
 </div>
 
 <p>
@@ -418,6 +403,7 @@ For installing please read <a href="install-mods.php">how to install FS19 mods</
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="changelog-pmc-grande-gardens-16km.php" class="button">Changelog PMC Grande Gardens 16km</a>
 <a href="dev-diary-pmc-grande-gardens-16km.php" class="button">Dev Diary PMC Grande Gardens 16km</a>
+<a href="screenshots-pmc-grande-gardens-16km.php" class="button">Screenshots PMC Grande Gardens 16km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root</a><br>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
