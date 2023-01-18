@@ -511,7 +511,7 @@ Well I considered it during eating, but unfortunately all I see is never ending 
 </p>
 
 <p>
-This terrain is fictional and boring grid just quickly made up, I don't think any player will continue if there are huge land areas with unrealistic cheap price.
+This terrain is fictional and just quickly made up boring road grid, I don't think any player will complain if there are huge land areas with unrealistic cheap price.
 </p>
 
 <p>
