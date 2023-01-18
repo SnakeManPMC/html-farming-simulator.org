@@ -888,6 +888,10 @@ Looking at PMC King Corn 45km terrains graphicsmagic infoLayer generating bat fi
 2022-12-20T09:52:00Z Well that short refreshment break turned into lack of motivation, now its the next day and time to start uploading v0.2.9 for PMC Tactical forum testing.
 </p>
 
+<p>
+2023-01-03T19:13:00Z New editing day has started, not really, but in Sources/ dir GIMP design doc image dir files are still named "test" so I renamed it properly to PMC_Super_Six_6km. Renamed one bat and two GIMP XCF files too. Replaced test strings in the bat files using powergrep4.
+</p>
+
 </section>
 
 <footer>
