@@ -31,42 +31,10 @@ Terrain size: 32768 meters x 32768 meters, which is 32.7 kilometers x 32.7 kilom
 </p>
 
 <div>
-<p style="font-size: 10px;">
-Click for larger image. Screenshots do not include all placeable objects, sorry.
+<p>
+Click map image for more <a href="screenshots-pmc-cereal-region-32km.php" target="_blank">screenshots</a>.
 </p>
-<a href="screenshots/PMC-Cereal-Region-32km-Satellite.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-Satellite.jpg" alt="Farming Simulator 22 Terrain - PMC Cereal Region 32km Satellite Mapview" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Cereal-Region-32km-Growth.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-Growth.jpg" alt="Farming Simulator 22 Terrain - PMC Cereal Region 32km Growth" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Cereal-Region-32km-Soil-Composition.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-Soil-Composition.jpg" alt="Farming Simulator 22 Terrain - PMC Cereal Region 32km Soil Composition" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Cereal-Region-32km-Farmland.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-Farmland.jpg" alt="Farming Simulator 22 Terrain - PMC Cereal Region 32km Farmland" class="terrainimg"></a>
-
-<!-- old screenshots -->
-
-<a href="screenshots/PMC-Cereal-Region-32km-2021-12-31T1311.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-2021-12-31T1311.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
-
-<a href="screenshots/PMC-Cereal-Region-32km-2021-12-31T1430.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-2021-12-31T1430.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
-
-<!-- new screenshots -->
-<a href="screenshots/PMC-Cereal-Region-32km-2022-01-06T2020.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-2022-01-06T2020.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
-
-<a href="screenshots/PMC-Cereal-Region-32km-2022-01-06T2021.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-2022-01-06T2021.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
-
-<a href="screenshots/PMC-Cereal-Region-32km-2022-02-07T1950.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-2022-02-07T1950.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
-
-<a href="screenshots/PMC-Cereal-Region-32km-2022-02-07T1951_08.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-2022-02-07T1951_08.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
-
-<a href="screenshots/PMC-Cereal-Region-32km-2022-02-07T1951_34.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-2022-02-07T1951_34.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
-
-<a href="screenshots/PMC-Cereal-Region-32km-2022-02-07T1952.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-2022-02-07T1952.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
-
-<a href="screenshots/PMC-Cereal-Region-32km-2022-02-07T1953_14.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-2022-02-07T1953_14.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
-
-<a href="screenshots/PMC-Cereal-Region-32km-2022-02-07T1953_33.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-2022-02-07T1953_33.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
-
-<a href="screenshots/PMC-Cereal-Region-32km-2022-02-07T1953_54.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-2022-02-07T1953_54.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
-
+<a href="screenshots-pmc-cereal-region-32km.php" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-Satellite.jpg" alt="Farming Simulator 22 Terrain - PMC Cereal Region 32km Satellite Mapview" class="terrainimg"></a>
 </div>
 
 	<h2>New Farmer Game-Mode</h2>
@@ -219,6 +187,7 @@ For installing please read <a href="../19/install-mods.php">how to install FS19 
 <a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-cereal-region-32km.php" class="button">Changelog PMC Cereal Region 32km</a>
 <a href="dev-diary-pmc-cereal-region-32km.php" class="button">Dev Diary PMC Cereal Region 32km</a>
+<a href="screenshots-pmc-cereal-region-32km.php" class="button">Screenshots PMC Cereal Region 32km</a>
 <a href="../index.php" class="button">PMC Farming root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
