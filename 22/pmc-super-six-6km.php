@@ -4,7 +4,6 @@
 <title>PMC Super Six 6km Farming Simulator 22 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC Super Six 6km Farming Simulator 22 - PMC Farming">
-<META name="keywords" content="Terrain, Map, Super, Six, 6km, Big, Large, American, FS22, PMC, Farming, Simulator">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -22,7 +21,7 @@
 
 <section>
 <div class="terrain">
-<p><b>2022-02-06T19:21:00Z</b> Updated. Please read <a href="pmc-terrains.php">PMC Terrains</a> page for additional information.</p>
+<p><b>2023-01-18T10:45:00Z</b> Updated. Please read <a href="pmc-terrains.php">PMC Terrains</a> page for additional information.</p>
 
 	<h2>PMC Super Six 6km</h2>
 
@@ -31,43 +30,11 @@ Terrain size: 6144 meters x 6144 meters, which is 6.1 kilometers x 6.1 kilometer
 </p>
 
 <div>
-<p style="font-size: 10px;">
-Click for larger image
-</p>
-<a href="screenshots/PMC-Super-Six-6km-Satellite.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Super-Six-6km-Satellite.jpg" alt="Farming Simulator 22 Terrain - PMC Super Six 6km Satellite Mapview" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Super-Six-6km-Growth.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Super-Six-6km-Growth.jpg" alt="Farming Simulator 22 Terrain - PMC Super Six 6km Growth" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Super-Six-6km-Soil-Composition.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Super-Six-6km-Soil-Composition.jpg" alt="Farming Simulator 22 Terrain - PMC Super Six 6km Soil Composition" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Super-Six-6km-Farmland.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Super-Six-6km-Farmland.jpg" alt="Farming Simulator 22 Terrain - PMC Super Six 6km Farmland" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Super-Six-6km-2022-02-06T1330_07.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Super-Six-6km-2022-02-06T1330_07.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Super Six 6km Landscape"></a>
-
-<a href="screenshots/PMC-Super-Six-6km-2022-02-06T1330_29.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Super-Six-6km-2022-02-06T1330_29.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Super Six 6km Landscape"></a>
-
-<a href="screenshots/PMC-Super-Six-6km-2022-02-06T1330_50.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Super-Six-6km-2022-02-06T1330_50.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Super Six 6km Landscape"></a>
-
-<a href="screenshots/PMC-Super-Six-6km-2022-02-06T1331.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Super-Six-6km-2022-02-06T1331.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Super Six 6km Landscape"></a>
-
-<a href="screenshots/PMC-Super-Six-6km-2022-02-06T1333_01.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Super-Six-6km-2022-02-06T1333_01.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Super Six 6km Landscape"></a>
-
-<a href="screenshots/PMC-Super-Six-6km-2022-02-06T1333_42.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Super-Six-6km-2022-02-06T1333_42.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Super Six 6km Landscape"></a>
-
-</div>
-
-<!--
-<div>
 <p>
-Latest PMC Super Six 6km video.
+Click map image for more <a href="screenshots-pmc-super-six-6km.php" target="_blank">screenshots</a>.
 </p>
-<iframe width="480" height="270"
-src="https://www.youtube.com/embed/YOUTUBEIDHERE">
-</iframe>
+<a href="screenshots-pmc-super-six-6km.php" target="_blank"><img src="screenshots/thumbs/PMC-Super-Six-6km-Satellite.jpg" alt="Farming Simulator 22 Terrain - PMC Super Six 6km Satellite Mapview" class="terrainimg"></a>
 </div>
-<p>
-</p>
--->
 
 	<h2>New Farmer Game-Mode</h2>
 
@@ -237,6 +204,7 @@ For installing please read <a href="install-mods.php">how to install FS19 mods</
 <a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-super-six-6km.php" class="button">Changelog PMC Super Six 6km</a>
 <a href="dev-diary-pmc-super-six-6km.php" class="button">Dev Diary PMC Super Six 6km</a>
+<a href="screenshots-pmc-super-six-6km.php" class="button">Screenshots PMC Super Six 6km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
 </p>
