@@ -517,7 +517,7 @@ Not sure how is it to farm a large field with rough elevations even if they are 
 </p>
 
 <p>
-Checked heightmap in-game and I like it, but the farm yards are sloped and therefore to put it harshy, unusable. You cant park vehicles to sheds there if its sloped.
+Checked heightmap in-game and I like it, but the farm yards are sloped and therefore to put it harshly, unusable. You cant park vehicles to sheds there if its sloped.
 </p>
 
 <p>
