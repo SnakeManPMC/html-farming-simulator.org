@@ -71,7 +71,7 @@ All done, enjoy large scale American real world data farming with PMC terrain <i
 
 <footer>
 <p>
-<a href="pmc-terrains.php" class="button">PMC Terrains page</a>
+<a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
