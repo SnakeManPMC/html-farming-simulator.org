@@ -4,7 +4,6 @@
 <title>Montana Shelby 8km Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Montana Shelby 8km Farming Simulator 19 - PMC Farming">
-<META name="keywords" content="Terrain, Map, Montana, Shelby, 8km, Welker, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -26,7 +25,7 @@
 <b>Help wanted!</b> PMC is looking for serious terrain testers. We cannot fix issues if we don't know they exist, help us test <a href="pmc-terrains.php">PMC terrains</a> and send feedback. If interested <a href="../contact.php">contact us</a>.
 </p>
 
-<p><b>2021-05-28</b> Updated. Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
+<p><b>2023-01-18T09:33:00Z</b> Updated. Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
 	<h2>PMC Montana Shelby 8km</h2>
 
@@ -43,43 +42,10 @@ PMC Montana Shelby 8km <a href="https://www.google.com/maps/@48.5309788,-111.810
 </p>
 
 <div>
-<p style="font-size: 10px;">
-Click for larger image
-</p>
-<a href="screenshots/PMC-Montana-Shelby-8km-Satellite-PDA.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Shelby, Montana, USA. PDA Mapview" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Montana-Shelby-8km-Fields.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-Fields.jpg" alt="Farming Simulator 19 Terrain - Montana, Shelby, USA. Fields" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Montana-Shelby-8km-Farmland.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-Farmland.jpg" alt="Farming Simulator 19 Terrain - Montana, Shelby, USA. Farmland" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Montana-Shelby-8km-Precision-Farming-Soil-Types-2021-05-16.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-Precision-Farming-Soil-Types-2021-05-16.jpg" alt="Farming Simulator 19 Terrain - Shelby, Montana, USA. Precision Farming Soil Types" loading="lazy" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Montana-Shelby-8km-Precision-Farming-pH-2021-05-16.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-Precision-Farming-pH-2021-05-16.jpg" alt="Farming Simulator 19 Terrain - Shelby, Montana, USA. Precision Farming pH" loading="lazy" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Montana-Shelby-8km-Precision-Farming-Nitrogen-2021-05-16.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-Precision-Farming-Nitrogen-2021-05-16.jpg" alt="Farming Simulator 19 Terrain - Shelby, Montana, USA. Precision Farming Nitrogen" loading="lazy" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Montana-Shelby-8km-Precision-Farming-Economic-Analysis-2021-05-16.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-Precision-Farming-Economic-Analysis-2021-05-16.jpg" alt="Farming Simulator 19 Terrain - Shelby, Montana, USA. Precision Farming Economic Analysis" loading="lazy" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-05-17T1908.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-17T1908.jpg" alt="Farming Simulator 19 Terrain - Shelby, Montana, USA. Landscape" loading="lazy" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-05-17T1911.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-17T1911.jpg" alt="Farming Simulator 19 Terrain - Shelby, Montana, USA. Landscape" loading="lazy" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-05-17T1912.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-17T1912.jpg" alt="Farming Simulator 19 Terrain - Shelby, Montana, USA. Landscape" loading="lazy" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-05-17T1913.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-17T1913.jpg" alt="Farming Simulator 19 Terrain - Shelby, Montana, USA. Landscape" loading="lazy" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-05-17T1914.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-17T1914.jpg" alt="Farming Simulator 19 Terrain - Shelby, Montana, USA. Landscape" loading="lazy" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-05-17T1917.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-17T1917.jpg" alt="Farming Simulator 19 Terrain - Shelby, Montana, USA. Landscape" loading="lazy" class="terrainimg"></a>
-</div>
-
-<div>
 <p>
-Latest PMC Montana Shelby 8km video.
+Click map image for more <a href="screenshots-pmc-montana-shelby-8km.php" target="_blank">screenshots</a>.
 </p>
-<iframe width="480" height="270"
-src="https://www.youtube.com/embed/8AWi9yOcads">
-</iframe>
+<a href="screenshots-pmc-montana-shelby-8km.php" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - Shelby, Montana, USA. PDA Mapview" class="terrainimg"></a>
 </div>
 
 <p>
@@ -414,6 +380,7 @@ For installing please read <a href="install-mods.php">how to install FS19 mods</
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="changelog-pmc-montana-shelby-8km.php" class="button">Changelog PMC Montana Shelby 8km</a>
 <a href="dev-diary-pmc-montana-shelby-8km.php" class="button">Dev Diary PMC Montana Shelby 8km</a>
+<a href="screenshots-pmc-montana-shelby-8km.php" class="button">Screenshots PMC Montana Shelby 8km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
 </p>
