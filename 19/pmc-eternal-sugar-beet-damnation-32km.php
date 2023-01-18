@@ -4,7 +4,6 @@
 <title>PMC Eternal Sugar Beet Damnation 32km - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC Eternal Sugar Beet Damnation 32km - PMC Farming">
-<META name="keywords" content="Eternal, Sugar, Beet, Damnation, 32km, Big, Fields, Map, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -27,6 +26,8 @@
 <b>Help wanted!</b> PMC is looking for serious terrain testers. We cannot fix issues if we don't know they exist, help us test <a href="pmc-terrains.php">PMC terrains</a> and send feedback. If interested <a href="../contact.php">contact us</a>.
 </p>
 
+<p><b>2023-01-18T06:39:00Z</b> Updated. Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
+
 <p>
 Terrain size 32,768 meters x 32,768 meters ie 32.7 kilometers x 32.7 kilometers (ravenport is 2km), terrain type: fictional, nonsense funny / scary joke map.
 </p>
@@ -40,12 +41,10 @@ No mapview screenshots as there is no point, PDA is single green color, there is
 </p>
 
 <div>
-<p style="font-size: 10px;">
-Click for larger image
+<p>
+Click image for more <a href="screenshots-pmc-eternal-sugar-beet-damnation-32km.php" target="_blank">screenshots</a>.
 </p>
-<a href="screenshots/PMC-Eternal-Sugar-Beet-Damnation-32km-2021-01-13T0229.jpg" target="_blank"><img class="terrainimg" src="screenshots/thumbs/PMC-Eternal-Sugar-Beet-Damnation-32km-2021-01-13T0229.jpg" alt="Farming Simulator 19 Terrain - PMC Eternal Sugar Beet Damnation 32km, Landscape" loading="lazy"></a>
-
-<a href="screenshots/PMC-Eternal-Sugar-Beet-Damnation-32km-2021-01-13T0230.jpg" target="_blank"><img class="terrainimg" src="screenshots/thumbs/PMC-Eternal-Sugar-Beet-Damnation-32km-2021-01-13T0230.jpg" alt="Farming Simulator 19 Terrain - PMC Eternal Sugar Beet Damnation 32km, Landscape" loading="lazy"></a>
+<a href="screenshots-pmc-eternal-sugar-beet-damnation-32km.php" target="_blank"><img class="terrainimg" src="screenshots/thumbs/PMC-Eternal-Sugar-Beet-Damnation-32km-2021-01-13T0229.jpg" alt="Farming Simulator 19 Terrain - PMC Eternal Sugar Beet Damnation 32km, Landscape" loading="lazy"></a>
 </div>
 
 <p>
@@ -125,6 +124,7 @@ If you need installing help please read <a href="install-mods.php">how to instal
 <footer>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<a href="screenshots-pmc-eternal-sugar-beet-damnation-32km.php" class="button">Screenshots PMC Eternal Sugar Beet Damnation 32km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
