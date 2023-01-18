@@ -4,7 +4,6 @@
 <title>Design Doc To Density And Weight Images Using GraphicsMagick - PMC Farming Simulator 19</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Design Doc To Density And Weight Images Using GraphicsMagick - PMC Farming Simulator 19">
-<META name="keywords" content="GIMP, Terrain, Design, Document, GraphicsMagick, Convert, Image, FS19, PMC, Farming, Simulator">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -28,7 +27,7 @@
 </p>
 
 <p>
-This tutorial is a work in progress. Please read it, try it and ask help in <a href="../contact.php">PMC Farming discord</a> #fs19_terrains channel with specific details of what doesn't work.
+This tutorial is a work in progress. Please read it, try it and ask help in <a href="../contact.php">PMC Tactical Forum</a> FS19 editing area with specific details of what doesn't work.
 </p>
 
 <p>
