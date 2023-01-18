@@ -814,6 +814,69 @@ Well this time saving seems to take a long time again. In the mean time changed 
 2023-01-15T07:26:00Z Compiled PMC_RedWhiteBlue_10km_v0.1.6.7z for testing, this is now the last terrain to be tested for Start From Zero compatibility, all others are OK.
 </p>
 
+
+	<h2>2023-01-17 Final Definition</h2>
+
+<p>
+2023-01-17T02:02:00Z New editing day has started, todays goal is just a minor tweaks, bug fixes really, delete duplicate field definition, fix another field definition going over a farm yard, remove new farmer vehicles from other game modes, and any other small text based edits I can squeeze in.
+</p>
+
+<p>
+As usual started the editing day by taking a backup, you never know.
+</p>
+
+<p>
+Restored 0m elevation heightmap for field definition editing. Then started GE v9.0.2 and loaded terrain project up with usual script setup's. Next imported PMC_Helpers because I love my 2d top-down camera angle.
+</p>
+
+<p>
+Edited field definitions one row N from the dealership as alignment was off, shifted them properly dead center of cultivator_density field area. This was hilarious "issue" as the field ID number was just <i>slightly</i> off alignment and I went nuts in-game... heh dude, children are starving in afrika's savannas and you are worrying about your stupid ID alignment!? <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+Edited field definitions NW corner one as its duped, two stacked on top of each other, looks like F34 and F31 in-game. This was a super quick fix, just move camera on top of NW corner, DOWN arrow key browse through fields transformgroup until you come up to the duplicating (second) field definition, hit delete and its done. More this kind of editing, please <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+<i>Edit: later hindsight... little did I know that because I deleted field 34 all the remaining field numbers are now ONE less, so lets say F035 just became F034 and F036 became F035 and so on and so on... Oh well, I didn't release this version yet so only one suffering about this edit is myself and my extensive autodrive network waypoints where targets are now wrong, they are close but still, wrong... sucks. Well another lesson learnt, never ever DELETE field definition if you have a dupe, just MOVE it somewhere else and all field numbers remain the same.</i>
+</p>
+
+<p>
+2023-01-17T02:26:00Z Just finished adding "-do-me" suffix to all field definitions that has a farm yard next to them, meaning there is like U shape field definition which is now done with a single shape, meaning the tips of the U are missing, if you allow this odd description of it.
+</p>
+
+<p>
+Also I am thinking of experimenting with one or two MEGA fields, like 240ha full section sizes here. Its not easily doable because it requires design doc change for cultivator density and I have already created autodrive network waypoint routes which would have to be re-made, but I just wanted to see in-game with contracts that what sort of effect a huge field would have in this terrain.
+</p>
+
+<p>
+2023-01-17T03:21:00Z Finished editing field definition corner pieces for the farm yards, also fixed alignment for several tiny fields just N of the dealership area.
+</p>
+
+<p>
+Deleted PMC_Helpers and saved terrain project, exited GE. Restored original heightmap elevations.
+</p>
+
+<p>
+New farmer vehicles appear in farm manager and start from scratch game-modes, that got fixed by editing vehicles.xml and adding defaultFarmProperty="true" next to farmId="1" value. Easy fix.
+</p>
+
+<p>
+2023-01-17T03:28:00Z And now hmm cant think of anything small to edit. I am a bit scared of experimenting with that huge field so didn't do it. Guess there is not more to do than change version and compile a new release.
+</p>
+
+<p>
+Edited modDesc.xml to v0.2, readme.txt and compilation bat files as well.
+</p>
+
+<p>
+2023-01-17T03:30:00Z Compiled PMC_RedWhiteBlue_10km_v0.2.7z for testing.
+</p>
+
+<p>
+2023-01-17T03:50:00Z Something went wrong with... dunno where exactly, modDesc.xml was still v0.1.6 when I unpacked the "v0.2" release packet in PMC Gaming, so changed modDesc.xml and compiled v0.2.1 release <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
 </section>
 
 <footer>
