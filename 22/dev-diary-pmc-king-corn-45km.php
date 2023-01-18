@@ -285,7 +285,7 @@ That took extremely long time to run the design doc to weight images conversion 
 </p>
 
 <p>
-So restored the 10240 x 10240 res version back, basically just didn't resize the images afer exporting.
+So restored the 10240 x 10240 res version back, basically just didn't resize the images after exporting.
 </p>
 
 <p>
