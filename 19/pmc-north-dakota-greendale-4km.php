@@ -267,6 +267,8 @@ For installing please read <a href="install-mods.php">how to install FS19 mods</
 <footer>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<a href="changelog-pmc-north-dakota-greendale-4km.php" class="button">Changelog PMC North Dakota Greendale 4km</a>
+<a href="dev-diary-pmc-north-dakota-greendale-4km.php" class="button">Dev Diary PMC North Dakota Greendale 4km</a>
 <a href="screenshots-pmc-north-dakota-greendale-4km.php" class="button">Screenshots PMC North Dakota Greendale 4km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>

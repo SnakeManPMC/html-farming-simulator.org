@@ -324,7 +324,9 @@ Changelog for <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Gree
 <footer>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<a href="dev-diary-pmc-north-dakota-greendale-4km.php" class="button">Dev Diary PMC North Dakota Greendale 4km</a>
 <a href="pmc-north-dakota-greendale-4km.php" class="button">PMC North Dakota Greendale 4km</a>
+<a href="screenshots-pmc-north-dakota-greendale-4km.php" class="button">Screenshots PMC North Dakota Greendale 4km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
