@@ -4,7 +4,6 @@
 <title>PMC King Corn 45km Farming Simulator 22 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC King Corn 45km Farming Simulator 22 - PMC Farming">
-<META name="keywords" content="Terrain, Big, Map, King, Corn, 45km, FS22, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -22,7 +21,7 @@
 
 <section>
 <div class="terrain">
-<p><b>2022-02-09T23:06:00Z</b> Updated. Check <a href="pmc-terrains.php">PMC Terrains</a> page for more FS22 terrains.</p>
+<p><b>2023-01-18T10:01:00Z</b> Updated. Check <a href="pmc-terrains.php">PMC Terrains</a> page for more FS22 terrains.</p>
 
 	<h2>PMC King Corn 45km</h2>
 
@@ -35,41 +34,11 @@ Terrain size: 45056 meters x 45056 meters, which is 45 kilometers x 45 kilometer
 </p>
 
 <div>
-<p style="font-size: 10px;">
-Click for larger image
-</p>
-<a href="screenshots/PMC-King-Corn-45km-Satellite.jpg" target="_blank"><img src="screenshots/thumbs/PMC-King-Corn-45km-Satellite.jpg" alt="Farming Simulator 22 Terrain - PMC King Corn 45km Satellite Mapview" class="terrainimg"></a>
-
-<a href="screenshots/PMC-King-Corn-45km-Growth.jpg" target="_blank"><img src="screenshots/thumbs/PMC-King-Corn-45km-Growth.jpg" alt="Farming Simulator 22 Terrain - PMC King Corn 45km Growth" class="terrainimg"></a>
-
-<a href="screenshots/PMC-King-Corn-45km-Soil-Composition.jpg" target="_blank"><img src="screenshots/thumbs/PMC-King-Corn-45km-Soil-Composition.jpg" alt="Farming Simulator 22 Terrain - PMC King Corn 45km Soil Composition" class="terrainimg"></a>
-
-<a href="screenshots/PMC-King-Corn-45km-Farmland.jpg" target="_blank"><img src="screenshots/thumbs/PMC-King-Corn-45km-Farmland.jpg" alt="Farming Simulator 22 Terrain - PMC King Corn 45km Farmland" class="terrainimg"></a>
-
-<a href="screenshots/PMC-King-Corn-45km-2022-02-07T1454.jpg" target="_blank"><img src="screenshots/thumbs/PMC-King-Corn-45km-2022-02-07T1454.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC King Corn 45km Landscape"></a>
-
-<a href="screenshots/PMC-King-Corn-45km-2022-02-07T1455_19.jpg" target="_blank"><img src="screenshots/thumbs/PMC-King-Corn-45km-2022-02-07T1455_19.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC King Corn 45km Landscape"></a>
-
-<a href="screenshots/PMC-King-Corn-45km-2022-02-07T1455_45.jpg" target="_blank"><img src="screenshots/thumbs/PMC-King-Corn-45km-2022-02-07T1455_45.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC King Corn 45km Landscape"></a>
-
-<a href="screenshots/PMC-King-Corn-45km-2022-02-07T1457_41.jpg" target="_blank"><img src="screenshots/thumbs/PMC-King-Corn-45km-2022-02-07T1457_41.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC King Corn 45km Landscape"></a>
-
-<a href="screenshots/PMC-King-Corn-45km-2022-02-07T1458.jpg" target="_blank"><img src="screenshots/thumbs/PMC-King-Corn-45km-2022-02-07T1458.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC King Corn 45km Landscape"></a>
-
-</div>
-
-<!--
-<div>
 <p>
-Latest PMC King Corn 45km video.
+Click map image for more <a href="screenshots-pmc-king-corn-45km.php" target="_blank">screenshots</a>.
 </p>
-<iframe width="480" height="270"
-src="https://www.youtube.com/embed/YOUTUBEIDHERE">
-</iframe>
+<a href="screenshots-pmc-king-corn-45km.php" target="_blank"><img src="screenshots/thumbs/PMC-King-Corn-45km-Satellite.jpg" alt="Farming Simulator 22 Terrain - PMC King Corn 45km Satellite Mapview" class="terrainimg"></a>
 </div>
-<p>
-</p>
--->
 
 	<h2>New Farmer Game-Mode</h2>
 
@@ -251,6 +220,7 @@ For installing please read <a href="../19/install-mods.php">how to install FS19 
 <a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-king-corn-45km.php" class="button">Changelog PMC King Corn 45km</a>
 <a href="dev-diary-pmc-king-corn-45km.php" class="button">Dev Diary PMC King Corn 45km</a>
+<a href="screenshots-pmc-king-corn-45km.php" class="button">Screenshots PMC King Corn 45km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
 </p>
