@@ -2004,6 +2004,10 @@ And changed version to v0.2.2, then compiled another test version before heading
 2022-12-15T23:18:00Z Started to put together forum post for PMC_Undefined_Farms_20km_v0.2.2.7z testing release.
 </p>
 
+<p>
+2023-01-03T19:15:00Z New editing day has started, not really, but in Sources/ dir GIMP design doc image dir files are still named "test" so I renamed it properly to PMC_Undefined_Farms_20km. Renamed one bat and two GIMP XCF files too. Replaced test strings in the bat files using powergrep4.
+</p>
+
 </section>
 
 <footer>
