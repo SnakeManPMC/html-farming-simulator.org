@@ -47,7 +47,7 @@ Watch video: <a href="https://www.youtube.com/watch?v=uRiXQfGs5IQ" target="_blan
 
 <footer>
 <p>
-<a href="pmc-terrains.php" class="button">PMC FS19 Terrains</a>
+<a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="changelog-pmc-ohio-arcanum-8km.php" class="button">Changelog PMC Ohio Arcanum 8km</a>
 <a href="pmc-ohio-arcanum-8km.php" class="button">PMC Ohio Arcanum 8km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
