@@ -96,7 +96,7 @@ Changelog for <a href="pmc-ohio-arcanum-8km.php">PMC Ohio Arcanum 8km</a> FS19 t
 
 <footer>
 <p>
-<a href="pmc-terrains.php" class="button">PMC FS19 Terrains</a>
+<a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="dev-diary-pmc-ohio-arcanum-8km.php" class="button">Dev Diary PMC Ohio Arcanum 8km</a>
 <a href="pmc-ohio-arcanum-8km.php" class="button">PMC Ohio Arcanum 8km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
