@@ -4,7 +4,6 @@
 <title>PMC RedWhiteBlue 10km Terrain Farming Simulator 22 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC RedWhiteBlue 10km Terrain Farming Simulator 22 - PMC Farming">
-<META name="keywords" content="Terrain, RedWhiteBlue, 10km, Farming, Simulator, FS22, Download, Map, PMC">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -24,7 +23,7 @@
 	<h2>PMC RedWhiteBlue 10km</h2>
 
 <p>
-<b>2022-02-08T18:35:00Z</b> v0.1.2
+<b>2023-01-18T10:35:00Z</b> v0.1.2
 </p>
 
 <p>
@@ -32,52 +31,11 @@ Terrain size: 10240 meters x 10240 meters, which is 10.2 kilometers x 10.2 kilom
 </p>
 
 <div>
-<p style="font-size: 10px;">
-Click for larger image.
-</p>
-
-<a href="screenshots/PMC-RedWhiteBlue-10km-Satellite.jpg" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-Satellite.jpg" alt="Farming Simulator 22 Terrain - PMC RedWhiteBlue 10km Satellite Mapview" class="terrainimg"></a>
-
-<a href="screenshots/PMC-RedWhiteBlue-10km-Growth.jpg" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-Growth.jpg" alt="Farming Simulator 22 Terrain - PMC RedWhiteBlue 10km Growth" class="terrainimg"></a>
-
-<a href="screenshots/PMC-RedWhiteBlue-10km-Soil-Composition.jpg" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-Soil-Composition.jpg" alt="Farming Simulator 22 Terrain - PMC RedWhiteBlue 10km Soil Composition" class="terrainimg"></a>
-
-<a href="screenshots/PMC-RedWhiteBlue-10km-Farmland.jpg" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-Farmland.jpg" alt="Farming Simulator 22 Terrain - PMC RedWhiteBlue 10km Farmland" class="terrainimg"></a>
-
-<a href="screenshots/PMC-RedWhiteBlue-10km-2022-02-07T1914_15.jpg" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-2022-02-07T1914_15.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC RedWhiteBlue 10km Landscape"></a>
-
-<a href="screenshots/PMC-RedWhiteBlue-10km-2022-02-07T1914_45.jpg" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-2022-02-07T1914_45.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC RedWhiteBlue 10km Landscape"></a>
-
-<a href="screenshots/PMC-RedWhiteBlue-10km-2022-02-07T1915_10.jpg" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-2022-02-07T1915_10.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC RedWhiteBlue 10km Landscape"></a>
-
-<a href="screenshots/PMC-RedWhiteBlue-10km-2022-02-07T1915_39.jpg" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-2022-02-07T1915_39.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC RedWhiteBlue 10km Landscape"></a>
-
-<a href="screenshots/PMC-RedWhiteBlue-10km-2022-02-07T1916_14.jpg" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-2022-02-07T1916_14.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC RedWhiteBlue 10km Landscape"></a>
-
-<a href="screenshots/PMC-RedWhiteBlue-10km-2022-02-07T1916_27.jpg" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-2022-02-07T1916_27.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC RedWhiteBlue 10km Landscape"></a>
-
-<a href="screenshots/PMC-RedWhiteBlue-10km-2022-02-07T1917_02.jpg" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-2022-02-07T1917_02.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC RedWhiteBlue 10km Landscape"></a>
-
-<a href="screenshots/PMC-RedWhiteBlue-10km-2022-02-07T1917_37.jpg" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-2022-02-07T1917_37.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC RedWhiteBlue 10km Landscape"></a>
-
-<a href="screenshots/PMC-RedWhiteBlue-10km-2022-02-07T1918.jpg" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-2022-02-07T1918.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC RedWhiteBlue 10km Landscape"></a>
-
-<a href="screenshots/PMC-RedWhiteBlue-10km-2022-02-07T1919.jpg" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-2022-02-07T1919.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC RedWhiteBlue 10km Landscape"></a>
-
-</div>
-
-<!--
-<div>
 <p>
-Latest PMC RedWhiteBlue 10km video.
+Click map image for more <a href="screenshots-pmc-redwhiteblue-10km.php" target="_blank">screenshots</a>.
 </p>
-<iframe width="480" height="270"
-src="https://www.youtube.com/embed/YOUTUBEIDHERE">
-</iframe>
+<a href="screenshots-pmc-redwhiteblue-10km.php" target="_blank"><img src="screenshots/thumbs/PMC-RedWhiteBlue-10km-Satellite.jpg" alt="Farming Simulator 22 Terrain - PMC RedWhiteBlue 10km Satellite Mapview" class="terrainimg"></a>
 </div>
-<p>
-</p>
--->
 
 	<h2>New Farmer Game-Mode</h2>
 
@@ -260,6 +218,7 @@ For installing please read <a href="../19/install-mods.php">how to install FS19 
 <a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-redwhiteblue-10km.php" class="button">Changelog PMC RedWhiteBlue 10km</a>
 <a href="dev-diary-pmc-redwhiteblue-10km.php" class="button">Dev Diary PMC RedWhiteBlue 10km</a>
+<a href="screenshots-pmc-redwhiteblue-10km.php" class="button">Screenshots PMC RedWhiteBlue 10km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
