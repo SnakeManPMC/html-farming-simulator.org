@@ -4,7 +4,6 @@
 <title>PMC Undefined Farms 20km Farming Simulator 22 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC Undefined Farms 20km Farming Simulator 22 - PMC Farming">
-<META name="keywords" content="Terrain, Map, Undefined, Farms, 20km, FS22, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -22,7 +21,7 @@
 
 <section>
 <div class="terrain">
-<p><b>2022-02-13T18:06:00Z</b> Updated. Check <a href="pmc-terrains.php">PMC Terrains</a> page for our other FS22 terrains.</p>
+<p><b>2023-01-18T10:53:00Z</b> Updated. Check <a href="pmc-terrains.php">PMC Terrains</a> page for our other FS22 terrains.</p>
 
 	<h2>PMC Undefined Farms 20km</h2>
 
@@ -31,33 +30,10 @@ Terrain size: 20480 meters x 20480 meters, which is 20.4 kilometers x 20.4 kilom
 </p>
 
 <div>
-<p style="font-size: 10px;">
-Click for larger image
+<p>
+Click map image for more <a href="screenshots-pmc-undefined-farms-20km.php" target="_blank">screenshots</a>.
 </p>
-<a href="screenshots/PMC-Undefined-Farms-20km-Satellite.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-Satellite.jpg" alt="Farming Simulator 22 Terrain - PMC Undefined Farms 20km Satellite Mapview" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Undefined-Farms-20km-Growth.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-Growth.jpg" alt="Farming Simulator 22 Terrain - PMC Undefined Farms 20km Growth" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Undefined-Farms-20km-Soil-Composition.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-Soil-Composition.jpg" alt="Farming Simulator 22 Terrain - PMC Undefined Farms 20km Soil Composition" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Undefined-Farms-20km-Farmland.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-Farmland.jpg" alt="Farming Simulator 22 Terrain - PMC Undefined Farms 20km Farmland" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Undefined-Farms-20km-2022-02-07T1925_03.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2022-02-07T1925_03.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Undefined Farms 20km Landscape"></a>
-
-<a href="screenshots/PMC-Undefined-Farms-20km-2022-02-07T1925_50.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2022-02-07T1925_50.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Undefined Farms 20km Landscape"></a>
-
-<a href="screenshots/PMC-Undefined-Farms-20km-2022-02-07T1926_55.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2022-02-07T1926_55.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Undefined Farms 20km Landscape"></a>
-
-<a href="screenshots/PMC-Undefined-Farms-20km-2022-02-07T1935_58.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2022-02-07T1935_58.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Undefined Farms 20km Landscape"></a>
-
-<a href="screenshots/PMC-Undefined-Farms-20km-2022-02-07T1942.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2022-02-07T1942.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Undefined Farms 20km Landscape"></a>
-
-<a href="screenshots/PMC-Undefined-Farms-20km-2022-02-07T1944_27.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2022-02-07T1944_27.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Undefined Farms 20km Landscape"></a>
-
-<a href="screenshots/PMC-Undefined-Farms-20km-2022-01-31T1822.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2022-01-31T1822.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Undefined Farms 20km Landscape"></a>
-
-<a href="screenshots/PMC-Undefined-Farms-20km-2022-01-31T1824.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2022-01-31T1824.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Undefined Farms 20km Landscape"></a>
-
+<a href="screenshots-pmc-undefined-farms-20km.php" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-Satellite.jpg" alt="Farming Simulator 22 Terrain - PMC Undefined Farms 20km Satellite Mapview" class="terrainimg"></a>
 </div>
 
 <p>
@@ -71,19 +47,6 @@ Total of 12 selling points which accept all grains and products. Buyable land is
 <p>
 Nice rolling hills type heightmap which is very much suitable for farming. Placeable buildings can be used or sold in new farmer or the other farm yards.
 </p>
-
-<!--
-<div>
-<p>
-Latest PMC Undefined Farms 20km video.
-</p>
-<iframe width="480" height="270"
-src="https://www.youtube.com/embed/YOUTUBEIDHERE">
-</iframe>
-</div>
-<p>
-</p>
--->
 
 	<h2>New Farmer Game-Mode</h2>
 
@@ -300,6 +263,7 @@ For installing please read <a href="install-mods.php">how to install FS19 mods</
 <a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-undefined-farms-20km.php" class="button">Changelog PMC Undefined Farms 20km</a>
 <a href="dev-diary-pmc-undefined-farms-20km.php" class="button">Dev Diary PMC Undefined Farms 20km</a>
+<a href="screenshots-pmc-undefined-farms-20km.php" class="button">Screenshots PMC Undefined Farms 20km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
 </p>
