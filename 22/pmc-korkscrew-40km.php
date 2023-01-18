@@ -22,7 +22,7 @@
 
 <section>
 <div class="terrain">
-<p><b>2022-02-12T23:14:00Z</b> Updated. Check <a href="pmc-terrains.php">PMC Terrains</a> page for more FS22 terrains.</p>
+<p><b>2023-01-18T10:09:00Z</b> Updated. Check <a href="pmc-terrains.php">PMC Terrains</a> page for more FS22 terrains.</p>
 
 	<h2>PMC Korkscrew 40km</h2>
 
@@ -31,48 +31,11 @@ Terrain size: 40960 meters x 40960 meters, which is 40 kilometers x 40 kilometer
 </p>
 
 <div>
-<p style="font-size: 10px;">
-Click for larger image
-</p>
-<a href="screenshots/PMC-Korkscrew-40km-Satellite.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Korkscrew-40km-Satellite.jpg" alt="Farming Simulator 22 Terrain - PMC Korkscrew 40km Satellite Mapview" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Korkscrew-40km-Growth.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Korkscrew-40km-Growth.jpg" alt="Farming Simulator 22 Terrain - PMC Korkscrew 40km Growth" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Korkscrew-40km-Soil-Composition.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Korkscrew-40km-Soil-Composition.jpg" alt="Farming Simulator 22 Terrain - PMC Korkscrew 40km Soil Composition" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Korkscrew-40km-Farmland.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Korkscrew-40km-Farmland.jpg" alt="Farming Simulator 22 Terrain - PMC Korkscrew 40km Farmland" class="terrainimg"></a>
-
-<a href="screenshots/PMC-Korkscrew-40km-2022-02-07T1959_12.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Korkscrew-40km-2022-02-07T1959_12.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Korkscrew 40km Landscape"></a>
-
-<a href="screenshots/PMC-Korkscrew-40km-2022-02-07T1959_24.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Korkscrew-40km-2022-02-07T1959_24.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Korkscrew 40km Landscape"></a>
-
-<a href="screenshots/PMC-Korkscrew-40km-2022-02-07T1959_57.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Korkscrew-40km-2022-02-07T1959_57.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Korkscrew 40km Landscape"></a>
-
-<a href="screenshots/PMC-Korkscrew-40km-2022-02-07T2000_23.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Korkscrew-40km-2022-02-07T2000_23.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Korkscrew 40km Landscape"></a>
-
-<a href="screenshots/PMC-Korkscrew-40km-2022-02-07T2000_56.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Korkscrew-40km-2022-02-07T2000_56.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Korkscrew 40km Landscape"></a>
-
-<a href="screenshots/PMC-Korkscrew-40km-2022-02-07T2002_24.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Korkscrew-40km-2022-02-07T2002_24.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Korkscrew 40km Landscape"></a>
-
-<a href="screenshots/PMC-Korkscrew-40km-2022-02-07T2002_49.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Korkscrew-40km-2022-02-07T2002_49.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Korkscrew 40km Landscape"></a>
-
-<a href="screenshots/PMC-Korkscrew-40km-2022-02-07T2003_08.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Korkscrew-40km-2022-02-07T2003_08.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Korkscrew 40km Landscape"></a>
-
-</div>
-
-<!--
-<div>
 <p>
-Latest PMC Korkscrew 40km video.
+Click map image for more <a href="screenshots-pmc-korkscrew-40km.php" target="_blank">screenshots</a>.
 </p>
-<iframe width="480" height="270"
-src="https://www.youtube.com/embed/YOUTUBEIDHERE">
-</iframe>
+<a href="screenshots-pmc-korkscrew-40km.php" target="_blank"><img src="screenshots/thumbs/PMC-Korkscrew-40km-Satellite.jpg" alt="Farming Simulator 22 Terrain - PMC Korkscrew 40km Satellite Mapview" class="terrainimg"></a>
 </div>
-
-<p>
-</p>
--->
 
 	<h2>New Farmer Game-Mode</h2>
 
@@ -246,6 +209,7 @@ For installing please read <a href="install-mods.php">how to install FS19 mods</
 <a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-korkscrew-40km.php" class="button">Changelog PMC Korkscrew 40km</a>
 <a href="dev-diary-pmc-korkscrew-40km.php" class="button">Dev Diary PMC Korkscrew 40km</a>
+<a href="screenshots-pmc-korkscrew-40km.php" class="button">Screenshots PMC Korkscrew 40km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
 </p>
