@@ -2008,6 +2008,53 @@ And changed version to v0.2.2, then compiled another test version before heading
 2023-01-03T19:15:00Z New editing day has started, not really, but in Sources/ dir GIMP design doc image dir files are still named "test" so I renamed it properly to PMC_Undefined_Farms_20km. Renamed one bat and two GIMP XCF files too. Replaced test strings in the bat files using powergrep4.
 </p>
 
+
+	<h2>2023-01-20 More Field Definition Corner Pieces Editing</h2>
+
+<p>
+2023-01-20T04:41:00Z New editing day has started, todays goal is minimal, to enlarge as many field definition single shape corner pieces as I can before switching to PMC Gaming computer to create actual Start From Zero savegame <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Plan is to leave GE running with field definition work ongoing, but as I want to have newer version for todays Start From Zero beginning, I need to do the heightmap 0m backup / restore and GE restart shuffle twice. On ideal conditions you would do all the corner pieces at once, but there are 1888 of them and I can tell ya, CTRL pressing copy-paste pinky finger will resign within hours, its just not possible for me to do them all at once, it has to be spread out over several days or at least editing sessions, that's why I want to leave GE open so I can do a few corner piece edits when ever I feel up to it.
+</p>
+
+<p>
+First took backup of the project dir, copied to three different HDDs and PMC linux computer.
+</p>
+
+<p>
+Then restored heightmap 0m elevation PNG image. Launched GE v9.0.2 and loaded terrain project up. Ran script to setup large terrains, then imported PMC_Helpers for that 2d top-down camera view which is excellent / must have for field definitions editing. Lastly used script toggle render field areas, now we are ready to continue editing.
+</p>
+
+<p>
+2023-01-20T05:41:00Z Done editing corner pieces for now, deleted PMC_Helpers, CTRL-S saved project and exited GE.
+</p>
+
+<p>
+Unpacked original heightmap PNG image, edited modDesc.xml to v0.2.3, readme.txt and release compilation bat files.
+</p>
+
+<p>
+2023-01-20T05:44:00Z Compiled PMC_Undefined_Farms_20km_v0.2.3.7z for testing.
+</p>
+
+<p>
+Restarted GE v9.0.2, loaded terrain project up, ran script setup for large terrains, imported PMC_Helpers, changed to 2D top-down camera, ran script toggle render field areas, selected the last field I edited (as I marked it down) and F moved camera there. Now I'll leave GE just sitting here when I'm going to PMC Gaming to create Start From Zero savegame <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2023-01-20T13:17:00Z Was playing Start From Zero and realized sprayrate edit is not in, lets get that done now...
+</p>
+
+<p>
+Saved terrain project in GE (yeah it was open there), then restored original heightmap PNG, edited PMC_Undefined_Farms_20km.xml file for &lt;sprayTypes filename="maps/PMC_Undefined_Farms_20km/maps_sprayTypes.xml" /&gt;, then copied that actual XML file from PMC Super Six 6km into the correct dir.
+</p>
+
+<p>
+Edited modDesc.xml to v0.2.4 plus the others, then compiled v0.2.4 for testing. Done, heh.
+</p>
+
 </section>
 
 <footer>
