@@ -77,12 +77,13 @@
 2022-07-13 Farming Simulator 22 - Platinum Expansion and Platinum Edition Announced <a href="https://www.farming-simulator.com/newsArticle.php?news_id=385" target="_blank">news</a><br>
 2022-07-23 Farming Simulator 22 - Vermeer Pack announced <a href="https://www.farming-simulator.com/newsArticle.php?news_id=372" target="_blank">news</a><br>
 2022-08-22 Farming Simulator 22 - v1.7 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=397" target="_blank">news</a>, <a href="https://www.farming-simulator.com/changelog-fs22.php" target="_blank">changelog</a><br>
-2022-08-23 Farming Simulator 22 - Vermeer Pack released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=374" target="_blank">news</a>, <a href="https://www.farming-simulator.com/dlc-detail.php?dlc_id=fs22vermeer target="_blank">details</a><br>
+2022-08-23 Farming Simulator 22 - Vermeer Pack released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=374" target="_blank">news</a>, <a href="https://www.farming-simulator.com/dlc-detail.php?dlc_id=fs22vermeer" target="_blank">details</a><br>
 2022-09-06 Farming Simulator 22 - v1.7.1 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=408" target="_blank">news</a>, <a href="https://www.farming-simulator.com/changelog-fs22.php" target="_blank">changelog</a><br>
 2022-09-27 Farming Simulator 22 - Pumps and Hoses Pack released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=389" target="_blank">news</a><br>
 2022-10-26 Farming Simulator 22 - v1.8.1 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=421" target="_blank">news</a>, <a href="https://www.farming-simulator.com/changelog-fs22.php" target="_blank">changelog</a><br>
 2022-11-15 Farming Simulator 22 - v1.8.2 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=432" target="_blank">news</a>, <a href="https://www.farming-simulator.com/changelog-fs22.php" target="_blank">changelog</a><br>
 2022-12-07 Farming Simulator 22 - Year 2 Season Pass released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=435" target="_blank">news</a><br>
+2023-01-24 Farming Simulator 22 - Platinum Expansion v1.3 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=442" target="_blank">news</a><br>
 </p>
 
 </section>
