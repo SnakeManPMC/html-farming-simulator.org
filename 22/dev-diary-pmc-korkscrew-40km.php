@@ -1448,6 +1448,140 @@ Did the file edit shuffle for v0.1.9 release.
 2023-01-15T00:31:00Z With the above v0.1.9 testing release I did autodrive network and Start From Zero game-play compatibility test without any problems. Sure field definitions were unfinished, but single shapes are working OK.
 </p>
 
+
+	<h2>2023-01-23 Massive 13 Hours Field Definition Editing Session</h2>
+
+<p>
+2023-01-23T09:10:00Z New editing day has started, todays goal is to do field definition corner pieces, would be wonderful to get them all done but even doing few here and there through out the day would be just fine, a bit of progress.
+</p>
+
+<p>
+First I took backup, read above its described few times already. Then restored heightmap with 0m elevations, started GE v9.0.2, loaded terrain project up and set it up for field definition work.
+</p>
+
+<p>
+Found a field definition called "field-CONTINUEEEE" heh this must be the one I left off last time, so I'll continue from here <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Now its just painful field definition corner piece editing, enlarge them using CTRL-B key pressing, hmm maybe I'll again configure GE to have it bind to some other key, dunno. Anyways, lets get started.
+</p>
+
+<p>
+2023-01-23T10:20:00Z At this point feel a bit not exhausted but pinky finger CTRL pressing starts to wear on me, need to walk around a bit, to stretch my legs and "reset" before continuing. Doing a good progress though, feeling good otherwise. Hmm interesting that its been barely an hour of work at this point, feels like its been much longer but UTC timestamps wont lie.
+</p>
+
+<p>
+2023-01-23T10:54:00Z Alright break is over, back to corner pieces ...
+</p>
+
+<p>
+2023-01-23T12:01:00Z Lunch break finished (forgot to write it down, few moments ago). Back to suffering with corner pieces.
+</p>
+
+<p>
+2023-01-23T14:02:00Z Had to take another break, starting to crawl out of my skin, having that "caged animal" feeling... dunno what is it with field definition creation as its such repeating task which would be perfectly suited for computers to handle but here I am sitting hours and HOURS doing it. It is very frustrating physical task as funny as that sound, how can sitting in front of the computer be "physical" but yeah like I said, I have to take breaks, walk around stretch my legs a bit and especially my arms, hands on keyboard and mouse just doing this repeating task for long periods of time is very demanding, really weird.
+</p>
+
+<p>
+2023-01-23T14:21:00Z And back, had nothing else to do after trying to do some dumbbell curls with water bottles hehe, lets get back to corner piece editing.
+</p>
+
+<p>
+uuuh, me, no, like... uuuh..
+</p>
+
+<a href="screenshots/PMC-Korkscrew-40km-2023-01-23T1530.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Korkscrew-40km-2023-01-23T1530.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
+
+<p>
+2023-01-23T15:53:00Z Okay that's it, need to take a good solid at least hour maybe more break, my pinky finger is hurtin' from all the CTRL-B pressing and mind starting to go numb of hammering corner pieces. Have to take a longer break, hopefully will continue lateron today, still plenty of time left in the day.
+</p>
+
+<p>
+Exported latest fields transformgroup to I3D file with UTC timestamp.
+</p>
+
+<p>
+2023-01-23T17:42:00Z Just finished eating a meal, now its good time to get back to field definition corner pieces editing, while watching fs22 twitch stream.
+</p>
+
+<p>
+2023-01-23T20:42:00Z Exported fields I3D once again and went on a little break, I really don't think this is it for tonight, but we are getting late in the evening. I want to do few more before calling it a night.
+</p>
+
+<p>
+2023-01-23T21:05:00Z Okay I'm bored of not having anything to do, no RSS news to read, nothing on forums heh, back to field definitions, trying to take it easy now not to burn myself out on the last two hours of today.
+</p>
+
+<p>
+2023-01-23T21:52:00Z When switching to the next field definition it was on SE corner, oh wow we have reached the bottom row! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+This still doesn't mean I can finish this tonight, because just being in the bottom row, or in SE tip, doesn't mean much for the workload, there can still be a huge number of field definitions to go through, in fact I cannot even see the bottom yet on that scenegraph scroll list heh, but hey its a very very good sign to have reached this point <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+<b>2023-01-23T22:34:00Z Field definition corner pieces as single shapes "and more!" are completed!</b> <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+Oh my, this was about 13hrs editing session with obvious lunch breaks and few stretching my legs breaks. Uuh I feel exhausted but SO HAPPY that these corner pieces are now done, they came out way too detailed which probably explains why it took me 13hrs to do it, I should have just let them be more simple. Some field definitions had 5 or more corner pieces which is a lot.
+</p>
+
+<p>
+But man, I am so relieved now that these are done, PMC Korkscrew 40km is awesome Start From Zero contracts terrain now <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2023-01-24T07:19:00Z New editing day has started, todays goal is simply to compile a new testing version and try it out fs22 in-game to see how the new field definition corner pieces look like, to verify everything is OK.
+</p>
+
+<p>
+Unpacked original heightmap elevations PNG, decided not to do save in GE just to see if that causes any issues or is heightmap PNG completely detached from the rest of the TERRAIN.I3D config file stuff. Edited modDesc.xml to v0.2.1, readme.txt and release compilation bat file.
+</p>
+
+<p>
+Well this is odd, version number was v0.2 in modDesc but in readme.txt and release compilation bat files it was v0.1.9 which is listed in previous dev diary entries as well, hmm when did I change modDesc then and why no new release compilation was made, hmm how can that be... really odd. Oh well we are now in v0.2.1 and that is it, go with it <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2023-01-24T07:23:00Z Compiled PMC_Korkscrew_40km_v0.2.1.7z for testing.
+</p>
+
+<p>
+2023-01-24T07:58:00Z FS22 in-game test complete, no errors no warnings, field definitions are looking GREAT! Contracts board is ballooning with absolutely massive contract rewards, Start From Zero contract players are like kids in a candy store now! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<p>
+Field size summary 2023-01-23T22:55:00Z
+</p>
+
+<pre>
+smallest field:
+Field 472 (field) : 2.247 ha
+
+largest field:
+Field 398 (field) : 847.544 ha
+
+grass fields:
+Field 3 (field-grass) : 57.086 ha
+Field 5 (field-grass) : 49.761 ha
+Field 7 (field-grass) : 38.310 ha
+Field 341 (field-grass) : 24.575 ha
+Field 342 (field-grass) : 28.557 ha
+Field 343 (field-grass) : 25.879 ha
+Field 350 (field-grass) : 69.242 ha
+</pre>
+
+<p>
+Things are looking pretty good field wise. Although I would still like to have smaller grass fields so Start From Zero savegame farmers could quickly do the initial silage baling contract without spending exhausting 6hrs on very first contract. For example that 69.2 hectare grass field is massive, you will spend endless hours field working it, smallest is 24.5ha which is... do-able... sure, but man that is still fairly large.
+</p>
+
+<p>
+2023-01-24T08:27:00Z Starting to upload PMC Korkscrew 40km v0.2.1 to PMC Tactical forum for testing <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
 </section>
 
 <footer>
