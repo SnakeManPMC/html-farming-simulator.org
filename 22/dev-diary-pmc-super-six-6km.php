@@ -892,6 +892,221 @@ Looking at PMC King Corn 45km terrains graphicsmagic infoLayer generating bat fi
 2023-01-03T19:13:00Z New editing day has started, not really, but in Sources/ dir GIMP design doc image dir files are still named "test" so I renamed it properly to PMC_Super_Six_6km. Renamed one bat and two GIMP XCF files too. Replaced test strings in the bat files using powergrep4.
 </p>
 
+
+	<h2>2023-01-24 Major Structural Damage</h2>
+
+<p>
+2023-01-24T12:39:00Z New editing day has started, todays goal is to fix "Error: Blocked area map is wrong size for terrain (4096 x 4096) vs (2048 x 2048)" for the umpteenth time, it is so hilarious because reading my dev diary this issue was just recently fixed, now its back again, makes no sense, but have to try to fix it, again <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Image file in question is infoLayer_placementCollisionGenerated.png which according to fs22 game engine error log should be 2048 x 2048 but latest version is 4096 x 4096 instead. Going to fix that now and go straight to fs22 in-game to check if the error is gone or not.
+</p>
+
+<p>
+First I took backup of the terrain project dir, always have to take backup.
+</p>
+
+<p>
+GRLEConverter converted infoLayer_placementCollisionGenerated.grle to infoLayer_placementCollisionGenerated.png image format. Then used custom graphicsmagick bat file to only resize this new PNG image to 2048 x 2048 pixel resolution. Then edited PMC_Super_Six_6km.i3d in text editor, replaced GRLE with PNG file extension on our new file.
+</p>
+
+<p>
+Hmm discovered that farmland image pointed to .PNG file extension, hum how come <img src="../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
+</p>
+
+<p>
+Fixed that, but same thing for cultivator_density.png, huh why are these in "editing file extension mode" now? I thought I was playing this terrain v0.2.9 release currently, does fs22 accept .png extensions now, hmm hmm. ME CONFUZED <img src="../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+</p>
+
+<p>
+This was bizarre, oh well fixed them all, saved I3D file and then launched GE v9.0.2, lets see what happens. But I messed up, terrainDetailHeight_density was edited as .grle but it should be .gdm, oops, my bad, fixed it now, lets try this again <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2023-01-24T12:54:00Z GE loaded terrain project up, no errors. Good.
+</p>
+
+<p>
+Now just save and exit, I don't want to edit anything else until this error has been fixed. Opened PMC_Super_Six_6km.i3d again and changed infoLayer_placementCollisionGenerated.png back to .grle file extension.
+</p>
+
+<p>
+Converted that grle back to PNG just to check that it really is now 2048 x 2048 res, it is. Okay we are done here, time to build a new testing version then.
+</p>
+
+<p>
+Edited modDesc.xml to v0.2.10, readme.txt and release compilation bat files as well.
+</p>
+
+<p>
+2023-01-24T12:59:00Z Compiled PMC_Super_Six_6km_v0.2.10.7z for testing.
+</p>
+
+<p>
+2023-01-24T13:14:00Z Verified in-game, "error blocked area" is now gone, even saved new farmer game-mode, exited fs22 clean out and restarted with that savegame, no errors no warnings. Bug fixed, again.
+</p>
+
+<p>
+2023-01-24T14:06:00Z Created vehicle shop aka the dealership repair / selling location, grabbed the coordinates from GE and placed the sellingStationVehicles XML line to placeables.xml config file.
+</p>
+
+<p>
+Selling points unique proper names created.
+</p>
+
+<p>
+2023-01-24T14:27:00Z Decided to fix those too narrow field corners which means design doc changes, major structural damage so to speak. I already <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22812" target="_blank">posted to PMC forum</a> that I wont be fundamentally changing the design of our fs22 terrains... but well this is a bug fix as you cannot harvest some of those fields with 4 * 18.2m headers or field work with other similar width implements. I make terrains for my farming enjoyment and such field corner tips are extremely frustrating.
+</p>
+
+<p>
+Created _run_backup_Design_Doc_PMC_Super_Six_6km.bat backup file which 7-zips the design doc dir, copies to safety in three different HDDs and PMC Linux computer across the network. Ran the bat now, backup was taken. Also took another backup of terrain project itself, this is the last stable moment before going into that field design change, good to have a backup.
+</p>
+
+<p>
+GIMP opened design doc, labeled paths for asphalt and dirt roads. Paths are the thingies how roads are drawn into the image, they are sort of like splines (not really, but closest matching farmsim thing I can think of). Then did edit -&gt; stroke path -&gt; 6 pixels using RGB 178,164,142 color.
+</p>
+
+<p>
+Increased one forest size near intersection because it caused narrow field corner / tip, now there is now narrow spot and large equipment in multiple tool setup should be able to field work it just fine. Then moved another forest spot further north because it too causes not so several narrow spot but still quite problematic, this of course requires me to delete and recreate splines and trees in GE, but will be done. Increased forest patch size near a farm yard in SW corner, again fixing problematic field corner tip.
+</p>
+
+<p>
+Then added bunch of tree patches, ouch, hopefully this wont cause performance issue in-game or create too much spline and tree work in GE heh.
+</p>
+
+<p>
+Western edge of the terrain looked too empty, too large fields, so I created railroad tracks coming from NW and going to about S-SE, this should create smaller fields for us too, I just hope I didn't destroy all the nice big fields for those lucrative fertilizing contracts. The point is that PMC Super Six 6km was chosen as smaller terrain to have more small and compact fields, it failed in that goal miserably as its got nothing but traditionally speaking alrge fields heh.
+</p>
+
+<p>
+Then I cut asphalt roads with railroads and dirt roads with both railroads and asphalt roads selections. No overlapping pixels for weight images.
+</p>
+
+<p>
+Then selected railroads, forests, farm yards, asphalt and dirt roads, now terrain features have been selected, then just grow the selection 30 pixels, shrunk 15 pixels and inverted it, then painted RGB 255,0,0 red for fields layer.
+</p>
+
+<p>
+2023-01-24T15:21:00Z Big graphicsmagick design doc to weight/density images processor bat file is running. Using 4096 x 4096 res weight images here, wonder if I should just use 8192 hmm hmm.
+</p>
+
+<p>
+There was issue with cultivator_density and fruit_density images being same as design doc which in this case was 6144 x 6144 pixels, had to modify my graphicsmagick bat to fix this issue. Got it eventually fixed, tool pipeline was working again. GE had latest GIMP design doc terrain project loaded.
+</p>
+
+<p>
+Saved project, exited GE, changed GDM to PNG file extension in I3D, deleted those density PNGs. Launched GE again and loaded terrain project up, ran 8km large terrain script and imported PMC_Helpers, now I'm ready to edit and create some trees.
+</p>
+
+<p>
+Had to move selling point 5 location a bit because GIMP design doc created forest treeline patch on top of it, heh, ouch. OK no big deal, easy move took all but 65sec.
+</p>
+
+<p>
+2023-01-24T16:58:00Z Exported and deleted PMC_Helpers, saved project, trees are placed. I put additional bonus "sparse narrow" tree line next to the railroad tracks. I am quite happy how they look in GE, cant wait to see them in-game.
+</p>
+
+<p>
+2023-01-24T17:22:00Z Updated <a href="../history.php" target="_blank">farming-simulator.org/history</a> page about FS22 Platinum Expansion v1.3 update. And now its my lunch break...
+</p>
+
+<p>
+2023-01-24T17:39:00Z Feeding time is over, back to editing, its not ready for testing yet <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Yeah completely forgot field definitions which now are broken because design was changed quite a bit, railroad train tracks and forest tree lines.
+</p>
+
+<p>
+Took backup from heightmap PNG, then opened it with GIMP, foreground filled with RGB 0,0,0 which is 0 meters elevation everywhere. Took backup of that 0m heightmap as well, for future use.
+</p>
+
+<p>
+Loaded terrain project in GE, ran setup large terrains 8km script, imported PMC_Helpers for 2D top-down camera, then toggled render field areas. Now begins fixing field definitions for new design.
+</p>
+
+<p>
+2023-01-24T20:11:00Z All field definition corner pieces as single shape "and more!" are now done, uuh exhausted but happy <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Deleted PMC_Helpers, saved project and shutdown GE, restored original heightmap PNG. Edited modDesc.xml to v0.2.11, readme.txt and release compilation bat file.
+</p>
+
+<p>
+2023-01-24T20:14:00Z Compiled PMC_Super_Six_6km_v0.2.11.7z for testing, checked clock and still 3 hours of today left, hmm wonder what else could I do... not really want to continue my Start From Zero savegame yet as "only" have 3hrs left. Hmm hmm.
+</p>
+
+<p>
+FS22 in-game check looks awesome, only forgot one field definition in the central west region heh, its a quick to create <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Not going to list play-by-play steps, just going to say I went in and created the field definition, saved project... and then lost track what I was doing as I chatted in one twitch live stream hehe, focus dude, FOCUS <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Added one medium size grass field (turned normal field to a grassFieldMission).
+</p>
+
+<pre>
+smallest field:
+Field 52 (field) : 6.328 ha
+
+largest field:
+Field 3 (field) : 174.996 ha
+
+grass fields:
+Field 7 (field-grass) : 2.390 ha
+Field 10 (field-grass) : 16.550 ha
+Field 11 (field-grass) : 0.624 ha
+Field 13 (field-grass) : 18.571 ha
+Field 14 (field-grass) : 29.891 ha
+Field 53 (field-grass) : 16.302 ha
+</pre>
+
+<p>
+In GIMP opened graphicsmagick generated PDA / overview.dds image, resized it to 4096 res, copy-pasted to overview.xcf, exported it as overview.png and finally ran my _run_imagemagick_png_to_dds.bat to convert it into DDS image that FS22 accepts.
+</p>
+
+<p>
+Then did basically same thing for preview.dds image, this was just 2048 x 2048 resolution.
+</p>
+
+<p>
+2023-01-24T21:50:00Z Was getting pretty tired, kind of zoned out, but wanted to quickly play with fruit_density grass and shrubbery painting in GIMP. Edited I3D file from gdm to png and then went to gimp on fruit_density.png image.
+</p>
+
+<p>
+2023-01-24T22:15:00Z All done, got shrubbery and some RGB 32,0,0 bushes into GE, saved and got rid of fruit_density.png, changed modDesc.xml to v0.3 whee a new version.
+</p>
+
+<p>
+2023-01-24T22:16:00Z Compiled PMC_Super_Six_6km_v0.3.7z testing version, this will be my tomorrows Start From Zero savegame terrain version to try out, hopefully it will work great. My day is not over yet, still have a little bit time left but for this dev diary, I'm calling it a night, tomorrow we continue game-play testing <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2023-01-25T04:55:00Z New editing day has started, just woke up and finished morning computer chores, launched GIMP and painted RGB 67,0,0 color fruit_density seed image for bush medium shrubbery.
+</p>
+
+<p>
+This is 1024 x 1024 pixel resolution GIMP XCF image, its got layers for background which is just a color for your eyes comfort, then each fruit_density shrubbery RGB layer like 132,0,0 meadow grass, RGB 67,0,0 bush medium etc. Then I copy this image to clipboard which makes it one of those things which name I don't remember now heh, then you simply CTRL-; pattern fill it into your fruit_density.png image with obviously first being done proper selection for "grass areas" only. Ugh I need to write a tutorial for this.
+</p>
+
+<p>
+Did the usual PNG to GDM conversion for density images, I3D edit, copy fruit_density.png to the dir, delete GDM, start GE, check everything is OK, save and exit, then change I3D back to .GDM extension and delete fruit_density.png and thats about it.
+</p>
+
+<p>
+Changed modDesc.xml to v0.3.1, readme.txt and release compilation bat files also. This is hilarious as v0.3 was never used by anyone not even me, it was simply a ghost release in the oblivion <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2023-01-25T05:06:00Z Compiled PMC_Super_Six_6km_v0.3.1.7z for testing, this version for sure gets to see hours of Start From Zero game-play today <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
 </section>
 
 <footer>
