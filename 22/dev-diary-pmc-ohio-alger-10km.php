@@ -900,6 +900,27 @@ Switched PMC_Ohio_Alger_10km.i3d PNG to GDM file extensions again, deleted culti
 Its too bad terrain cant be released in this form, without AI owning fields and planting crops there will be no contracts so unless players want to jump right into their own farm with millions of money (yes, millions, you cant really get started with less than that unless you go with completely ridiculous BRITISH MAPZ euro trash vehicles), there is nothing they can make money with. I mean sure with farm manager mode and loan maxed out, sure you can get started, but it wont be easy farming with that kind of budget depending on the farmland prices. Anyways I and hopefully everyone else considers any such terrain "unfinished" or "incomplete" if not broken, so that's that.
 </p>
 
+
+	<h2>2023-03-11 The Big Reveal</h2>
+
+<p>
+2023-03-11T05:21:00Z Tonight was the big announcement in xr-renegades twitch live stream, there were 130 viewers, KingDavid is I believe xr-renegades brother who grew up in Alger with xr and he was amazed how realistic the terrain is, that was really great to hear, first time for me to hear feedback from people who actually live in the area of my terrain. I didn't confirm this but how it sounded on the stream how surprised KingDavid was, I believe xr-renegade did not tell him what will be on the stream other than KingDavid definitely should be there tonight.
+</p>
+
+<a href="screenshots/PMC-Ohio-Alger-10km-2023-03-11T0247.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Ohio-Alger-10km-2023-03-11T0247.jpg" alt="Farming Simulator 22 Terrain - PMC Ohio Alger 10km Screenshot" class="terrainimg" loading="lazy"></a>
+
+<p>
+Also many other people in the twitch chat were happy for xr-renegade, I recall couple of guys commenting how he has been waiting to get his own farm terrain to farmsim game a long time, unless I'm mistaken one viewer even commented how they got emotional about xr-renegades happiness, his reaction, to the terrain.
+</p>
+
+<p>
+What can I say, that is well beyond what I could have ever imagined when doing any terrain, let alone one that the actual farmer who lives there plays it. THIS is why I develop addons & mods, terrains, so that people can really enjoy the game/sim just the way I do. Really great stuff.
+</p>
+
+<p>
+Today I'm going to just chill after those hard editing days, it was on the early hours of march 5th when this terrain got started, first source files got in-game, then edited all the way to 9th pretty hardcore, so after this announcement its good time to take a day off and relax. Hopefully editing continues real soon with more buildings placed.
+</p>
+
 </section>
 
 <footer>
