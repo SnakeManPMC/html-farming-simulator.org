@@ -1895,6 +1895,18 @@ Edited PMC_King_Corn_45km.i3d to change fruit_density.png back to .GDM again, th
 2023-01-09T02:08:00Z Compiled PMC_King_Corn_45km_v0.1.8.7z for testing, time to switch to PMC Gaming computer with hopes that this works OK.
 </p>
 
+<p>
+2023-02-01T21:47:00Z New editing day has started, added maps_spraytypes.xml, compiled v0.1.9, kthnxby.
+</p>
+
+<p>
+2023-02-22T18:07:00Z New editing day has started, now going to GIMP paint PDA mapview overview.dds image for the outside terrain area.
+</p>
+
+<p>
+2023-02-22T18:40:00Z Finished GIMP painting, it was okay alone but doesn't quite match the actual field sizes, new outside terrain fields are twice the size than actual fields, its easy to see from ESC mapview, but oh well, dunno, maybe I'll edit it a bit more later, add those field dividers there. But for now, its more than good enough.
+</p>
+
 </section>
 
 <footer>
