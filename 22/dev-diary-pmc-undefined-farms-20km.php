@@ -2055,6 +2055,223 @@ Saved terrain project in GE (yeah it was open there), then restored original hei
 Edited modDesc.xml to v0.2.4 plus the others, then compiled v0.2.4 for testing. Done, heh.
 </p>
 
+
+	<h2>2023-02-12 Editing Field Definitions Corner Pieces</h2>
+
+<p>
+2023-02-12T00:37:00Z New editing day has started, this will be very casual relaxed editing day because the job at hand is taunting, field definition single shape copy-paste template corner pieces fixing, those need to be edited bigger to suit better contracts savegames like Start From Zero, it means crazy amount of GE CTRL-D and CTRL-B pressing which kills my pinky finger on long editing sessions. So I'm going to get started but take a break THE MOMENT it begins to feel boring or my pinky gets sore. Its going to be on and off editing through out the day, no stress, no fuss, etc <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+First took backup from the terrain project dir, usual copying to 3 different HDD and one computer.
+</p>
+
+<p>
+Then unpacked the 0m elevation heightmap PNG image, launched GE v9.0.2, opened terrain I3D up, ran script for setup large terrain 32km, imported PMC_Helpers which oddly was without the 10+ min delay, nice. Now I got my 2D top-down camera and ready to start editing field definitions.
+</p>
+
+<p>
+2023-02-12T00:56:00Z Wrote few bug / issue report edits (not new ones), now reached field definition which is the first "new ones" at the NW tip, however here I realized cultivator_density has no "field divider" for the terrain edge, meaning all fields are drawn right up to the edge there oblivion starts making courseplay use on these fields impossible. This must be fixed, trying to decide should I just mark this field transformgroup down, exit GE and go back to GIMP to fix the design doc, or just continue field definition work and just mark all the fields that are on the edge so they are easier to find once design doc is fixed later, hmm.
+</p>
+
+<p>
+Decided that yup, it has to be fixed properly, from the ground up, so closed GE straight up as no edits has been made, created _run_backup_Design_Doc_PMC_Undefined_Farms_20km.bat backup bat file and ran it, now design doc has been safely secured.
+</p>
+
+<p>
+In GIMP went to open PMC_Undefined_Farms_20km_Design_Doc.xcf which save date is 2022-01-31, over a year ago, man does time fly by fast. Created new layer called Field Dividers, this will be the edge "no fields here" selection. Now, if I just remember how it was done quickly, I should have written it down somewhere in my notes <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2023-02-12T01:47:00Z Wrote a new PMC forum topic <a href="https://www.pmctactical.org/forum/viewtopic.php?f=75&t=22839" target="_blank">Fields cultivator_density Terrain Edges Gap FS22</a>.
+</p>
+
+<p>
+As said in that topic I used position: 10, 10 and size: 10220, 10220 for rectangle select tool before inverting the selection and fill it with another color. This color doesn't matter as its not shown anywhere else except in design doc.
+</p>
+
+<p>
+2023-02-12T02:18:00Z Okay PNG images exported after using selection; grow 15, invert, shrink 5, grow 15. This was now with the field dividers layer included selection, the terrain edge. Came out all right looking, happy with the results.
+</p>
+
+<p>
+Then used the same old _run_design_doc_to_density_weight_images_all_in_one_2022-01-28.bat to graphicsmagick process source PNG images into GE readable format and file names. This bat file is still doing 4096 res weight images, I do have a bug report which say those should be increased to 8192, but not yet, one issue at the time, <i>nice and smooth</i>.
+</p>
+
+<p>
+Edited PMC_Undefined_Farms_20km.i3d to replace cultivator_density.gdm and fruit_density.gdm with .PNG file extension, then deleted those images from data/ dir. Then ran _run_graphicsmagick_FS19_weight_images_to_all_black_blank.bat just in case. Finally used _run_copy_weight_to_PMC_Undefined_Farms_20km_GE_data_dir.bat which copies weight images into terrain project dir, now its scary time, load in GE to see what did I break <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2023-02-12T02:37:00Z It looks good, weight and density, all looking good cannot tell anything being wrong in GE. Saved project and exited.
+</p>
+
+<p>
+Edited PMC_Undefined_Farms_20km.i3d file extensions back to .gdm and restarted GE back to the field definition editing point.
+</p>
+
+<p>
+2023-02-12T02:42:00Z Now field definition corner pieces editing session starts, as said this will be laid back, on and off, I'll take many breaks and expect this editing to last hours and hours, days maybe if it starts to annoy me too much. I take no pressure or stress about this corner piece work, its done when its done. But once its done, then PMC Undefined Farms 20km will be glorious for Start From Zero contract work with 1888 fields to choose from without the need to worry about field definitions being tiny copy-paste templates <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Plan is not to play-by-play tell story here, I'll just mention if anything major happens, lunch break, nap, playing fs22 heh, anything that makes longer than 30min break to this editing session. Actually I should not even call it a "session" because it sort of gives false impression, anyways.
+</p>
+
+<p>
+2023-02-12T03:33:00Z Took the first backup from "Fields" transformgroup and now its time for a first legit break, visit to the head <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+About fifty minutes in one sitting, so far going good, wonder how much of that tedious work is psychologically driven, if you go in hating it, then obviously every minute will be agony, but if you just go in like "doesn't matter if I do one or hundred..." attitude, maybe it overall just goes smoother, dunno. On the other hand its been hmm more than a week as I edited the last time so maybe this is just an welcome change of scenery after just being farming in fs22 for so many days straight. Who knows.
+</p>
+
+<p>
+2023-02-12T03:44:00Z Now I reached the first tiny copy-paste template corner piece, these are the little bastards that make contracts so bad with the puny identical size field definitions which spand across hmm hundreds, actually above thousand I believe. Now work begins which really makes a huge game-play difference in-game. Awesome.
+</p>
+
+<p>
+Here is a good example screenshot of NE tip of the terrain, can see the new field dividers AKA edge gap I did in GIMP design doc and also highlighted field definition is one of these tiny copy-paste template ones.
+</p>
+
+<a href="screenshots/PMC-Undefined-Farms-20km-2023-02-12T0426.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2023-02-12T0426.jpg" alt="Farming Simulator 22 Terrain - PMC Undefined Farms 20km Screenshot" class="terrainimg" loading="lazy"></a>
+
+<p>
+2023-02-12T04:47:00Z Okay time to take a real long break, honestly don't feel that bad, no finger ache soreness or mind going blank yet, but its time to cook some food and I actually want to farm some in PMC Undefined Farms 20km Start From Zero, so it most likely will be hours if its even tonight when I return to this editing <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2023-02-23T09:09:00Z New editing day has started, its been many days since I edited the last field definition corner piece, <b>GE has been running all this time</b>, it still seems to work OK which is always nice. Now today feels like a day with all the other video editing etc work that its good time to continue editing these corner pieces. Same plan as before nothings changed, I would like to finish all of it today but might be too much to ask to do close to 1800 corner pieces, so I'll do what I can with relaxed pace.
+</p>
+
+<p>
+2023-02-23T10:28:00Z Did first export save to fields.2023-02-23T1027.i3d file, its been going slow but steady, doing 1-3 corner pieces quite detailed and then checking forums etc to relax, to make sure wont get that copy-paste CTRL pinky finger soreness which kills these field definition editing sessions very fast.
+</p>
+
+<p>
+Oh I'm tired too, slept barely six hours last night and now eyes are all tired, hopefully wont need to take a nap today but we'll see. So far today has been a good day, got several field definition corner pieces done, good stuff. Also today I wont be writing play-by-play about lunch breaks and such things because those are expected with relaxed "edit what I can" mood.
+</p>
+
+<p>
+2023-02-23T14:51:00Z After a few hours nap I feel energetic again, time to jump on some field definitions before grabbing days next meal.
+</p>
+
+<p>
+2023-02-23T16:25:00Z Did another backup after good progress being done after a lunch break, fields.2023-02-23T1625.i3d file exported.
+</p>
+
+<p>
+2023-02-23T17:47:00Z Hmm realized I am spending way too much time fine tuning corner pieces, when I zoom into the detailed cultivator_density view, you lose the sight of the bigger picture, you are wasting your time tinkering with the meaningless details on these field corners when you should just zoom back out again and mind the bigger picture, get good size field definitions done as easily and quickly as possible. If the field is 0.02ha smaller means absolutely nothing when doing contracts or otherwise using those AI fields.
+</p>
+
+<p>
+So yeah I need not to zoom into the most detailed cultivator_density field view and just do the average bulk work, its much more than good enough for enjoyable contracts game-play.
+</p>
+
+<p>
+2023-02-23T18:04:00Z Another save after good progress, fields.2023-02-23T1803.i3d file name.
+</p>
+
+<p>
+2023-02-23T19:50:00Z Export saved fields.2023-02-23T1950.i3d file name as now I need to take a longer break because starting to feel that hmm how should I define it, not frustrated but ... heh cant describe it any other way than "painful" mood after editing so many field definitions. Now I need a break, I'm hoping this is only hours so could do few more corner pieces before bed time tonight, but I want to take it casually, relaxed, no pressure so whatever happens I'm cool with it.
+</p>
+
+<p>
+2023-02-23T21:37:00Z Bored, back to field definitions, one at the time, nice and slow... <i>nice and slow...</i>
+</p>
+
+<p>
+2023-02-23T23:37:00Z Another save for fields.2023-02-23T2336.i3d file name, slow but steady progress while watching leaddawg's twitch live stream.
+</p>
+
+<p>
+2023-02-24T12:57:00Z New editing day has started, currently I'm twitch live streaming PMC RedWhiteBlue 10km and PMC Super Six 6km Start From Zero VIDEO recording, it will last 3 * 45min and I'm monitoring chat there (which there are none). So now I'm casually continuing again this never ending field definition work while OBS is playing a video and streaming it, if there are anyone in twitch chat I'll chat with them, if not... I'll keep editing corner pieces.
+</p>
+
+<p>
+2023-02-24T13:08:00Z Hmm saved export to fields.2023-02-24T1308.i3d file name, seems like OBS gives more dropped frames when I move about in GE which also feels quite choppy, hmm wonder if my GTX 1060 3gb card is struggling to handle all that OBS twitch stream video stuff along with 4k triple screen desktop hmm.
+</p>
+
+<p>
+2023-02-24T18:59:00Z Another save for fields.2023-02-24T1858.i3d file name, taking a lot of breaks while doing other stuff on the side, but still slowly and steadily plugging in few corner pieces here, and few over there...
+</p>
+
+<p>
+2023-03-02T04:58:00Z New editing day has started, well not really, just finished a long day of playing <a href="../19/pmc-iowa-garden-city-8km.php" target="_blank">PMC Iowa Garden City 8km</a> Start From Zero (yeah FS19), had a lunch and now have nothing to do before bed time, so just for "no reason" I'll do few corner pieces, maybe if I could do like 5 it would be nice set.
+</p>
+
+<p>
+Did one but GE seems to stutter a lot, I'm rendering video using <a href="https://kdenlive.org/en/" target="_blank">Kdenlive</a> on the background but there should be plenty of CPU power and cores left in PMC DevSurf AMD Ryzen 9 3950X 16 core, so hmm wonder if GE gets sluggish when its been running non-stop for over a week, hmm.
+</p>
+
+<p>
+2023-03-02T05:14:00Z Okay probably well over 10 corner pieces edited, that is enough for now, exported fields.2023-03-02T0514.i3d file out. Okay, that was a nice quick editing session <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2023-03-03T02:30:00Z New editing day has started, not much new, just want to chip in todays quota of corner pieces editing, have to make some progress every day and maybe one day all these 1.8k field definitions get done.
+</p>
+
+<p>
+2023-03-03T02:35:00Z Heh this is kind of funny, but I need to take a half an hour hair cutting, shaving and showering break right here, yeah I know this sounds really bad as dude just FIVE minutes ago started to edit and now bunny hopping into other household chores heh, yeah yeah.. but hey, corner pieces editing work WILL continue when I'm freshly cut and showered <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2023-03-03T04:13:00Z Okay back, just had a lunch too so quite nice break, now back to corner pieces before something else comes up.
+</p>
+
+<p>
+2023-03-03T06:15:00Z Well spent a lot of time in xr-renegade's discord voice comms (listening and typing in chat) about his ohio terrain, so kind of lost a lot of editing time, but now back at it for at least few more corner pieces. Man, this field work task is going to take weeks with this pace <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2023-03-03T06:39:00Z Exported fields.2023-03-03T0639.i3d file for backup, or well save in this case. Hmm my eyes are strained, feels like left eye is not watering but has that morning "dew" on it, I have to blink like traffic light when watching the screen heh, need to go restoom and clean eyes with tissue maybe it helps, or, maybe I'm simply tired even though not yawning yet <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Hmm still got 2hrs 17min on the clock here before bed time, so should not be too tired yet. Went to restroom and cleaned yes with tissue, that was the issue (tiessue issue, it rhymes whoah), had some smudge in eyes for long day of computer monitor staring, now I'm good to go rest of the day with clean eyes <img src="../images/smileys/icon_eek.gif" alt="Smiley :bender-eyes:" loading="lazy">
+</p>
+
+<p>
+2023-03-03T07:07:00Z Exported fields.2023-03-03T0707.i3d for save thing, going to take a break by doing some global mapper work, just too much field definition stuff for now.
+</p>
+
+<p>
+2023-03-03T17:51:00Z New editing day has started, you know the drill, one corner piece at the time ...
+</p>
+
+<p>
+2023-03-03T18:20:00Z And exported fields.2023-03-03T1819.i3d file name for saving progress, time for another break.
+</p>
+
+<p>
+2023-03-04T04:52:00Z Back to add few more corner pieces, I have nothing else to do so lets put in some work again.
+</p>
+
+<p>
+2023-03-04T05:24:00Z Exported fields.2023-03-04T0523.i3d file name for safe keeping, enough editing for one session again. Its interesting, on rough ballbark it looks like I have patience to do about half an hour editing work on corner pieces hmm.
+</p>
+
+<p>
+2023-03-04T17:15:00Z New editing day has started, OK today I have nothing else to do so maybe I'll try to squeeze in lets say at least 2hrs worth of field definition corner piece editing time spanning across the whole day.
+</p>
+
+<p>
+2023-03-04T18:55:00Z Exported fields.2023-03-04T1855.i3d and now its time for days first meal, I'm starving...
+</p>
+
+<p>
+2023-03-04T19:19:00Z Feeding time is over, back to editing.
+</p>
+
+<p>
+2023-03-04T20:26:00Z Okay time to export fields.2023-03-04T2025.i3d file name out and take another break.
+</p>
+
+<p>
+And after this came a change of plans, <a href="pmc-ohio-alger-10km.php">PMC Ohio Alger 10km</a> terrain was born and my focus shifted completely to its development for now. I saved terrain project in GE and exited, no idea how long it will be before I return to this never ending field definition corner piece editing work...
+</p>
+
 </section>
 
 <footer>
