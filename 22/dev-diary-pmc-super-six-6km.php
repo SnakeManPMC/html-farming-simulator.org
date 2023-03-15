@@ -1107,6 +1107,13 @@ Changed modDesc.xml to v0.3.1, readme.txt and release compilation bat files also
 2023-01-25T05:06:00Z Compiled PMC_Super_Six_6km_v0.3.1.7z for testing, this version for sure gets to see hours of Start From Zero game-play today <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
+
+	<h2>2023-02-22 Overview.dds GIMP Painting</h2>
+
+<p>
+2023-02-22T14:10:00Z New farming day has started and ended, huh what? Heh yeah already some time ago started to create overview.dds PDA map image outside area, got it done and posted to <a href="https://www.pmctactical.org/forum/viewtopic.php?p=188575#p188575" target="_blank">PMC Tactical forum PMC Super Six 6km Development topic</a> about it. It was so quick work that didn't even consider writing dev diary, but it turned out so well I had to come back and write this paragraph <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
 </section>
 
 <footer>
