@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Minnesota Elrosa 8km Farming Simulator 19 - PMC Farming</title>
+<title>PMC Minnesota Elrosa 8km Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Minnesota Elrosa 8km Farming Simulator 19 - PMC Farming">
-<META name="keywords" content="Terrain, Minnesota Elrosa 8km, PMC, Farming">
+<META name="description" content="PMC Minnesota Elrosa 8km Farming Simulator 19 - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -432,8 +431,15 @@ Field 383 (field) : 0.741 ha
 </section>
 
 <footer>
-<p><a href="pmc-terrains.php" class="button">PMC Terrains FS19</a></p>
-<p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
+<p>
+<a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<!--
+<a href="changelog-pmc-minnesota-elrosa-8km.php" class="button">Changelog PMC Minnesota Elrosa 8km</a>
+<a href="screenshots-pmc-minnesota-elrosa-8km.php" class="button">Screenshots PMC Minnesota Elrosa 8km</a>
+-->
+<a href="dev-diary-pmc-minnesota-elrosa-8km.php" class="button">Dev Diary PMC Minnesota Elrosa 8km</a>
+<a href="../index.php" class="button">PMC Farming Simulator root page</a>
+</p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
 </footer>
