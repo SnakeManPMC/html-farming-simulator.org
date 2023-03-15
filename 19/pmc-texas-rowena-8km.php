@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Texas Rowena 8km Farming Simulator 19 - PMC Farming</title>
+<title>PMC Texas Rowena 8km Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Texas Rowena 8km Farming Simulator 19 - PMC Farming">
-<META name="keywords" content="Terrain, Texas Rowena 8km, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -25,7 +24,7 @@
 <p>
 <b>Help wanted!</b> PMC is looking for serious terrain testers. We cannot fix issues if we don't know they exist, help us test <a href="pmc-terrains.php">PMC terrains</a> and send feedback. If interested <a href="../contact.php">contact us</a>.
 </p>
-<p><b>2021-01-01</b> Updated. Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
+<p><b>2023-03-15T08:35:00Z</b> Updated. Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
 	<h2>PMC Texas Rowena 8km</h2>
 
@@ -56,7 +55,7 @@ src="https://www.youtube.com/embed/37rGbHaz2lg">
 	<h2>Work In Progress</h2>
 
 <p>
-PMC Texas Rowena 8km terrain is work in progress (WIP), it is not finished yet. PMC is continuing to develop it, edit it along with our other terrains.
+PMC Texas Rowena 8km terrain is work in progress (WIP), it is not finished yet. PMC is continuing to develop it, edit it along with our other terrains. See <a href="dev-diary-pmc-texas-rowena-8km.php">Dev Diary PMC Texas Rowena 8km</a> for details.
 </p>
 
 <p>
@@ -371,6 +370,8 @@ For installing please read <a href="install-mods.php">how to install FS19 mods</
 <footer>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<a href="changelog-pmc-texas-rowena-8km.php" class="button">Changelog PMC Texas Rowena 8km</a>
+<a href="dev-diary-pmc-texas-rowena-8km.php" class="button">Dev Diary PMC Texas Rowena 8km</a>
 <a href="screenshots-pmc-texas-rowena-8km.php" class="button">Screenshots PMC Texas Rowena 8km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>

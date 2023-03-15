@@ -98,6 +98,8 @@ Plenty of <a href="https://www.youtube.com/user/pmcsince1984/search?query=%22PMC
 <footer>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<a href="changelog-pmc-texas-rowena-8km.php" class="button">Changelog PMC Texas Rowena 8km</a>
+<a href="dev-diary-pmc-texas-rowena-8km.php" class="button">Dev Diary PMC Texas Rowena 8km</a>
 <a href="pmc-texas-rowena-8km.php" class="button">PMC Texas Rowena 8km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>

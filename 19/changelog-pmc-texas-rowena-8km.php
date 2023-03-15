@@ -309,6 +309,8 @@ Changelog for <a href="pmc-texas-rowena-8km.php">PMC Texas Rowena 8km</a> terrai
 <footer>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<a href="dev-diary-pmc-texas-rowena-8km.php" class="button">Dev Diary PMC Texas Rowena 8km</a>
+<a href="screenshots-pmc-texas-rowena-8km.php" class="button">Screenshots PMC Texas Rowena 8km</a>
 <a href="pmc-texas-rowena-8km.php" class="button">PMC Texas Rowena 8km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
