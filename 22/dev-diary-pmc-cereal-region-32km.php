@@ -1440,6 +1440,17 @@ Changed modDesc.xml to v0.2.2, edited readme.txt and release compilation bat fil
 2023-01-06T21:50:00Z Compiled PMC_Cereal_Region_32km_v0.2.2.7z for testing, moments later uploaded and posted it to PMC Tactical forums for testing as well (hopefully it works haha).
 </p>
 
+
+	<h2>2023-02-22 Overview.dds Painting Using GIMP</h2>
+
+<p>
+2023-02-22T15:49:00Z New editing day has started, used _run_graphicsmagick_create_FS22_mapview.bat to generate PDA mapview overview.dds image. Was not really planning on editing this or any other terrain specifically but I wanted to learn how to paint this image outside terrain area so it gives that illusion where you cant tell where actual terrain ends and fake area begins. So used the bat to create overview.dds which I've should have done long time ago already, last time I was editing.
+</p>
+
+<p>
+2023-02-22T17:11:00Z Finished GIMP painting PDA mapview overview.dds outside area using the same boring asphalt road grid and fields peppered in between, man does it look nightmarish <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
 </section>
 
 <footer>
