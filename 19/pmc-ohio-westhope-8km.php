@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Ohio Westhope 8km Farming Simulator 19 - PMC Farming</title>
+<title>PMC Ohio Westhope 8km Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Ohio Westhope 8km Farming Simulator 19 - PMC Farming">
-<META name="keywords" content="Terrain, Ohio Westhope 8km, PMC, Farming">
+<META name="description" content="PMC Ohio Westhope 8km Farming Simulator 19 - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -423,14 +422,21 @@ Field 372 (field) : 22.855 ha
 </pre>
 
 <p>
-Gimp painted cultivator_density image <a href="https://cdn.discordapp.com/attachments/557685453801914379/585803676904325130/FS19-Ohio-Westhope-8km-2019-06-05T1212.jpg" target="_blank">FS19-Ohio-Westhope-8km-2019-06-05T1212.jpg</a>.
+GIMP painted cultivator_density image <a href="https://cdn.discordapp.com/attachments/557685453801914379/585803676904325130/FS19-Ohio-Westhope-8km-2019-06-05T1212.jpg" target="_blank">FS19-Ohio-Westhope-8km-2019-06-05T1212.jpg</a>.
 </p>
 
 </section>
 
 <footer>
-<p><a href="pmc-terrains.php" class="button">PMC Terrains FS19</a></p>
-<p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
+<p>
+<a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<!--
+<a href="changelog-pmc-ohio-westhope-8km.php" class="button">Changelog PMC Ohio Westhope 8km</a>
+<a href="screenshots-pmc-ohio-westhope-8km.php" class="button">Screenshots PMC Ohio Westhope 8km</a>
+-->
+<a href="dev-diary-pmc-ohio-westhope-8km.php" class="button">Dev Diary PMC Ohio Westhope 8km</a>
+<a href="../index.php" class="button">PMC Farming Simulator root page</a>
+</p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
 </footer>
