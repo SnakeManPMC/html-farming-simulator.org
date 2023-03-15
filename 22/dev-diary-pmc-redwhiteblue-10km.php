@@ -877,6 +877,77 @@ Edited modDesc.xml to v0.2, readme.txt and compilation bat files as well.
 2023-01-17T03:50:00Z Something went wrong with... dunno where exactly, modDesc.xml was still v0.1.6 when I unpacked the "v0.2" release packet in PMC Gaming, so changed modDesc.xml and compiled v0.2.1 release <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
+
+	<h2>2023-02-09 GIMP Painting Farmland Image</h2>
+
+<p>
+2023-02-09T02:29:00Z New editing day has started, earlier today I was playing Start From Zero and discovered sadly that farmland image is unusable to anything between tiny and massive, there was no middle ground at all, you could either do too small stuff or needed about 5 million to buy those massive blobs which had about elmcreek worth of land. This has to be fixed.
+</p>
+
+<p>
+Took backup from terrain project itself and also design doc. Then started to investigate which is the last farmland ID number / RGB color I used on last edit.
+</p>
+
+<p>
+Opened farmlands.xml config file, it had ID channels used up to 63, meaning all "default" channels. The config already had numChannels="8" which supports up to 255 channels.
+</p>
+
+<p>
+Read <a href="../19/terrain-farmland-channels.php">HOWTO Increase Farmland ID Channels FS19 tutorial</a> and copy-pasted 64 - 255 config files into my farmland.xml file. Now all I need to do is continue editing GIMP XCF farmland design doc image from ID 64.
+</p>
+
+<p>
+2023-02-09T03:22:00Z First big blob farmland ID color painted over with new colors for very tight one field size chunks.
+</p>
+
+<p>
+2023-02-09T03:36:00Z Lunch break, starvin' here ...
+</p>
+
+<p>
+2023-02-09T03:51:00Z Feeding time is over, back to painting few more farmland ID channels.
+</p>
+
+<p>
+2023-02-09T04:15:00Z Okay done painting farmland ID channels to the GIMP XCF design doc image, there is now plenty of enough 32ha fields to buy for my farm growing needs.
+</p>
+
+<p>
+GIMP exported satellite_texture_farmland.png image, then ran _run_graphicsmagick_create_farmland_2022-01-30.bat file which processes a new farmland image for me. While it was doing that I alredy went to PMC_RedWhiteBlue_10km.i3d and edited PMC_RedWhiteBlue_10km_farmland.grle to .png file extension.
+</p>
+
+<p>
+While at it I opened PMC_RedWhiteBlue_10km.xml config file and enabled maps_sprayTypes.xml for better fertilizer, seed and herbicide use. Copied maps_sprayTypes.xml from PMC_Super_Six_6km/ terrain project dir. Copied farmland.png from design doc dir to maps/PMC_RedWhiteBlue_10km/data/ dir over its correct PMC_RedWhiteBlue_10km_farmland.png file name. Then it was time to fire up GE v9.0.2 and see what breaks <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+Unfortunately PMC_RedWhiteBlue_10km.i3d file did not have the 255 ID channel setup for farmland as it only shows 63. Opened this file up and up indeed; &lt;Option value="63" name="Farmland 63"/&gt; was the last entry, hmm I got to have these on some other terrain projects I3D file so I don't have to copy-paste and edit all those 64 - 255 numbers in. Did powergrep4 search for the whole FS22 editing dir and found one, PMC_Undefined_Farms_20km.i3d had them in, awesome. Copy-pasted them into this terrains I3D and launched GE back up.
+</p>
+
+<p>
+2023-02-09T04:30:00Z All 255 farmland channels now appear in GE, didn't go looking through all of them, either they work or don't but its way too cumbersome to browse through them in GE, so just hit CTRL-S to save so can get a new farmland.grle file in data dir and then we are done.
+</p>
+
+<p>
+GE took its sweet time to save again, expecting something like 10min save time, sigh <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+</p>
+
+<p>
+Scenefile 'E:/Farming.Simulator.22.Editing/PMC_RedWhiteBlue_10km/maps/PMC_RedWhiteBlue_10km/PMC_RedWhiteBlue_10km.i3d' saved in 481976.123519 ms at Thu Feb  9 04:38:14 2023.
+</p>
+
+<p>
+Opened PMC_RedWhiteBlue_10km.i3d and edited it back to farmland.grle file extension and deleted data/PMC_RedWhiteBlue_10km_farmland.png image.
+</p>
+
+<p>
+Edited modDesc.xml to v0.2.2, then readme.txt and release compilation bat files.
+</p>
+
+<p>
+2023-02-09T04:41:00Z Compiled PMC_RedWhiteBlue_10km_v0.2.2.7z release for testing.
+</p>
+
 </section>
 
 <footer>
