@@ -45,8 +45,10 @@ But yeah joking aside, I don't want any pressure, I will not make empty promises
 </p>
 
 <p>
-Xr-renegade then downloaded <a href="https://das.ohio.gov/technology-and-strategy/OGRIP" target="_blank">ohio state .gov websites</a> detailed heightmap 3DEP DEM files, not even sure how detailed these are probably 1 meter or something.
+Xr-renegade then downloaded <a href="https://das.ohio.gov/technology-and-strategy/OGRIP" target="_blank">ohio state .gov websites</a> detailed heightmap 3DEP DEM files, not even sure how detailed these are probably 1 meter or something. Below is example of the details they bring to the heightmap, low resolution is the usual US NED 10m detail, high res is the ohio state website downloaded one (I think its 1m detail).
 </p>
+
+<a href="screenshots/PMC-Ohio-Alger-10km-2023-03-05T0740.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Ohio-Alger-10km-2023-03-05T0740.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 PMC Ohio Alger 10km Screenshot"></a>
 
 <p>
 As writing this text I'm dead tired and just finished eating lunch so cant go to sleep in few hours unless you want bad sleep, anyways heh hate to be this tired.
