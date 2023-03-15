@@ -581,6 +581,26 @@ Started to compile first release of this terrain, its v1.2.
 <p>
 Then it was just updating web pages for the release, including changelog, this dev diary, PMC terrains and of course the official PMC Montana Shelby 8km homepage. Man I need to recruit some web monkey to do this public relations crap for PMC <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
+
+
+	<h2>2023-03-03 New Heightmap Download</h2>
+
+<p>
+Special note: another long time no see moment, last edits to this terrain were done in <b>2021 early summer</b> whoah! <img src="../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+</p>
+
+<p>
+2023-03-03T19:56:00Z New editing day has started, experimenting with new heightmaps.
+</p>
+
+<p>
+USGS 1/3 arc second heightmap download. However this is almost exactly the same as US NED 10m resolution, I could not tell heightmap difference in-game, all objects fit nicely except couple of trees in the SW region where you got those crazy deep canyon alike elevations, few trees floated probably 20m in the air which was odd.
+</p>
+
+<p>
+heightScale="71.99"
+</p>
+
 </section>
 
 <footer>
