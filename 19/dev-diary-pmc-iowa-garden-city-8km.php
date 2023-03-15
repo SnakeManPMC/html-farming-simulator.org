@@ -3,7 +3,6 @@
 <head>
 <title>Developer Diary PMC Iowa Garden City 8km - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Developer Diary PMC Iowa Garden City 8km - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -2074,6 +2073,159 @@ Then just some web page changelog and this dev diary updating, kind of rushed jo
 
 <p>
 Tonight I'm going to test PMC Iowa Garden City 8km v1.1.11 myself to see if I can spot anything broken or not suitable for first general public release. Will be good times running around and doing cultivating contracts <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+
+	<h2>2021-07-23 Farmland Image RGB Shuffle</h2>
+<p>
+2021-07-23T02:09:00Z New editing day has started, farmland image work continues, need to split off farm yards from those huge RGB color areas. Its pointless to have small farm yards attached to huge land which cost over half a million.
+</p>
+
+<p>
+This is tedious task to shuffle RGB colors from one location to another. Below is my own notes about which RGB colors I switched and shuffled around in order to get room for small farm yards.
+</p>
+
+<p>
+RGB 45, 110, 210 changed to 210, 45, 110<br>
+RGB 135, 0, 255 changed to 135, 255, 0<br>
+RGB 115, 225, 35 changed to 115, 35, 225<br>
+RGB 151, 150, 150 changed to 5, 120, 220<br>
+RGB 175, 235, 25 changed to 25, 175, 235<br>
+RGB 235, 25, 175 changed to 175, 25, 235<br>
+RGB 110, 210, 45 changed to 25, 25, 50<br>
+RGB 30, 0, 255 changed to 0, 30, 255<br>
+RGB 125, 100, 255 changed to 125, 255, 25<br>
+RGB 5, 70, 255 changed to 255, 70, 5<br>
+RGB 200, 30, 100 changed to 130, 40, 130
+</p>
+
+<p>
+2021-07-23T05:30:00Z Finally finished all GIMP farmland image painting, graphicsmagic converting to GE readable farmland png and then in-game testing all farm yard land lots. Also tested selling all the bin silos and buildings which is more like defaultItems.xml stuff.
+</p>
+
+<p>
+Everything looks good, now we have many extremely cheap farm yards to purchase for poor starting farmers.
+</p>
+
+
+	<h2>2021-07-24 Asphalt Road Madness</h2>
+
+<p>
+2021-07-24T01:04:00Z New editing day is starting, todays goal is to fix the asphalt roads which have wrinkles on the curves where semi truck trailers bounce badly.
+</p>
+
+<p>
+I swore to never use piece of garbage SSC anymore but within this terrain its allowed because I need to finish what was started.
+</p>
+
+<p>
+Was thinking of taking backups first so have a fail safe stable release to fall back into if this road task gets too overwhelming or simply doesn't work, the current roads have wrinkles in the curves but they still work pretty OK for the most part, so its better to have this stable version instead of no asphalt roads.
+</p>
+
+<p>
+To get started took backups, PMC_Iowa_Garden_City_8km_2021-07-24T0114.7z this is now my fail safe backup if this road project goes belly up, just restore this 7-zip and all is good again.
+</p>
+
+<p>
+First thought was to delete existing roads and railroad as well (more about trains later), then use splines to elevate the heightmap so we can get those nice american elevated roads with ditches. Only question is... which splines do I use, the old ones are done for elevated roads and 10m road mesh pieces but it has a cut off by dealership, new ones for SSC generation might not be aligned properly for elevation purpose, hmm.
+</p>
+
+<p>
+Now I'm going to list numbers again which basically means nothing for anyone else than me who sees this stuff in GE, but this is good place to write these notes and hey who knows, maybe some other terrain dev gets some ideas of how I do things.
+</p>
+
+<p>
+First new SSC asphalt road spline elevation was 338.97799683 25.65399933 4094.32006836 and I elevated it 2 meters to create elevated road with ditches. Initially I thought one meter is enough but it looked like its nothing, so went with two.
+</p>
+
+<p>
+So I adjusted first spline which is the long N/S one, added some control vertex points by the dealership so its nicely at stock heightmap ground level without ditches because those don't belong to city streets.
+</p>
+
+<p>
+Saved in GE before running set terrain to spline script because that most likely requires few trial and errors, for example cant remember if I need to use 6 or 8 meter terrain elevating script.
+</p>
+
+<p>
+Ran 8 meter elevating script, came out alright. Then it was on to the next spline, this was -4094.7199707 24.84199905 1399.75 and again elevated it 2 meters.
+</p>
+
+<p>
+Next spline was -1221.34997559 37.77099991 574.44500732 which got 2m rise.
+</p>
+
+<p>
+Then spline -1244.06005859 33.39839935 1408.90002441 same treatment.
+</p>
+
+<p>
+Last spline 354.27200317 28.27000046 1424.64001465 and 2m up she goes.
+</p>
+
+<p>
+After heightmap was elevated I saved and went to in-game to drive around to really see how the elevations look because GE is just awful showing any of that stuff.
+</p>
+
+<p>
+Took fruit_density and blacked it out to remove flowers and grass, I want to see plain and simple heightmap without any distractions.
+</p>
+
+<p>
+2021-07-24T03:00:00Z In-game test shows that splines were way too simple, they were extremely smooth which of course makes good driving on the road, but elevations got lost. There was some points where the road was elevated almost to the original ground level and other places it created old castle wall type barrier like 3m or so tall which looked silly. Utility poles also got buried into the ditch area (there was no ditches in this script though).
+</p>
+
+<p>
+So yeah splines need more work. I feel like just restoring the backup and forgetting this road nonsense for now.
+</p>
+
+<p>
+2021-07-24T03:14:00Z Restored original heightmap and started GE, was looking around about the splines... and just decided to revert back to the original stable version and try again.
+</p>
+
+<p>
+Not sure how the hell to do this so it doesn't require ridiculous amount of work like making another set of splines once again. I just hate this, it feels so unpleasant to edit like this I'm in the verge of just calling roads done not giving a damn about some wrinkles or elevations.
+</p>
+
+<p>
+2021-07-24T03:45:00Z Tried to SSC generate roads on top of the elevated heightmap but the intersections did not match, sigh. This sucks so bad I'm out, gotta do something else for a while I cant stand this SSC garbage.
+</p>
+
+
+	<h2>2023-02-24 Hello Old Friend</h2>
+
+<p>
+Special note: oh my, the last edits were done in <b>2021</b> which is over a year ago! <img src="../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+</p>
+
+<p>
+2023-02-24T15:19:00Z New editing day has started. Last night opened PMC Iowa Garden City 8km in global mapper, brought up ArcGIS world imagery (as US NAIP source is down) and exported satellite texture. Did nothing else.
+</p>
+
+<p>
+New 2023 satellite imagery download looks different, it looks... dirtier and not in a bad way, I kind of like this new one it looks more detailed, more busy so to speak with more colors popping up on the fields. I could not spot any landmark features changing like new farm yards appearing etc, roads are all the same so this should work with my existing cultivator_density painting and field definitions just fine.
+</p>
+
+
+	<h2>2023-03-03 Super Detailed Heightmap</h2>
+
+<p>
+2023-03-03T19:00:00Z New editing day has started, today I'm playing around with some heightmap stuff.
+</p>
+
+<p>
+USGS 1 meter detail heightmap download from the website, then normal global mapper heightmap_1m.asc ASCII Grid ASC file export.
+</p>
+
+<p>
+This download is <b>FRIGGING AMAZING!</b> You get automatic <b>ROAD DITCHES</b> with this level of detail. This is groundbreaking stuff for my FS19 terrain development. If there are 1 meter heightmap resolution data available, it is a MUST HAVE. You do not need to create road elevations and ditches manually in GE etc, they are good to go from 1m heightmap! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+</p>
+
+<pre>
+heightScale="42.23"
+</pre>
+
+<p>
+Important thing to note is that while the heightmap SOURCE is 1 meter detail, the actual heightmap grid in GE / FS19 is still 4096 x 4096 points and unitsPerPixel is 2, which means two meters, so technically 50% of the details go missing from the source. However this is technical geek speech, nevermind this, the new heightmap data source is AWESOME!
 </p>
 
 </section>
