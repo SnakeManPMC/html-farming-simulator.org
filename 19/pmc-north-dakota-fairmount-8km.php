@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>North Dakota Fairmount 8km Farming Simulator 19 - PMC Farming</title>
+<title>PMC North Dakota Fairmount 8km Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="North Dakota Fairmount 8km Farming Simulator 19 - PMC Farming">
-<META name="keywords" content="Terrain, North Dakota Fairmount 8km, PMC, Farming">
+<META name="description" content="PMC North Dakota Fairmount 8km Farming Simulator 19 - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -189,8 +188,11 @@ Field 136 (field) : 15.856 ha
 </section>
 
 <footer>
-<p><a href="pmc-terrains.php" class="button">PMC Terrains FS19</a></p>
-<p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
+<p>
+<a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<a href="dev-diary-pmc-north-dakota-fairmount-8km.php" class="button">Dev Diary PMC North Dakota Fairmount 8km</a>
+<a href="../index.php" class="button">PMC Farming Simulator root page</a>
+</p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
 </footer>
