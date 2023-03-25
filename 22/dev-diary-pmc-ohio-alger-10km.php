@@ -1066,6 +1066,37 @@ Okay one step closer to the southern location again, nice.
 2023-03-12T14:44:00Z Decided to call it a night, still have two hours in my day left but it just feels right to call it here without trying to push into the last minutes. Now going to do some web work to get this dev diary added to its own page and also update posted to PMC forum development topic, this also takes a moment with screenshots and all.
 </p>
 
+
+	<h2>2023-03-16 More Objects On OH-235</h2>
+
+<p>
+2023-03-16T04:30:00Z New editing day has started, todays goal is to just place farm yard buildings along OH-235 road, yes it would be great if I could finish this roads object placement today but not knowing exactly how many farm yards are there to do, I'll just proceed like the previous editing day, one farm yard at the time.
+</p>
+
+<p>
+Took backup from the terrain project dir, just in case.
+</p>
+
+<p>
+2023-03-16T04:35:00Z GE v9.0.2 started, terrain project loaded, 16km large terrain lua script ran and oriented scenegraph to the next location I am about to create, alright... time to edit <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+2023-03-16T04:52:00Z First farm yard done, it was one abandoned building in a brush and then normal house by the road no actual farming buildings present, this was now location021. OK good start for a day, now the initial pressure of getting editing done is over, now its good to continue in the flow <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+2023-03-16T05:14:00Z Finished big chunk of forest patch at OH-235 and 126 roads intersection, I bet that amount of trees cause some performance drop but we'll see how it plays out in-game.
+</p>
+
+<p>
+Then took a break to do some real life chore type of studying. This break turned out to be more than a half the day...
+</p>
+
+<p>
+<i>Edit: real life chore studying actually turned into whole week monday through friday thing. Unfortunately it looks like next weeks monday - friday will be the same, expect no updates at that week.</i>
+</p>
+
 </section>
 
 <footer>
