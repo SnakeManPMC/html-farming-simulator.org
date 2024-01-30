@@ -142,11 +142,7 @@ Then took backups of savegames and only thing left to do is to edit captured vid
 </p>
 
 <p>
-Continue reading
-<!--
-<a href="stories-start-from-zero-pmc-grande-gardens-16km-116.php">next page</a>,
--->
-<a href="stories-from-zero-grande-gardens.php">Start From Zero PMC Grande Gardens 16km Home</a>, go back to <a href="stories-start-from-zero-pmc-grande-gardens-16km-114.php">previous page</a>.
+Continue reading <a href="stories-start-from-zero-pmc-grande-gardens-16km-116.php">next page</a>, <a href="stories-from-zero-grande-gardens.php">Start From Zero PMC Grande Gardens 16km Home</a>, go back to <a href="stories-start-from-zero-pmc-grande-gardens-16km-114.php">previous page</a>.
 </p>
 
 </section>
