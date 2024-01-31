@@ -488,6 +488,11 @@ Please read the background idea for <a href="stories.php">our farm sim stories</
 <p>
 <a href="stories-start-from-zero-pmc-grande-gardens-16km-116.php">Page 116</a>, 2021-07-26 A Long Awaited Re-Design Editing Break of 2021.
 </p>
+
+<p>
+<a href="stories-start-from-zero-pmc-grande-gardens-16km-117.php">Page 117</a>, 2021 Re-Design Game-play Testing.
+</p>
+
 </section>
 
 <footer>
