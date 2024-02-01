@@ -493,6 +493,10 @@ Please read the background idea for <a href="stories.php">our farm sim stories</
 <a href="stories-start-from-zero-pmc-grande-gardens-16km-117.php">Page 117</a>, 2021 Re-Design Game-play Testing.
 </p>
 
+<p>
+<a href="stories-start-from-zero-pmc-grande-gardens-16km-118.php">Page 118</a>, 2021-12-19 PMC Grande Gardens 16km v1.1.13 Upgrade.
+</p>
+
 </section>
 
 <footer>
