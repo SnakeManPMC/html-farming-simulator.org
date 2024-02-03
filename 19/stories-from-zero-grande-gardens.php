@@ -501,6 +501,10 @@ Please read the background idea for <a href="stories.php">our farm sim stories</
 <a href="stories-start-from-zero-pmc-grande-gardens-16km-119.php">Page 119</a>, 2021-12-19 Soybeans Harvest.
 </p>
 
+<p>
+<a href="stories-start-from-zero-pmc-grande-gardens-16km-120.php">Page 120</a>, 2022 Happy New Year!.
+</p>
+
 </section>
 
 <footer>
