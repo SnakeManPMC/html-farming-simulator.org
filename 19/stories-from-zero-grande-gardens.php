@@ -505,6 +505,10 @@ Please read the background idea for <a href="stories.php">our farm sim stories</
 <a href="stories-start-from-zero-pmc-grande-gardens-16km-120.php">Page 120</a>, 2022 Happy New Year!.
 </p>
 
+<p>
+<a href="stories-start-from-zero-pmc-grande-gardens-16km-121.php">Page 121</a>, 2022-05-28 v1.1.14 aka v1.2 Full Harvest.
+</p>
+
 </section>
 
 <footer>
