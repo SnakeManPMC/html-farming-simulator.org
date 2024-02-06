@@ -4,7 +4,6 @@
 <title>Farming Simulator 19 Stories From The Farm - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Farming Simulator 19 Stories From The Farm - PMC Farming">
-<META name="keywords" content="Farming, Simulator, Stories, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,8 +14,6 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
 <h1><b>PMC Farming Simulator 19 Stories From The Farm</b></h1>
 </header>
 
@@ -81,6 +78,7 @@ For these stories I'm not going to mark $ US Dollar sign because its so cumberso
 <a href="stories-farm-manager-north-dakota-greendale.php" class="button">North Dakota, Greendale. Farm Manager</a>
 <a href="stories-from-zero-iowa-garden-city-unofficial.php" class="button">Garden City, Iowa. Unofficial Start From Zero</a>
 <a href="stories-from-zero-iowa-garden-city-unofficial-better-contracts.php" class="button">Garden City, Iowa. Unofficial Start From Zero Better Contracts</a>
+<a href="stories-from-zero-texas-rowena-8km-unfinished.php" class="button">Rowena, Texas. Start From Zero (unfinished)</a>
 </p>
 
 <p>
