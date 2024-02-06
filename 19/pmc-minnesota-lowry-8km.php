@@ -4,7 +4,6 @@
 <title>Minnesota Lowry 8km Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Minnesota Lowry 8km Farming Simulator 19 - PMC Farming">
-<META name="keywords" content="Terrain, Minnesota Lowry 8km, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,8 +14,6 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
 <h1><b>PMC Minnesota Lowry 8km - Farming Simulator 19 Terrain</b></h1>
 </header>
 
@@ -41,7 +38,7 @@ Click for larger image
 </div>
 
 <p>
-This terrain features area where <a href="https://www.youtube.com/channel/UCp0rRUsMDlJ1meYAQ6_37Dw" target="_blank">Millennial Farmer youtube videos</a> have been recorded.
+This terrain features area where <a href="https://www.youtube.com/channel/UCp0rRUsMDlJ1meYAQ6_37Dw" target="_blank">Millennial Farmer youtube videos</a> have been recorded. If you ever wondered about <b>Millennial Farmer Location Google Maps</b> then you find it zoomed into the farm yard <a href="https://www.google.com/maps/@45.7209337,-95.5692178,257m/data=!3m1!1e3" target="_blank">google/maps</a> here.
 </p>
 
 <p>
