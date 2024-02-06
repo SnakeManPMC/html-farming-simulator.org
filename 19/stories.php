@@ -74,6 +74,7 @@ For these stories I'm not going to mark $ US Dollar sign because its so cumberso
 <a href="stories-from-zero-garden-city-iowa.php" class="button">Garden City, Iowa. Start From Zero</a>
 <a href="stories-from-zero-midwest-horizon.php" class="button">Midwest Horizon. Start From Zero</a>
 <a href="stories-from-zero-grande-gardens.php" class="button">Grande Gardens. Start From Zero</a>
+<a href="stories-from-zero-grande-gardens-unofficial.php" class="button">Grande Gardens. Unofficial Start From Zero</a>
 <a href="stories-from-zero-north-dakota-greendale.php" class="button">North Dakota, Greendale. Start From Zero</a>
 <a href="stories-farm-manager-north-dakota-greendale.php" class="button">North Dakota, Greendale. Farm Manager</a>
 <a href="stories-from-zero-iowa-garden-city-unofficial.php" class="button">Garden City, Iowa. Unofficial Start From Zero</a>
