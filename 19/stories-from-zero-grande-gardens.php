@@ -513,6 +513,10 @@ Please read the background idea for <a href="stories.php">our farm sim stories</
 <a href="stories-start-from-zero-pmc-grande-gardens-16km-122.php">Page 122</a>, 2022-07-14 Seeding Soybeans.
 </p>
 
+<p>
+<a href="stories-start-from-zero-pmc-grande-gardens-16km-123.php">Page 123</a>, 2022-07-15 Soybeans Harvest Irregular Shape F141.
+</p>
+
 </section>
 
 <footer>
