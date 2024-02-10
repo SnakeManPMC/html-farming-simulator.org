@@ -31,6 +31,7 @@ See our older <a href="../stories.php">FS17 stories</a> and <a href="../19/stori
 <a href="stories-release-and-install.php" class="button">FS22 Release and Install</a>
 <a href="stories-new-farmer-elmcreek.php" class="button">New Farmer Elmcreek (first game-play)</a>
 <a href="stories-greenhouse-production-experiment.php" class="button">Greenhouse Production Experiment</a>
+<a href="stories-start-from-zero-elmcreek.php" class="button">Start From Zero Elmcreek (unfinished)</a>
 </p>
 
 </section>
