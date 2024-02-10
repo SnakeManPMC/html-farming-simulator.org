@@ -517,6 +517,10 @@ Please read the background idea for <a href="stories.php">our farm sim stories</
 <a href="stories-start-from-zero-pmc-grande-gardens-16km-123.php">Page 123</a>, 2022-07-15 Soybeans Harvest Irregular Shape F141.
 </p>
 
+<p>
+<a href="stories-start-from-zero-pmc-grande-gardens-16km-124.php">Page 124</a>, 2022-07-24 Difficult Field Shape Courseplay Issues.
+</p>
+
 </section>
 
 <footer>
