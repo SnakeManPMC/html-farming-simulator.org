@@ -32,6 +32,7 @@ See our older <a href="../stories.php">FS17 stories</a> and <a href="../19/stori
 <a href="stories-new-farmer-elmcreek.php" class="button">New Farmer Elmcreek (first game-play)</a>
 <a href="stories-greenhouse-production-experiment.php" class="button">Greenhouse Production Experiment</a>
 <a href="stories-start-from-zero-elmcreek.php" class="button">Start From Zero Elmcreek (unfinished)</a>
+<a href="stories-start-from-zero-pmc-super-six-6km-plcb.php" class="button">Start From Zero PMC Super Six 6km (placeables)</a>
 </p>
 
 </section>
