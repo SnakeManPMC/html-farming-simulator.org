@@ -80,6 +80,7 @@ For these stories I'm not going to mark $ US Dollar sign because its so cumberso
 <a href="stories-from-zero-iowa-garden-city-unofficial.php" class="button">Garden City, Iowa. Unofficial Start From Zero</a>
 <a href="stories-from-zero-iowa-garden-city-unofficial-better-contracts.php" class="button">Garden City, Iowa. Unofficial Start From Zero Better Contracts</a>
 <a href="stories-from-zero-texas-rowena-8km-unfinished.php" class="button">Rowena, Texas. Start From Zero (unfinished)</a>
+<a href="stories-from-zero-iowa-garden-city-2022-04-25-unofficial.php" class="button">Garden City, Iowa. Start From Zero (2022-04-25 unofficial)</a>
 </p>
 
 <p>
