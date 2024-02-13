@@ -266,11 +266,7 @@ Then just parked vehicles, waited a bit while semi-truck grain trailer was hauli
 </p>
 
 <p>
-Continue reading 
-<!--
-<a href="stories-start-from-zero-pmc-grande-gardens-16km-125.php">next page</a>, 
--->
-<a href="stories-from-zero-grande-gardens.php">Start From Zero PMC Grande Gardens 16km Home</a>, go back to <a href="stories-start-from-zero-pmc-grande-gardens-16km-123.php">previous page</a>.
+Continue reading <a href="stories-start-from-zero-pmc-grande-gardens-16km-125.php">next page</a>, <a href="stories-from-zero-grande-gardens.php">Start From Zero PMC Grande Gardens 16km Home</a>, go back to <a href="stories-start-from-zero-pmc-grande-gardens-16km-123.php">previous page</a>.
 </p>
 
 </section>
