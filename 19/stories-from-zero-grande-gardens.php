@@ -525,6 +525,10 @@ Please read the background idea for <a href="stories.php">our farm sim stories</
 <a href="stories-start-from-zero-pmc-grande-gardens-16km-125.php">Page 125</a>, 2024-01-19 Back To Grande Gardens.
 </p>
 
+<p>
+<a href="stories-start-from-zero-pmc-grande-gardens-16km-126.php">Page 126</a>, 2024-01-20 Soybeans Planting Season Continues.
+</p>
+
 </section>
 
 <footer>
