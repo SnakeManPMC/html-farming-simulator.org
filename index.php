@@ -4,7 +4,6 @@
 <title>PMC Farming Simulator</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC Farming Simulator">
-<META name="keywords" content="PMC, Farming, Simulator">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,8 +14,6 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("include/google-ads.php"); ?>
 <h1>PMC Farming Simulator</h1>
 <p>Welcome to PMC Farming Simulator homepage.</p>
 </header>
@@ -44,6 +41,7 @@
 <a href="19/pmc-terrains.php" class="button">PMC Terrains</a>
 <a href="19/contracts.php" class="button">Contracts</a>
 <a href="19/courseplay.php" class="button">Courseplay</a>
+<a href="19/dev-diary.php" class="button">Dev Diary</a>
 <a href="19/equipment-vehicle-prices.php" class="button">Equipment Vehicle Prices</a>
 <a href="19/guide.php" class="button">Guide</a>
 <a href="19/install-mods.php" class="button">Install Mods</a>
