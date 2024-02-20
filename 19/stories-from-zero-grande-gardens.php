@@ -537,6 +537,10 @@ Please read the background idea for <a href="stories.php">our farm sim stories</
 <a href="stories-start-from-zero-pmc-grande-gardens-16km-128.php">Page 128</a>, 2024-01-27 Seasons Config To 24 Days.
 </p>
 
+<p>
+<a href="stories-start-from-zero-pmc-grande-gardens-16km-129.php">Page 129</a>, 2024-01-28 HTML Editing And Soybeans Seeding For 17 Hours.
+</p>
+
 </section>
 
 <footer>
