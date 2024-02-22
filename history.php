@@ -67,6 +67,7 @@
 2021-06-22 Farming Simulator 22 - Release date (2021-11-22) announced <a href="https://farming-simulator.com/newsArticle.php?&news_id=237" target="_blank">news</a><br>
 2021-11-22 Farming Simulator 22 - Released<br>
 2021-12-16 Farming Simulator 22 - v1.2 update <a href="https://farming-simulator.com/newsArticle.php?&news_id=314" target="_blank">news</a><br>
+2021-XX-XX Farming Simulator 22 - v1.2.0.2 update released <a href="" target="_blank">PMCTODO MISSING: news</a><br>
 2022-02-24 Farming Simulator 22 - v1.3.1 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=321" target="_blank">news</a><br>
 2022-04-19 Farming Simulator 22 - Precision Farming released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=350" target="_blank">news</a><br>
 2022-04-21 Farming Simulator 22 - v1.4 update release <a href="https://www.farming-simulator.com/newsArticle.php?news_id=351" target="_blank">news</a><br>
@@ -86,6 +87,9 @@
 2023-01-24 Farming Simulator 22 - Platinum Expansion v1.3 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=442" target="_blank">news</a><br>
 2023-03-14 Farming Simulator 22 - v1.9 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=450" target="_blank">news</a>, <a href="https://www.farming-simulator.com/changelog-fs22.php" target="_blank">changelog</a><br>
 2023-03-21 Farming Simulator 22 - Goweil Pack released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=455" target="_blank">news</a><br>
+2023-06-12 Farming Simulator 22 - v1.10.1.1 update released <a href="" target="_blank">PMCTODO MISSING: news</a><br>
+2023-07-24 Farming Simulator 22 - v1.11 update released <a href="" target="_blank">PMCTODO MISSING: news</a><br>
+2023-08-03 Farming Simulator 22 - v1.12 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=487" target="_blank">news</a><br>
 2023-11-09 Farming Simulator 22 - v1.13.1 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=512" target="_blank">news</a>, <a href="https://www.farming-simulator.com/changelog-fs22.php" target="_blank">changelog</a><br>
 2023-11-14 Farming Simulator 22 - Premium Expansion and Edition released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=510" target="_blank">news</a><br>
 </p>
