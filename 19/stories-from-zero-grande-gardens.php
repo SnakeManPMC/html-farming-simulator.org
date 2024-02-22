@@ -541,6 +541,10 @@ Please read the background idea for <a href="stories.php">our farm sim stories</
 <a href="stories-start-from-zero-pmc-grande-gardens-16km-129.php">Page 129</a>, 2024-01-28 HTML Editing And Soybeans Seeding For 17 Hours.
 </p>
 
+<p>
+<a href="stories-start-from-zero-pmc-grande-gardens-16km-130.php">Page 130</a>, 2024-01-29 Finished Off F60 Soybeans Planting.
+</p>
+
 </section>
 
 <footer>
