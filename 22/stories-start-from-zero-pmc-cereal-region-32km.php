@@ -32,6 +32,10 @@ This savegame was created with <a href="pmc-cereal-region-32km.php">PMC Cereal R
 <a href="stories-start-from-zero-pmc-cereal-region-32km-001.php">Page 1</a>, 2023-01-04 New Savegame Creation.
 </p>
 
+<p>
+<a href="stories-start-from-zero-pmc-cereal-region-32km-002.php">Page 2</a>, 2023-01-05 Buying Land And Vehicle.
+</p>
+
 <!--
 <p>
 <a href="stories-start-from-zero-pmc-cereal-region-32km-00.php">Page PAGENUMBER</a>, DESCRIPTION.

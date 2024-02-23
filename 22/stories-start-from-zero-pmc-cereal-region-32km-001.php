@@ -638,10 +638,7 @@ Its funny that as long as I have now time accelerated... I could have done one o
 </p>
 
 <p>
-<!--
-Continue reading 
-<a href="stories-start-from-zero-pmc-cereal-region-32km-002.php">next page</a>, 
--->
+Continue reading <a href="stories-start-from-zero-pmc-cereal-region-32km-002.php">next page</a>, 
 Back to <a href="stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32 Home</a>.
 </p>
 
