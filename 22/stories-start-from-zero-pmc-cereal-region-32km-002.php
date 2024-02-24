@@ -935,11 +935,7 @@ Borrowed amazone ran out of fertilizer and autodrive sent it to F442 N. At this 
 </p>
 
 <p>
-Continue reading 
-<!--
-<a href="stories-start-from-zero-pmc-cereal-region-32km-003.php">next page</a>, 
--->
-<a href="stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32 Home</a>, go back to <a href="stories-start-from-zero-pmc-cereal-region-32km-001.php">previous page</a>.
+Continue reading <a href="stories-start-from-zero-pmc-cereal-region-32km-003.php">next page</a>, <a href="stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32 Home</a>, go back to <a href="stories-start-from-zero-pmc-cereal-region-32km-001.php">previous page</a>.
 </p>
 
 <p>
