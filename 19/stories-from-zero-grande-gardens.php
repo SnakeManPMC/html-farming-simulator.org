@@ -549,6 +549,10 @@ Please read the background idea for <a href="stories.php">our farm sim stories</
 <a href="stories-start-from-zero-pmc-grande-gardens-16km-131.php">Page 131</a>, 2024-02-03 Now Begins The Dangerous Part.
 </p>
 
+<p>
+<a href="stories-start-from-zero-pmc-grande-gardens-16km-132.php">Page 132</a>, 2024-02-04 Soybeans Harvest Continues.
+</p>
+
 </section>
 
 <footer>
