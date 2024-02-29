@@ -40,6 +40,10 @@ This savegame was created with <a href="pmc-cereal-region-32km.php">PMC Cereal R
 <a href="stories-start-from-zero-pmc-cereal-region-32km-003.php">Page 3</a>, 2023-01-06 Big Fertilizing Contract Operation.
 </p>
 
+<p>
+<a href="stories-start-from-zero-pmc-cereal-region-32km-004.php">Page 4</a>, 2023-01-29 Purchasing Own Land Equipment And Vehicles.
+</p>
+
 <!--
 <p>
 <a href="stories-start-from-zero-pmc-cereal-region-32km-00.php">Page PAGENUMBER</a>, DESCRIPTION.

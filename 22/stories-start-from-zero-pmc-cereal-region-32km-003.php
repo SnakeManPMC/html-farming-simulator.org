@@ -574,11 +574,7 @@ When will I continue PMC Cereal Region 32km Start From Zero savegame, umm not su
 </p>
 
 <p>
-Continue reading 
-<!--
-<a href="stories-start-from-zero-pmc-cereal-region-32km-004.php">next page</a>, 
--->
-<a href="stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32 Home</a>, go back to <a href="stories-start-from-zero-pmc-cereal-region-32km-002.php">previous page</a>.
+Continue reading <a href="stories-start-from-zero-pmc-cereal-region-32km-004.php">next page</a>, <a href="stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32 Home</a>, go back to <a href="stories-start-from-zero-pmc-cereal-region-32km-002.php">previous page</a>.
 </p>
 
 <p>
