@@ -25,6 +25,7 @@
 <a href="22/pmc-terrains.php" class="button">PMC Terrains</a>
 <a href="22/autodrive.php" class="button">Autodrive</a>
 <a href="22/contracts.php" class="button">Contracts</a>
+<a href="22/courseplay.php" class="button">Courseplay</a>
 <a href="22/equipment-vehicle-prices.php" class="button">Equipment Vehicle Prices</a>
 <a href="22/guide.php" class="button">Guide</a>
 <a href="22/map-making-tutorial.php" class="button">Map Making Tutorial</a>
