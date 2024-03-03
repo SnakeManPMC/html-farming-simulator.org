@@ -38,6 +38,7 @@ See our older <a href="../stories.php">FS17 stories</a> and <a href="../19/stori
 <a href="stories-start-from-zero-pmc-super-six-6km-cheat.php" class="button">Start From Zero PMC Super Six 6km (cheat)</a>
 <a href="stories-test-from-zero-pmc-undefined-farms-20km.php" class="button">Test From Zero PMC Undefined Farms 20km</a>
 <a href="stories-start-from-zero-pmc-cereal-region-32km.php" class="button">Start From Zero PMC Cereal Region 32km</a>
+<a href="stories-start-from-zero-pmc-king-corn-45km.php" class="button">Start From Zero PMC King Corn 45km</a>
 </p>
 
 </section>
