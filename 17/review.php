@@ -24,7 +24,7 @@
 <h2>Too Long, Didn't Read</h2>
 
 <p>
-Farming Simulator 17 is excellent game. Highly recommended for everyone <img src="images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+Farming Simulator 17 is excellent game. Highly recommended for everyone <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 	<h2>My Background</h2>
@@ -97,7 +97,7 @@ It is pretty boring at times. When you have few field harvests in rotation that 
 </p>
 
 <p>
-Plowing, fertilizing, cultivating, sowing and harvesting a field, then taking the grain into the silos or directly to shops for sale is so very satisfying feeling. Real accomplishment feel to it when you go through all those hoops and finally unload tipper / trailer into the shops grain purchasing silo / spot <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Plowing, fertilizing, cultivating, sowing and harvesting a field, then taking the grain into the silos or directly to shops for sale is so very satisfying feeling. Real accomplishment feel to it when you go through all those hoops and finally unload tipper / trailer into the shops grain purchasing silo / spot <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>

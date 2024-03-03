@@ -26,7 +26,7 @@
 <p><b>User Settings Directory</b>
 </p>
 
-<p>In their stupidity farming simulator 17 devs decided to put user settings / saves and even damn MODS (sigh) into this one main directory... which is under windows c:\users\ dir... deep sigh... most people have C: operating system drive as small SSD and there is <i>not</i> enough space for gigabytes of mods <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+<p>In their stupidity farming simulator 17 devs decided to put user settings / saves and even damn MODS (sigh) into this one main directory... which is under windows c:\users\ dir... deep sigh... most people have C: operating system drive as small SSD and there is <i>not</i> enough space for gigabytes of mods <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>Settings dir:

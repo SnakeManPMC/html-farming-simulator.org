@@ -29,7 +29,7 @@
 	<li>Farm has room to maneuvre. Too "quake l3v3l!!1", claustrophobic farm object placement is horror. I don't necessarily mean you have to have space for dozen Big Bud 747's, but if you cant drive your harvester there, then whats the point?</li>
 	<li>Grain silos. Some place for you to store your grain in the farm, so you dont have to sell it right away</li>
 	<li>Grain selling points. Well quite obvious but still</li>
-	<li>Roads are not too narrow. Yes, we all love BIG BUD <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></li>
+	<li>Roads are not too narrow. Yes, we all love BIG BUD <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></li>
 	<li>Fences and gates arent restricting movement to prevent good gameplay</li>
 	<li>Animals; chickens, pigs, cows and sheep</li>
 	<li>Water. Animal caretaking</li>
@@ -53,7 +53,7 @@
 
 <a href="images/Map-Broad-Acres.jpg" target="_blank"><img src="images/thumbs/Map-Broad-Acres.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 17 Map / Terrain Screenshot"></a> 
 
-<p>Every single field is surrounded with fences that are <b>tightly</b> right next to the fields edge AND the fences have gates which you must open, gates where you cant drive Big Bud tractor through <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+<p>Every single field is surrounded with fences that are <b>tightly</b> right next to the fields edge AND the fences have gates which you must open, gates where you cant drive Big Bud tractor through <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>Trees are also one type, oriented the same way.
@@ -137,7 +137,7 @@ Some of the fields are not setup properly for missions, you start a mission but 
 </p>
 
 <p>
-Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how this one slipped under my radar even though I did check it out last year. This terrain is so huge as its 8km in size that you really have to play a lot in it to appreciate everything it has to offer, its not until you harvest one of those 50+ hectare fields and drive back and forth across the terrain that you start to realize how cool this terrain is. The more I played this the more I appreciated how excellent terrain this is, you just want to play and cant stop <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how this one slipped under my radar even though I did check it out last year. This terrain is so huge as its 8km in size that you really have to play a lot in it to appreciate everything it has to offer, its not until you harvest one of those 50+ hectare fields and drive back and forth across the terrain that you start to realize how cool this terrain is. The more I played this the more I appreciated how excellent terrain this is, you just want to play and cant stop <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 </div>
 
@@ -175,7 +175,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <p>North West Texas by Txzar
 </p>
 
-<p>Looks pretty low res or rather quality when compared to official Goldcrest Valley terrain. But... I rather take low res large map than pixel porno tiny map <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+<p>Looks pretty low res or rather quality when compared to official Goldcrest Valley terrain. But... I rather take low res large map than pixel porno tiny map <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>Does not have grain silo marked on the map, but its there so you have to find it. There are three silos and they hold incredible amount of crops, one time I managed to dump 700,000 liters there so not sure what the limit per silo is (and you have three of them).
@@ -250,7 +250,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <p>Skybox is animated meaning clouds move, well kind of, its the whole sky with everything thats moving. It is really fast too, very unrealistic looking.
 </p>
 
-<p>Looks like <b>almost every field is blocked by fence and narrow gate</b>, this is devastating effect for enjoyable game-play as you cannot use large equipment and even small equipment gets stuck very easily :-(
+<p>Looks like <b>almost every field is blocked by fence and narrow gate</b>, this is devastating effect for enjoyable game-play as you cannot use large equipment and even small equipment gets stuck very easily <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>Field 17 is covered with fences. And because of the field shape and the fences, courseplay overloader just wont work. Field 17 has trees so close to the headland that harvester with its pipe out will get stuck.
@@ -556,7 +556,7 @@ F40: 11.319 ha<br>
 F41: 55.291 ha
 </p>
 
-<p>2018-07-15 Parkers Prairie is my go to map. I initially played goldcrest valley obviously to learn how to play, then I spent over 400 hours in North West Texas and now I have around 100 hours in Parkers Prairie. I really like this terrain, there is nothing that annoys me greatly or that would prevent me from playing. Highly recommended map :-)
+<p>2018-07-15 Parkers Prairie is my go to map. I initially played goldcrest valley obviously to learn how to play, then I spent over 400 hours in North West Texas and now I have around 100 hours in Parkers Prairie. I really like this terrain, there is nothing that annoys me greatly or that would prevent me from playing. Highly recommended map <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 </div>
 
@@ -605,7 +605,7 @@ This is very nice looking American state of Nebraska 4km x 4km terrain.
 <div class="wrapper2km">
 	<h2>2km x 2km Maps / Terrains</h2>
 
-<p>Maps / Terrains listed below are default 2km size, same as original games Goldcrest Valley and Sosnovka, standard size. Small <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+<p>Maps / Terrains listed below are default 2km size, same as original games Goldcrest Valley and Sosnovka, standard size. Small <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>Version numbers are not listed because these maps often times get updated very frequently, so listing a version number is kind of outdated very easily. Also as the FS17 mod download sites are such a garbage its sometimes difficult to find latest version of released mod when the mod description is only a changelog.
@@ -772,7 +772,7 @@ This is very nice looking American state of Nebraska 4km x 4km terrain.
 
 <a href="images/Map-Vogelsberg.jpg" target="_blank"><img src="images/thumbs/Map-Vogelsberg.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 17 Map / Terrain Screenshot"></a> 
 
-<p>Umm what? Looking at the map overview... err do I need to say more? <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"> Anyways the tiny map area is surrounded by rocky mountains which block you from moving further out.
+<p>Umm what? Looking at the map overview... err do I need to say more? <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"> Anyways the tiny map area is surrounded by rocky mountains which block you from moving further out.
 </p>
 </div>
 
@@ -887,7 +887,7 @@ This is very nice looking American state of Nebraska 4km x 4km terrain.
 <div class="terrain2km">
 <h2>FS17_AstonManor</h2>
 
-<p>Some tiny claustrophobic SampleMap stuff. Map background image from goldcrest valley. Config is copy paste from SampleMap, including the name for crying out loud <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+<p>Some tiny claustrophobic SampleMap stuff. Map background image from goldcrest valley. Config is copy paste from SampleMap, including the name for crying out loud <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 </div>
 
@@ -996,7 +996,7 @@ This is very nice looking American state of Nebraska 4km x 4km terrain.
 
 <a href="images/Map-Altmuehlhofen.jpg" target="_blank"><img src="images/thumbs/Map-Altmuehlhofen.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 17 Map / Terrain Screenshot"></a> 
 
-<p>Why? Just, why? <img src="images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+<p>Why? Just, why? <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 </div>
 
