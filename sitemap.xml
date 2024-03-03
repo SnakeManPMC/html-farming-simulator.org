@@ -15,13 +15,46 @@
   <loc>https://www.farming-simulator.org/index.php</loc>
 </url>
 <url>
-  <loc>https://www.farming-simulator.org/maps.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/mods.php</loc>
+  <loc>https://www.farming-simulator.org/history.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/links.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/17/courseplay.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/17/downloads.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/17/editing.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/17/guide.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/17/maps.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/17/map-making-tutorial.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/17/mods.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/17/review.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/17/settings.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/17/stories.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/17/user-guide-cornbelt-8km-terrain.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/17/user-guide-north-west-texas-4km-terrain.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/19/screenshots-pmc-eternal-sugar-beet-damnation-32km.php</loc>
@@ -40,39 +73,6 @@
 </url>
 <url>
   <loc>https://www.farming-simulator.org/19/screenshots-pmc-texas-rowena-8km.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/settings.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/guide.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/courseplay.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/review.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/downloads.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/history.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/editing.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/map-making-tutorial.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/user-guide-cornbelt-8km-terrain.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/stories.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/user-guide-north-west-texas-4km-terrain.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/19/changelog-pmc-farm-lab.php</loc>
