@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Start From Zero PMC Cereal Region 32 PMC Farming Simulator 22 Stories</title>
+<title>Start From Zero PMC Cereal Region 32km PMC Farming Simulator 22 Stories</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Start From Zero PMC Cereal Region 32 PMC Farming Simulator 22 Stories">
+<META name="description" content="Start From Zero PMC Cereal Region 32km PMC Farming Simulator 22 Stories">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,7 +14,7 @@
 <body>
 
 <header>
-<h1>Start From Zero PMC Cereal Region 32 PMC Farming Simulator 22 Stories</h1>
+<h1>Start From Zero PMC Cereal Region 32km PMC Farming Simulator 22 Stories</h1>
 <p>PMC Farming Simulator 22 (FS22) Stories</p>
 </header>
 
@@ -22,7 +22,7 @@
 	<h2>Background</h2>
 
 <p>
-Please read background information from <a href="stories-start-from-zero-pmc-cereal-region-32km.php">FS22 Stories Start From Zero PMC Cereal Region 32 Homepage</a> which explains few things if you're first time reader.
+Please read background information from <a href="stories-start-from-zero-pmc-cereal-region-32km.php">FS22 Stories Start From Zero PMC Cereal Region 32km Homepage</a> which explains few things if you're first time reader.
 </p>
 
 	<h2>2023-01-05 Buying Land And Vehicle</h2>
@@ -935,7 +935,7 @@ Borrowed amazone ran out of fertilizer and autodrive sent it to F442 N. At this 
 </p>
 
 <p>
-Continue reading <a href="stories-start-from-zero-pmc-cereal-region-32km-003.php">next page</a>, <a href="stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32 Home</a>, go back to <a href="stories-start-from-zero-pmc-cereal-region-32km-001.php">previous page</a>.
+Continue reading <a href="stories-start-from-zero-pmc-cereal-region-32km-003.php">next page</a>, <a href="stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32km Home</a>, go back to <a href="stories-start-from-zero-pmc-cereal-region-32km-001.php">previous page</a>.
 </p>
 
 <p>

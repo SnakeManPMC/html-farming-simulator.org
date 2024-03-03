@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Start From Zero PMC Cereal Region 32 PMC Farming Simulator 22 Stories</title>
+<title>Start From Zero PMC Cereal Region 32km PMC Farming Simulator 22 Stories</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Start From Zero PMC Cereal Region 32 PMC Farming Simulator 22 Stories">
+<META name="description" content="Start From Zero PMC Cereal Region 32km PMC Farming Simulator 22 Stories">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,7 +14,7 @@
 <body>
 
 <header>
-<h1>Start From Zero PMC Cereal Region 32 PMC Farming Simulator 22 Stories</h1>
+<h1>Start From Zero PMC Cereal Region 32km PMC Farming Simulator 22 Stories</h1>
 <p>PMC Farming Simulator 22 (FS22) Stories</p>
 </header>
 
@@ -26,7 +26,7 @@ This savegame was created with <a href="pmc-cereal-region-32km.php">PMC Cereal R
 </p>
 
 
-	<h2>Start From Zero PMC Cereal Region</h2>
+	<h2>Start From Zero PMC Cereal Region 32km</h2>
 
 <p>
 <a href="stories-start-from-zero-pmc-cereal-region-32km-001.php">Page 1</a>, 2023-01-04 New Savegame Creation.
