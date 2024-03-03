@@ -4,7 +4,6 @@
 <title>Farming Simulator 22 Mods - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Farming Simulator 22 Mods - PMC Farming">
-<META name="keywords" content="Farming, Simulator, FS22, Mods, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,27 +14,23 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Farming Simulator 22 Mods</b></h1>
+<h1>PMC Farming Simulator 22 Mods</h1>
 </header>
 
 <section>
-	<h2>Mods</h2>
+	<h2>FS22 Mods</h2>
 
 <p>
-<b>2021-11-20T16:23:00Z</b> updated. This page is SPECULATION until after 2021-11-21T23:00:00Z when we get to activate the game and try this info ourselves.
+<b>2024-03-03</b> updated.
 </p>
 
 <p>
-Also it will take some hours? before first user made mods are released, so this page remains empty placeholder until that time when we get first mod release.
+Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22947" target="_blank">PMC Tactical Forum Farming Simulator 22 Mods List topic</a>, post a reply if you have any feedback like bugs, errors or other issues, or you simply want to recommend a mod to be added here.
 </p>
 
-<div class="wrapper_mod_vehicles">
-	<h2>General Mods</h2>
-
-<!-- category vehicles -->
-</div>
+<ul>
+<li><a href="mods-baler.php">Baler</a></li>
+</ul>
 
 </section>
 
