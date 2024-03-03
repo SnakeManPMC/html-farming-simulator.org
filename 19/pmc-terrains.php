@@ -14,8 +14,6 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
 <h1><b>PMC Terrains Farming Simulator 19</b></h1>
 </header>
 
@@ -27,7 +25,7 @@
 </p>
 
 <p>
-Older PMC terrain news please read <a href="news.php">news page</a>.
+Read more news from <a href="../news.php">PMC Farming News page</a>.
 </p>
 
 <p>

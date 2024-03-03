@@ -48,7 +48,6 @@
 <a href="19/map-making-tutorial.php" class="button">Map Making Tutorial</a>
 <a href="19/maps.php" class="button">Maps</a>
 <a href="19/mods.php" class="button">Mods</a>
-<a href="19/news.php" class="button">News</a>
 <a href="19/review.php" class="button">Review</a>
 <a href="19/settings.php" class="button">Settings</a>
 <a href="19/stories.php" class="button">Stories</a>
@@ -74,10 +73,11 @@
 
 	<h2>Farming Simulator</h2>
 <p>
+<a href="contact.php" class="button">Contact PMC</a>
 <a href="history.php" class="button">History</a>
 <a href="https://www.farming-simulator.com" class="button" target="_blank">Giant Software official Farming Simulator</a>
 <a href="links.php" class="button">Links</a>
-<a href="contact.php" class="button">Contact PMC</a>
+<a href="news.php" class="button">News</a>
 </p>
 
 </section>
