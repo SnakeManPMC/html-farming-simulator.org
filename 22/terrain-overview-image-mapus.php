@@ -4,7 +4,6 @@
 <title>Terrain Overview Image mapUS Elmcreek Farming Simulator 22 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Terrain Overview Image mapUS Elmcreek Farming Simulator 22 - PMC Farming">
-<META name="keywords" content="Terrain, Overivew, Image, mapUS, Elmcreek, Map, PDA, FS22, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,16 +14,18 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
-<h1><b>Terrain Overview Image mapUS Elmcreek PMC Farming Simulator 22</b></h1>
+<h1>Terrain Overview Image mapUS Elmcreek PMC Farming Simulator 22</h1>
 </header>
 
 <section>
 	<h2>PDA Map Is Now Overview Image</h2>
 
 <p>
-<b>2021-11-21T01:37:00Z</b> updated. This page is SPECULATION until after 2021-11-21T23:00:00Z when we get to activate the game and try this info ourselves.
+<b>2024-03-03</b> updated.
+</p>
+
+<p>
+Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=78&t=22946" target="_blank">PMC Tactical Forum Terrain Overview Image mapUS Elmcreek FS22 topic</a>, reply feedback if you find any errors or issues with this page.
 </p>
 
 <p>
@@ -46,7 +47,7 @@ Elmcreek mapUS overview.dds resolution is 4096 x 4096 pixels.
 <a href="screenshots/Terrain-mapUS-Overview.jpg" target="_blank"><img src="screenshots/thumbs/Terrain-mapUS-Overview.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a> 
 
 <p>
-First odd thing you notice in this image if you are old terrain developer from FS17/FS19 is the outline, this whole image is not anymore covering what the actual terrain size is, there is "excess" outside terrain graphics included. Looks nice but really odd way of doing things.
+First odd thing you notice in this image if you are old terrain developer from FS17/FS19 is the outline, this whole image is not anymore covering what the actual terrain size is, there is "excess" outside terrain graphics included. Looks nice but really odd way of doing things. Why not put that pixel resolution to good use in the actual terrain PDA map, now its not used for anything but outside terrain, waste of resources.
 </p>
 
 <p>
