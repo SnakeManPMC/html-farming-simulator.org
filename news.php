@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-03-03T22:15:00Z <a href="22/autodrive.php">FS22 AutoDrive</a> and <a href="22/courseplay.php">FS22 Courseplay</a> guides and tutorials released. Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22948" target="_blank">PMC Tactical Forum FS22 AutoDrive Guide and Tutorial topic</a> and <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22949" target="_blank">PMC Tactical Forum FS22 Courseplay Guide and Tutorial topic</a>.
+</p>
+
+<p>
 2024-03-03T10:22:00Z Migrated old Farming Simulator 17 root/pagename.php web pages to root/17/pagename.php which is a proper place for them, just the same as /19 and /22/, now this is uniform <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
