@@ -18,6 +18,12 @@
 </header>
 
 <section>
+	<h2>News 2024</h2>
+
+<p>
+2024-03-03T10:22:00Z Migrated old Farming Simulator 17 root/pagename.php web pages to root/17/pagename.php which is a proper place for them, just the same as /19 and /22/, now this is uniform <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
 	<h2>News 2023</h2>
 
 <p>
