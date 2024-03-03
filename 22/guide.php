@@ -4,7 +4,6 @@
 <title>Farming Simulator 22 Playing Guide - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Farming Simulator 22 Playing Guide - PMC Farming">
-<META name="keywords" content="Farming, Simulator, FS22, Guide, Tutorial, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,22 +14,39 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Farming Simulator 22 Playing Guide</b></h1>
+<h1>PMC Farming Simulator 22 Playing Guide</h1>
 </header>
 
 <section>
 
-	<h2>Playing Guide</h2>
+	<h2>FS22 Playing Guide</h2>
 
 <p>
-<b>2021-11-20T15:51:00Z</b> updated. This page is SPECULATION until after 2021-11-21T23:00:00Z when we get to activate the game and try this info ourselves.
+<b>2024-03-03</b> updated.
 </p>
 
 <p>
-Please read <a href="../guide.php">Farming Simulator 17 Guide</a> and <a href="../19/guide.php">Farming Simulator 19 (FS19) Guide</a> first as we do not repeat the same stuff in this tutorial unless it has been changed.
+Join discussion in <a href="https://www.pmctactical.org/forum/viewforum.php?f=79" target="_blank">PMC Tactical Forum FS22 General area</a>. Please read <a href="../guide.php">Farming Simulator 17 Guide</a> and <a href="../19/guide.php">Farming Simulator 19 (FS19) Guide</a> first as we do not repeat the same stuff in this tutorial unless it has been changed.
 </p>
+
+
+	<h2>Contracts</h2>
+
+<p>
+Contracts are for working on AI farmers fields either with borrowed or your own vehicles and equipment. For more details please read <a href="contracts.php">FS22 Contracts</a> page.
+</p>
+
+
+	<h2>Crops Best Selling Prices</h2>
+
+<p>
+For beginning players its always difficult to get good progress into your farm, to develop it further, buy better vehicles and more farmland, knowing the best crop selling prices is essential.
+</p>
+
+<p>
+For more details please read <a href="guide-crops-best-selling-price.php">FS22 Playing Guide Crops Best Selling Price</a>.
+</p>
+
 
 	<h2>Build Mode</h2>
 
@@ -58,16 +74,6 @@ Back in FS19 ThundR created a mod for rock picking, now this is an in-game Farmi
 
 <p>
 For more details please read <a href="guide-rock-picking.php">FS22 Playing Guide Rock Picking</a>.
-</p>
-
-	<h2>Crops Best Selling Prices</h2>
-
-<p>
-For beginning players its always difficult to get good progress into your farm, to develop it further, buy better vehicles and more farmland, knowing the best crop selling prices is essential.
-</p>
-
-<p>
-For more details please read <a href="guide-crops-best-selling-price.php">FS22 Playing Guide Crops Best Selling Price</a>.
 </p>
 
 </section>
