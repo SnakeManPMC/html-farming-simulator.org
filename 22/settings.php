@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Farming Simulator 22 Settings - PMC Farming</title>
+<title>Farming Simulator 22 (FS22) Settings - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Farming Simulator 22 Settings - PMC Farming">
-<META name="keywords" content="Farming, Simulator, FS22, Settings, PMC, Farming">
+<META name="description" content="Farming Simulator 22 (FS22) Settings - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,9 +14,7 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Farming Simulator 22 Settings</b></h1>
+<h1>PMC Farming Simulator 22 (FS22) Settings</h1>
 </header>
 
 <section>
@@ -25,11 +22,15 @@
 	<h2>FS22 Game Settings</h2>
 
 <p>
-<b>2021-11-20T16:27:00Z</b> updated. This page is SPECULATION until after 2021-11-21T23:00:00Z when we get to activate the game and try this info ourselves.
+<b>2024-03-03</b> updated.
 </p>
 
 <p>
-Please read <a href="../settings.php">Farming Simulator 17</a> and <a href="../19/settings.php">Farming Simulator 19</a> settings pages first as we don't cover stuff we already know.
+Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22945" target="_blank">PMC Tactical Forum Settings game.xml FS22 topic</a>, you can post a reply if you have any feedback.
+</p>
+
+<p>
+Please read <a href="../17/settings.php">Farming Simulator 17</a> and <a href="../19/settings.php">Farming Simulator 19</a> settings pages first as we don't cover stuff we already know. FS22 settings are very much the same in their core than previous FS17 and FS19 settings, in most cases what works in previous games works in FS22 too.
 </p>
 
 	<h2>game.xml</h2>
