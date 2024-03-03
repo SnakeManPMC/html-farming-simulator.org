@@ -25,7 +25,7 @@ Back in Farming Simulator 17 I started to write down what kind of careers I play
 </p>
 
 <p>
-See our older <a href="../stories.php">FS17 stories</a> page how it all got started.
+See our older <a href="../17/stories.php">FS17 stories</a> page how it all got started.
 </p>
 
 	<h2>PMC Start From Zero Background</h2>

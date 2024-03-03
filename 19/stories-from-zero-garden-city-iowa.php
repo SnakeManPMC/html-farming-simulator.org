@@ -49,7 +49,7 @@ I had a lunch while this contract was running, but that didnt take long.
 </p>
 
 <p>
-This first contract in start from zero mode definitely brought memories from <a href="../stories.php" target="_blank">FS17 Cornbelt Start From Scratch</a> career.
+This first contract in start from zero mode definitely brought memories from <a href="../17/stories.php" target="_blank">FS17 Cornbelt Start From Scratch</a> career.
 </p>
 
 <p>

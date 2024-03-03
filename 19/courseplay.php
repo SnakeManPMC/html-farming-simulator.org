@@ -4,7 +4,6 @@
 <title>Farming Simulator 19 Courseplay - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Farming Simulator 19 Courseplay - PMC Farming">
-<META name="keywords" content="Farming, Simulator, Courseplay, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,9 +14,7 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Farming Simulator 19 (FS19) Courseplay</b></h1>
+<h1>PMC Farming Simulator 19 (FS19) Courseplay</h1>
 </header>
 
 <section>
@@ -28,7 +25,7 @@
 </p>
 
 <p>
-See our <a href="../courseplay.php">FS17 Courseplay</a> page for background information. Courseplay for FS19 went to public beta in late january 2019.
+See our <a href="../17/courseplay.php">FS17 Courseplay</a> page for background information. Courseplay for FS19 went to public beta in late january 2019.
 </p>
 
 <p>

@@ -526,7 +526,7 @@ The satisfaction of growing your farm yard through hard contracts and own field 
 </p>
 
 <p>
-That is not what I signed up for in october 2018 when I came up with <a href="../stories.php">FS17 Cornbelt Start From Scratch</a> savegame game-mode (start from zero).
+That is not what I signed up for in october 2018 when I came up with <a href="../17/stories.php">FS17 Cornbelt Start From Scratch</a> savegame game-mode (start from zero).
 </p>
 
 <p>

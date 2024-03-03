@@ -24,7 +24,7 @@ Game-play stories from Farming Simulator 22 (FS22) farming sessions.
 	<h2>Stories Background</h2>
 
 <p>
-See our older <a href="../stories.php">FS17 stories</a> and <a href="../19/stories.php">FS19 Stories</a> pages how it all got started. If you are first time reader of PMC farming stories, you really should skim through those pages for background information, otherwise you might roll your eyes as you don't understand terminology or something else written in these FS22 stories.
+See our older <a href="../17/stories.php">FS17 stories</a> and <a href="../19/stories.php">FS19 Stories</a> pages how it all got started. If you are first time reader of PMC farming stories, you really should skim through those pages for background information, otherwise you might roll your eyes as you don't understand terminology or something else written in these FS22 stories.
 </p>
 
 <p>

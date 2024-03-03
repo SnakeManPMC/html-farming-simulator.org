@@ -4,7 +4,6 @@
 <title>PMC Farming Simulator 19 Review - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="PMC Farming Simulator 19 Review - PMC Farming">
-<META name="keywords" content="Farming, Simulator, Review, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,9 +14,7 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Farming Simulator 19 Review</b></h1>
+<h1>PMC Farming Simulator 19 Review</h1>
 </header>
 
 <section>
@@ -34,7 +31,7 @@ Farming Simulator 19 is a good game. Highly recommended for everyone :-)
 	<h2>My Background</h2>
 
 <p>
-Please read <a href="../review.php">Farming Simulator 17 (FS17) Review</a> for my background. Also you should read <a href="../stories.php">my game session stories</a> so you see how have I played FS17 previously. This review you are reading now heavily focuses on "whats changed since FS17" because thats my reference point.
+Please read <a href="../17/review.php">Farming Simulator 17 (FS17) Review</a> for my background. Also you should read <a href="../17/stories.php">my FS17 game session stories</a> so you see how have I played FS17 previously. This review you are reading now heavily focuses on "whats changed since FS17" because thats my reference point.
 </p>
 
 	<h2>Base Game</h2>

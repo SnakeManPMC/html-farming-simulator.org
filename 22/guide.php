@@ -26,7 +26,7 @@
 </p>
 
 <p>
-Join discussion in <a href="https://www.pmctactical.org/forum/viewforum.php?f=79" target="_blank">PMC Tactical Forum FS22 General area</a>. Please read <a href="../guide.php">Farming Simulator 17 Guide</a> and <a href="../19/guide.php">Farming Simulator 19 (FS19) Guide</a> first as we do not repeat the same stuff in this tutorial unless it has been changed.
+Join discussion in <a href="https://www.pmctactical.org/forum/viewforum.php?f=79" target="_blank">PMC Tactical Forum FS22 General area</a>. Please read <a href="../17/guide.php">Farming Simulator 17 Guide</a> and <a href="../19/guide.php">Farming Simulator 19 (FS19) Guide</a> first as we do not repeat the same stuff in this tutorial unless it has been changed.
 </p>
 
 

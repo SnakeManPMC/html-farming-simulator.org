@@ -4,7 +4,6 @@
 <title>Farming Simulator 19 Guide - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="Farming Simulator 19 Guide - PMC Farming">
-<META name="keywords" content="Farming, Simulator, Guide, PMC, Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,9 +14,7 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Farming Simulator 19 Guide</b></h1>
+<h1>PMC Farming Simulator 19 Guide</h1>
 </header>
 
 <section>
@@ -27,7 +24,7 @@
 </p>
 
 <p>
-Please read <a href="../guide.php">FS17 Guide</a> first as we do not repeat the same stuff here unless it has been changed.
+Please read <a href="../17/guide.php">FS17 Guide</a> first as we do not repeat the same stuff here unless it has been changed.
 </p>
 
 	<h2>Gameplay Tips User Interface</h2>

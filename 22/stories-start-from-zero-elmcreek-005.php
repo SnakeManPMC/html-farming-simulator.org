@@ -522,7 +522,7 @@ I'm little bit sad that all the small scale farming fun mindset has disappeared,
 </p>
 
 <p>
-Maybe I should generate new experiences instead of trying to live the "past glory" so to speak. I would pay serious dollah if I could relive the october 2018 one month of <a href="../stories.php">FS17 Cornbelt Start From Scratch</a> (yeah I called it scratch at that time) game-play experience, but its not gonna happen, I don't have Marty McFly's DeLorean time machine to travel back to that time hehe.
+Maybe I should generate new experiences instead of trying to live the "past glory" so to speak. I would pay serious dollah if I could relive the october 2018 one month of <a href="../17/stories.php">FS17 Cornbelt Start From Scratch</a> (yeah I called it scratch at that time) game-play experience, but its not gonna happen, I don't have Marty McFly's DeLorean time machine to travel back to that time hehe.
 </p>
 
 <p>

@@ -106,7 +106,7 @@ Open inputBinding.xml and seach for TAKE_SCREENSHOT, then replace it with &lt;bi
 	<h2>Developer Mode</h2>
 
 <p>
-See <a href="../settings.php">FS17 Settings</a> page how to activate developer mode.
+See <a href="../17/settings.php">FS17 Settings</a> page how to activate developer mode.
 </p>
 
 <p>
