@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-03-04T08:11:00Z <a href="22/mods-disc-harrow.php">FS22 Mods Disc Harrow</a> page added. Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22947" target="_blank">PMC Tactical Forum Farming Simulator 22 Mods List topic</a>.
+</p>
+
+<p>
 2024-03-04T07:59:00Z <a href="22/mods-cultivator.php">FS22 Mods Cultivator</a> page added. Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22947" target="_blank">PMC Tactical Forum Farming Simulator 22 Mods List topic</a>.
 </p>
 
