@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-03-04T07:44:00Z <a href="22/mods-combine-harvester.php">FS22 Mods Combine Harvester</a> page added. Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22947" target="_blank">PMC Tactical Forum Farming Simulator 22 Mods List topic</a>.
+</p>
+
+<p>
 2024-03-03T22:15:00Z <a href="22/autodrive.php">FS22 AutoDrive</a> and <a href="22/courseplay.php">FS22 Courseplay</a> guides and tutorials released. Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22948" target="_blank">PMC Tactical Forum FS22 AutoDrive Guide and Tutorial topic</a> and <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22949" target="_blank">PMC Tactical Forum FS22 Courseplay Guide and Tutorial topic</a>.
 </p>
 
