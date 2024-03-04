@@ -31,6 +31,7 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79
 <ul>
 <li><a href="mods-baler.php">Baler</a></li>
 <li><a href="mods-combine-harvester.php">Combine Harvester</a></li>
+<li><a href="mods-cultivator.php">Cultivator</a></li>
 </ul>
 
 </section>
