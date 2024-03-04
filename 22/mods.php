@@ -33,6 +33,7 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79
 <li><a href="mods-combine-harvester.php">Combine Harvester</a></li>
 <li><a href="mods-cultivator.php">Cultivator</a></li>
 <li><a href="mods-disc-harrow.php">Disc Harrow</a></li>
+<li><a href="mods-game-play.php">Game-play</a> additional field info, contracts hud, better contracts, enlage yield etc</li>
 </ul>
 
 </section>
