@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-03-09T21:35:00Z Story time! Head over to <a href="22/stories.php">PMC Farming FS22 Stories</a> root page, then check out <a href="22/stories-start-from-zero-pmc-king-corn-45km.php">Start From Zero PMC King Corn 45km</a> which just got <a href="22/stories-start-from-zero-pmc-king-corn-45km-002.php">page 2</a> released, there are some nice large scale american farming screenshots included.
+</p>
+
+<p>
 2024-03-09T17:10:00Z <a href="22/stories.php">PMC Farming FS22 Stories</a> page updated, <a href="22/stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32km</a> story got new <a href="22/stories-start-from-zero-pmc-cereal-region-32km-005.php">page 5</a> added, with screenshots.
 </p>
 
