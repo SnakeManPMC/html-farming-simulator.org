@@ -21,20 +21,21 @@
 </header>
 
 <section>
-	<h2>Overview</h2>
+	<h2>FS22 Terrain Editing Overview</h2>
 
 <p>
-<b>2022-02-14T03:14:00Z</b> updated.
+<b>2024-03-09T22:53:00Z</b> updated.
 </p>
 
 <p>
-Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulator 17 (FS17) Map Making Tutorial</a> and <a href="../19/map-making-tutorial.php" target="_blank">Farming Simulator 19 (FS19) Map Making Tutorial</a> first because what you see below assumes you know all of that FS17 and FS19 stuff. If you have any corrections or questions please <a href="../contact.php">contact us</a>.
+Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=78&t=22724" target="_blank">PMC Tactical Forum farming-simulator.org Tutorials for FS22 topic</a>. Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulator 17 (FS17) Map Making Tutorial</a> and <a href="../19/map-making-tutorial.php" target="_blank">Farming Simulator 19 (FS19) Map Making Tutorial</a> first because what you see below assumes you know all of that FS17 and FS19 stuff. If you have any corrections or questions please post to <a href="https://www.pmctactical.org/forum/viewforum.php?f=78" target="_blank">PMC Tactical Forum FS22 Editing area</a>.
 </p>
 
 <p><a href="terrain-common-errors.php">Common Errors</a></p>
 <p><a href="terrain-densitymap_fruits-rgb-colors.php">densityMap_fruits RGB Colors</a></p>
 <p><a href="terrain-densitymap-infolayer-resolution-mapus.php">densityMap, infoLayer Resolution mapUS</a></p>
 <p><a href="terrain-fieldground.php">fieldGround.xml</a> and <a href="terrain-infolayer-level-grle.php">InfoLayer Level GRLE</a></p>
+<p><a href="terrain-field-texture-paintable.php">Field Texture Paintable</a></p>
 <p><a href="terrain-file-structure-mapalpine.php">File Structure mapAlpine (Erlengrat)</a>, <a href="terrain-file-structure-mapfr.php">mapFR (Haut-Beyleron)</a> and <a href="terrain-file-structure-mapus.php">mapUS (Elmcreek)</a></p>
 <p><a href="terrain-forests.php">Forests Tree Placement</a></p>
 <p><a href="terrain-howto-create-45km.php">HOWTO Create 45km Terrain</a></p>
