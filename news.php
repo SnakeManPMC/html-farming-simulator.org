@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-03-09T22:25:00Z <a href="22/guide.php">FS22 Guide</a> page updated with <a href="22/guide-fertilizing-manure-slurry.php">Fertilizing Manure Slurry FS22 Guide</a>. Join discussion in <a href="https://www.pmctactical.org/forum/viewforum.php?f=79" target="_blank">PMC Tactical Forum FS22 General area</a>.
+</p>
+
+<p>
 2024-03-09T21:35:00Z Story time! Head over to <a href="22/stories.php">PMC Farming FS22 Stories</a> root page, then check out <a href="22/stories-start-from-zero-pmc-king-corn-45km.php">Start From Zero PMC King Corn 45km</a> which just got <a href="22/stories-start-from-zero-pmc-king-corn-45km-002.php">page 2</a> released, there are some nice large scale american farming screenshots included.
 </p>
 

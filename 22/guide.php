@@ -55,6 +55,16 @@ Build mode is feature under which placeables, landscaping and all related items 
 </p>
 
 
+	<h2>Fertilizing</h2>
+
+<p>
+If you want full yield from the crops you seed/plant there must be 100% fertilization. You can fertilize using solid fertilizer spreader, liquid fertilizer sprayer, manure spreader or slurry spreader/distributor.
+</p>
+
+<p>
+One nice way to get things done efficiently is to use multiple fertilizer sources, check <a href="guide-fertilizing-manure-slurry.php">Fertilizing With Manure And Slurry</a> page for details.
+</p>
+
 	<h2>Production Chains</h2>
 
 <p>
