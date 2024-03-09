@@ -682,11 +682,7 @@ Wheat harvest was still to do, wait first when its ready to harvest, but yeah I 
 </p>
 
 <p>
-Continue reading 
-<!--
-<a href="stories-start-from-zero-pmc-cereal-region-32km-005.php">next page</a>, 
--->
-<a href="stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32km Home</a>, go back to <a href="stories-start-from-zero-pmc-cereal-region-32km-003.php">previous page</a>.
+Continue reading <a href="stories-start-from-zero-pmc-cereal-region-32km-005.php">next page</a>, <a href="stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32km Home</a>, go back to <a href="stories-start-from-zero-pmc-cereal-region-32km-003.php">previous page</a>.
 </p>
 
 <p>

@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-03-09T17:10:00Z <a href="22/stories.php">PMC Farming FS22 Stories</a> page updated, <a href="22/stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32km</a> story got new <a href="22/stories-start-from-zero-pmc-cereal-region-32km-005.php">page 5</a> added, with screenshots.
+</p>
+
+<p>
 2024-03-04T08:22:00Z <a href="22/mods-game-play.php">FS22 Mods Game-play</a> page added. Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22947" target="_blank">PMC Tactical Forum Farming Simulator 22 Mods List topic</a>.
 </p>
 
