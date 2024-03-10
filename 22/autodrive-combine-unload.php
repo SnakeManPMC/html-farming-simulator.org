@@ -25,12 +25,17 @@
 </p>
 
 <p>
-FS22 Autodrive HOWTO unload combine using grain cart / trailer. Combine harvester and grain tractor has to have a same target point selected, harvester does NOT need to have autodrive "POWER" or "PLAY" button enabled, in fact it cannot have. Grain tractor has same target as harvester, then mode is combine unload mode, unload point is where ever you want the grain to be unloaded, your farm grain bin silo or maybe with harvest contracts its the delivery selling point.
+FS22 Autodrive HOWTO unload combine harvester using grain cart / trailer. Combine harvester and grain tractor has to have a same target point selected, harvester does NOT need to have autodrive "POWER" or "PLAY" button enabled, in fact it cannot have. Grain tractor has same target as harvester, then mode is combine unload mode, unload point is where ever you want the grain to be unloaded, your farm grain bin silo or maybe with harvest contracts its the delivery selling point.
 </p>
+
+<a href="screenshots/Start-From-Zero-PMC-Super-Six-6km-2023-01-27T1415.jpg" target="_blank"><img src="screenshots/thumbs/Start-From-Zero-PMC-Super-Six-6km-2023-01-27T1415.jpg" class="terrainimg" alt="Farming Simulator 22 FS22 AutoDrive Combine Harvester Unloading" title="Farming Simulator 22 FS22 AutoDrive Combine Harvester Unloading, click for full size 4k screenshot"></a>
 
 <p>
 Its recommended to put grain trailer / cart tractors in fields long edges where combine harvester is not turning, because often times if your grain trailer vehicles are parked on the edge where combine turns, it can cause collisions, not necessarily but I've seen this happen few times, always good the reduce any chance of vehicle collisions as they cause nothing but frustration.
 </p>
+
+
+	<h2>Practical Unloading Experience</h2>
 
 <p>
 2023-09-15T20:37:00Z
@@ -61,7 +66,7 @@ In this particular case I was able to avoid crop destruction by manually driving
 </p>
 
 <p>
-Oh wow, another collision, one of my grain trailer tractors was parked in headland and when combine came around... it stopped for traffic and then these dumb asses were just sitting there indefinitely :(
+Oh wow, another collision, one of my grain trailer tractors was parked in headland and when combine came around... it stopped for traffic and then these dumb asses were just sitting there indefinitely <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>
