@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-03-10T17:10:00Z Massive Animals Guide has been released! <a href="22/guide-animals.php">FS22 Animals Guide</a> by PMC, enjoy taking care of your little friends (or guess full grown cattle is not so little heh). Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22951" target="_blank">PMC Tactical Forum Animals Guide and Tutorial FS22 topic</a>. See also other <a href="22/guide.php">FS22 Guide pages</a> available.
+</p>
+
+<p>
 2024-03-09T23:46:00Z <a href="22/map-making-tutorial.php">FS22 Terrain Editing Tutorial</a> page updated with <a href="22/terrain-field-texture-paintable.php">Field Texture Paintable FS22 Tutorial</a>. Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=78&t=22950" target="_blank">PMC Tactical Forum Field Texture Paintable FS22 Tutorial topic</a> and check out <a href="https://www.pmctactical.org/forum/viewforum.php?f=78" target="_blank">PMC Tactical Forum FS22 Editing area</a>.
 </p>
 

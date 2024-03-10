@@ -22,11 +22,22 @@
 	<h2>FS22 Playing Guide</h2>
 
 <p>
-<b>2024-03-03</b> updated.
+<b>2024-03-10T03:42:00Z</b> updated.
 </p>
 
 <p>
 Join discussion in <a href="https://www.pmctactical.org/forum/viewforum.php?f=79" target="_blank">PMC Tactical Forum FS22 General area</a>. Please read <a href="../17/guide.php">Farming Simulator 17 Guide</a> and <a href="../19/guide.php">Farming Simulator 19 (FS19) Guide</a> first as we do not repeat the same stuff in this tutorial unless it has been changed.
+</p>
+
+
+	<h2>Animals</h2>
+
+<p>
+Cattle, cows, chickens, pigs, sheep and bees. Animal action all the way. But how do I even begin to learn how to tend and take care of all these animals in FS22? <img src="../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
+</p>
+
+<p>
+No worries, PMC <a href="guide-animals.php">FS22 Animals Guide root page</a> has all the info you need.
 </p>
 
 
