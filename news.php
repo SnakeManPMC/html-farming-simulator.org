@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-03-13T22:16:00Z Farming Simulator 19 (FS19) <a href="19/pmc-terrains.php">PMC Terrains FS19</a> page <a href="19/pmc-terrains-real-world-data.php">PMC Terrains Real World Data</a> and <a href="19/pmc-terrains-design.php">PMC Terrains Design</a> pages were created for easier navigation and reading. Join discussion in <a href="https://www.pmctactical.org/forum/viewforum.php?f=75" target="_blank">PMC Tactical Forum FS19 Editing area</a> and <a href="https://www.pmctactical.org/forum/viewforum.php?f=76" target="_blank">PMC Tactical Forum FS19 General area</a> about FS19 terrains by PMC.
+</p>
+
+<p>
 2024-03-13T03:15:00Z New <b>FS22 Story</b> released, <a href="22/stories-animal-game-mode-pmc-super-six-6km.php">Animal Game-mode PMC Super Six 6km</a> which was used to research information for <a href="22/guide-animals.php">FS22 Animals Guide And Tutorial</a>, along with undocumented PMC Farm Lab "Animal_Studies" savegame. Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22952" target="_blank">PMC Tactical Forum Animal Game-mode PMC Super Six 6km Story topic</a>.
 </p>
 
