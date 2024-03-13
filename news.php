@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-03-13T03:15:00Z New <b>FS22 Story</b> released, <a href="22/stories-animal-game-mode-pmc-super-six-6km.php">Animal Game-mode PMC Super Six 6km</a> which was used to research information for <a href="22/guide-animals.php">FS22 Animals Guide And Tutorial</a>, along with undocumented PMC Farm Lab "Animal_Studies" savegame. Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22952" target="_blank">PMC Tactical Forum Animal Game-mode PMC Super Six 6km Story topic</a>.
+</p>
+
+<p>
 2024-03-10T17:10:00Z Massive Animals Guide has been released! <a href="22/guide-animals.php">FS22 Animals Guide</a> by PMC, enjoy taking care of your little friends (or guess full grown cattle is not so little heh). Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22951" target="_blank">PMC Tactical Forum Animals Guide and Tutorial FS22 topic</a>. See also other <a href="22/guide.php">FS22 Guide pages</a> available.
 </p>
 
