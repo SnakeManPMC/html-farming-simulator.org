@@ -33,6 +33,7 @@
 <a href="22/mods.php" class="button">Mods</a>
 <a href="22/settings.php" class="button">Settings</a>
 <a href="22/stories.php" class="button">Stories</a>
+<a href="https://www.pmctactical.org/forum/viewforum.php?f=77" target="_blank" class="button">Forum FS22</a>
 </p>
 
 
@@ -53,6 +54,7 @@
 <a href="19/review.php" class="button">Review</a>
 <a href="19/settings.php" class="button">Settings</a>
 <a href="19/stories.php" class="button">Stories</a>
+<a href="https://www.pmctactical.org/forum/viewforum.php?f=74" target="_blank" class="button">Forum FS19</a>
 </p>
 
 
@@ -70,6 +72,7 @@
 <a href="17/stories.php" class="button">Stories</a>
 <a href="17/user-guide-cornbelt-8km-terrain.php" class="button">User Guide: Cornbelt</a>
 <a href="17/user-guide-north-west-texas-4km-terrain.php" class="button">User Guide: North West Texas</a>
+<a href="https://www.pmctactical.org/forum/viewforum.php?f=74" target="_blank" class="button">Forum FS17</a>
 </p>
 
 
