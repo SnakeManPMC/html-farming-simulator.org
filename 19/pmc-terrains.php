@@ -14,7 +14,7 @@
 <body>
 
 <header>
-<h1><b>PMC Terrains Farming Simulator 19</b></h1>
+<h1>PMC Terrains Farming Simulator 19</h1>
 </header>
 
 <section>
@@ -32,22 +32,8 @@ Read more news from <a href="../news.php">PMC Farming News page</a>.
 Latest work in progress videos see <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC Farming Simulator 19 youtube playlist</a>.
 </p>
 
-	<h2>Real World Data</h2>
-
 <p>
-PMC terrains are made out of <a href="http://www.arcgis.com/home/webmap/viewer.html?useExisting=1" target="_blank">ArcGis world imagery</a> satellite imagery or <a href="https://www.fsa.usda.gov/programs-and-services/aerial-photography/imagery-programs/naip-imagery/" target="_blank">US National Agriculture Imagery Program (NAIP)</a> aerial imagery (we mostly use US NAIP now) and <a href="https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map" target="_blank">US National Elevation Dataset (NED)</a> 10 meter resolution heightmap data. These are real world farming areas, some functionality like vehicle shop and sell points have been placed to suitable locations for FS19 where they would not be in real life.
-</p>
-
-<p>
-Heightmap is accurate to 10 meter resolution which means that it got realistic elevations. These heightmaps are not make belief hand wavey "close enough" free hand google earth copy pastes, PMC real world data heightmaps are as accurate as you can get from public data (US NED 10m).
-</p>
-
-<p>
-Fields, roads, farm yards, rail roads etc are accurately located as they are in real life. We place building for building accuracy, with obviously dealing with limitations of often times not having properly sizes buildings (for example huge cow sheds or grain elevators etc). For farm yards and other populated places we try to place tree for tree, meaning every tree in farm yards for example is there like it is in real life.
-</p>
-
-<p>
-PMC terrains are as real as humanly possible :)
+What are <a href="pmc-terrains-real-world-data.php">Real World Data PMC Terrains (FS19)</a> and how the source data is downloaded?
 </p>
 
 	<h2>Design</h2>
