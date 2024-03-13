@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Developer Diary PMC Iowa Garden City 8km - PMC Farming</title>
+<title>Developer Diary PMC Iowa Garden City 8km Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
+<META name="description" content="Developer Diary PMC Iowa Garden City 8km Farming Simulator 19 - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -13,9 +14,7 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
-<h1><b>Developer Diary PMC Iowa Garden City 8km - PMC Farming</b></h1>
+<h1>Developer Diary PMC Iowa Garden City 8km Farming Simulator 19 - PMC Farming</h1>
 </header>
 
 <section>
@@ -23,6 +22,10 @@
 
 <p>
 <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a> developer diary was started in late 2020 and no older records exist other than <a href="changelog-pmc-iowa-garden-city-8km.php">changelogs</a>. This terrain was initially created in early 2019. Just a little background reference <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=75&t=22783" target="_blank">PMC Tactical Forum PMC Iowa Garden City 8km Development topic</a>, would love to hear your feedback and ideas.
 </p>
 
 
