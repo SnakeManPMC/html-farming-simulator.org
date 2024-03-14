@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-03-14T00:30:00Z Farming Simulator 19 (FS19) <a href="19/pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a> American real world data terrain home page updated, screenshots split off to their own <a href="19/screenshots-pmc-iowa-garden-city-8km.php">Screenshots PMC Iowa Garden City 8km</a> page.
+</p>
+
+<p>
 2024-03-13T22:16:00Z Farming Simulator 19 (FS19) <a href="19/pmc-terrains.php">PMC Terrains FS19</a> page <a href="19/pmc-terrains-real-world-data.php">PMC Terrains Real World Data</a> and <a href="19/pmc-terrains-design.php">PMC Terrains Design</a> pages were created for easier navigation and reading. Join discussion in <a href="https://www.pmctactical.org/forum/viewforum.php?f=75" target="_blank">PMC Tactical Forum FS19 Editing area</a> and <a href="https://www.pmctactical.org/forum/viewforum.php?f=76" target="_blank">PMC Tactical Forum FS19 General area</a> about FS19 terrains by PMC.
 </p>
 
