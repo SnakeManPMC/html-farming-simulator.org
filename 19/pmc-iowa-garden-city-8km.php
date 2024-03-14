@@ -34,16 +34,20 @@ Terrain size: 8192 meters x 8192 meters, which is 8.1 kilometers x 8.1 kilometer
 <p>
 Click map image for <a href="screenshots-pmc-iowa-garden-city-8km.php">screenshots</a>.
 </p>
-<a href="screenshots-pmc-iowa-garden-city-8km.php" target="_blank"><img src="images/thumbs/PMC-Iowa-Garden-City-8km-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - PMC Iowa Garden City 8km" loading="lazy" class="terrainimg"></a>
+<a href="screenshots-pmc-iowa-garden-city-8km.php"><img src="images/thumbs/PMC-Iowa-Garden-City-8km-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - PMC Iowa Garden City 8km" loading="lazy" class="terrainimg"></a>
 </div>
 
 <p>
-This terrain was made out of suggestion by two Iowa guys from Giants chat. We also spent a lot of time game-play testing this terrain before the may 2019 re-design project, check out <a href="stories-from-zero-garden-city-iowa.php">Garden City, Iowa, Start From Zero</a> in our stories page.
+This terrain was created out of suggestion by two Iowa guys in Giants chat back in february 2019. We also spent a lot of time game-play testing this terrain, including multiplayer, before the may 2019 re-design project, check out <a href="stories-from-zero-garden-city-iowa.php">Garden City, Iowa, Start From Zero</a> in our stories page. In the 2020s this terrain has got hundreds of farming hours on it, works great.
 </p>
+
+	<h2>Fields</h2>
 
 <p>
 Fields smallest: 0.186 ha, largest 68.034 ha.
 </p>
+
+<div class="farmfields">
 <pre>
 Field 1 (field) : 65.002 ha
 Field 2 (field) : 24.435 ha
@@ -65,6 +69,11 @@ Field 17 (field) : 38.715 ha
 Field 18 (field) : 15.808 ha
 Field 19 (field) : 13.487 ha
 Field 20 (field) : 17.093 ha
+</pre>
+</div>
+
+<div class="farmfields">
+<pre>
 Field 21 (field) : 19.151 ha
 Field 22 (field) : 28.956 ha
 Field 23 (field) : 15.545 ha
@@ -85,6 +94,11 @@ Field 37 (field) : 0.254 ha
 Field 38 (field) : 23.576 ha
 Field 39 (field) : 10.860 ha
 Field 40 (field) : 10.032 ha
+</pre>
+</div>
+
+<div class="farmfields">
+<pre>
 Field 41 (field) : 2.506 ha
 Field 42 (field) : 0.320 ha
 Field 43 (field) : 0.895 ha
@@ -105,6 +119,11 @@ Field 57 (field) : 0.458 ha
 Field 58 (field) : 7.789 ha
 Field 59 (field) : 13.965 ha
 Field 60 (field) : 10.284 ha
+</pre>
+</div>
+
+<div class="farmfields">
+<pre>
 Field 61 (field) : 36.913 ha
 Field 62 (field) : 19.478 ha
 Field 63 (field) : 43.327 ha
@@ -125,6 +144,11 @@ Field 77 (field) : 9.949 ha
 Field 78 (field) : 22.640 ha
 Field 79 (field) : 33.102 ha
 Field 80 (field) : 11.389 ha
+</pre>
+</div>
+
+<div class="farmfields">
+<pre>
 Field 81 (field) : 33.302 ha
 Field 82 (field) : 16.804 ha
 Field 83 (field) : 51.698 ha
@@ -145,6 +169,11 @@ Field 97 (field) : 13.073 ha
 Field 98 (field) : 1.774 ha
 Field 99 (field) : 36.728 ha
 Field 100 (field) : 0.748 ha
+</pre>
+</div>
+
+<div class="farmfields">
+<pre>
 Field 101 (field) : 12.460 ha
 Field 102 (field) : 17.655 ha
 Field 103 (field) : 1.501 ha
@@ -165,6 +194,11 @@ Field 117 (field) : 1.133 ha
 Field 118 (field) : 2.824 ha
 Field 119 (field) : 1.485 ha
 Field 120 (field) : 4.543 ha
+</pre>
+</div>
+
+<div class="farmfields">
+<pre>
 Field 121 (field) : 16.830 ha
 Field 122 (field) : 0.981 ha
 Field 123 (field) : 3.514 ha
@@ -185,6 +219,11 @@ Field 137 (field) : 13.742 ha
 Field 138 (field) : 26.682 ha
 Field 139 (field) : 16.740 ha
 Field 140 (field) : 6.601 ha
+</pre>
+</div>
+
+<div class="farmfields">
+<pre>
 Field 141 (field) : 1.351 ha
 Field 142 (field) : 0.207 ha
 Field 143 (field) : 9.397 ha
@@ -205,6 +244,11 @@ Field 157 (field) : 17.080 ha
 Field 158 (field) : 3.910 ha
 Field 159 (field) : 14.677 ha
 Field 160 (field) : 10.978 ha
+</pre>
+</div>
+
+<div class="farmfields">
+<pre>
 Field 161 (field) : 13.374 ha
 Field 162 (field) : 13.356 ha
 Field 163 (field) : 0.930 ha
@@ -225,6 +269,11 @@ Field 177 (field) : 59.756 ha
 Field 178 (field) : 29.399 ha
 Field 179 (field) : 1.090 ha
 Field 180 (field) : 0.434 ha
+</pre>
+</div>
+
+<div class="farmfields">
+<pre>
 Field 181 (field) : 8.293 ha
 Field 182 (field) : 3.075 ha
 Field 183 (field) : 1.818 ha
@@ -245,6 +294,11 @@ Field 197 (field) : 10.355 ha
 Field 198 (field) : 10.355 ha
 Field 199 (field) : 16.263 ha
 Field 200 (field) : 15.868 ha
+</pre>
+</div>
+
+<div class="farmfields">
+<pre>
 Field 201 (field) : 22.421 ha
 Field 202 (field) : 25.043 ha
 Field 203 (field) : 25.965 ha
@@ -265,6 +319,11 @@ Field 217 (field) : 5.594 ha
 Field 218 (field) : 2.094 ha
 Field 219 (field) : 11.942 ha
 Field 220 (field) : 2.818 ha
+</pre>
+</div>
+
+<div class="farmfields">
+<pre>
 Field 221 (field) : 0.976 ha
 Field 222 (field) : 5.066 ha
 Field 223 (field) : 7.747 ha
@@ -285,6 +344,11 @@ Field 237 (field) : 6.928 ha
 Field 238 (field) : 8.043 ha
 Field 239 (field) : 7.623 ha
 Field 240 (field) : 6.845 ha
+</pre>
+</div>
+
+<div class="farmfields">
+<pre>
 Field 241 (field) : 14.358 ha
 Field 242 (field) : 6.817 ha
 Field 243 (field) : 3.958 ha
@@ -305,6 +369,11 @@ Field 257 (field) : 6.113 ha
 Field 258 (field) : 14.232 ha
 Field 259 (field) : 28.600 ha
 Field 260 (field) : 2.438 ha
+</pre>
+</div>
+
+<div class="farmfields">
+<pre>
 Field 261 (field) : 5.694 ha
 Field 262 (field) : 8.337 ha
 Field 263 (field) : 9.404 ha
@@ -321,6 +390,11 @@ Field 273 (field) : 4.380 ha
 Field 274 (field) : 15.723 ha
 Field 275 (field) : 2.859 ha
 </pre>
+</div>
+
+<p>
+That list was field definition size in hectares, the actual 3D in-game fields are larger because cultivator_density has been painted with round field corners and field definitions are made with simple shapes.
+</p>
 
 </section>
 
@@ -329,6 +403,7 @@ Field 275 (field) : 2.859 ha
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="changelog-pmc-iowa-garden-city-8km.php" class="button">Changelog PMC Iowa Garden City 8km</a>
 <a href="dev-diary-pmc-iowa-garden-city-8km.php" class="button">Dev Diary PMC Iowa Garden City 8km</a>
+<a href="screenshots-pmc-iowa-garden-city-8km.php" class="button">Screenshots PMC Iowa Garden City 8km</a>
 <a href="../index.php" class="button">PMC Farming Simulator root</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
 </p>
