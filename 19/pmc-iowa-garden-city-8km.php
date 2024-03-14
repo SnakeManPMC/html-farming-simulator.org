@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Iowa Garden City 8km Farming Simulator 19 - PMC Farming</title>
+<title>PMC Iowa Garden City 8km Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Iowa Garden City 8km Farming Simulator 19 - PMC Farming">
-<META name="keywords" content="Terrain, Iowa Garden City 8km, PMC, Farming">
+<META name="description" content="PMC Iowa Garden City 8km Farming Simulator 19 - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,9 +14,7 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Iowa Garden City 8km - Farming Simulator 19 Terrain</b></h1>
+<h1>PMC Iowa Garden City 8km - Farming Simulator 19 Terrain</h1>
 </header>
 
 <section>
@@ -29,28 +26,19 @@
 PMC Iowa Garden City 8km <a href="https://www.google.com/maps/@42.2455548,-93.3972102,8192m/data=!3m1!1e3" target="_blank">google/maps</a>
 </p>
 
-<div>
-<p style="font-size: 10px;">
-Click for larger image
+<p>
+Terrain size: 8192 meters x 8192 meters, which is 8.1 kilometers x 8.1 kilometers (ravenport is 2km). Terrain type: American, real world data.
 </p>
-<a href="images/PMC-Iowa-Garden-City-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-Iowa-Garden-City-Satellite-PDA.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
-
-<a href="images/USA-Iowa-Garden-City-8km-Fields.jpg" target="_blank"><img src="images/thumbs/USA-Iowa-Garden-City-8km-Fields.jpg" alt="Farming Simulator 19 Terrain - Garden City, Iowa, USA. Fields" style="padding: 3px 15px;width:256px;height:256px;"></a>
-
-<a href="images/USA-Iowa-Garden-City-8km-Farmland.jpg" target="_blank"><img src="images/thumbs/USA-Iowa-Garden-City-8km-Farmland.jpg" alt="Farming Simulator 19 Terrain - Garden City, Iowa, USA. Farmland" style="padding: 3px 15px;width:256px;height:256px;"></a>
-</div>
 
 <div>
 <p>
-Latest PMC Iowa Garden City 8km video.
+Click map image for <a href="screenshots-pmc-iowa-garden-city-8km.php">screenshots</a>.
 </p>
-<iframe width="480" height="270"
-src="https://www.youtube.com/embed/-0W9F-qZVbI">
-</iframe>
+<a href="screenshots-pmc-iowa-garden-city-8km.php" target="_blank"><img src="images/thumbs/PMC-Iowa-Garden-City-8km-Satellite-PDA.jpg" alt="Farming Simulator 19 Terrain - PMC Iowa Garden City 8km" loading="lazy" class="terrainimg"></a>
 </div>
 
 <p>
-This terrain was made out of suggestion by two Iowa guys from Giants discord #modding channel. We also spent a lot of time game-play testing this terrain before the may 2019 re-design project, check out <a href="stories-from-zero-garden-city-iowa.php">Garden City, Iowa, Start From Zero</a> in our stories page.
+This terrain was made out of suggestion by two Iowa guys from Giants chat. We also spent a lot of time game-play testing this terrain before the may 2019 re-design project, check out <a href="stories-from-zero-garden-city-iowa.php">Garden City, Iowa, Start From Zero</a> in our stories page.
 </p>
 
 <p>
