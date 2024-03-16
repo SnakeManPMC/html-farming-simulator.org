@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Newlin Texas All The Fields Farming Simulator 17 - PMC Farming</title>
+<title>Newlin Texas All The Fields Story Farming Simulator 17 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Newlin Texas All The Fields Farming Simulator 17 - PMC Farming">
+<META name="description" content="Newlin Texas All The Fields Story Farming Simulator 17 - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,11 +14,11 @@
 <body>
 
 <header>
-<h1>Newlin Texas All The Fields Farming Simulator 17 - PMC Farming</h1>
+<h1>Newlin Texas All The Fields Story Farming Simulator 17 - PMC Farming</h1>
 </header>
 
 <section>
-	<h2>Newlin Texas All The Fields</h2>
+	<h2>Newlin Texas All The Fields Story</h2>
 
 <p>
 2018-09-18 was super bored of <a href="https://www.pmctactical.org/arma3/" target="_blank">ArmA 3</a> editing as I achieved so much in the past few weeks that had to take a break. Wanted to continue Newlin Texas (beta) farming, but wasnt really committed and didnt even use Saitek FarmSim Bundle wheel.

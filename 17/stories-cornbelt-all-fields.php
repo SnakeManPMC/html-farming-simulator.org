@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Cornbelt All The Fields Farming Simulator 17 - PMC Farming</title>
+<title>Cornbelt All The Fields Story Farming Simulator 17 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Cornbelt All The Fields Farming Simulator 17 - PMC Farming">
+<META name="description" content="Cornbelt All The Fields Story Farming Simulator 17 - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,11 +14,11 @@
 <body>
 
 <header>
-<h1>Cornbelt All The Fields Farming Simulator 17 - PMC Farming</h1>
+<h1>Cornbelt All The Fields Story Farming Simulator 17 - PMC Farming</h1>
 </header>
 
 <section>
-	<h2>FS17 Cornbelt All The Fields</h2>
+	<h2>FS17 Cornbelt All The Fields Story</h2>
 
 <p>
 Idea was to buy (money cheat) and plough all fields, seed too if possible but it was not the requirement to accomplish one field task, basically I went after the RED color on the map.

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Start From Zero FS17 Cornbelt Farming Simulator 17 - PMC Farming</title>
+<title>Start From Zero FS17 Cornbelt Story Farming Simulator 17 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Start From Zero FS17 Cornbelt Farming Simulator 17 - PMC Farming">
+<META name="description" content="Start From Zero FS17 Cornbelt Story Farming Simulator 17 - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,11 +14,11 @@
 <body>
 
 <header>
-<h1>Start From Zero FS17 Cornbelt Farming Simulator 17 - PMC Farming</h1>
+<h1>Start From Zero FS17 Cornbelt Story Farming Simulator 17 - PMC Farming</h1>
 </header>
 
 <section>
-	<h2>Start From Zero FS17 Cornbelt</h2>
+	<h2>Start From Zero FS17 Cornbelt Story</h2>
 
 <p>
 Note; this story was originally back in 2018 called <i>"Cornbelt From Scratch"</i>.

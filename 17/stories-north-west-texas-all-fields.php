@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>North West Texas All The Fields Farming Simulator 17 - PMC Farming</title>
+<title>North West Texas All The Fields Story Farming Simulator 17 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="North West Texas All The Fields Farming Simulator 17 - PMC Farming">
+<META name="description" content="North West Texas All The Fields Story Farming Simulator 17 - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,11 +14,11 @@
 <body>
 
 <header>
-<h1>North West Texas All The Fields Farming Simulator 17 - PMC Farming</h1>
+<h1>North West Texas All The Fields Story Farming Simulator 17 - PMC Farming</h1>
 </header>
 
 <section>
-	<h2>North West Texas All The Fields</h2>
+	<h2>North West Texas All The Fields Story</h2>
 
 <p>
 I got FS17 in may 2017, played on goldcrest valley of course but my first user made custon terrain was <a href="maps.php">North West Texas</a> by Txzar. I played what I recall over 400 hours of it. After I discovered how useless grind the hard difficulty level is I started to play on easy difficulty level and my goal was to not use money cheats and buy all the fields.
