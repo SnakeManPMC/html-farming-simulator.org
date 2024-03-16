@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>PMC Farming Stories - PMC Farming</title>
+<title>PMC Farming Simulator 17 Stories - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC Farming Stories - PMC Farming">
-<META name="keywords" content="Farming, Stories, PMC, Farming">
+<META name="description" content="PMC Farming Simulator 17 Stories - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,13 +14,10 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Farming Simulator 17 Stories</b></h1>
+<h1>PMC Farming Simulator 17 Stories</h1>
 </header>
 
 <section>
-
 	<h2>Farming Stories</h2>
 
 <p>
