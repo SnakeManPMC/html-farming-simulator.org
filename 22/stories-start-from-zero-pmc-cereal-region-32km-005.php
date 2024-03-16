@@ -1060,11 +1060,7 @@ So yeah I'm off to sleep, going to call it a night right here. But first stats, 
 </p>
 
 <p>
-Continue reading 
-<!--
-<a href="stories-start-from-zero-pmc-cereal-region-32km-006.php">next page</a>, 
--->
-<a href="stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32km Home</a>, go back to <a href="stories-start-from-zero-pmc-cereal-region-32km-004.php">previous page</a>.
+Continue reading <a href="stories-start-from-zero-pmc-cereal-region-32km-006.php">next page</a>, <a href="stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32km Home</a>, go back to <a href="stories-start-from-zero-pmc-cereal-region-32km-004.php">previous page</a>.
 </p>
 
 <p>

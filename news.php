@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-03-16T19:59:00Z <a href="22/stories.php">PMC Farming FS22 Stories</a> page updated, <a href="22/stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32km</a> story got new <a href="22/stories-start-from-zero-pmc-cereal-region-32km-006.php">page 6</a> added, with screenshots.
+</p>
+
+<p>
 2024-03-16T19:16:00Z Home page for <a href="19/start-from-zero.php">Start From Zero Game-mode</a> have been created, one unified source of information is finally available. Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=76&t=22739" target="_blank">PMC Tactical Forum Start From Zero - Getting Started and Rules topic</a>.
 </p>
 

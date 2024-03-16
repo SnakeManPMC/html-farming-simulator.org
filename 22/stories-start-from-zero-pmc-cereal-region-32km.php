@@ -48,6 +48,10 @@ This savegame was created with <a href="pmc-cereal-region-32km.php">PMC Cereal R
 <a href="stories-start-from-zero-pmc-cereal-region-32km-005.php">Page 5</a>, 2023-01-30 Exhausting 19 Hours Farming Session.
 </p>
 
+<p>
+<a href="stories-start-from-zero-pmc-cereal-region-32km-006.php">Page 6</a>, 2023-01-31 Barley And Soybeans Planting Season.
+</p>
+
 <!--
 <p>
 <a href="stories-start-from-zero-pmc-cereal-region-32km-00.php">Page PAGENUMBER</a>, DESCRIPTION.
