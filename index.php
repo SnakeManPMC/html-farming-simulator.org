@@ -53,6 +53,7 @@
 <a href="19/mods.php" class="button">Mods</a>
 <a href="19/review.php" class="button">Review</a>
 <a href="19/settings.php" class="button">Settings</a>
+<a href="19/start-from-zero.php" class="button">Start From Zero</a>
 <a href="19/stories.php" class="button">Stories</a>
 <a href="https://www.pmctactical.org/forum/viewforum.php?f=74" target="_blank" class="button">Forum FS19</a>
 </p>

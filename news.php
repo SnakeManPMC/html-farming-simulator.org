@@ -21,7 +21,11 @@
 	<h2>News 2024</h2>
 
 <p>
-UTC Farming Simulator 17 (FS17) <a href="17/stories.php">Stories FS17</a> home page updated, new <a href="17/stories-cornbelt-all-fields.php">Cornbelt All The Fields</a>, <a href="17/stories-newlin-texas-all-fields.php">Newlin Texas All The Fields</a>, <a href="17/stories-north-west-texas-all-fields.php">North West Texas All The Fields</a> and <a href="17/stories-start-from-zero-fs17-cornbelt.php">Start From Zero FS17 Cornbelt</a> pages created for easier navigation and reading.
+2024-03-16T19:16:00Z Home page for <a href="19/start-from-zero.php">Start From Zero Game-mode</a> have been created, one unified source of information is finally available. Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=76&t=22739" target="_blank">PMC Tactical Forum Start From Zero - Getting Started and Rules topic</a>.
+</p>
+
+<p>
+2024-03-16T18:35:00Z Farming Simulator 17 (FS17) <a href="17/stories.php">Stories FS17</a> home page updated, new <a href="17/stories-cornbelt-all-fields.php">Cornbelt All The Fields</a>, <a href="17/stories-newlin-texas-all-fields.php">Newlin Texas All The Fields</a>, <a href="17/stories-north-west-texas-all-fields.php">North West Texas All The Fields</a> and <a href="17/stories-start-from-zero-fs17-cornbelt.php">Start From Zero FS17 Cornbelt</a> pages created for easier navigation and reading.
 </p>
 
 <p>
