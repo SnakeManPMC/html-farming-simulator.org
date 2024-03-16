@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+UTC Farming Simulator 17 (FS17) <a href="17/stories.php">Stories FS17</a> home page updated, new <a href="17/stories-north-west-texas-all-fields.php">North West Texas All The Fields</a> page created for easier navigation and reading.
+</p>
+
+<p>
 2024-03-14T00:30:00Z Farming Simulator 19 (FS19) <a href="19/pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a> American real world data terrain home page updated, screenshots split off to their own <a href="19/screenshots-pmc-iowa-garden-city-8km.php">Screenshots PMC Iowa Garden City 8km</a> page.
 </p>
 

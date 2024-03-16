@@ -24,62 +24,23 @@
 These are various stories of game plays we had with Farming Simulator 17 (FS17). Time stamps I use here are UTC.
 </p>
 
-	<h2>North West Texas All The Fields</h2>
-
 <p>
-I got FS17 in may 2017, played on goldcrest valley of course but my first user made custon terrain was <a href="maps.php">North West Texas</a> by Txzar. I played what I recall over 400 hours of it. After I discovered how useless grind the hard level is I started to play on easy level and my goal was to not use money cheats and buy all the fields.
+How I purchased <a href="stories-north-west-texas-all-fields.php">North West Texas All The Fields</a> and seeded them.
 </p>
 
-<p>
-Purchasing fields, from cheapest to the most expensive is my plan.
-</p>
-
-<p>
-Purchases:<br>
-2017-06-07, F32<br>
-2017-06-08, F8, F25<br>
-2017-06-09, F3<br>
-2017-06-10, F13, F31<br>
-2017-06-14, F6<br>
-2017-06-15, F24<br>
-2017-06-20, F21<br>
-2017-06-22, F30<br>
-2017-06-23, F1<br>
-2017-06-24, F10<br>
-2017-06-25, F16<br>
-2017-06-26, F2, F4, F23<br>
-2017-06-30, F18<br>
-2017-07-01, F07<br>
-2017-07-02, F12<br>
-2017-07-03, F11<br>
-2017-07-04, F22<br>
-2017-07-05, F15<br>
-2017-07-06, F05 (forgot to buy it earlier heh), F17<br>
-2017-07-07, F19<br>
-2017-07-08, F26<br>
-2017-07-09, F27<br>
-2017-07-11, F9, F14. Today all the good fields (not blocked by narrow fence) purchased! I was so happy after ALL this work! <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
-</p>
-
-<p>
-locked off by fence for even slightly wide vehicles (but you can go around in SE far corner):<br>
-212000, f34, 3.28<br>
-474000, f33, 7.32<br>
-520000, f35, 8.03
-</p>
-
-<p>
-Did a lot of twitch live streaming while playing, a lot of Big Bud, SPSL9 and Seed Hawk usage with courseplay.
-</p>
-
-
+<!--
+new page here
+-->
 	<h2>Parkers Prairie All The Fields</h2>
 
 <p>
-I can't remember the specifics now as it was so many months back, but I believe I used money cheat and purchased all the fields at start of this savegame, then I ploughed, seeded and harvested all the fields. This was summer of 2018.
+PMCTODO I can't remember the specifics now as it was so many months back, but I believe I used money cheat and purchased all the fields at start of this savegame, then I ploughed, seeded and harvested all the fields. This was summer of 2018.
 </p>
 
 
+<!--
+new page here
+-->
 	<h2>Newlin Texas All The Fields</h2>
 
 <p>
@@ -209,6 +170,9 @@ Result: 2018-09-23T1030hrs discovered that the whole northern and NE edge of the
 </p>
 
 
+<!--
+new page here
+-->
 	<h2>Cornbelt All The Fields</h2>
 
 <p>
@@ -458,6 +422,10 @@ Finished playing for today around 1100hrs, started to get pretty tired. Nice ses
 Used a lot of Big Bud 450, 747, John Deere Flex Disk 2623 50ft plough and Seed Hawk.
 </p>
 
+
+<!--
+new page here
+-->
 	<h2>Cornbelt From Scratch</h2>
 
 <p>
