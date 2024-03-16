@@ -21,7 +21,7 @@
 	<h2>News 2024</h2>
 
 <p>
-UTC Farming Simulator 17 (FS17) <a href="17/stories.php">Stories FS17</a> home page updated, new <a href="17/stories-north-west-texas-all-fields.php">North West Texas All The Fields</a> and <a href="17/stories-newlin-texas-all-fields.php">Newlin Texas All The Fields</a> pages created for easier navigation and reading.
+UTC Farming Simulator 17 (FS17) <a href="17/stories.php">Stories FS17</a> home page updated, new <a href="17/stories-cornbelt-all-fields.php">Cornbelt All The Fields</a>, <a href="17/stories-newlin-texas-all-fields.php">Newlin Texas All The Fields</a> and <a href="17/stories-north-west-texas-all-fields.php">North West Texas All The Fields</a> pages created for easier navigation and reading.
 </p>
 
 <p>
