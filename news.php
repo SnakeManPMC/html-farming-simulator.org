@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-03-17T05:04:43Z Farming Simulator 17 (FS17) <a href="17/stories-start-from-zero-fs17-cornbelt.php">Start From Zero FS17 Cornbelt</a> page split to individual sub pages for final form, now its truly nice and easy to read.
+</p>
+
+<p>
 2024-03-16T19:59:00Z <a href="22/stories.php">PMC Farming FS22 Stories</a> page updated, <a href="22/stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32km</a> story got new <a href="22/stories-start-from-zero-pmc-cereal-region-32km-006.php">page 6</a> added, with screenshots.
 </p>
 
