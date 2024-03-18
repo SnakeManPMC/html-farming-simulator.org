@@ -36,6 +36,10 @@ This Start From Zero savegame story was created on <a href="pmc-king-corn-45km.p
 <a href="stories-start-from-zero-pmc-king-corn-45km-002.php">Page 2</a>, 2023-01-09 Fertilizing Contracts Are Go.
 </p>
 
+<p>
+<a href="stories-start-from-zero-pmc-king-corn-45km-003.php">Page 3</a>, 2023-01-10 Fertilizing Contract Elite Reward.
+</p>
+
 <!--
 <p>
 <a href="stories-start-from-zero-pmc-king-corn-45km-00.php">Page PAGENUMBER</a>, DESCRIPTION.

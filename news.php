@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-03-18T21:54:56Z Farming Simulator 22 (FS22) <a href="22/stories.php">PMC Farming FS22 Stories</a> root page got updated with <a href="22/stories-start-from-zero-pmc-king-corn-45km.php">Start From Zero PMC King Corn 45km</a> which just got <a href="22/stories-start-from-zero-pmc-king-corn-45km-003.php">page 3</a> released, there are some nice large scale american farming screenshots included.
+</p>
+
+<p>
 2024-03-17T05:04:43Z Farming Simulator 17 (FS17) <a href="17/stories-start-from-zero-fs17-cornbelt.php">Start From Zero FS17 Cornbelt</a> page split to individual sub pages for final form, now its truly nice and easy to read.
 </p>
 

@@ -745,11 +745,7 @@ Okay I am in so full zombi mode its time to sleep...
 </p>
 
 <p>
-Continue reading 
-<!--
-<a href="stories-start-from-zero-pmc-king-corn-45km-003.php">next page</a>, 
--->
-<a href="stories-start-from-zero-pmc-king-corn-45km.php">Start From Zero PMC King Corn 45km Home</a>, go back to <a href="stories-start-from-zero-pmc-king-corn-45km-001.php">previous page</a>.
+Continue reading <a href="stories-start-from-zero-pmc-king-corn-45km-003.php">next page</a>, <a href="stories-start-from-zero-pmc-king-corn-45km.php">Start From Zero PMC King Corn 45km Home</a>, go back to <a href="stories-start-from-zero-pmc-king-corn-45km-001.php">previous page</a>.
 </p>
 
 <p>
