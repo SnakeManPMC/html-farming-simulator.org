@@ -231,7 +231,7 @@ CBJ Midwest Buildings Pack is used for various farm yards for that authentic Ame
 </p>
 
 <p>
-Downloads: FS19_PlaceableCBJbuildings.zip <a href="downloads/FS19_PlaceableCBJbuildings.zip">farming-simulator.org</a>, <a href="https://drive.google.com/file/d/1z82zWOkgNeGIBM2aYYOeUtC-ZLrbeHbf/view?usp=sharing">google drive</a>, <a href="http://www.modhub.us/farming-simulator-2019-mods/placeable-sheds-pack-1-1/" target="_blank">modhub.us</a>, <a href="https://fs19.lt/placeable-sheds-pack-v-1-1/" target="_blank">fs19.lt</a>.
+Downloads: FS19_PlaceableCBJbuildings.zip <a href="magnet:?xt=urn:btih:61759830db20c113ecbf1708daff65ba6b5a6dff&xt=urn:btmh:1220908a37402c79839cfba9e103029bb1a2f6824b33a5045c1d63ee8c534b48409d&dn=FS19_PlaceableCBJbuildings.zip&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, <a href="https://drive.google.com/file/d/1z82zWOkgNeGIBM2aYYOeUtC-ZLrbeHbf/view?usp=sharing">google drive</a>, <a href="http://www.modhub.us/farming-simulator-2019-mods/placeable-sheds-pack-1-1/" target="_blank">modhub.us</a>, <a href="https://fs19.lt/placeable-sheds-pack-v-1-1/" target="_blank">fs19.lt</a>.
 </p>
 
 <p>
@@ -245,7 +245,7 @@ Seasons GEO Fairmount, North Dakota. Currently (2021-01-09) its copy of US midwe
 </p>
 
 <p>
-PMC_Seasons_GEO_North_Dakota_Fairmount_v1.0.7z 10kb <a href="downloads/PMC_Seasons_GEO_North_Dakota_Fairmount_v1.0.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1f9PZs0i5MTh56Hk8Arh_TaH0yp0JAXFs/view?usp=sharing">google drive</a>.
+PMC_Seasons_GEO_North_Dakota_Fairmount_v1.0.7z 10kb <a href="magnet:?xt=urn:btih:ddadbcaafc731c92d341e2fce0449b9179c2360b&xt=urn:btmh:1220420162e41ded5f5b96f9e62c55fdcae55aceb5f57beaa4908461854af5708a61&dn=PMC_Seasons_GEO_North_Dakota_Fairmount_v1.0.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/1f9PZs0i5MTh56Hk8Arh_TaH0yp0JAXFs/view?usp=sharing">google drive</a>.
 </p>
 
 <p>
@@ -255,7 +255,7 @@ If you do not use Seasons, then you do not need GEO mod.
 	<h2>Download</h2>
 
 <p>
-PMC_North_Dakota_Greendale_4km_v1.2.4.7z 27.9mb <a href="downloads/PMC_North_Dakota_Greendale_4km_v1.2.4.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1kciz-DXqQ97JYjeMar9vqnymwmRDa3Uc/view?usp=sharing">google drive</a>.
+PMC_North_Dakota_Greendale_4km_v1.2.4.7z 27.9mb <a href="magnet:?xt=urn:btih:5cc252206a4a1e4f1c5291a2c9b46eb4cc77d691&xt=urn:btmh:1220ae7450bda39c47542df998718240430350f726442c107269d9401d92914f003f&dn=PMC_North_Dakota_Greendale_4km_v1.2.4.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/1kciz-DXqQ97JYjeMar9vqnymwmRDa3Uc/view?usp=sharing">google drive</a>.
 </p>
 
 <p>
