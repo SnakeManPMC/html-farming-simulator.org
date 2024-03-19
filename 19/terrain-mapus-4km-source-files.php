@@ -32,7 +32,7 @@ This tutorial walks you through HOWTO create 4km x 4km mapUS sample terrain sour
 </p>
 
 <p>
-You need to have <a href="http://www.graphicsmagick.org/" target="_blank">GraphicsMagick</a> downloaded, installed and working before proceeding. Also you need Giants Software grleConverter v7.0.1 which you can download from: <a href="../downloads/grleConverter_7.0.1_win32.7z" target="_blank">grleConverter_7.0.1_win32.7z</a>.
+You need to have <a href="http://www.graphicsmagick.org/" target="_blank">GraphicsMagick</a> downloaded, installed and working before proceeding. Also you need Giants Software grleConverter v7.0.1 which you can download from: <a href="../17/downloads.php">FS17 Downloads</a>.
 </p>
 
 <p>
@@ -40,7 +40,7 @@ First read and follow <a href="terrain-create-sample.php" target="_blank">Create
 </p>
 
 <p>
-Once the base source files for mapUS has been saved we start to copy some extra files which we need to handle the images. Download these image handling batch files from: <a href="downloads/FS19.Terrain.GraphicsMagick.Batch.Files.2021-12-22.7z" target="_blank">FS19.Terrain.GraphicsMagick.Batch.Files.2021-12-22.7z</a>. Unpack the 7-zip archive and copy the files into maps/mapUS/ directory.
+Once the base source files for mapUS has been saved we start to copy some extra files which we need to handle the images. Download FS19.Terrain.GraphicsMagick.Batch.Files.2021-12-22.7z image handling batch files from: <a href="magnet:?xt=urn:btih:2ea7bf81114123682066f35bfb8f4f472b4031e6&xt=urn:btmh:1220326fedcaec3108246181e4dbb344e52a9588668824d0150756fbf01fb9c53093&dn=Batch.Files.And.Scripts.2024-03-18&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce" target="_blank">Batch.Files.And.Scripts.2024-03-18 Torrent Magnet</a>. Unpack the 7-zip archive and copy the files into maps/mapUS/ directory.
 </p>
 
 <p>
