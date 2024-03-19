@@ -333,7 +333,7 @@ PMC_Farm_Silos.zip is Giants FarmSiloLarge and SiloExtension, we have adjusted i
 </p>
 
 <p>
-Downloads: PMC_Farm_Silos_v1.1.7z 10kb <a href="downloads/PMC_Farm_Silos_v1.1.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1rcTZo1y3ui7dbpY97pOhNIG2GzjHqCDZ/view?usp=sharing">google drive</a>. FS19_PlaceableCBJbuildings.zip <a href="downloads/FS19_PlaceableCBJbuildings.zip">farming-simulator.org</a>, <a href="https://drive.google.com/file/d/1z82zWOkgNeGIBM2aYYOeUtC-ZLrbeHbf/view?usp=sharing">google drive</a>, <a href="http://www.modhub.us/farming-simulator-2019-mods/placeable-sheds-pack-1-1/" target="_blank">modhub.us</a>, <a href="https://fs19.lt/placeable-sheds-pack-v-1-1/" target="_blank">fs19.lt</a>, FS19_Meridian_BulkBins_RNDM.zip and FS19_Meridian_FuelTank.zip <a href="https://www.modhub.us/farming-simulator-2019-mods/meridian-fueltank-and-bulkbins-v1-0" target="_blank">modhub.us</a>, Welker Workshop <a href="https://www.farming-simulator.com/mod.php?mod_id=209380" target="_blank">Giants Modhub</a>.
+Downloads: PMC_Farm_Silos_v1.1.7z 10kb <a href="magnet:?xt=urn:btih:4dfae758bb520fac58c5e7e6c269629de1d0b572&xt=urn:btmh:12207dfbce9b66551eb4df4286e2569c4960bc386c939f2ec200a29fa1d994e5a64b&dn=PMC_Farm_Silos_v1.1.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/1rcTZo1y3ui7dbpY97pOhNIG2GzjHqCDZ/view?usp=sharing">google drive</a>. FS19_PlaceableCBJbuildings.zip <a href="magnet:?xt=urn:btih:61759830db20c113ecbf1708daff65ba6b5a6dff&xt=urn:btmh:1220908a37402c79839cfba9e103029bb1a2f6824b33a5045c1d63ee8c534b48409d&dn=FS19_PlaceableCBJbuildings.zip&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, <a href="https://drive.google.com/file/d/1z82zWOkgNeGIBM2aYYOeUtC-ZLrbeHbf/view?usp=sharing">google drive</a>, <a href="http://www.modhub.us/farming-simulator-2019-mods/placeable-sheds-pack-1-1/" target="_blank">modhub.us</a>, <a href="https://fs19.lt/placeable-sheds-pack-v-1-1/" target="_blank">fs19.lt</a>, FS19_Meridian_BulkBins_RNDM.zip and FS19_Meridian_FuelTank.zip <a href="https://www.modhub.us/farming-simulator-2019-mods/meridian-fueltank-and-bulkbins-v1-0" target="_blank">modhub.us</a>, Welker Workshop <a href="https://www.farming-simulator.com/mod.php?mod_id=209380" target="_blank">Giants Modhub</a>.
 </p>
 
 <p>
@@ -355,7 +355,7 @@ PMC Seasons GEO Shelby, Montana. Latitude has been properly placed at Shelby, MT
 </p>
 
 <p>
-PMC_Seasons_GEO_Montana_Shelby_v1.0.7z 10kb <a href="downloads/PMC_Seasons_GEO_Montana_Shelby_v1.0.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1-M6SK6-Yzc6bMYvrmyB5TAkMNrQCnxoW/view?usp=sharing">google drive</a>.
+PMC_Seasons_GEO_Montana_Shelby_v1.0.7z 10kb <a href="magnet:?xt=urn:btih:52cd8e50af79e95f3c9711863d1b647fb3036b5b&xt=urn:btmh:1220062f772c021fd8a41d35e75cd59c216aff50dc1d1b40c1b4d19fead02898d8d4&dn=PMC_Seasons_GEO_Montana_Shelby_v1.0.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/1-M6SK6-Yzc6bMYvrmyB5TAkMNrQCnxoW/view?usp=sharing">google drive</a>.
 </p>
 
 <p>
@@ -365,7 +365,7 @@ If you do not use Seasons, then you do not need PMC_Seasons_GEO_Montana_Shelby.z
 	<h2>Download</h2>
 
 <p>
-PMC_Montana_Shelby_8km_v1.2.7z 41.4mb <a href="downloads/PMC_Montana_Shelby_8km_v1.2.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1nFcYaywmQh5ZsupEMw8RwL1Lxdg64zRM/view?usp=sharing">google drive</a>.
+PMC_Montana_Shelby_8km_v1.2.7z 41.4mb <a href="magnet:?xt=urn:btih:7ae7518eb736f43892f1486622d16e95c99dea4d&xt=urn:btmh:12208dcca88ce32d7379f2d760472c3c6d8ff970577eca7791d48588ef3a5996e131&dn=PMC_Montana_Shelby_8km_v1.2.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/1nFcYaywmQh5ZsupEMw8RwL1Lxdg64zRM/view?usp=sharing">google drive</a>.
 </p>
 
 <p>
