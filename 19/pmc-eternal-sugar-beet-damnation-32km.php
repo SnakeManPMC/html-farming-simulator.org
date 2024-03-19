@@ -33,7 +33,7 @@ Terrain size 32,768 meters x 32,768 meters ie 32.7 kilometers x 32.7 kilometers 
 </p>
 
 <p>
-<b>Largest terrain in Farming Simulator history</b>, size 32 kilometers x 32 kilometers. Field 1 (field01) : 107,331.031 hectares!
+<b>Largest terrain in Farming Simulator 19 (FS19) history</b>, size 32 kilometers x 32 kilometers. Field 1 (field01) : 107,331.031 hectares!
 </p>
 
 <p>
@@ -112,7 +112,7 @@ Please understand that this is not a proper terrain, this is a spectacle (see ab
 </p>
 
 <p>
-PMC_EternalSugarBeetDamnation_32km_v1.0.7z 18.5mb <a href="downloads/PMC_EternalSugarBeetDamnation_32km_v1.0.7z">farming-simulator.org</a>, <a href="https://drive.google.com/file/d/1rcKbPDrk0quhP0VUwa5aDEr3edEhlzD2/view?usp=sharing" target="_blank">google drive</a>.
+PMC_EternalSugarBeetDamnation_32km_v1.0.7z 18.5mb <a href="magnet:?xt=urn:btih:99e8c4bf2df6e8367a2a975e1faf6c86444cb49d&xt=urn:btmh:12205c530175c4ef57c8edae2fb2e5500e4dbe2fa09d3b4559cc7ff7369f12066659&dn=PMC_EternalSugarBeetDamnation_32km_v1.0.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, <a href="https://drive.google.com/file/d/1rcKbPDrk0quhP0VUwa5aDEr3edEhlzD2/view?usp=sharing" target="_blank">google drive</a>.
 </p>
 
 <p>
