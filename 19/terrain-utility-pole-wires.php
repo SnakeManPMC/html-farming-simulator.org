@@ -34,7 +34,7 @@ This tutorial needs proof reading from various skill level users, if you have co
 	<h2>Spline Placement Scripts</h2>
 
 <p>
-This tutorial uses <a href="downloads/splinePlacement_v1.3.7z">splinePlacement v1.3 scripts by TracMax</a>. Unpack the 7-zip archive and place .lua scripts into <a href="terrain-giants-editor.php">Giants Editor</a> scripts directory.
+This tutorial uses splinePlacement v1.3 scripts by TracMax <a href="magnet:?xt=urn:btih:2ea7bf81114123682066f35bfb8f4f472b4031e6&xt=urn:btmh:1220326fedcaec3108246181e4dbb344e52a9588668824d0150756fbf01fb9c53093&dn=Batch.Files.And.Scripts.2024-03-18&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Batch.Files.And.Scripts.2024-03-18 Torrent Magnet</a>. Unpack the 7-zip archive and place .lua scripts into <a href="terrain-giants-editor.php">Giants Editor</a> scripts directory.
 </p>
 
 <p>
@@ -87,7 +87,7 @@ Make sure the wire locator transformgroups are first / top-most right below the 
 <img class="imgresponsive" src="screenshots/Utility-Poles-With-Wires-Transformgroup-Order.jpg" loading="lazy" alt="Utility Poles with Wires Transformgroup Order">
 
 <p>
-Create utility pole line using <a href="downloads/splinePlacement_Utility_Poles_65m.7z">65 meter splinePlacement v1.3 script by TracMax</a>, as usual. First create the spline, as you can see from our screenshot example you can make nice smooth flowing shapes for utility pole splines.
+Create utility pole line using 65 meter splinePlacement v1.3 script by TracMax <a href="magnet:?xt=urn:btih:2ea7bf81114123682066f35bfb8f4f472b4031e6&xt=urn:btmh:1220326fedcaec3108246181e4dbb344e52a9588668824d0150756fbf01fb9c53093&dn=Batch.Files.And.Scripts.2024-03-18&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Batch.Files.And.Scripts.2024-03-18 Torrent Magnet</a>, as usual. First create the spline, as you can see from our screenshot example you can make nice smooth flowing shapes for utility pole splines.
 </p>
 
 <img class="imgresponsive" src="screenshots/Utility-Poles-With-Wires-Spline-For-Poles.jpg" loading="lazy" alt="Utility Poles with Wires Spline for Poles">
@@ -115,7 +115,7 @@ To measure wire length put a transformgroup on the one end, then move it to the 
 </p>
 
 <p>
-Download <a href="downloads/EasyFence.Script.7z">EasyFence script by modelleicher</a> and open it in proper text editor (notepad++ for example).
+Download EasyFence script by modelleicher <a href="magnet:?xt=urn:btih:2ea7bf81114123682066f35bfb8f4f472b4031e6&xt=urn:btmh:1220326fedcaec3108246181e4dbb344e52a9588668824d0150756fbf01fb9c53093&dn=Batch.Files.And.Scripts.2024-03-18&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Batch.Files.And.Scripts.2024-03-18 Torrent Magnet</a> and open it in proper text editor (notepad++ for example).
 </p>
 
 <p>
