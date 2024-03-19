@@ -159,7 +159,7 @@ After the hard work of painting farmland image on top of satellite or other sour
 </p>
 
 <p>
-Download <a href="downloads/PMC.Graphicsmagick.Farmland.2022-02-02.7z">PMC.Graphicsmagick.Farmland.2022-02-02.7z</a> and unpack it to the same directory your GIMP farmland XCF image is located.
+Download PMC.Graphicsmagick.Farmland.2022-02-02.7z <a href="magnet:?xt=urn:btih:2ea7bf81114123682066f35bfb8f4f472b4031e6&xt=urn:btmh:1220326fedcaec3108246181e4dbb344e52a9588668824d0150756fbf01fb9c53093&dn=Batch.Files.And.Scripts.2024-03-18&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Batch.Files.And.Scripts.2024-03-18 Torrent Magnet</a> and unpack it to the same directory your GIMP farmland XCF image is located.
 </p>
 
 <p>
