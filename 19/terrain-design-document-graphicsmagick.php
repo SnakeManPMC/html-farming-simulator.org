@@ -119,7 +119,7 @@ GraphicsMagick using our BATCH (bat) file will read the GIMP exported PNG images
 </p>
 
 <p>
-Download GraphicsMagick <a href="downloads/PMC.Design.Doc.To.GE.Demo.1.2022-01-20T0306.7z">PMC.Design.Doc.To.GE.Demo.1.2022-01-20T0306.7z</a> file. This 7-zip packet currently includes example PNG image files too.
+Download GraphicsMagick PMC.Design.Doc.To.GE.Demo.1.2022-01-20T0306.7z <a href="magnet:?xt=urn:btih:2ea7bf81114123682066f35bfb8f4f472b4031e6&xt=urn:btmh:1220326fedcaec3108246181e4dbb344e52a9588668824d0150756fbf01fb9c53093&dn=Batch.Files.And.Scripts.2024-03-18&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Batch.Files.And.Scripts.2024-03-18</a> file. This 7-zip packet currently includes example PNG image files too.
 </p>
 
 <p>
