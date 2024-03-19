@@ -191,7 +191,7 @@ None. This terrain is prepared for Precision Farming with a custom soil types ma
 	<h2>Download</h2>
 
 <p>
-PMC_Farm_Lab_v1.2.7z 5.5mb <a href="downloads/PMC_Farm_Lab_v1.2.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1rtdvM9ms4RGNfAsCoFaAAj_PElTi-Use/view?usp=sharing" target="_blank">google drive</a>.
+PMC_Farm_Lab_v1.2.7z 5.5mb <a href="magnet:?xt=urn:btih:0f1c5b65177c753602335192c749dab66675ea8d&xt=urn:btmh:12201fda0d34a1d87af43ed6e0823a89dd788e55b2a3fe745914a4834fe892b65415&dn=PMC_Farm_Lab_v1.2.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/1rtdvM9ms4RGNfAsCoFaAAj_PElTi-Use/view?usp=sharing" target="_blank">google drive</a>.
 </p>
 
 <p>
