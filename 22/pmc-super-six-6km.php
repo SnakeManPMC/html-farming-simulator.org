@@ -189,7 +189,7 @@ PMC terrains are error free, as long as player uses required mods.
 	<h2>Download</h2>
 
 <p>
-PMC_Super_Six_6km_v0.1.7z 45.6mb <a href="downloads/PMC_Super_Six_6km_v0.1.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1XSsTXnwS4jRAcaQtEdQETdA0MSgpZLak/view?usp=sharing" target="blank">google drive</a>.
+PMC_Super_Six_6km_v0.1.7z 45.6mb <a href="magnet:?xt=urn:btih:84118972037745f5861cacf10e866f1d52005569&xt=urn:btmh:12203a1e36a118062ec2e52ae64e900fd05624272883f6aae5e181fee9abe3585635&dn=PMC_Super_Six_6km_v0.1.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/1XSsTXnwS4jRAcaQtEdQETdA0MSgpZLak/view?usp=sharing" target="blank">google drive</a>.
 </p>
 
 <p>
