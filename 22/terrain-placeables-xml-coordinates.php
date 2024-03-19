@@ -38,7 +38,7 @@ Have you done the copy-paste dance of selecting object in Giants Editor (GE), co
 </p>
 
 <p>
-Download LUA script written by <b>Outlaw</b> (with one LUA print command edit by Snake Man, PMC). <a href="downloads/GE.Scripts.Placeables.2022-02-14.7z" target="_blank">GE.Scripts.Placeables.2022-02-14.7z</a>.
+Download LUA script written by <b>Outlaw</b> (with one LUA print command edit by Snake Man, PMC). GE.Scripts.Placeables.2022-02-14.7z <a href="magnet:?xt=urn:btih:74733636a701596d9cc932d07b0ad59fd67cf1ab&xt=urn:btmh:12208b69da774366ea6ffe49304c58915fbe63fdee2e8d7357c6424f658d0e2aa207&dn=FS22.Batch.Files.And.Scripts.2024-03-18&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce" target="_blank">FS22.Batch.Files.And.Scripts.2024-03-18 Torrent Magnet</a>.
 </p>
 
 <p>
