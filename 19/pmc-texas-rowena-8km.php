@@ -333,7 +333,7 @@ PMC_Farm_Silos.zip is Giants FarmSiloLarge and SiloExtension, we have adjusted i
 </p>
 
 <p>
-Downloads: PMC_Farm_Silos_v1.1.7z 10kb <a href="downloads/PMC_Farm_Silos_v1.1.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1rcTZo1y3ui7dbpY97pOhNIG2GzjHqCDZ/view?usp=sharing">google drive</a>. FS19_PlaceableCBJbuildings.zip <a href="downloads/FS19_PlaceableCBJbuildings.zip">farming-simulator.org</a>, <a href="https://drive.google.com/file/d/1z82zWOkgNeGIBM2aYYOeUtC-ZLrbeHbf/view?usp=sharing">google drive</a>, <a href="http://www.modhub.us/farming-simulator-2019-mods/placeable-sheds-pack-1-1/" target="_blank">modhub.us</a>, <a href="https://fs19.lt/placeable-sheds-pack-v-1-1/" target="_blank">fs19.lt</a>.
+Downloads: PMC_Farm_Silos_v1.1.7z 10kb <a href="magnet:?xt=urn:btih:4dfae758bb520fac58c5e7e6c269629de1d0b572&xt=urn:btmh:12207dfbce9b66551eb4df4286e2569c4960bc386c939f2ec200a29fa1d994e5a64b&dn=PMC_Farm_Silos_v1.1.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/1rcTZo1y3ui7dbpY97pOhNIG2GzjHqCDZ/view?usp=sharing">google drive</a>. FS19_PlaceableCBJbuildings.zip <a href="magnet:?xt=urn:btih:61759830db20c113ecbf1708daff65ba6b5a6dff&xt=urn:btmh:1220908a37402c79839cfba9e103029bb1a2f6824b33a5045c1d63ee8c534b48409d&dn=FS19_PlaceableCBJbuildings.zip&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, <a href="https://drive.google.com/file/d/1z82zWOkgNeGIBM2aYYOeUtC-ZLrbeHbf/view?usp=sharing">google drive</a>, <a href="http://www.modhub.us/farming-simulator-2019-mods/placeable-sheds-pack-1-1/" target="_blank">modhub.us</a>, <a href="https://fs19.lt/placeable-sheds-pack-v-1-1/" target="_blank">fs19.lt</a>.
 </p>
 
 <p>
@@ -347,7 +347,7 @@ Seasons GEO Rowena, Texas. Currently (2020-12-31) its copy of US midwest GEO by 
 </p>
 
 <p>
-PMC_Seasons_GEO_Texas_Rowena_v1.0.7z 10kb <a href="downloads/PMC_Seasons_GEO_Texas_Rowena_v1.0.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1SZh4dfwpEOy47g52S0uAxtsAsOZDL5KI/view?usp=sharing">google drive</a>.
+PMC_Seasons_GEO_Texas_Rowena_v1.0.7z 10kb <a href="magnet:?xt=urn:btih:509be0f6899bcb9935c8d12a8f9ab5787fa47f4b&xt=urn:btmh:1220d07d14ae6c6fa65aabaa4fe3164f39d099b299007443647bc79ac980c8f7533f&dn=PMC_Seasons_GEO_Texas_Rowena_v1.0.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/1SZh4dfwpEOy47g52S0uAxtsAsOZDL5KI/view?usp=sharing">google drive</a>.
 </p>
 
 <p>
@@ -357,7 +357,7 @@ If you do not use Seasons, then you do not need PMC_Seasons_GEO_Texas_Rowena.zip
 	<h2>Download</h2>
 
 <p>
-PMC_Texas_Rowena_8km_v1.2.3.7z 52.9mb <a href="downloads/PMC_Texas_Rowena_8km_v1.2.3.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1GaKfULVlXwMfLQLCfrgF_JlL3rNdHYsI/view?usp=sharing">google drive</a>.
+PMC_Texas_Rowena_8km_v1.2.3.7z 52.9mb <a href="magnet:?xt=urn:btih:07542b3e221c2d57afe206174db6501f525d35c0&xt=urn:btmh:1220a9292f8af7b735a8dbfd48baab599cdb1de3d2b592c903756a69d73b42380f99&dn=PMC_Texas_Rowena_8km_v1.2.3.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/1GaKfULVlXwMfLQLCfrgF_JlL3rNdHYsI/view?usp=sharing">google drive</a>.
 </p>
 
 <p>
