@@ -204,7 +204,7 @@ PMC terrains are error free, as long as player uses required mods.
 	<h2>Download</h2>
 
 <p>
-PMC_RedWhiteBlue_10km_v0.1.2.7z 44.1mb <a href="downloads/PMC_RedWhiteBlue_10km_v0.1.2.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1IlZKdHGAimZakhIw1DYlwqakQBEGkiYK/view?usp=sharing" target="_blank">google drive</a>.
+PMC_RedWhiteBlue_10km_v0.1.2.7z 44.1mb <a href="magnet:?xt=urn:btih:db7d5c6e16dc1c5089d702c32e7dc0a81574ad04&xt=urn:btmh:1220e5ef332d2e73fbfe4398624decd2409a072bd661fdc6d63ed19c51106496fc31&dn=PMC_RedWhiteBlue_10km_v0.1.2.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/1IlZKdHGAimZakhIw1DYlwqakQBEGkiYK/view?usp=sharing" target="_blank">google drive</a>.
 </p>
 
 <p>
