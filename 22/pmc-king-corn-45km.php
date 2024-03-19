@@ -205,7 +205,7 @@ PMC terrains are error free, as long as player uses required mods.
 	<h2>Download</h2>
 
 <p>
-PMC_King_Corn_45km_v0.1.7z 73.5mb <a href="downloads/PMC_King_Corn_45km_v0.1.7z">farming-simulator.org</a>, mirror: <a href="https://drive.google.com/file/d/1n3-Qv_M7syM_t3Wyy3Vd2e_19szKQ-nu/view?usp=sharing" target="_blank">google drive</a>.
+PMC_King_Corn_45km_v0.1.7z 73.5mb <a href="magnet:?xt=urn:btih:cc34e51dcce5ee4aa060d3ed97f30518f5c9a501&xt=urn:btmh:1220596ed987a7652c150f9697ab2128323615520b27123f0512ad12f29f999133fb&dn=PMC_King_Corn_45km_v0.1.7.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/1n3-Qv_M7syM_t3Wyy3Vd2e_19szKQ-nu/view?usp=sharing" target="_blank">google drive</a>.
 </p>
 
 <p>
