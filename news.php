@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-03-20T23:21:19Z Farming Simulator 22 (FS22) <a href="22/stories.php">PMC Farming FS22 Stories</a> home was just updated, new <a href="22/stories-start-from-zero-pmc-korkscrew-40km.php">Start From Zero PMC Korkscrew 40km</a> has been released. Enjoy the brand new farmsim story.
+</p>
+
+<p>
 2024-03-18T21:54:56Z Farming Simulator 22 (FS22) <a href="22/stories.php">PMC Farming FS22 Stories</a> root page got updated with <a href="22/stories-start-from-zero-pmc-king-corn-45km.php">Start From Zero PMC King Corn 45km</a> which just got <a href="22/stories-start-from-zero-pmc-king-corn-45km-003.php">page 3</a> released, there are some nice large scale american farming screenshots included.
 </p>
 

@@ -40,6 +40,7 @@ See our older <a href="../17/stories.php">FS17 stories</a> and <a href="../19/st
 <a href="stories-start-from-zero-pmc-cereal-region-32km.php" class="button">Start From Zero PMC Cereal Region 32km</a>
 <a href="stories-start-from-zero-pmc-king-corn-45km.php" class="button">Start From Zero PMC King Corn 45km</a>
 <a href="stories-animal-game-mode-pmc-super-six-6km.php" class="button">Animal Game-mode PMC Super Six 6km</a>
+<a href="stories-start-from-zero-pmc-korkscrew-40km.php" class="button">Start From Zero PMC Korkscrew 40km</a>
 </p>
 
 </section>
