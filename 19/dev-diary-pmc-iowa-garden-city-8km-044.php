@@ -41,11 +41,7 @@ Important thing to note is that while the heightmap SOURCE is 1 meter detail, th
 </p>
 
 <p>
-Continue reading 
-<!--
-<a href="dev-diary-pmc-iowa-garden-city-8km-045.php">next page</a>, back to 
--->
-<a href="dev-diary-pmc-iowa-garden-city-8km.php">Dev Diary PMC Iowa Garden City 8km Homepage</a> or <a href="dev-diary-pmc-iowa-garden-city-8km-043.php">previous page</a>.
+Continue reading <a href="dev-diary-pmc-iowa-garden-city-8km-045.php">next page</a>, back to <a href="dev-diary-pmc-iowa-garden-city-8km.php">Dev Diary PMC Iowa Garden City 8km Homepage</a> or <a href="dev-diary-pmc-iowa-garden-city-8km-043.php">previous page</a>.
 </p>
 </section>
 

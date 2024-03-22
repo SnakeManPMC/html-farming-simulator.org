@@ -408,6 +408,14 @@ Changelog for <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a
 - iowa garden city courseplay generate field work course for all fields after field definitions are done
 </p>
 
+
+	<h2>v1.2 Initial Release</h2>
+
+<p>
+2024-03-22:<br>
+- initial release
+</p>
+
 </div>
 
 <div class="changelog">

@@ -18,14 +18,14 @@
 </header>
 
 <section>
-	<h2>PMC Terrain News</h2>
+	<h2>PMC Terrain News FS19</h2>
 
 <p>
-<b>2022-06-08T17:59:00Z</b> New terrain announced <a href="pmc-ohio-arcanum-8km.php">PMC Ohio Arcanum 8km</a>.
+<b>2024-03-22T01:16:00Z</b> Farming Simulator 19 (FS19) one of the oldest and long awaited <a href="19/pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a> real world data terrain has been released!
 </p>
 
 <p>
-Read more news from <a href="../news.php">PMC Farming News page</a>.
+Read more news from <a href="../news.php">PMC Farming News page</a>. Latest developments check <a href="https://www.pmctactical.org/forum/viewforum.php?f=75" target="_blank">PMC Tactical Forum FS19 Editing area</a> and <a href="https://www.pmctactical.org/forum/viewforum.php?f=76" target="_blank">PMC Tactical Forum FS19 General area</a>.
 </p>
 
 <p>

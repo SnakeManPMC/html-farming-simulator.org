@@ -208,6 +208,14 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=75
 <a href="dev-diary-pmc-iowa-garden-city-8km-044.php">Page 44</a>, 2023-03-03 Super Detailed Heightmap.
 </p>
 
+<p>
+<a href="dev-diary-pmc-iowa-garden-city-8km-045.php">Page 45</a>, 2024-03-21 Preparing For Release.
+</p>
+
+<p>
+<a href="dev-diary-pmc-iowa-garden-city-8km-046.php">Page 46</a>, 2024-03-22 Terrain Initial Release.
+</p>
+
 </section>
 
 <footer>
