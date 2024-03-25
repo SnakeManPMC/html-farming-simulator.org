@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-03-25T07:42:38Z Farming Simulator 22 (FS22) story telling continues with a new page for <a href="22/stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32km</a> story. Check out <a href="22/stories-start-from-zero-pmc-cereal-region-32km-007.php">page 7</a> of this <a href="22/stories.php">PMC Farming FS22 Story</a>.
+</p>
+
+<p>
 2024-03-22T01:16:00Z Farming Simulator 19 (FS19) one of the oldest and long awaited <a href="19/pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a> real world data terrain has been released!
 </p>
 

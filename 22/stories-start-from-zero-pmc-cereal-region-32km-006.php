@@ -700,11 +700,7 @@ Message to myself when returning to this savegame months/years from now: copied 
 </p>
 
 <p>
-Continue reading 
-<!--
-<a href="stories-start-from-zero-pmc-cereal-region-32km-007.php">next page</a>, 
--->
-<a href="stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32km Home</a>, go back to <a href="stories-start-from-zero-pmc-cereal-region-32km-005.php">previous page</a>.
+Continue reading <a href="stories-start-from-zero-pmc-cereal-region-32km-007.php">next page</a>, <a href="stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32km Home</a>, go back to <a href="stories-start-from-zero-pmc-cereal-region-32km-005.php">previous page</a>.
 </p>
 
 <p>
