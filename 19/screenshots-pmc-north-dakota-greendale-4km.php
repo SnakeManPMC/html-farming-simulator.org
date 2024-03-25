@@ -29,37 +29,37 @@
 <p style="font-size: 10px;">
 Click for larger image
 </p>
-<a href="images/PMC-North-Dakota-Greendale-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Greendale-Satellite-PDA.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
+<a href="images/PMC-North-Dakota-Greendale-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Greendale-Satellite-PDA.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
 
-<a href="images/PMC-North-Dakota-Greendale-4km-Fields.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/PMC-North-Dakota-Greendale-4km-Fields.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Fields"></a>
+<a href="images/PMC-North-Dakota-Greendale-4km-Fields.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Greendale-4km-Fields.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Fields"></a>
 
-<a href="images/PMC-North-Dakota-Greendale-4km-Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/PMC-North-Dakota-Greendale-4km-Farmland.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Farmland"></a>
+<a href="images/PMC-North-Dakota-Greendale-4km-Farmland.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Greendale-4km-Farmland.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Farmland"></a>
 
-<a href="images/PMC-North-Dakota-Greendale-4km-Precision-Farming-Soil-Types-2021-01-09.jpg" target="_blank"><img class="terrainimg" loading="lazy" src="images/thumbs/PMC-North-Dakota-Greendale-4km-Precision-Farming-Soil-Types-2021-01-09.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Precision Farming Soil Types"></a>
+<a href="images/PMC-North-Dakota-Greendale-4km-Precision-Farming-Soil-Types-2021-01-09.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Greendale-4km-Precision-Farming-Soil-Types-2021-01-09.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Precision Farming Soil Types"></a>
 
-<a href="images/PMC-North-Dakota-Greendale-4km-Precision-Farming-pH-2021-01-09.jpg" target="_blank"><img class="terrainimg" loading="lazy" src="images/thumbs/PMC-North-Dakota-Greendale-4km-Precision-Farming-pH-2021-01-09.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Precision Farming pH"></a>
+<a href="images/PMC-North-Dakota-Greendale-4km-Precision-Farming-pH-2021-01-09.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Greendale-4km-Precision-Farming-pH-2021-01-09.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Precision Farming pH"></a>
 
-<a href="images/PMC-North-Dakota-Greendale-4km-Precision-Farming-Nitrogen-2021-01-09.jpg" target="_blank"><img class="terrainimg" loading="lazy" src="images/thumbs/PMC-North-Dakota-Greendale-4km-Precision-Farming-Nitrogen-2021-01-09.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Precision Farming Nitrogen"></a>
+<a href="images/PMC-North-Dakota-Greendale-4km-Precision-Farming-Nitrogen-2021-01-09.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Greendale-4km-Precision-Farming-Nitrogen-2021-01-09.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Precision Farming Nitrogen"></a>
 
-<a href="images/PMC-North-Dakota-Greendale-4km-Precision-Farming-Economic-Analysis-2021-01-09.jpg" target="_blank"><img class="terrainimg" loading="lazy" src="images/thumbs/PMC-North-Dakota-Greendale-4km-Precision-Farming-Economic-Analysis-2021-01-09.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Precision Farming Economic Analysis"></a>
+<a href="images/PMC-North-Dakota-Greendale-4km-Precision-Farming-Economic-Analysis-2021-01-09.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Greendale-4km-Precision-Farming-Economic-Analysis-2021-01-09.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Precision Farming Economic Analysis"></a>
 
-<a href="images/PMC-North-Dakota-Greendale-4km-TestRunner-2021-01-10T0007.jpg" target="_blank"><img class="terrainimg" loading="lazy" src="images/thumbs/PMC-North-Dakota-Greendale-4km-TestRunner-2021-01-10T0007.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. TestRunner Results" style="padding: 3px 15px;width:auto;height:128px;"></a>
+<a href="images/PMC-North-Dakota-Greendale-4km-TestRunner-2021-01-10T0007.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Greendale-4km-TestRunner-2021-01-10T0007.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. TestRunner Results" style="padding: 3px 15px;width:auto;height:128px;"></a>
 
-<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T2339.jpg" target="_blank"><img class="terrainimg" loading="lazy" src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T2339.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
+<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T2339.jpg" target="_blank"><img src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T2339.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
 
-<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T2340.jpg" target="_blank"><img class="terrainimg" loading="lazy" src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T2340.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
+<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T2340.jpg" target="_blank"><img src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T2340.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
 
-<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T2341.jpg" target="_blank"><img class="terrainimg" loading="lazy" src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T2341.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
+<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T2341.jpg" target="_blank"><img src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T2341.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
 
-<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T234221.jpg" target="_blank"><img class="terrainimg" loading="lazy" src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T234221.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
+<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T234221.jpg" target="_blank"><img src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T234221.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
 
-<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T234242.jpg" target="_blank"><img class="terrainimg" loading="lazy" src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T234242.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
+<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T234242.jpg" target="_blank"><img src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T234242.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
 
-<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T234313.jpg" target="_blank"><img class="terrainimg" loading="lazy" src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T234313.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
+<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T234313.jpg" target="_blank"><img src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T234313.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
 
-<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T234345.jpg" target="_blank"><img class="terrainimg" loading="lazy" src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T234345.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
+<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T234345.jpg" target="_blank"><img src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T234345.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
 
-<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T2344.jpg" target="_blank"><img class="terrainimg" loading="lazy" src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T2344.jpg" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
+<a href="screenshots/PMC-North-Dakota-Greendale-4km-2021-01-09T2344.jpg" target="_blank"><img src="screenshots/thumbs/PMC-North-Dakota-Greendale-4km-2021-01-09T2344.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Greendale, North Dakota, USA. Landscape"></a>
 </div>
 
 <div>

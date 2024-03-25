@@ -29,31 +29,31 @@
 <p style="font-size: 10px;">
 Click for larger image
 </p>
-<a href="images/PMC-Texas-Rowena-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-Satellite-PDA.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
+<a href="images/PMC-Texas-Rowena-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-Satellite-PDA.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
 
-<a href="images/PMC-Texas-Rowena-8km-Fields.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-8km-Fields.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Fields" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="images/PMC-Texas-Rowena-8km-Fields.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-8km-Fields.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Fields"></a>
 
-<a href="images/PMC-Texas-Rowena-8km-Farmland.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-8km-Farmland.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Farmland" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="images/PMC-Texas-Rowena-8km-Farmland.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-8km-Farmland.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Farmland"></a>
 
-<a href="images/PMC-Texas-Rowena-8km-Precision-Farming-Soil-Types-2020-12-31.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-8km-Precision-Farming-Soil-Types-2020-12-31.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Precision Farming Soil Types" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="images/PMC-Texas-Rowena-8km-Precision-Farming-Soil-Types-2020-12-31.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-8km-Precision-Farming-Soil-Types-2020-12-31.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Precision Farming Soil Types"></a>
 
-<a href="images/PMC-Texas-Rowena-8km-Precision-Farming-pH-2020-12-31.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-8km-Precision-Farming-pH-2020-12-31.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Precision Farming pH" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="images/PMC-Texas-Rowena-8km-Precision-Farming-pH-2020-12-31.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-8km-Precision-Farming-pH-2020-12-31.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Precision Farming pH"></a>
 
-<a href="images/PMC-Texas-Rowena-8km-Precision-Farming-Nitrogen-2020-12-31.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-8km-Precision-Farming-Nitrogen-2020-12-31.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Precision Farming Nitrogen" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="images/PMC-Texas-Rowena-8km-Precision-Farming-Nitrogen-2020-12-31.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-8km-Precision-Farming-Nitrogen-2020-12-31.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Precision Farming Nitrogen"></a>
 
-<a href="images/PMC-Texas-Rowena-8km-Precision-Farming-Economic-Analysis-2020-12-31.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-8km-Precision-Farming-Economic-Analysis-2020-12-31.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Precision Farming Economic Analysis" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="images/PMC-Texas-Rowena-8km-Precision-Farming-Economic-Analysis-2020-12-31.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-8km-Precision-Farming-Economic-Analysis-2020-12-31.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Precision Farming Economic Analysis"></a>
 
-<a href="images/PMC-Texas-Rowena-8km-TestRunner-2020-12-31T0039.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-8km-TestRunner-2020-12-31T0039.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. TestRunner Results" loading="lazy" style="padding: 3px 15px;width:auto;height:128px;"></a>
+<a href="images/PMC-Texas-Rowena-8km-TestRunner-2020-12-31T0039.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Rowena-8km-TestRunner-2020-12-31T0039.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. TestRunner Results"></a>
 
-<a href="screenshots/PMC-Texas-Rowena-8km-2020-12-31T2216.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Texas-Rowena-8km-2020-12-31T2216.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Landscape" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Texas-Rowena-8km-2020-12-31T2216.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Texas-Rowena-8km-2020-12-31T2216.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Landscape"></a>
 
-<a href="screenshots/PMC-Texas-Rowena-8km-2020-12-31T2221.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Texas-Rowena-8km-2020-12-31T2221.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Landscape" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Texas-Rowena-8km-2020-12-31T2221.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Texas-Rowena-8km-2020-12-31T2221.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Landscape"></a>
 
-<a href="screenshots/PMC-Texas-Rowena-8km-2020-12-31T2233.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Texas-Rowena-8km-2020-12-31T2233.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Landscape" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Texas-Rowena-8km-2020-12-31T2233.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Texas-Rowena-8km-2020-12-31T2233.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Landscape"></a>
 
-<a href="screenshots/PMC-Texas-Rowena-8km-2020-12-31T2234.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Texas-Rowena-8km-2020-12-31T2234.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Landscape" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Texas-Rowena-8km-2020-12-31T2234.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Texas-Rowena-8km-2020-12-31T2234.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Landscape"></a>
 
-<a href="screenshots/PMC-Texas-Rowena-8km-2020-12-31T2241.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Texas-Rowena-8km-2020-12-31T2241.jpg" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Landscape" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Texas-Rowena-8km-2020-12-31T2241.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Texas-Rowena-8km-2020-12-31T2241.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Rowena, Texas, USA. Landscape"></a>
 </div>
 
 <div>
