@@ -90,7 +90,7 @@ Now I have done two fields driving completely manually, its time to switch into 
 2235 Started cultivating F97, contract, courseplay ETA 27min
 </p>
 
-<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-01T2246.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-01T2246.jpg" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-01T2246.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-01T2246.jpg" class="imgresponsive" loading="lazy" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame"></a>
 
 <p>
 2301 Finished cultivating F97, contract, collected contract reward 6.9k.<br>
@@ -210,7 +210,7 @@ Then it was lunch break time, days first meal. As I'm using GPS manual driving I
 1453 Started fertilizing F116, contract, manually with GPS
 </p>
 
-<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-02T1456.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-02T1456.jpg" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-02T1456.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-02T1456.jpg" class="imgresponsive" loading="lazy" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame"></a>
 
 <p>
 Fendt Favorit 515C and Bredal K105 with extension and spreader discs is pretty nice cheap starter fertilizing package.
@@ -368,7 +368,7 @@ Later purchased third 10 1k liter solid fertilizer pallet for 19.2k and refilled
 2141 Started fertilizing F114, contract, courseplay ETA 18min
 </p>
 
-<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-02T2141.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-02T2141.jpg" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-02T2141.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-02T2141.jpg" class="imgresponsive" loading="lazy" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame"></a>
 
 <p>
 Two last fields were being worked on, side by side fields two bredal spreaders putting down fertilizer, it was a beautiful sight <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
@@ -391,7 +391,7 @@ Dunno guess I'll time accelerate to in-game afternoon to see if any fertilizing 
 2206 Finished fertilizing F113, contract, collected contract reward 57.1k.
 </p>
 
-<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-02T2206.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-02T2206.jpg" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-02T2206.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-02T2206.jpg" class="imgresponsive" loading="lazy" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame"></a>
 
 <p>
 Budget now 218.5k heh nice considering we have TWO bredal big spreaders <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
@@ -429,7 +429,7 @@ Started FS19 with hopes that I did save after F114 but I doubt it (cant recall).
 Man this sucks, but I pushed on, doing all that crap since 2206hrs <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
-<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-03T0000.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-03T0000.jpg" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-03T0000.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-03T0000.jpg" class="imgresponsive" loading="lazy" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame"></a>
 
 <p>
 So did all that field work which was lost, time skip, F114 fert, and then realized I didn't even get the big 100k contract, fuck this sucks. I'm just going to do whatever it gives me now without writing it down I'm so sick of this shit. While doing that... I made the mistake of starting F121 multiple tools course again without saving and it froze, hehe DOUBLE WHAMMY MOTHERFUCKER. <b>Sigh</b> <img src="../images/smileys/icon_evil.gif" alt="Smiley :evil:" loading="lazy">
@@ -602,7 +602,7 @@ And again courseplay froze whole FS19 and partly computer (mouse would not move 
 1724 Finished fertilizing F267, contract, collected contract reward 25.8k. Ehh? I did not even start this <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
-<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-03T1730.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-03T1730.jpg" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-03T1730.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-03T1730.jpg" class="imgresponsive" loading="lazy" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame"></a>
 
 <p>
 1733 Finished fertilizing F263, contract, collected contract reward 18.9k.<br>
@@ -677,7 +677,7 @@ Then it was lunch break, I'm starving...
 2207 Started fertilizing F154, contract, courseplay ETA 17min
 </p>
 
-<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-03T2211.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-03T2211.jpg" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-03T2211.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-03T2211.jpg" class="imgresponsive" loading="lazy" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame"></a>
 
 <p>
 2212 Finished fertilizing F154, contract, collected contract reward 13.6k.<br>
@@ -887,7 +887,7 @@ This field said again wrong fruit type, but progress bar increased in contracts 
 We need to haul seeds for seed hawk in the boonies, what better way than a semi truck and end dump grain trailer. Purchased above list, budget now 37.5k. Purchased 10 2.1k liter seed pallets for umm whatever it cost heh. Then bought another 9, budget now whopping 1.6k heh. Then refilled semi truck trailer with seeds.
 </p>
 
-<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-04T0515.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-04T0515.jpg" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-04T0515.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-04T0515.jpg" class="imgresponsive" loading="lazy" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame"></a>
 
 <p>
 0519 Finished seeding oat F99, contract, collected contract reward 96.7k.
@@ -1085,13 +1085,13 @@ Also now I can already see the end of seeding contracts board, not many left heh
 2305 Attempted to seed wheat to F82 but game kept saying no access to this land, sigh
 </p>
 
-<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-04T2310.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-04T2310.jpg" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-04T2310.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-04T2310.jpg" class="imgresponsive" loading="lazy" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame"></a>
 
 <p>
 2313 Started seeding wheat F79, contract, courseplay ETA 44min
 </p>
 
-<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-04T2314.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-04T2314.jpg" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-04T2314.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-04T2314.jpg" class="imgresponsive" loading="lazy" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame"></a>
 
 <p>
 2325 Finished seeding barley F13, contract, collected contract reward 106.5k.<br>
@@ -1171,7 +1171,7 @@ This was the field that did not work previously, also this contract had rubicon 
 0122 Started fertilizing F251, contract, courseplay ETA 21min
 </p>
 
-<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-05T0133.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-05T0133.jpg" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Iowa-Garden-City-8km-2021-04-05T0133.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Iowa-Garden-City-8km-2021-04-05T0133.jpg" class="imgresponsive" loading="lazy" alt="PMC Iowa Garden City 8km terrain, Start From Zero savegame"></a>
 
 <p>
 0134 Finished fertilizing F145, contract, collected contract reward 55.8k.<br>
