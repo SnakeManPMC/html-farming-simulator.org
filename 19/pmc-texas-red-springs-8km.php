@@ -33,11 +33,11 @@ PMC Texas Red Springs 8km <a href="https://www.google.com/maps/@33.6130105,-99.4
 <p style="font-size: 10px;">
 Click for larger image
 </p>
-<a href="images/PMC-Texas-Red-Springs-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Red-Springs-Satellite-PDA.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
+<a href="images/PMC-Texas-Red-Springs-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-Texas-Red-Springs-Satellite-PDA.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
 
-<a href="images/USA-Texas-Red-Springs-8km-Fields.jpg" target="_blank"><img src="images/thumbs/USA-Texas-Red-Springs-8km-Fields.jpg" alt="Farming Simulator 19 Terrain - Red Springs, Texas, USA. Fields" style="padding: 3px 15px;width:256px;height:256px;"></a>
+<a href="images/USA-Texas-Red-Springs-8km-Fields.jpg" target="_blank"><img src="images/thumbs/USA-Texas-Red-Springs-8km-Fields.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Red Springs, Texas, USA. Fields"></a>
 
-<a href="images/USA-Texas-Red-Springs-8km-Farmland.jpg" target="_blank"><img src="images/thumbs/USA-Texas-Red-Springs-8km-Farmland.jpg" alt="Farming Simulator 19 Terrain - Red Springs, Texas, USA. Farmland" style="padding: 3px 15px;width:256px;height:256px;"></a>
+<a href="images/USA-Texas-Red-Springs-8km-Farmland.jpg" target="_blank"><img src="images/thumbs/USA-Texas-Red-Springs-8km-Farmland.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Red Springs, Texas, USA. Farmland"></a>
 </div>
 
 <p>
