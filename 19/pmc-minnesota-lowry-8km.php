@@ -30,11 +30,11 @@ PMC Minnesota Lowry 8km <a href="https://www.google.com/maps/@45.7208968,-95.569
 <p style="font-size: 10px;">
 Click for larger image
 </p>
-<a href="images/PMC-Minnesota-Lowry-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-Minnesota-Lowry-Satellite-PDA.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
+<a href="images/PMC-Minnesota-Lowry-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-Minnesota-Lowry-Satellite-PDA.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
 
-<a href="images/USA-Minnesota-Lowry-8km-Fields.jpg" target="_blank"><img src="images/thumbs/USA-Minnesota-Lowry-8km-Fields.jpg" alt="Farming Simulator 19 Terrain - Lowry, Minnesota, USA. Fields" style="padding: 3px 15px;width:256px;height:256px;"></a>
+<a href="images/USA-Minnesota-Lowry-8km-Fields.jpg" target="_blank"><img src="images/thumbs/USA-Minnesota-Lowry-8km-Fields.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Lowry, Minnesota, USA. Fields"></a>
 
-<a href="images/USA-Minnesota-Lowry-8km-Farmland.jpg" target="_blank"><img src="images/thumbs/USA-Minnesota-Lowry-8km-Farmland.jpg" alt="Farming Simulator 19 Terrain - Lowry, Minnesota, USA. Farmland" style="padding: 3px 15px;width:256px;height:256px;"></a>
+<a href="images/USA-Minnesota-Lowry-8km-Farmland.jpg" target="_blank"><img src="images/thumbs/USA-Minnesota-Lowry-8km-Farmland.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Lowry, Minnesota, USA. Farmland"></a>
 </div>
 
 <p>

@@ -32,11 +32,11 @@ PMC North Dakota Fairmount 8km <a href="https://www.google.com/maps/@46.0359272,
 <p style="font-size: 10px;">
 Click for larger image
 </p>
-<a href="images/PMC-North-Dakota-Fairmount-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Fairmount-Satellite-PDA.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
+<a href="images/PMC-North-Dakota-Fairmount-Satellite-PDA.jpg" target="_blank"><img src="images/thumbs/PMC-North-Dakota-Fairmount-Satellite-PDA.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 PMC Terrain Screenshot"></a>
 
-<a href="images/USA-North-Dakota-Fairmount-8km-Fields.jpg" target="_blank"><img src="images/thumbs/USA-North-Dakota-Fairmount-8km-Fields.jpg" alt="Farming Simulator 19 Terrain - Fairmount, North Dakota, USA. Fields" style="padding: 3px 15px;width:256px;height:256px;"></a>
+<a href="images/USA-North-Dakota-Fairmount-8km-Fields.jpg" target="_blank"><img src="images/thumbs/USA-North-Dakota-Fairmount-8km-Fields.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Fairmount, North Dakota, USA. Fields"></a>
 
-<a href="images/USA-North-Dakota-Fairmount-8km-Farmland.jpg" target="_blank"><img src="images/thumbs/USA-North-Dakota-Fairmount-8km-Farmland.jpg" alt="Farming Simulator 19 Terrain - Fairmount, North Dakota, USA. Farmland" style="padding: 3px 15px;width:256px;height:256px;"></a>
+<a href="images/USA-North-Dakota-Fairmount-8km-Farmland.jpg" target="_blank"><img src="images/thumbs/USA-North-Dakota-Fairmount-8km-Farmland.jpg" class="imgresponsive" loading="lazy" alt="Farming Simulator 19 Terrain - Fairmount, North Dakota, USA. Farmland"></a>
 </div>
 
 <p>
