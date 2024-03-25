@@ -100,7 +100,7 @@ Going back to that Start From Zero progression, one way would be to do fertilizi
 </p>
 
 <p>
-Maybe its just me but that kind of going straight away to the best equipment is kind of hmm spoiler or what would you call it, you don't get the experience the agony and fun of working with small equipment first, to get to appreciate them before you jump to the big boy stuff, I always loved that in <a href="https://www.farming-simulator.org/stories.php">FS17 Cornbelt Start From Scratch</a> savegame.
+Maybe its just me but that kind of going straight away to the best equipment is kind of hmm spoiler or what would you call it, you don't get the experience the agony and fun of working with small equipment first, to get to appreciate them before you jump to the big boy stuff, I always loved that in <a href="../17/stories.php">FS17 Cornbelt Start From Scratch</a> savegame.
 </p>
 
 <p>

@@ -28,7 +28,7 @@
 </p>
 
 <p>
-Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=78&t=22724" target="_blank">PMC Tactical Forum farming-simulator.org Tutorials for FS22 topic</a>. Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulator 17 (FS17) Map Making Tutorial</a> and <a href="../19/map-making-tutorial.php" target="_blank">Farming Simulator 19 (FS19) Map Making Tutorial</a> first because what you see below assumes you know all of that FS17 and FS19 stuff. If you have any corrections or questions please post to <a href="https://www.pmctactical.org/forum/viewforum.php?f=78" target="_blank">PMC Tactical Forum FS22 Editing area</a>.
+Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=78&t=22724" target="_blank">PMC Tactical Forum farming-simulator.org Tutorials for FS22 topic</a>. Please read <a href="../17/map-making-tutorial.php" target="_blank">Farming Simulator 17 (FS17) Map Making Tutorial</a> and <a href="../19/map-making-tutorial.php" target="_blank">Farming Simulator 19 (FS19) Map Making Tutorial</a> first because what you see below assumes you know all of that FS17 and FS19 stuff. If you have any corrections or questions please post to <a href="https://www.pmctactical.org/forum/viewforum.php?f=78" target="_blank">PMC Tactical Forum FS22 Editing area</a>.
 </p>
 
 <p><a href="terrain-common-errors.php">Common Errors</a></p>

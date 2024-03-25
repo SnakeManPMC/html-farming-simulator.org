@@ -28,7 +28,7 @@
 </p>
 
 <p>
-Please read <a href="../map-making-tutorial.php" target="_blank">Farming Simulator 17 (FS17) Map Making Tutorial</a> first because what you see below assumes you know all of that FS17 stuff. Also <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC youtube FS19 playlist</a> has some Giants Editor (GE) videos. If you have any corrections or questions please <a href="../contact.php">contact us</a>.
+Please read <a href="../17/map-making-tutorial.php" target="_blank">Farming Simulator 17 (FS17) Map Making Tutorial</a> first because what you see below assumes you know all of that FS17 stuff. Also <a href="https://www.youtube.com/playlist?list=PLKt0kt4BAeflG1eKIxMzWk01TM6swzpum" target="_blank">PMC youtube FS19 playlist</a> has some Giants Editor (GE) videos. If you have any corrections or questions please <a href="../contact.php">contact us</a>.
 </p>
 
 <p><a href="terrain-ai-planted-crop-types.php">AI Planted Crop Types</a></p>

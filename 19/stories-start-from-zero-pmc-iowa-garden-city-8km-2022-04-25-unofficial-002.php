@@ -114,7 +114,7 @@ Hmm okay so my first act was a lease in that story, but I seem to have not follo
 </p>
 
 <p>
-Don't get me wrong its all about having fun, sure, but those were the rules, maybe I should re-read the story which got all these stories started, the one and the only <a href="https://www.farming-simulator.org/stories.php" target="_blank">FS17 Cornbelt Start From Scratch</a>, heh yep the first story used scratch terminology <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+Don't get me wrong its all about having fun, sure, but those were the rules, maybe I should re-read the story which got all these stories started, the one and the only <a href="../17/stories.php" target="_blank">FS17 Cornbelt Start From Scratch</a>, heh yep the first story used scratch terminology <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
