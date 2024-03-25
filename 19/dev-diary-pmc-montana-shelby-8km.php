@@ -42,7 +42,7 @@ Google/maps shows 9 small farm bin silos in their yards SW corner, however the g
 2020-08-27 PMC Montana Shelby 8km, welkers farm yard, its a start with giants default objects, just a ballbark you know.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2020-08-27T1300.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2020-08-27T1300.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2020-08-27T1300.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2020-08-27T1300.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 2020-08-27T13:16:00Z After the initial editing, mostly bringing real world data heightmap in and created welkers yard I took a backup.
@@ -72,7 +72,7 @@ Again 8 bin silos in N-S direction.
 Location-08 is missing gsm transmitter tower <a href="https://www.google.com/maps/@48.51875,-111.8341751,184m/data=!3m1!1e3" target="_blank">google/maps</a>.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2020-08-27T1443.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2020-08-27T1443.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2020-08-27T1443.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2020-08-27T1443.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 Location-10 is missing gsm transmitter tower <a href="https://www.google.com/maps/@48.5160038,-111.8330598,130m/data=!3m1!1e3" target="_blank">google/maps</a>.
@@ -94,7 +94,7 @@ Location-30 was some odd box in middle of a field, I assume it was some electric
 2020-08-27T17:11:00Z Basic buildings locations object placement with many placeholder objects is complete! Unbelievable it only took hours!? <img src="../images/smileys/icon_surprised.gif" alt="Smiley :o" loading="lazy">
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2020-08-27T1710.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2020-08-27T1710.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2020-08-27T1710.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2020-08-27T1710.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 2020-08-27T17:18:00Z Started to draw design doc for utility poles.
@@ -112,25 +112,25 @@ Was surprised to see utility poles on the welker farm yard road 98.8 meters apar
 2020-08-27T18:10:00Z Done creating utility pole splines.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2020-08-27T1813.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2020-08-27T1813.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2020-08-27T1813.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2020-08-27T1813.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 <b>2020-08-28T02:20:00Z</b> Utility poles placed with 100m separation.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2020-08-28T0222.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2020-08-28T0222.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2020-08-28T0222.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2020-08-28T0222.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 2020-08-28T02:47:00Z First round of trees placed to welkers yard.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2020-08-28T0247.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2020-08-28T0247.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2020-08-28T0247.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2020-08-28T0247.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 2020-08-28T03:43:00Z Trees placed, might need some further tweaking but all trees I could find from US NAIP are placed now.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2020-08-28T0345.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2020-08-28T0345.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2020-08-28T0345.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2020-08-28T0345.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 I cannot believe objects got done so quickly, I was fully expecting a week+ of pure torture but now it was like one day, basically one night. There is still a lot of tweaking to do and this terrain requires many custom or just new objects other than what giants data/ offers. But still feeling very good to have basic object placement done.
@@ -208,7 +208,7 @@ Write note down: 4096 weight image resolution and 4 pixel pencil is too small fo
 <b>2021-02-14T02:11:00Z</b> Farmland image fixed from one dupe ID, bin site added to its own farmland and default farm property.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-14T0209.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-14T0209.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-14T0209.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-14T0209.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 2021-02-14T03:31:00Z Used courseplay go generate field work course to all fields. F146 needed headland disabled but then worked fine. For some odd reason F150 is not detected by courseplay, it works after you drive to the field and calculate field edge and save it.
@@ -222,7 +222,7 @@ Looking at F150 on GE there is nothing that jumps out as wrong. I created more c
 <b>2021-02-15T05:42:00Z</b> Added first batch of utility pole wires using mapUS poles.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-15T0521.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-15T0521.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-15T0521.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-15T0521.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 <b>2021-02-16T02:18:00Z</b> Did another set of utility pole wires next to welker farm yard.
@@ -232,13 +232,13 @@ Looking at F150 on GE there is nothing that jumps out as wrong. I created more c
 2021-02-16T03:03:00Z Utility poles wire project complete, all poles have now some wires <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-16T0301.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-16T0301.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-16T0301.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-16T0301.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 2021-02-16T03:51:00Z Finished adding required mods rand0msparks meridian bulk bins for fertilizer, lime and seeds. Unfortunately lime bin does not work, it outputs fertilizer. Not sure if I messed up something or is the bin buggy, it was probably me, need to figure that out.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-16T0346.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-16T0346.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-16T0346.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-16T0346.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 <b>2021-02-24T18:18:00Z</b> Animal dealer added to SW corner in somewhat industrial looking area.
@@ -268,13 +268,13 @@ Added meridian fuel tank to welkers farm yard so players can refill diesel fuel 
 2021-02-25T06:16:00Z I hate doing field definitions, accurately, detailed <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-25T0616.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-25T0616.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-25T0616.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-25T0616.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 2021-02-25T07:17:00Z More corner pieces, to make contract game-play much nicer.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-25T0717.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-25T0717.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-25T0717.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-25T0717.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 2021-02-25T12:04:00Z Still adding corner pieces, this is getting so exhausting by now and only been at it for... well ok six and a half hours, straight (just had a lunch in between but that didn't take long).
@@ -296,7 +296,7 @@ This is pretty much the only reason I spend this many hours for such a tedious t
 2021-02-25T13:39:00Z Finished, finally! Uah man it sucks to do field definition corner pieces, argh!
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-25T1342.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-25T1342.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-25T1342.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-25T1342.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 Then restored original heightmap image from the backup and placed into terrain project dir.
@@ -306,7 +306,7 @@ Then restored original heightmap image from the backup and placed into terrain p
 And in-game fields in general now looks good, sure the field definitions look like jagged edges, but that is much better than single shapes.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-25T1353.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-25T1353.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-25T1353.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-25T1353.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 <b>2021-02-26T05:40:00Z</b> Plan was to live stream painting farmlands in GIMP, but was so tired/bored/blank that couldn't get started with streaming, watched someone elses stream while did 10+ farmland RGB paintings.
@@ -324,7 +324,7 @@ Farmlands last ID channel used is 79, RGB 185, 0, 100
 2021-02-26T11:32:00 Field definition corner pieces are done, I am not going to add them any more detail, if someone is not happy with them they can go play on some claustrobhobic BRITISH MAPZ instead <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-26T1130.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-26T1130.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-26T1130.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-26T1130.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 2021-02-26T:16:04:00Z Finished almost 4 hours twitch/youtube live stream testing field definitions by doing contracts, all the fields I did contract worked very nicely.
@@ -346,13 +346,13 @@ Terra incognita coordinates for 16.3 km size montana shelby chunk:
 First in-game test:
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-27T1646.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-27T1646.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-27T1646.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-27T1646.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-27T1647.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-27T1647.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-27T1647.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-27T1647.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-27T1648.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-27T1648.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-27T1648.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-27T1648.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-27T1655.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-27T1655.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-02-27T1655.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-02-27T1655.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 It looks stupid as I'm using flat plane which is just underneath the lowest part of the terrain, so even though yes it is 16.3 kilometer plane underneath there, it just doesn't look right as its not the continuous real heightmap.
@@ -402,13 +402,13 @@ Welker farms equipment tour <a href="https://www.youtube.com/watch?v=XicysWJUzf0
 <b>2021-03-01T01:07:00Z</b> Farmland image painted in GIMP using all 127 ID channels is done. Aayeah! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-03-01T0105.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-03-01T0105.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-03-01T0105.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-03-01T0105.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 2021-03-01T09:06:00Z Added custom _fruitTypes.xml and disabled AI planting other crops than barley, canola, oat and wheat.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-03-01T0906.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-03-01T0906.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-03-01T0906.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-03-01T0906.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 <b>2021-03-09T06:23:00Z</b> Tweaked CBJ buildings clip distances a bit, for those planks inside the building which were flickering at long distance, they are now set to a very short 100m clipdistance.
@@ -470,25 +470,25 @@ Also penalty_box tester reported that field 48 map marker is not showing up, it 
 2021-04-26T18:08:00Z Added water tank using giants placeable water tank model scaled up 10 times heh, its kind of hacky but hey, it looks like a huge water tank. Its not the right color, but close enough.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-04-26T1806.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-04-26T1806.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-04-26T1806.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-04-26T1806.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 Location-10 deleted two farm huts and replaced them with radio tower models, these are the cell phone towers. I would like to use some more fitting models for shack and fence whatever stuff these locations have, but don't recall mapDE/mapUS having such stuff, probably need to take another look.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-04-26T1824.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-04-26T1824.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-04-26T1824.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-04-26T1824.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 Then also one more just tad north.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-04-26T1823.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-04-26T1823.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-04-26T1823.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-04-26T1823.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 Checked in-game and no errors, looks good for sending v1.1.4 to testers.
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-04-26T1845.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-04-26T1845.jpg" alt="PMC Montana Shelby 8km terrain" loading="lazy" style="padding: 3px 15px;width:auto;height:auto;"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-04-26T1845.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-04-26T1845.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 2021-04-26T18:57:00Z PMC Montana Shelby 8km v1.1.4 sent for testers.
@@ -538,7 +538,7 @@ Then painted several new farmland ID channels, buyable land lots to split up tho
 Whoah those colors, grooovy! <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-05-17T1220.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-17T1220.jpg" alt="PMC Montana Shelby 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-05-17T1220.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-17T1220.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 Thats now total of 158 ID channels painted (159 if you count the last color as well).
@@ -553,10 +553,10 @@ Thats now total of 158 ID channels painted (159 if you count the last color as w
 </p>
 
 Giants Editor:
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-05-25T2058.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-25T2058.jpg" alt="PMC Montana Shelby 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-05-25T2058.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-25T2058.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 In-game:
-<a href="screenshots/PMC-Montana-Shelby-8km-2021-05-25T2104.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-25T2104.jpg" alt="PMC Montana Shelby 8km Terrain, Developer Diary" loading="lazy" class="terrainimg"></a>
+<a href="screenshots/PMC-Montana-Shelby-8km-2021-05-25T2104.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Montana-Shelby-8km-2021-05-25T2104.jpg" class="imgresponsive" loading="lazy" alt="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary" title="PMC Montana Shelby 8km Terrain Farming Simulator 19, Developer Diary"></a>
 
 <p>
 Came out pretty nicely. Now if we only would get the two other blue-white vehicle sheds <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
