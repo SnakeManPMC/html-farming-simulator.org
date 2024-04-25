@@ -168,6 +168,12 @@ Asked around ideas from community players, got some nice ideas what to include, 
 Please send us feedback, bug reports, anything that could help us to improve this terrain. Join PMC Tactical forum, see <a href="../contact.php">contact page</a> for details.
 </p>
 
+	<h2>Dev Diary</h2>
+
+<p>
+Read all about development of this terrain from our dev diary pages, get the root index from <a href="dev-diary-pmc-farm-lab.php">Dev Diary PMC Farm Lab</a> page. Also don't forget to check <a href="https://www.pmctactical.org/forum/viewforum.php?f=75" target="_blank">PMC Tactical Forum FS19 Editing area</a> for all the latest development discussion.
+</p>
+
 	<h2>Changelog</h2>
 
 <p>
@@ -201,6 +207,7 @@ For installing please read <a href="install-mods.php">how to install FS19 mods</
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="changelog-pmc-farm-lab.php" class="button">Changelog PMC Farm Lab</a>
+<a href="dev-diary-pmc-farm-lab.php" class="button">Dev Diary PMC Farm Lab</a>
 <a href="screenshots-pmc-farm-lab.php" class="button">Screenshots PMC Farm Lab</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>

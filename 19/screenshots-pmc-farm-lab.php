@@ -51,6 +51,7 @@ Click for larger image
 <footer>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<a href="dev-diary-pmc-farm-lab.php" class="button">Dev Diary PMC Farm Lab</a>
 <a href="pmc-farm-lab.php" class="button">PMC Farm Lab</a>
 <a href="changelog-pmc-farm-lab.php" class="button">Changelog PMC Farm Lab</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a><br>

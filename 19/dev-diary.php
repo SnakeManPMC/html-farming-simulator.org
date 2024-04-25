@@ -43,8 +43,9 @@ More editing info and discussion about dev diaries at <a href="https://www.pmcta
 Complete index of PMC Farming Simulator 19 editing dev diary pages in alphabetical order.
 </p>
 
-<p><a href="dev-diary-pmc-iowa-garden-city-8km.php">Dev Diary PMC Iowa Garden City 8km</a></p>
+<p><a href="dev-diary-pmc-farm-lab.php">Dev Diary PMC Farm Lab</a></p>
 <p><a href="dev-diary-pmc-grande-gardens-16km.php">Dev Diary PMC Grande Gardens 16km</a></p>
+<p><a href="dev-diary-pmc-iowa-garden-city-8km.php">Dev Diary PMC Iowa Garden City 8km</a></p>
 <p><a href="dev-diary-pmc-iowa-ringsted-8km.php">Dev Diary PMC Iowa Ringsted 8km</a></p>
 <p><a href="dev-diary-pmc-kentucky-middleton-8km.php">Dev Diary PMC Kentucky Middleton 8km</a></p>
 <p><a href="dev-diary-pmc-minnesota-elrosa-8km.php">Dev Diary PMC Minnesota Elrosa 8km</a></p>
@@ -56,9 +57,6 @@ Complete index of PMC Farming Simulator 19 editing dev diary pages in alphabetic
 <p><a href="dev-diary-pmc-ohio-westhope-8km.php">Dev Diary PMC Ohio Westhope 8km</a></p>
 <p><a href="dev-diary-pmc-texas-rowena-8km.php">Dev Diary PMC Texas Rowena 8km</a></p>
 
-<!--
-<p><a href="dev-diary-RELEASEFILENAME.php">Dev Diary RELEASENAME</a></p>
--->
 </section>
 
 <footer>

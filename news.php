@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-04-25T08:13:00Z Dev Diary for PMC Farm Lab terrain has been released, see <a href="19/pmc-farm-lab.php">PMC Farm Lab</a> for terrains home page and <a href="19/dev-diary-pmc-farm-lab.php">Dev Diary PMC Farm Lab</a> for root page of the new dev diary. See also <a href="19/dev-diary.php">PMC FS19 Dev Diary</a> for all our editing pages.
+</p>
+
+<p>
 2024-03-25T07:42:38Z Farming Simulator 22 (FS22) story telling continues with a new page for <a href="22/stories-start-from-zero-pmc-cereal-region-32km.php">Start From Zero PMC Cereal Region 32km</a> story. Check out <a href="22/stories-start-from-zero-pmc-cereal-region-32km-007.php">page 7</a> of this <a href="22/stories.php">PMC Farming FS22 Story</a>.
 </p>
 

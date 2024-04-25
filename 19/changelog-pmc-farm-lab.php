@@ -108,6 +108,7 @@ if possible. (not sure if it can be done through terrain)<br>
 <footer>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<a href="dev-diary-pmc-farm-lab.php" class="button">Dev Diary PMC Farm Lab</a>
 <a href="pmc-farm-lab.php" class="button">PMC Farm Lab</a>
 <a href="screenshots-pmc-farm-lab.php" class="button">Screenshots PMC Farm Lab</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>

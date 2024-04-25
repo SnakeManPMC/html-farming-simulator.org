@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Developer Diary PMC Farm Lab Farming Simulator 19 - PMC Farming</title>
+<LINK href="../css.css" rel=stylesheet type="text/css">
+<META name="description" content="Developer Diary PMC Farm Lab Farming Simulator 19 - PMC Farming">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- google analytics -->
+<?php include("../include/google-analytics.php"); ?>
+
+</head>
+<body>
+
+<header>
+<h1>Developer Diary PMC Farm Lab Farming Simulator 19 - PMC Farming</h1>
+</header>
+
+<section>
+	<h2>Dev Diary PMC Farm Lab</h2>
+
+<p>
+This is a developer diary aka development diary for Farming Simulator 19 (FS19) terrain called <a href="pmc-farm-lab.php">PMC Farm Lab</a>. See <a href="dev-diary.php">PMC Dev Diary FS19</a> page for all out dev diaries.
+</p>
+
+<p>
+<a href="dev-diary-pmc-farm-lab-001.php">Page 1</a>, 2019-03-13 Creating PMC Farm Lab.
+</p>
+
+</section>
+
+<footer>
+<p>
+<a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<a href="pmc-farm-lab.php" class="button">PMC Farm Lab</a>
+<a href="changelog-pmc-farm-lab.php" class="button">Changelog PMC Farm Lab</a>
+<a href="screenshots-pmc-farm-lab.php" class="button">Screenshots PMC Farm Lab</a>
+<a href="../index.php" class="button">PMC Farming Simulator root page</a>
+</p>
+<p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
+<?php include("../include/w3-validator-logo.php"); ?>
+</footer>
+
+</body>
+</html>
