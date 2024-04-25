@@ -83,20 +83,34 @@ Changelog for <a href="pmc-farm-lab.php">PMC Farm Lab</a> terrain. See known iss
 - farm lab unused vehicle shop glowing orb<br>
 - farm lab terrain edge geometry blocks missing
 </p>
+
+	<h2>v1.3 Update</h2>
+
+<p>
+2021-01-20:<br>
+- farm lab added custom farmsilolarge with extra capacity<br>
+- farm lab moddesc removed unused tags from description<br>
+2021-02-14:<br>
+- farm lab moddesc missing storeItems<br>
+2024-04-25:<br>
+- farm lab field 9 painted into gimp design doc<br>
+- farm lab field 9 definition created in giants editor<br>
+- farm lab updated new pda_map.png image<br>
+- farm lab moddesc.xml description improved to provide more details<br>
+- farm lab new icon.xcf/dds image created
+</p>
 </div>
 
 <div class="changelog">
 	<h2>Known Issues</h2>
 
 <p>
-<b>2021-01-03T18:55:00Z</b> Updated.
+<b>2024-04-25T13:32:50Z</b> Updated.
 </p>
 
 <p>
-- farm lab auto cheat money 100 million missing<br>
 - farm lab long road for large fast truck trailer, car etc vehicle driving testing<br>
-- farm lab add piles of bales both round and square, for grass, hay, silage and straw
-if possible. (not sure if it can be done through terrain)<br>
+- farm lab add piles of bales both round and square, for grass, hay, silage and straw<br>
 - farm lab add field with straw swaths, same for grass and hay<br>
 - farm lab pallets for testing telehandlers, front loaders, trailers, etc everything to do with moving small items around<br>
 - farm lab bumpy hilly area for testing engine horse power, suspension etc, when pulling different size implements<br>

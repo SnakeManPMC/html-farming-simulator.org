@@ -195,7 +195,7 @@ None. This terrain is prepared for Precision Farming with a custom soil types ma
 	<h2>Download</h2>
 
 <p>
-PMC_Farm_Lab_v1.2.7z 5.5mb <a href="magnet:?xt=urn:btih:0f1c5b65177c753602335192c749dab66675ea8d&xt=urn:btmh:12201fda0d34a1d87af43ed6e0823a89dd788e55b2a3fe745914a4834fe892b65415&dn=PMC_Farm_Lab_v1.2.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>.
+PMC_Farm_Lab_v1.3.7z 5.16mb <a href="magnet:?xt=urn:btih:5f35e0b0d73cdf8c43142fe86178485ce22c9735&xt=urn:btmh:122010b55597e8d8a49f2f7c7e15b8511eb92c1900e2c4f274bd73692ad3a469f62f&dn=PMC_Farm_Lab_v1.3.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>.
 </p>
 
 <p>

@@ -21,6 +21,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-04-25T13:57:41Z Farming Simulator 19 (FS19) mod testing terrain <a href="19/pmc-farm-lab.php">PMC Farm Lab</a> v1.3 update has been released!
+</p>
+
+<p>
 2024-04-25T08:13:00Z Dev Diary for PMC Farm Lab terrain has been released, see <a href="19/pmc-farm-lab.php">PMC Farm Lab</a> for terrains home page and <a href="19/dev-diary-pmc-farm-lab.php">Dev Diary PMC Farm Lab</a> for root page of the new dev diary. See also <a href="19/dev-diary.php">PMC FS19 Dev Diary</a> for all our editing pages.
 </p>
 

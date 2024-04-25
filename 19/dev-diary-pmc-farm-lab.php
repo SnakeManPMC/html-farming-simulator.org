@@ -28,6 +28,10 @@ This is a developer diary aka development diary for Farming Simulator 19 (FS19) 
 <a href="dev-diary-pmc-farm-lab-001.php">Page 1</a>, 2019-03-13 Creating PMC Farm Lab.
 </p>
 
+<p>
+<a href="dev-diary-pmc-farm-lab-002.php">Page 2</a>, 2024-04-25 v1.3 Update.
+</p>
+
 </section>
 
 <footer>

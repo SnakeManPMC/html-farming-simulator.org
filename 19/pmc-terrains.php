@@ -21,7 +21,7 @@
 	<h2>PMC Terrain News FS19</h2>
 
 <p>
-<b>2024-03-22T01:16:00Z</b> Farming Simulator 19 (FS19) one of the oldest and long awaited <a href="pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km</a> real world data terrain has been released!
+<b>2024-04-25T13:57:41Z</b> Farming Simulator 19 (FS19) mod testing terrain <a href="pmc-farm-lab.php">PMC Farm Lab</a> v1.3 update has been released!
 </p>
 
 <p>

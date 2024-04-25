@@ -129,10 +129,7 @@ Changed modDesc.xml to v1.3.
 </p>
 
 <p>
-<!--
-Continue reading <a href="dev-diary-pmc-farm-lab-002.php">next page</a>,
--->
-Go back to <a href="dev-diary-pmc-farm-lab.php">Dev Diary PMC Farm Lab Home</a>
+Continue reading <a href="dev-diary-pmc-farm-lab-002.php">next page</a> or go back to <a href="dev-diary-pmc-farm-lab.php">Dev Diary PMC Farm Lab Home</a>.
 </p>
 
 </section>
