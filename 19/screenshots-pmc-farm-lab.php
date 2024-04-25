@@ -14,9 +14,7 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
-<h1><b>Screenshots PMC Farm Lab - Farming Simulator 19 Terrain</b></h1>
+<h1>Screenshots PMC Farm Lab - Farming Simulator 19 Terrain</h1>
 </header>
 
 <section>
@@ -54,6 +52,7 @@ Click for larger image
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="pmc-farm-lab.php" class="button">PMC Farm Lab</a>
+<a href="changelog-pmc-farm-lab.php" class="button">Changelog PMC Farm Lab</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
 </p>

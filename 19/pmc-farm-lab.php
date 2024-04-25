@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>PMC Farm Lab - PMC Farming</title>
+<title>PMC Farm Lab Terrain Farming Simulator 19 PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC Farm Lab, Small Terrain To Test New Mods - PMC Farming">
+<META name="description" content="PMC Farm Lab, Small Terrain To Test New Mods Farming Simulator 19 - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,9 +14,7 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
-<h1><b>PMC Farm Lab Terrain - PMC Farming</b></h1>
+<h1>PMC Farm Lab Terrain Farming Simulator 19 PMC Farming</h1>
 </header>
 
 <section>
@@ -28,9 +26,9 @@ Terrain size 1280 meters x 1280 meters ie 1.2 kilometers x 1.2 kilometers (raven
 
 <div>
 <p>
-Click map image for more <a href="screenshots-pmc-farm-lab.php" target="_blank">screenshots</a>.
+Click map image for more <a href="screenshots-pmc-farm-lab.php">screenshots</a>.
 </p>
-<a href="screenshots-pmc-farm-lab.php" target="_blank"><img class="terrainimg" src="images/thumbs/PMC-Farm-Lab-PDA.jpg" alt="Farming Simulator 19 Terrain - PMC Farm Lab, PDA Map" loading="lazy"></a>
+<a href="screenshots-pmc-farm-lab.php"><img class="terrainimg" src="images/thumbs/PMC-Farm-Lab-PDA.jpg" alt="Farming Simulator 19 Terrain - PMC Farm Lab, PDA Map" loading="lazy"></a>
 </div>
 
 <p>
@@ -149,7 +147,7 @@ Cotton
 </div>
 
 <p>
-Unfortunately there are no built-in money cheat yet so you could buy all the new mod vehicles etc you desire. Farm manager game-mode gives you 1.250 million and you can of course use <a href="settings.php">developer console</a> gsCheatMoney to add money. If you lease vehicles/implements then 1.250 million should last quite a while. If you know how to "initialize map" with extra money, please let me know and it will be added to this terrain.
+Unfortunately there are no built-in money cheat yet so you could buy all the new mod vehicles etc you desire. Farm manager game-mode gives you 1.250 million and you can of course use <a href="settings.php">developer console</a> gsCheatMoney to add money. If you lease vehicles/implements then 1.250 million should last quite a while.
 </p>
 
 <p>
@@ -163,17 +161,17 @@ If you are using Precision Farming mod then those 14 non AI fields in the upper 
 </p>
 
 <p>
-Asked around ideas from players in discord, got some nice ideas what to include, some of them are already in others you can check from changelog page. If you have further ideas how to make such mod testing terrain more useful please let me know.
+Asked around ideas from community players, got some nice ideas what to include, some of them are already in others you can check from changelog page. If you have further ideas how to make such mod testing terrain more useful please let me know.
 </p>
 
 <p>
-Please send us feedback, bug reports, anything that could help us to improve this terrain. Join PMC Farming discord server, see <a href="../contact.php">contact page</a> for an invite.
+Please send us feedback, bug reports, anything that could help us to improve this terrain. Join PMC Tactical forum, see <a href="../contact.php">contact page</a> for details.
 </p>
 
 	<h2>Changelog</h2>
 
 <p>
-See <a href="changelog-pmc-farm-lab.php" target="_blank">Changelog PMC Farm Lab</a> for all changes since this terrain was initially created. Known issues list is also available in the changelog page.
+See <a href="changelog-pmc-farm-lab.php">Changelog PMC Farm Lab</a> for all changes since this terrain was initially created. Known issues list is also available in the changelog page.
 </p>
 
 	<h2>License</h2>
@@ -191,7 +189,7 @@ None. This terrain is prepared for Precision Farming with a custom soil types ma
 	<h2>Download</h2>
 
 <p>
-PMC_Farm_Lab_v1.2.7z 5.5mb <a href="magnet:?xt=urn:btih:0f1c5b65177c753602335192c749dab66675ea8d&xt=urn:btmh:12201fda0d34a1d87af43ed6e0823a89dd788e55b2a3fe745914a4834fe892b65415&dn=PMC_Farm_Lab_v1.2.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/1rtdvM9ms4RGNfAsCoFaAAj_PElTi-Use/view?usp=sharing" target="_blank">google drive</a>.
+PMC_Farm_Lab_v1.2.7z 5.5mb <a href="magnet:?xt=urn:btih:0f1c5b65177c753602335192c749dab66675ea8d&xt=urn:btmh:12201fda0d34a1d87af43ed6e0823a89dd788e55b2a3fe745914a4834fe892b65415&dn=PMC_Farm_Lab_v1.2.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>.
 </p>
 
 <p>
@@ -202,6 +200,7 @@ For installing please read <a href="install-mods.php">how to install FS19 mods</
 <footer>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<a href="changelog-pmc-farm-lab.php" class="button">Changelog PMC Farm Lab</a>
 <a href="screenshots-pmc-farm-lab.php" class="button">Screenshots PMC Farm Lab</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>

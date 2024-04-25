@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Changelog PMC Farm Lab - PMC Farming</title>
+<title>Changelog PMC Farm Lab Farming Simulator 19 PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Changelog PMC Farm Lab - PMC Farming">
-<META name="keywords" content="Changelog, Lab, PMC, Farming">
+<META name="description" content="Changelog PMC Farm Lab Farming Simulator 19 PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,9 +14,7 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
-<h1><b>Changelog PMC Farm Lab</b></h1>
+<h1>Changelog PMC Farm Lab Farming Simulator 19 PMC Farming</h1>
 </header>
 
 <section>
@@ -112,6 +109,7 @@ if possible. (not sure if it can be done through terrain)<br>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="pmc-farm-lab.php" class="button">PMC Farm Lab</a>
+<a href="screenshots-pmc-farm-lab.php" class="button">Screenshots PMC Farm Lab</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
