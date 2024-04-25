@@ -21,7 +21,7 @@
 	<h2>Dev Diary PMC Farm Lab</h2>
 
 <p>
-This is a developer diary aka development diary for Farming Simulator 19 (FS19) terrain called <a href="pmc-farm-lab.php">PMC Farm Lab</a>. See <a href="dev-diary.php">PMC Dev Diary FS19</a> page for all out dev diaries.
+This is a developer diary aka development diary for Farming Simulator 19 (FS19) terrain called <a href="pmc-farm-lab.php">PMC Farm Lab</a>. See <a href="dev-diary.php">PMC Dev Diary FS19</a> page for all out dev diaries. Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=75&t=22964" target="_blank">PMC Tactical Forum Dev Diary PMC Farm Lab topic</a> for further dev chat.
 </p>
 
 <p>
