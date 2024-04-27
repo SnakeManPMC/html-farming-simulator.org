@@ -14,9 +14,7 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("include/google-ads.php"); ?>
-<h1><b>Farming Simulator History</b></h1>
+<h1>Farming Simulator History</h1>
 </header>
 
 <section>
@@ -92,6 +90,9 @@
 2023-08-03 Farming Simulator 22 - v1.12 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=487" target="_blank">news</a><br>
 2023-11-09 Farming Simulator 22 - v1.13.1 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=512" target="_blank">news</a>, <a href="https://www.farming-simulator.com/changelog-fs22.php" target="_blank">changelog</a><br>
 2023-11-14 Farming Simulator 22 - Premium Expansion and Edition released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=510" target="_blank">news</a><br>
+2024-01-18 Farming Simulator 22 - v1.13.1.1 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=515" target="_blank">news</a>, <a href="https://www.farming-simulator.com/changelog-fs22.php" target="_blank">changelog</a><br>
+2024-04-09 Farming Simulator 22 - Farm Production Pack DLC announced <a href="https://www.farming-simulator.com/newsArticle.php?news_id=536" target="_blank">news</a><br>
+2024-04-27 Farming Simulator 22 - v1.14 update released <a href="" target="_blank">PMCTODO MISSING: news</a><br>
 </p>
 
 </section>
