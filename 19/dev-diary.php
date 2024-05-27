@@ -49,6 +49,7 @@ Complete index of PMC Farming Simulator 19 editing dev diary pages in alphabetic
 <p><a href="dev-diary-pmc-iowa-ringsted-8km.php">Dev Diary PMC Iowa Ringsted 8km</a></p>
 <p><a href="dev-diary-pmc-kentucky-middleton-8km.php">Dev Diary PMC Kentucky Middleton 8km</a></p>
 <p><a href="dev-diary-pmc-minnesota-elrosa-8km.php">Dev Diary PMC Minnesota Elrosa 8km</a></p>
+<p><a href="dev-diary-pmc-minnesota-lowry-8km.php">Dev Diary PMC Minnesota Lowry 8km</a></p>
 <p><a href="dev-diary-pmc-montana-shelby-8km.php">Dev Diary PMC Montana Shelby 8km</a></p>
 <p><a href="dev-diary-pmc-north-dakota-fairmount-8km.php">Dev Diary PMC North Dakota Fairmount 8km</a></p>
 <p><a href="dev-diary-pmc-north-dakota-greendale-4km.php">Dev Diary PMC North Dakota Greendale 4km</a></p>

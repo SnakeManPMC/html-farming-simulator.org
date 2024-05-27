@@ -21,7 +21,7 @@
 	<h2>PMC Terrain News FS19</h2>
 
 <p>
-<b>2024-04-25T13:57:41Z</b> Farming Simulator 19 (FS19) mod testing terrain <a href="pmc-farm-lab.php">PMC Farm Lab</a> v1.3 update has been released!
+2024-05-27T09:59:02Z Farming Simulator 19 (FS19) <a href="dev-diary.php">PMC terrains dev diary</a> page updated with <a href="dev-diary-pmc-minnesota-lowry-8km.php">Dev Diary PMC Minnesota Lowry 8km</a> for all the latest developments. Don't forget to join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=75&t=22764" target="_blank">PMC Tactical forum PMC Minnesota Lowry 8km Development topic</a> as well.
 </p>
 
 <p>

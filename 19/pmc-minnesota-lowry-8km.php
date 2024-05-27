@@ -286,8 +286,12 @@ Field 236 (field) : 1.596 ha
 </section>
 
 <footer>
-<p><a href="pmc-terrains.php" class="button">PMC Terrains FS19</a></p>
-<p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
+<p>
+<a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<a href="changelog-pmc-minnesota-lowry-8km.php" class="button">Changelog PMC Minnesota Lowry 8km</a>
+<a href="dev-diary-pmc-minnesota-lowry-8km.php" class="button">Dev Diary PMC Minnesota Lowry 8km</a>
+<a href="../index.php" class="button">PMC Farming Simulator root page</a>
+</p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
 <?php include("../include/w3-validator-logo.php"); ?>
 </footer>
