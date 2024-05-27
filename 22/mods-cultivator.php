@@ -222,7 +222,7 @@ FS22_GreatPlains_8336FCF.zip
 </p>
 
 <p>
-Notes: 2023-09-05T18:30:00Z Tested no errors, no issues. Generates that light brown manure alike field ground texture, depending on original field stage.
+Notes: 2023-09-05T18:30:00Z Tested no errors, no issues. Generates stubble tillage that light brown manure alike field ground texture, depending on original field stage.
 </p>
 
 <p>
