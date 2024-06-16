@@ -222,7 +222,7 @@ FS22_GreatPlains_8336FCF.zip
 </p>
 
 <p>
-Notes: 2023-09-05T18:30:00Z Tested no errors, no issues. Generates stubble tillage that light brown manure alike field ground texture, depending on original field stage.
+Notes: 2023-09-05T18:30:00Z Tested no errors, no issues. Generates stubble tillage that light brown manure alike field ground texture, depending on original field stage. 2024-06-16T00:33:00Z however as testing it just now on a contract field, great plains field cultivator 8336FCF generated deep cultivator dark black dirt color field surface, hmm hmm.
 </p>
 
 <p>
