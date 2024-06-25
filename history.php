@@ -93,6 +93,7 @@
 2024-01-18 Farming Simulator 22 - v1.13.1.1 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=515" target="_blank">news</a>, <a href="https://www.farming-simulator.com/changelog-fs22.php" target="_blank">changelog</a><br>
 2024-04-09 Farming Simulator 22 - Farm Production Pack DLC announced <a href="https://www.farming-simulator.com/newsArticle.php?news_id=536" target="_blank">news</a><br>
 2024-04-27 Farming Simulator 22 - v1.14 update released <a href="" target="_blank">PMCTODO MISSING: news</a><br>
+2024-06-25 Farming Simulator 25 - Release date (2024-11-12) announced <a href="https://www.farming-simulator.com/newsArticle.php?news_id=544" target="_blank">news</a>
 </p>
 
 </section>
