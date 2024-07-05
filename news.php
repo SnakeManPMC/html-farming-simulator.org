@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>PMC Farming Simulator FS17, FS19 and FS22 News - PMC Farming</title>
+<title>PMC Farming Simulator FS17, FS19, FS22 and FS25 News - PMC Farming</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC Farming Simulator FS17, FS19 and FS22 News - PMC Farming">
+<META name="description" content="PMC Farming Simulator FS17, FS19, FS22 and FS25 News - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,11 +14,15 @@
 <body>
 
 <header>
-<h1>PMC Farming Simulator FS17, FS19 and FS22 News - PMC Farming</h1>
+<h1>PMC Farming Simulator FS17, FS19, FS22 and FS25 News - PMC Farming</h1>
 </header>
 
 <section>
 	<h2>News 2024</h2>
+
+<p>
+2024-07-05T12:01:33Z Farming Simulator 25 (FS25) new pages created for <a href="25/guide.php">FS25 Playing Guide</a> and <a href="25/settings.php">FS25 game.xml Settings</a>, these are of course highly speculative as the game has not been released yet and I have not seen any confirmation that game.xml is still used for settings. Please join the discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=82&t=22971" target="_blank">PMC Tactical forum Settings game.xml FS25 topic</a>, see you there.
+</p>
 
 <p>
 2024-05-27T09:59:02Z Farming Simulator 19 (FS19) <a href="19/dev-diary.php">PMC terrains dev diary</a> page updated with <a href="19/dev-diary-pmc-minnesota-lowry-8km.php">Dev Diary PMC Minnesota Lowry 8km</a> for all the latest developments. Don't forget to join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=75&t=22764" target="_blank">PMC Tactical forum PMC Minnesota Lowry 8km Development topic</a> as well.

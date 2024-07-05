@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>PMC Farming Simulator (FS17, FS19 and FS22)</title>
+<title>PMC Farming Simulator (FS17, FS19, FS22 and FS25)</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC Farming Simulator (FS17, FS19 and FS22)">
+<META name="description" content="PMC Farming Simulator (FS17, FS19, FS22 and FS25)">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -19,6 +19,15 @@
 </header>
 
 <section>
+	<h2>Farming Simulator 25</h2>
+
+<p>
+<a href="25/guide.php" class="button">Guide</a>
+<a href="25/settings.php" class="button">Settings</a>
+<a href="https://www.pmctactical.org/forum/viewforum.php?f=80" target="_blank" class="button">Forum FS25</a>
+</p>
+
+
 	<h2>Farming Simulator 22</h2>
 
 <p>
