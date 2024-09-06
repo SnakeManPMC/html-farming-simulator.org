@@ -15,12 +15,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Farming Simulator Courseplay</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Courseplay</h2>
 
 <p>
@@ -395,12 +397,16 @@ Multiple tools work quite nice if you space out the vehicles. Generate course no
 Important note: auger wagons <i>will</i> get into traffic jams with multiple harvesters, they do not check at all whats in front of them. This goes for any other multiple tool as well, they blindly collide with each other why it is imporant to space them out a bit. If you want to go big and use two or more auger wagons... expect huge traffic issues, I have never got it to work sufficiently, its far better to have multiple harvesters and one auger wagon than two or more auger wagons, all you do is spend your time untangling the traffic jams.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

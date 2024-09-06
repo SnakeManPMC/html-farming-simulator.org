@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Start From Zero FS17 Cornbelt Story Farming Simulator 17 - PMC Farming</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>2018-10-28 Harvest Got Rained Out</h2>
 
 <p>
@@ -83,16 +87,20 @@ After semi-tipper unloaded to farm silo I had liters there 116k wheat, 250k barl
 Continue reading <a href="stories-start-from-zero-fs17-cornbelt-024.php">next page</a>, <a href="stories-start-from-zero-fs17-cornbelt.php">Start From Zero FS17 Cornbelt Home</a>, go back to <a href="stories-start-from-zero-fs17-cornbelt-022.php">previous page</a>.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="stories-start-from-zero-fs17-cornbelt.php" class="button">Start From Zero FS17 Cornbelt home page</a>
 <a href="stories.php" class="button">Stories FS17 home page</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

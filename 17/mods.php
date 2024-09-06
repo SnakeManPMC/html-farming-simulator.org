@@ -15,12 +15,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Farming Simulator Mods</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Mods</h2>
 
 <p>
@@ -1762,26 +1764,16 @@ FS17_JohnDeere_2730.zip <a href="http://www.modhub.us/farming-simulator-2017-mod
 
 <!-- category vehicles -->
 </div>
-
-<!--
-<div class="mod_release_Vehicle">
-<h2></h2>
-
-<p>
-v by . From modDesc: 
-</p>
-
-<p>
-<a href="" target="_blank">Modhub</a>
-</p>
-</div>
--->
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>
