@@ -14,12 +14,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>Design Doc And Weight Images GraphicsMagick - PMC Farming Simulator 19</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>HOWTO Convert Design Doc Images With GraphicsMagick</h2>
 
 <p>
@@ -182,13 +184,17 @@ If there are any overlapping white pixels (or missing black ones, I know, its tr
 PMC graphicsmagick bat files do not make mistakes, that is the whole point here, remove human error and do image processing automatically. If your terrain detail textures in GE turn into MUD_DARK, then either the source design doc images or your existing GE terrain project dir weight images are at fault.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="map-making-tutorial.php" class="button">PMC Farming Simulator 19 Map Making Tutorial page</a></p>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -15,12 +15,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>Precision Farming Soil Types Painting in GIMP - PMC Farming</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>GIMP Paint Precision Farming Soil Types</h2>
 
 <p>
@@ -345,13 +347,17 @@ That above _run_graphicsmagick_create_soilmap.bat will check if GIMP_PF_soilmap.
 If something went wrong and you do not get soilmap.png or it will "not work" in GE, then just jump at the beginning of this tutorial and try again, you must have missed some part or made some sort of mistake. Remember that you cannot just copy soilmap.png over and expect it to work as-is, you must edit your terrain project files as explained in <a href="terrain-soil-types.php">Soil Types Precision Farming tutorial</a> page.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="map-making-tutorial.php" class="button">PMC Farming Simulator Map Making Tutorial page</a></p>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

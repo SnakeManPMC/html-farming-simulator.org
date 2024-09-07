@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Developer Diary PMC Iowa Garden City 8km Farming Simulator 19 - PMC Farming</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>FS19 Dev Diary Background</h2>
 
 <p>
@@ -216,9 +220,11 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=75
 <a href="dev-diary-pmc-iowa-garden-city-8km-046.php">Page 46</a>, 2024-03-22 Terrain Initial Release.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="changelog-pmc-iowa-garden-city-8km.php" class="button">Changelog PMC Iowa Garden City 8km</a>
@@ -226,7 +232,9 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=75
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

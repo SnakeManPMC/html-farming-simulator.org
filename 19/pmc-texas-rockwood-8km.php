@@ -15,12 +15,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Texas Rockwood 8km - Farming Simulator 19 Terrain</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <p>Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
 	<h2>PMC Texas Rockwood 8km</h2>
@@ -181,13 +183,19 @@ Field 130 (field130) : 2.723 ha
 Field 131 (field131) : 40.337 ha
 </pre>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
-<p><a href="pmc-terrains.php" class="button">PMC Terrains FS19</a></p>
-<p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
-<p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-start.php"); ?>
+<p>
+<a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
+<a href="../index.php" class="button">PMC Farming Simulator root page</a>
+<i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
+</p>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

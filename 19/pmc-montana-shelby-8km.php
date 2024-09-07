@@ -14,12 +14,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Montana Shelby 8km - Farming Simulator 19 Terrain</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <div class="terrain">
 <p>
 <b>Help wanted!</b> PMC is looking for serious terrain testers. We cannot fix issues if we don't know they exist, help us test <a href="pmc-terrains.php">PMC terrains</a> and send feedback. If interested <a href="../contact.php">contact us</a>.
@@ -373,9 +375,11 @@ For installing please read <a href="install-mods.php">how to install FS19 mods</
 </p>
 </div>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="changelog-pmc-montana-shelby-8km.php" class="button">Changelog PMC Montana Shelby 8km</a>
@@ -384,7 +388,9 @@ For installing please read <a href="install-mods.php">how to install FS19 mods</
 <a href="../index.php" class="button">PMC Farming Simulator root</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
 </p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

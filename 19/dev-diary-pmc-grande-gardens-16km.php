@@ -14,12 +14,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>Developer Diary PMC Grande Gardens 16km - PMC Farming</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Dev Diary Grande Gardens</h2>
 
 <p>
@@ -1325,9 +1327,11 @@ If anyone reads this, download, play and enjoy PMC Grande Gardens 16km terrain p
 2022-05-30T18:57:00Z PMC Grande Gardens 16km v1.2 first official public release has been finally released! <img src="../images/smileys/icon_cool.gif" alt="Smiley :cool:" loading="lazy">
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="changelog-pmc-grande-gardens-16km.php" class="button">Changelog PMC Grande Gardens 16km</a>
@@ -1335,7 +1339,9 @@ If anyone reads this, download, play and enjoy PMC Grande Gardens 16km terrain p
 <a href="../index.php" class="button">PMC Farming Simulator root</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

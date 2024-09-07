@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Developer Diary PMC Farm Lab Farming Simulator 19 PMC Farming</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>2019-03-13 Creating PMC Farm Lab</h2>
 
 <p>
@@ -132,9 +136,11 @@ Changed modDesc.xml to v1.3.
 Continue reading <a href="dev-diary-pmc-farm-lab-002.php">next page</a> or go back to <a href="dev-diary-pmc-farm-lab.php">Dev Diary PMC Farm Lab Home</a>.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="pmc-farm-lab.php" class="button">PMC Farm Lab</a>
@@ -144,7 +150,9 @@ Continue reading <a href="dev-diary-pmc-farm-lab-002.php">next page</a> or go ba
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

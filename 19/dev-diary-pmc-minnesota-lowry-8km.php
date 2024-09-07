@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Developer Diary PMC Minnesota Lowry 8km Farming Simulator 19 - PMC Farming</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Dev Diary PMC Minnesota Lowry 8km Farming Simulator 19</h2>
 
 <p>
@@ -37,9 +41,12 @@
 <p>
 This is the <b>"FS19 Millennial Farmer Map"</b> for Farming Simulator 19. If you wanted to farm like millennial farmer in youtube, well this is the place to do it.
 </p>
+
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="changelog-pmc-minnesota-lowry-8km.php" class="button">Changelog PMC Minnesota Lowry 8km</a>
@@ -47,7 +54,9 @@ This is the <b>"FS19 Millennial Farmer Map"</b> for Farming Simulator 19. If you
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

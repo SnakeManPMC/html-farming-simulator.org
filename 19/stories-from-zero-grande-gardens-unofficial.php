@@ -11,11 +11,15 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Unofficial Start From Zero PMC Grande Gardens 16km PMC Farming Simulator 19 Stories</h1>
 <p>PMC Farming Simulator 19 (FS19) Stories</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Better Contracts Mod Using Start From Zero Story</h2>
 
 <p>
@@ -43,9 +47,14 @@ This story was created because I wanted to test FS19 Better Contracts mod on a h
 <a href="../index.php" class="button">PMC Farming Index</a>
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

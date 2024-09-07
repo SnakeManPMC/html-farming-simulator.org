@@ -15,12 +15,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>Changelog PMC North Dakota Greendale 4km Terrain</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <p>
 Changelog for <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Greendale 4km</a> terrain. See known issues from bottom of this page.
 </p>
@@ -319,9 +321,11 @@ Changelog for <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Gree
 </p>
 </div>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="dev-diary-pmc-north-dakota-greendale-4km.php" class="button">Dev Diary PMC North Dakota Greendale 4km</a>
@@ -330,7 +334,9 @@ Changelog for <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Gree
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

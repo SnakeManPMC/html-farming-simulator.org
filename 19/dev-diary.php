@@ -13,10 +13,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Dev Diary Farming Simulator 19 PMC Farming</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>FS19 Dev Diaries by PMC</h2>
 
 <p>
@@ -58,15 +62,19 @@ Complete index of PMC Farming Simulator 19 editing dev diary pages in alphabetic
 <p><a href="dev-diary-pmc-ohio-westhope-8km.php">Dev Diary PMC Ohio Westhope 8km</a></p>
 <p><a href="dev-diary-pmc-texas-rowena-8km.php">Dev Diary PMC Texas Rowena 8km</a></p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="../index.php" class="button">PMC Farming Simulator root</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

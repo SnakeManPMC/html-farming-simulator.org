@@ -15,12 +15,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>How To Install Mods Farming Simulator 19 Tutorial - PMC Farming</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Locating Mod Directory</h2>
 
 <p>
@@ -188,12 +190,16 @@ If you already have WinRAR use it, but if you don't then download <a href="https
 Once you unpack zip/rar/7z archive you downloaded, bare minimum there should be mod ZIP files inside, also there might be readme or other files. Move only the FS19 mod zip files into your game mods directory and you are ready to play. Easiest way to identify actual mod zip file is to open it and if there is "modDesc.xml" file in the packet root directory, its a mod.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

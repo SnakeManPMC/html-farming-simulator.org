@@ -15,13 +15,15 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Iowa Garden City Unofficial Start From Zero - PMC Farming Simulator Stories</h1>
 <p>Stories from the Farm</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Iowa, Garden City, From Zero</h2>
 
 <p>
@@ -1839,12 +1841,16 @@ This savegame ended up having 79 hours and 29 minutes in it. Final budget was 20
 Heh yep, you gotta do what you gotta do, I wasn't supposed to be playing in this terrain yet not to mention Start From Zero so there you have it <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="stories.php" class="button">FS19 Stories page</a> <a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

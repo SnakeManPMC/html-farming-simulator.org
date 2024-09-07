@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Changelog PMC Farm Lab Farming Simulator 19 PMC Farming</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <p>
 Changelog for <a href="pmc-farm-lab.php">PMC Farm Lab</a> terrain. See known issues from bottom of this page.
 </p>
@@ -117,9 +121,11 @@ Changelog for <a href="pmc-farm-lab.php">PMC Farm Lab</a> terrain. See known iss
 </p>
 </div>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="dev-diary-pmc-farm-lab.php" class="button">Dev Diary PMC Farm Lab</a>
@@ -128,7 +134,9 @@ Changelog for <a href="pmc-farm-lab.php">PMC Farm Lab</a> terrain. See known iss
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

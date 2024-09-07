@@ -14,11 +14,15 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Start From Zero PMC Grande Gardens 16km PMC Farming Simulator 19 Stories</h1>
 <p>Stories from the Farm</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>PMC Grande Gardens 16km, Start From Zero</h2>
 
 <p>
@@ -569,12 +573,16 @@ Diesel refueled semi-truck pulling tipper/6, then autodrive sent it to the same 
 Continue reading <a href="stories-start-from-zero-pmc-grande-gardens-16km-130.php">next page</a>, <a href="stories-from-zero-grande-gardens.php">Start From Zero PMC Grande Gardens 16km Home</a>, go back to <a href="stories-start-from-zero-pmc-grande-gardens-16km-128.php">previous page</a>.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="stories.php" class="button">FS19 Stories page</a> <a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

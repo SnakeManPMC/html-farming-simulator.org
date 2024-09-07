@@ -14,12 +14,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>Developer Diary PMC Texas Rowena 8km - PMC Farming</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Beginning</h2>
 
 <p>
@@ -49,9 +51,11 @@ heightScale="36.04"
 Tested in-game and yeah there are cool details, no road ditches that I could find with quick run around, guess Rowena TX is just flat in that regard, terraces are on about every field, they can be easily seen but its maybe possible to air drill and combine over those terrace elevations, maybe. I bet its going to be clonky with 18.2m header or big 23m+ bourgault air drills, but yeah if you want realistic details now you got them, deal with it <img src="../images/smileys/icon_confused.gif" alt="Smiley :?" loading="lazy">
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="changelog-pmc-texas-rowena-8km.php" class="button">Changelog PMC Texas Rowena 8km</a>
@@ -60,7 +64,9 @@ Tested in-game and yeah there are cool details, no road ditches that I could fin
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

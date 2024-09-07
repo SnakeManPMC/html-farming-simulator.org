@@ -15,15 +15,17 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Farming Simulator 19 Multiplayer</b></h1>
 <p>
 <b>2020-09-08T10:56:00Z</b> Updated.
 </p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>PMC Terrains Server</h2>
 
 <p>
@@ -108,18 +110,16 @@ Check on PMC discord #farming_simulator channel if the server is up or down. If 
 <b>Courseplay</b>. Weeell.. if you have to read a guide about how to use courseplay especially in MP server, then please do not use it, let someone else do it. Sorry but there is no simple quickie-guide to get you up to speed with courseplay.
 </p>
 
-<!--
-<p>
-<b></b>.
-</p>
--->
-
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

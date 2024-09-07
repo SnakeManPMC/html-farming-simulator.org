@@ -14,12 +14,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Grande Gardens 16km - Farming Simulator 19 Terrain</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <p><b>2023-01-18T06:29:00Z</b> Updated. Please read <a href="pmc-terrains.php">PMC Terrains</a> page for background information.</p>
 
 	<h2>PMC Grande Gardens 16km</h2>
@@ -399,17 +401,22 @@ PMC_Grande_Gardens_16km_v1.2.7z 58.8mb <a href="magnet:?xt=urn:btih:e5888f54c118
 For installing please read <a href="install-mods.php">how to install FS19 mods</a> and <a href="install-pmc-terrain-mods.php">how to install PMC terrain mods</a>.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="changelog-pmc-grande-gardens-16km.php" class="button">Changelog PMC Grande Gardens 16km</a>
 <a href="dev-diary-pmc-grande-gardens-16km.php" class="button">Dev Diary PMC Grande Gardens 16km</a>
 <a href="screenshots-pmc-grande-gardens-16km.php" class="button">Screenshots PMC Grande Gardens 16km</a>
-<a href="../index.php" class="button">PMC Farming Simulator root</a><br>
+<a href="../index.php" class="button">PMC Farming Simulator root</a>
+</p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

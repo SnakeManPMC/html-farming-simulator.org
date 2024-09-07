@@ -14,11 +14,15 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Start From Zero PMC Texas Rowena 8km PMC Farming Simulator 19 Stories</h1>
 <p>Stories from the Farm</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Background</h2>
 
 <p>
@@ -135,12 +139,16 @@ There are no further story for this savegame, it almost feels like it was forgot
 This page is so short it was almost not worth to release, but its part of our FS19 real world data terrain development history so decided to put it online, regardless of its size.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="stories.php" class="button">FS19 Stories page</a> <a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -15,12 +15,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>Cultivator, Fruit Density with Painted Roads FS19 Terrain Tutorial - PMC Farming</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Overview</h2>
 
 <p>
@@ -108,13 +110,17 @@ What this means is you need to "punch a hole" into your basic grass weight image
 I open roughtDirt01_weight roads image in GIMP, invert colors so white becomes black, then SHIFT-O select by color click black color, now all roads are selected. Then I paste this selected black area over ALL grass0*_weight images where I want to "punch a hole", once pasted and layers merged GIMP creates alpha channel for transparency, it needs to be removed by using layer -&gt; transparency -&gt; remove alpha channel.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="map-making-tutorial.php" class="button">PMC Farming Simulator Map Making Tutorial page</a></p>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

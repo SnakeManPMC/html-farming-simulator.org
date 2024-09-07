@@ -15,13 +15,15 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Stories Seasons Review PMC Farming Simulator</h1>
 <p>To find out if its usable for large real world data terrains.</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>FS19 Seasons Review</h2>
 
 <a href="https://www.realismusmodding.com/mods/seasons19/manual/" target="_blank">Seasons Manual</a>
@@ -1310,12 +1312,16 @@ I quickly realized how ridiculous 3 days seasons is, I mean its like arcade COD 
 New career savegames when you start small, 3 day seasons length is pretty nice because you will burn yourself out with the constant time accelerating on 9 days or longer seasons. You can change season length when you start to run out of days to field work, any such changes should be made at first or last day of the year.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="stories.php" class="button">FS19 Stories page</a> <a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

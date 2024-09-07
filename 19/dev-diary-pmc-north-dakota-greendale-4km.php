@@ -14,12 +14,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>Developer Diary PMC North Dakota Greendale 4km Farming Simulator 19 - PMC Farming</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Dev Diary PMC North Dakota Greendale 4km</h2>
 
 <p>
@@ -161,9 +163,11 @@ Anyways last minute edit before release, was going to take new field sizes from 
 At this point of the dev diary there has been several missing pieces of information, but everything below is written "by the book" as it happens (at the moment of this update 2023-01-18T11:59:00Z there is no further text yet heh).
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <a href="changelog-pmc-north-dakota-greendale-4km.php" class="button">Changelog PMC North Dakota Greendale 4km</a>
@@ -172,7 +176,9 @@ At this point of the dev diary there has been several missing pieces of informat
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

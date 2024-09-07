@@ -15,12 +15,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Farming Simulator Terrain GIMP Paint cultivator_density Image</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>GIMP Paint Fields</h2>
 
 <p>
@@ -68,13 +70,17 @@ Some reference images: <a href="https://i.imgur.com/fBxK68p.jpg" target="_blank"
 <a href="https://cdn.discordapp.com/attachments/245423404822298625/553205625086017537/FS19_Cultivated_Fields_Painted_In_GIMP_2019-03-07T1320.jpg" target="_blank">2019-03-07T1320</a>, <a href="https://cdn.discordapp.com/attachments/245423404822298625/553223007129305088/FS19_Cultivated_Fields_Painted_In_GIMP_2019-03-07T1429.jpg" target="_blank">2019-03-07T1429</a>, <a href="https://cdn.discordapp.com/attachments/245423404822298625/553323212449120271/FS19_Cultivated_Fields_Painted_In_GIMP_2019-03-07T2106.jpg" target="_blank">2019-03-07T2106</a> and <a href="https://cdn.discordapp.com/attachments/557685453801914379/700102099752714250/GIMP-Properly-Colored-Cultivator-Density-Field-Areas.png" target="_blank">GIMP properly colored cultivator_density field areas</a>.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="map-making-tutorial.php" class="button">PMC Farming Simulator Map Making Tutorial page</a></p>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

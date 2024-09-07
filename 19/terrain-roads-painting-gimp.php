@@ -15,12 +15,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>Roads Painting in GIMP FS19 Terrain Tutorial - PMC Farming</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>GIMP Road Painting Using Satellite Imagery</h2>
 
 <p>
@@ -31,7 +33,7 @@
 Painted roads means dirt/gravel ground detail textures (these are not 3D mesh objects for asphalt).
 </p>
 
-<img src="screenshots/PMC-North-Dakota-Greendale-4km-Roads-GIMP.jpg" alt="PMC North Dakota Greendale 4km Terrain, Roads Painted in GIMP" loading="lazy" class="terrainimg"></a>
+<img src="screenshots/PMC-North-Dakota-Greendale-4km-Roads-GIMP.jpg" alt="PMC North Dakota Greendale 4km Terrain, Roads Painted in GIMP" loading="lazy" class="terrainimg">
 
 <p>
 In GIMP paint red color with pencil line drawing mode on top of satellite image. This is the same as <a href="terrain-cultivator_density-gimp.php">painting cultivator_density fields</a> except you paint roads using lines.
@@ -119,13 +121,17 @@ This is not required when painting roads in GIMP, its just a different method of
 You can use <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap (OSM)</a> shape files to create weight images for dirt and asphalt roads, except OSM data is occasionally inaccurate, sloppy poly lines which are just slightly but very annoyingly off and cause bad overlap with cultivator_density image. PMC Texas Rowena 8km OSM road painting in quick overview looked good, but more thorough zoom in inspection revealed it to be almost unusable. In <a href="https://www.pmctactical.org/arma3/" target="_blank">ArmA 3</a> you can get away with this to some degree but in FS19 you cant, when road and cultivator_density overlaps you're out of luck, it just doesn't work.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="map-making-tutorial.php" class="button">PMC Farming Simulator Map Making Tutorial page</a></p>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

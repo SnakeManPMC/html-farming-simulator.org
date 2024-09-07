@@ -14,12 +14,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>Developer Diary PMC Iowa Ringsted 8km - PMC Farming</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Beginning</h2>
 
 <p>
@@ -39,9 +41,11 @@ Unfortunaely I was not writing dev diary texts back when PMC Iowa Ringsted 8km t
 Last night opened PMC Iowa Ringsted 8km in global mapper, exported KMZ file and then terra incognita downloaded new ArcGIS world imagery satellite source. Compared it to the old 2019 download and there were few differences but nothing major, besides this terrain had US NAIP source already although I cannot see it in this global mapper project dir, it must be in FS19 terrain project dir as PMC website PDA mapview image is from US NAIP source.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS19</a>
 <!--
@@ -52,7 +56,9 @@ Last night opened PMC Iowa Ringsted 8km in global mapper, exported KMZ file and 
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>
