@@ -25,6 +25,10 @@
 	<h2>PMC Terrain News</h2>
 
 <p>
+These FS22 terrains could get ported to FS25, see more details from <a href="https://www.pmctactical.org/forum/viewtopic.php?f=82&t=23009" target="_blank">PMC Tactical Forum "Farming Simulator 25 Game Gift to PMC" topic</a>.
+</p>
+
+<p>
 <b>2023-03-11T00:15:00Z</b> <a href="pmc-ohio-alger-10km.php">PMC Ohio Alger 10km</a> Announced!
 </p>
 
