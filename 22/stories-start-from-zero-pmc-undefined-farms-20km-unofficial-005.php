@@ -14,11 +14,15 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Start From Zero PMC Undefined Farms 20km Unofficial - PMC Farming Simulator 22 Stories</h1>
 <p>Stories from the Farm</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Background</h2>
 
 <p>
@@ -135,12 +139,16 @@ Was looking around for new farm yards and wrote one bug/issue report about centr
 Continue reading <a href="stories-start-from-zero-pmc-undefined-farms-20km-unofficial-006.php">next page</a>, <a href="stories-start-from-zero-pmc-undefined-farms-20km-unofficial.php">Start From Zero PMC Undefined Farms 20km Unofficial Home</a>, go back to <a href="stories-start-from-zero-pmc-undefined-farms-20km-unofficial-004.php">previous page</a>.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="stories.php" class="button">Stories FS22 page</a> <a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

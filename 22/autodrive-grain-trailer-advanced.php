@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>AutoDrive Grain Trailer Advanced Farming Simulator 22 - PMC Farming</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>FS22 AutoDrive Grain Trailer Advanced</h2>
 
 <p>
@@ -46,12 +50,16 @@ Then recorded autodrive network waypoint routes for F220 E, S, W and N grain loa
 
 <a href="screenshots/Start-From-Zero-PMC-Super-Six-6km-2022-12-23T1228.jpg" target="_blank"><img src="screenshots/thumbs/Start-From-Zero-PMC-Super-Six-6km-2022-12-23T1228.jpg" class="terrainimg" alt="Farming Simulator 22 FS22 AutoDrive Grain Trailer Bus Stop Routes" title="Farming Simulator 22 FS22 AutoDrive Grain Trailer Bus Stop Routes, click for full size 4k screenshot"></a>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="autodrive.php" class="button">FS22 AutoDrive root page</a> <a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

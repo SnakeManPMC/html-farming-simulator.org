@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Animals Guide Food: Grass - PMC Farming Simulator 22 (FS22)</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Animals Guide Food: Grass (FS22)</h2>
 
 <p>
@@ -36,16 +40,20 @@ To make <a href="guide-animals-food-silage.php">silage</a> from grass: plant gra
 Mowing grass, if your field has leftover grass or <a href="guide-animals-food-hay.php">hay</a> from a previous harvest season, mowing grass will "clear out" those leftovers when you drive over them, not only that but they get automatically added into the newly cut grass piles. This is kind of a cheat, how does last years HAY turn into this years freshly cut GRASS, well real life doesn't work that way, but this is acceptable game-play function to keep farming enjoyable. And hey, why did you do sloppy work in last harvest season in the first place, clean up your leftover mess! <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="guide-animals.php" class="button">FS22 Animals Guide root page</a>
 <a href="guide.php" class="button">FS22 Guide root page</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

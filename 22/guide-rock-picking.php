@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>PMC Farming Simulator 22 Playing Guide Rock Picking</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>FS22 Playing Guide Rock Picking</h2>
 
 <p>
@@ -55,12 +59,16 @@ In <a href="guide-build-mode.php">Build-Mode</a> includes placeable object which
 How FS22 has configured rock picking it unfortunately is not very realistic, at all. In real life rocks do not appear on such big groups of very small tones, they appear as big average football/soccerball sizes chunks or even larger (which would then require backhoe to dig it out), these giants FS22 rocks are just very poor attempt of getting another game-play feature into the game, it has pretty much nothing to do with realism and simulation. FS22 stones is definitely a feature which should have been left at the design table to wait for better game engine code support. As said FS19 ThundR's rocks are ten times better than this FS22 stones feature.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="guide.php" class="button">Farming Simulator 22 Playing Guide</a> <a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -15,12 +15,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>HOWTO Create 45km Terrain Farming Simulator 22 - PMC Farming</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>What We Already Know</h2>
 
 <p>
@@ -193,13 +195,17 @@ Crop/fruit accuracy is an issue, it is so low with 16384 resolution density imag
 On 2022-02-09T23:06:00Z PMC released the first ever 45km x 45km terrain for FS22 called <a href="pmc-king-corn-45km.php">PMC King Corn 45km</a>, you can download and play that right now to see for yourself how massive 45km terrain really is.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="map-making-tutorial.php" class="button">PMC Farming Simulator 22 Map Making Tutorial page</a></p>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

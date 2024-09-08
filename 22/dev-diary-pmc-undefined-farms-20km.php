@@ -11,10 +11,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Dev Diary PMC Undefined Farms 20km PMC Farming Simulator 22</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Dev Diary PMC Undefined Farms 20km FS22</h2>
 
 <p>
@@ -2272,9 +2276,11 @@ Hmm still got 2hrs 17min on the clock here before bed time, so should not be too
 And after this came a change of plans, <a href="pmc-ohio-alger-10km.php">PMC Ohio Alger 10km</a> terrain was born and my focus shifted completely to its development for now. I saved terrain project in GE and exited, no idea how long it will be before I return to this never ending field definition corner piece editing work...
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-undefined-farms-20km.php" class="button">Changelog PMC Undefined Farms 20km</a>
@@ -2282,7 +2288,9 @@ And after this came a change of plans, <a href="pmc-ohio-alger-10km.php">PMC Ohi
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

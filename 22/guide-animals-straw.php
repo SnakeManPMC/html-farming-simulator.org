@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Animals Guide Straw - PMC Farming Simulator 22 (FS22)</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Animals Guide Straw (FS22)</h2>
 
 <p>
@@ -52,16 +56,20 @@ Straw, get a forage wagon, collect straw from harvested fields, then dump it int
 Straw for bedding. You can chop straw bales into animal bedding aka loose straw with anderson pro-chop and bigger kuhn primor 15070 M chopper wagons and with TMR mixer wagons as well. When using TMR mixer wagon, have it empty at start, then put only straw bales there and they get chopped to loose straw. Now you can overload the wagon as many bales as you have skill to telehandler load up and actually drive with the overloaded bale haul. Then just use mixer wagon as normally with TMR, only this time its loose straw for animal bedding. Please note that such "top heavy" mixer wagon might not fit through the door into all cattle and cow barns like giants hormann placeables.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="guide-animals.php" class="button">FS22 Animals Guide root page</a>
 <a href="guide.php" class="button">FS22 Guide root page</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

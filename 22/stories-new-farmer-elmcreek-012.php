@@ -14,11 +14,15 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>New Farmer Elmcreek PMC Farming Simulator 22 Stories</h1>
 <p>PMC Farming Simulator 22 (FS22) Stories</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Background</h2>
 
 <p>
@@ -400,13 +404,17 @@ Continue reading <a href="stories-new-farmer-elmcreek-013.php">next page</a>, <a
 <a href="../index.php" class="button">PMC Farming Index</a>
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
 </p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -15,12 +15,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Korkscrew 40km - Farming Simulator 22 Terrain</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <div class="terrain">
 <p><b>2023-01-18T10:09:00Z</b> Updated. Check <a href="pmc-terrains.php">PMC Terrains</a> page for more FS22 terrains.</p>
 
@@ -202,9 +204,11 @@ For installing please read <a href="install-mods.php">how to install FS19 mods</
 </p>
 </div>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-korkscrew-40km.php" class="button">Changelog PMC Korkscrew 40km</a>
@@ -213,7 +217,9 @@ For installing please read <a href="install-mods.php">how to install FS19 mods</
 <a href="../index.php" class="button">PMC Farming Simulator root</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
 </p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

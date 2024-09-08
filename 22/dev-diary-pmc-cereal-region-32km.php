@@ -14,12 +14,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>Developer Diary PMC Cereal Region 32km - PMC Farming Simulator 22</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Dev Diary PMC Cereal Region 32km FS22</h2>
 
 <p>
@@ -1451,9 +1453,11 @@ Changed modDesc.xml to v0.2.2, edited readme.txt and release compilation bat fil
 2023-02-22T17:11:00Z Finished GIMP painting PDA mapview overview.dds outside area using the same boring asphalt road grid and fields peppered in between, man does it look nightmarish <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-cereal-region-32km.php" class="button">Changelog PMC Cereal Region 32km</a>
@@ -1461,7 +1465,9 @@ Changed modDesc.xml to v0.2.2, edited readme.txt and release compilation bat fil
 <a href="../index.php" class="button">PMC Farming root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

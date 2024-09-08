@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Animals Guide Pigs - PMC Farming Simulator 22 (FS22)</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Animals Guide Pigs (FS22)</h2>
 
 <p>
@@ -36,16 +40,20 @@ About pigs prices to sell, see <a href="guide-animals-selling.php">FS22 Animals 
 Pig barn, Hogg barn (mod from, hmm cant remember who, that huge $250k costing long building with feed silos at the end) buildings info box shows food AMOUNT / 200k liters, it does not differentiate between food sources. Neither does ESC animals menu, it only shows total capacity, base food, grain, protein and root crops.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="guide-animals.php" class="button">FS22 Animals Guide root page</a>
 <a href="guide.php" class="button">FS22 Guide root page</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

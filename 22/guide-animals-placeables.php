@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Animals Guide Placeables - PMC Farming Simulator 22 (FS22)</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Animals Guide Placeables (FS22)</h2>
 
 <p>
@@ -40,16 +44,20 @@ You can only buy and sell 60 animals without game-play enhancing mod, so lets sa
 Straw storage. Even on small terrains with tiny fields you can have that many animals which require so much straw for bedding and for food (<a href="guide-animals-cattle.php">cattle</a> / <a href="guide-animals-cows.php">cows</a>, TMR mix) that you need a really large straw storage capacity. One large BALE storage placeable building is <a href="https://www.farming-simulator.com/mod.php?mod_id=237592" target="_blank">Pallet And Bale Warehouse mod</a> but this is bales, if you want easier access, transport and unloading you have to get forage wagon and loose straw. For loose straw you can use giants FS22 in-game hay loft under SHIFT-P -&gt; buildings -&gt; silos, hayloft capacity is 250k liters, this same menu also has bale & pallet storage which holds 250 bales.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="guide-animals.php" class="button">FS22 Animals Guide root page</a>
 <a href="guide.php" class="button">FS22 Guide root page</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

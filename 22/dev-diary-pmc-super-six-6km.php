@@ -11,10 +11,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Dev Diary PMC Super Six 6km PMC Farming Simulator 22</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Dev Diary PMC Super Six 6km FS22</h2>
 
 <p>
@@ -1114,9 +1118,11 @@ Changed modDesc.xml to v0.3.1, readme.txt and release compilation bat files also
 2023-02-22T14:10:00Z New farming day has started and ended, huh what? Heh yeah already some time ago started to create overview.dds PDA map image outside area, got it done and posted to <a href="https://www.pmctactical.org/forum/viewtopic.php?p=188575#p188575" target="_blank">PMC Tactical forum PMC Super Six 6km Development topic</a> about it. It was so quick work that didn't even consider writing dev diary, but it turned out so well I had to come back and write this paragraph <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-super-six-6km.php" class="button">Changelog PMC Super Six 6km</a>
@@ -1124,7 +1130,9 @@ Changed modDesc.xml to v0.3.1, readme.txt and release compilation bat files also
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

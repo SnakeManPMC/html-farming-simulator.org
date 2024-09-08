@@ -11,10 +11,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Dev Diary PMC Ohio Alger 10km PMC Farming Simulator 22</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Dev Diary PMC Ohio Alger 10km FS22</h2>
 
 <p>
@@ -1097,9 +1101,11 @@ Then took a break to do some real life chore type of studying. This break turned
 <i>Edit: real life chore studying actually turned into whole week monday through friday thing. Unfortunately it looks like next weeks monday - friday will be the same, expect no updates at that week.</i>
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-ohio-alger-10km.php" class="button">Changelog PMC Ohio Alger 10km</a>
@@ -1108,7 +1114,9 @@ Then took a break to do some real life chore type of studying. This break turned
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

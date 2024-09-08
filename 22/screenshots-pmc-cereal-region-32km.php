@@ -14,12 +14,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>Screenshots PMC Cereal Region 32km Terrain Farming Simulator 22</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <div class="terrain">
 <p><b>2023-01-18T09:46:00Z</b> Updated. Check <a href="pmc-terrains.php">PMC Terrains</a> page for more FS22 terrains.</p>
 
@@ -68,9 +70,11 @@ Click for larger image. Screenshots do not include all placeable objects, sorry.
 
 </div>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-cereal-region-32km.php" class="button">Changelog PMC Cereal Region 32km</a>
@@ -79,7 +83,9 @@ Click for larger image. Screenshots do not include all placeable objects, sorry.
 <a href="../index.php" class="button">PMC Farming root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

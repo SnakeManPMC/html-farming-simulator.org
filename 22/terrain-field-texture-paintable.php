@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Field Texture Paintable - PMC Farming Simulator 22 (FS22)</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Paintable Field Texture In FS22</h2>
 
 <p>
@@ -85,12 +89,16 @@ Please note about game-play: using landscaping tools costs in-game money HUNDRED
 This is a <b>Farming Simulator 22 Map Making Tutorial</b> by PMC. How about <b>FS22 Modding Guide</b> to help you learn how to edit. Learn to <b>Edit FS22 Maps</b> from easy to read tutorials. <b>FS22 Mapping</b> is called <b>FS22 Terrain Editing</b> in proper english language. Its is fun and easy to <b>Edit FS22 Terrains</b>... once you learn it. This is <b>The Best FS22 Editing Tutorial</b> in our paintable fields category heh.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="map-making-tutorial.php" class="button">FS22 Terrain Editing Tutorial root page</a> <a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

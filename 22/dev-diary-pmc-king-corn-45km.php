@@ -11,10 +11,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Dev Diary PMC King Corn 45km PMC Farming Simulator 22</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Largest Terrain In The History of Farming Simulator Games</h2>
 
 <p>
@@ -1907,9 +1911,11 @@ Edited PMC_King_Corn_45km.i3d to change fruit_density.png back to .GDM again, th
 2023-02-22T18:40:00Z Finished GIMP painting, it was okay alone but doesn't quite match the actual field sizes, new outside terrain fields are twice the size than actual fields, its easy to see from ESC mapview, but oh well, dunno, maybe I'll edit it a bit more later, add those field dividers there. But for now, its more than good enough.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-king-corn-45km.php" class="button">Changelog PMC King Corn 45km</a>
@@ -1917,7 +1923,9 @@ Edited PMC_King_Corn_45km.i3d to change fruit_density.png back to .GDM again, th
 <a href="../index.php" class="button">PMC Farming Simulator root</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
 </p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

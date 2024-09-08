@@ -14,11 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC Farming Simulator 22 Playing Guide Production Chains</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Playing Guide Production Chains</h2>
 
 <p>
@@ -98,12 +101,16 @@ Other more automated but expensive and farmland space requiring option is to dow
 Remember; each pallet is considered to be a vehicle in farmsim engine, its not a good idea to store hundreds of pallets on the ground, in fact there was some pallet limit per savegame I believe. Another rather simplistic cold approach for this is to sell bread and cake when cake has the highest price as its the more expensive one, same with cheese and chocolate, sell when chocolate market price is high (there is not that much difference btw, not like bread and cake do).
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="guide.php" class="button">Farming Simulator 22 Playing Guide</a> <a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

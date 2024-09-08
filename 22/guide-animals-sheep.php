@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Animals Guide Sheep - PMC Farming Simulator 22 (FS22)</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Animals Guide Sheep (FS22)</h2>
 
 <p>
@@ -32,16 +36,20 @@ Age of eight months sheeps become mature and can produce offspring if there is e
 Feeding sheeps is easy, have a grass field, mowe it, then bale the loose grass on the ground, transport grass bales to the sheep barn and drop them off at the feeding trigger which is marked by yellow markers.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="guide-animals.php" class="button">FS22 Animals Guide root page</a>
 <a href="guide.php" class="button">FS22 Guide root page</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

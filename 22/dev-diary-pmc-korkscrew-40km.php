@@ -11,10 +11,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Dev Diary PMC Korkscrew 40km PMC Farming Simulator 22</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Dev Diary PMC Korkscrew 40km FS22</h2>
 
 <p>
@@ -1582,9 +1586,11 @@ Things are looking pretty good field wise. Although I would still like to have s
 2023-01-24T08:27:00Z Starting to upload PMC Korkscrew 40km v0.2.1 to PMC Tactical forum for testing <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-korkscrew-40km.php" class="button">Changelog PMC Korkscrew 40km</a>
@@ -1592,7 +1598,9 @@ Things are looking pretty good field wise. Although I would still like to have s
 <a href="../index.php" class="button">PMC Farming Simulator root</a><br>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
 </p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

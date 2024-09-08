@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Courseplay Farming Simulator 22 - PMC Farming</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>FS22 Courseplay Baling</h2>
 
 <p>
@@ -36,12 +40,16 @@ Baler tractor should have combine harvester field work course loaded, or better 
 Don't worry about leftover straw because it mounts to just about nothing, its not worth to go collecting that no matter how Obsessive Compulsive Disorder (OCD) person you are, only exception is if there are real big heaps of straw on the field by some odd combine harvester grain cart unloading positions etc. Just ignore all the small drizzle leftovers, they are only few dozen liters in a small to medium size field.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="courseplay.php" class="button">FS22 Courseplay root page</a> <a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

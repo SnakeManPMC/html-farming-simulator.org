@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Terrain Overview Image mapUS Elmcreek PMC Farming Simulator 22</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>PDA Map Is Now Overview Image</h2>
 
 <p>
@@ -54,13 +58,17 @@ First odd thing you notice in this image if you are old terrain developer from F
 Terrain overview image has no fields as they are drawn real time in the game engine. The TERRAIN.xml had config for mapFieldColor which defines which color the field is drawn in PDA, lets call it mapview. This could be that if you enlarge fields by ploughing they would appear in real size (or "real time" perhaps) on mapview screen. Assuming they are drawn from cultivator_density image (hopefully not from field definitions).
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="map-making-tutorial.php" class="button">PMC Farming Simulator 22 Map Making Tutorial page</a></p>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

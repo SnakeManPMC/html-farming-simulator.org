@@ -14,11 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>PMC Farming Simulator 22 (FS22) Playing Guide Build Mode</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>FS22 Playing Guide Build Mode</h2>
 
 <p>
@@ -83,12 +86,16 @@ You should use PlaceAnywhere mod responsibly of course, don't just go spamming w
 If you like to landscape a lot, change terrain heightmap elevations, paint ground textures, place down shrubbery flowers, bushes and even trees, its highly recommended to get <b><a href="https://www.farming-simulator.com/mod.php?mod_id=225034" target="_blank">FS22 Free Landscaping Tools mod</a></b> as it will disable money being drained away from your account while landscaping. Landscaping should never cost money as game-play feature.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="guide.php" class="button">Farming Simulator 22 Playing Guide</a> <a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

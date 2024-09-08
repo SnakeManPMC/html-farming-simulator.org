@@ -14,11 +14,15 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>New Farmer Elmcreek PMC Farming Simulator 22 Stories</h1>
 <p>PMC Farming Simulator 22 (FS22) Stories</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Background</h2>
 
 <p>
@@ -210,7 +214,7 @@ Budget now 1.136m.
 </p>
 
 <p>
-Feels so great to have finished Farming Simulaor 22 New Farmer Elmcreek savegame <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
+Feels so great to have finished Farming Simulator 22 New Farmer Elmcreek savegame <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -242,13 +246,17 @@ Go back to <a href="stories-new-farmer-elmcreek.php">New Farmer Elmcreek Home</a
 <a href="../index.php" class="button">PMC Farming Index</a>
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i>
 </p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

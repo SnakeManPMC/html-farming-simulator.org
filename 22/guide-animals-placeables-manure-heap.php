@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Animals Guide Placeables Manure Heap - PMC Farming Simulator 22 (FS22)</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>Animals Guide Placeables Manure Heap (FS22)</h2>
 
 <p>
@@ -32,16 +36,20 @@ FS22 does not give any indication at the <a href="guide-build-mode.php">build mo
 On internet there was some <i>"non working manure heap, use manure heap extension instead"</i> info floating around, its some old outdated data on stupid frigging youtube videos from conzole peasants, in FS22 v1.12 there is no problem using "manure heap" next to cow / pig barns. Never watch youtube video guides they are a complete waste of time as most of the time they get outdated very fast, so always rely on up to date web pages with text.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="guide-animals.php" class="button">FS22 Animals Guide root page</a>
 <a href="guide.php" class="button">FS22 Guide root page</a>
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

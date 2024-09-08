@@ -14,12 +14,14 @@
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("../include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1><b>PMC RedWhiteBlue 10km Terrain Farming Simulator 22</b></h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>PMC RedWhiteBlue 10km</h2>
 
 <p>
@@ -211,9 +213,11 @@ PMC_RedWhiteBlue_10km_v0.1.2.7z 44.1mb <a href="magnet:?xt=urn:btih:db7d5c6e16dc
 For installing please read <a href="../19/install-mods.php">how to install FS19 mods</a> and <a href="../19/install-pmc-terrain-mods.php">how to install PMC terrain mods</a>. Yes these FS19 tutorials still work with FS22 with the obvious "19" versus "22" changes.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>
 <a href="pmc-terrains.php" class="button">PMC Terrains FS22</a>
 <a href="changelog-pmc-redwhiteblue-10km.php" class="button">Changelog PMC RedWhiteBlue 10km</a>
@@ -222,7 +226,9 @@ For installing please read <a href="../19/install-mods.php">how to install FS19 
 <a href="../index.php" class="button">PMC Farming Simulator root page</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

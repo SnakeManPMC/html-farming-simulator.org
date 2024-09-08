@@ -14,10 +14,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>Courseplay Farming Simulator 22 - PMC Farming</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>FS22 Courseplay Bale Wrapping</h2>
 
 <p>
@@ -40,12 +44,16 @@ If you drive manually you can save a lot of time as you can drive to the next gr
 Update: courseplay v7.3.1.2 (or .3 cant recall) bale collecting function is not working properly, you get "no path found" error every few minutes when trying to collect bales. On previous courseplay versions on the same field, same tractor and anderson rbm2000 bale collector this has been working just fine.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="courseplay.php" class="button">FS22 Courseplay root page</a> <a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("../include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>
