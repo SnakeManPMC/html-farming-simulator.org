@@ -29,6 +29,7 @@ Welcome to Farming Simulator 25 (FS25) Pre-Release News page by PMC. The purpose
 
 <p><a href="animals.php">Animals</a></p>
 <p><a href="crops.php">Crops</a></p>
+<p><a href="engine.php">Engine</a></p>
 
 <p>
 FS25 release date November 12th 2024. For people who use UTC its most likely that release comes at UTC Nov 11th 22:00hrs as german time is two hours ahead, FS22 release in nov 2021 came at 23:00hrs (please re-check this from <a href="https://www.timeanddate.com/countdown/launch?iso=20241112T00&p0=37&msg=Farming+Simulator+25+Release+Date+%26+Time&font=cursive" target="_blank">timeanddate.com FS25 launch date and time countdown</a>). You can pre-order purchase FS25 before the release date & time, not only that but you can also download and install the big most likely over 10 gigabytes installer from Giants e-shop before release date & time, so once its UTC nov 11th 2200hrs the game serial key activates and you can start to play it right away.
