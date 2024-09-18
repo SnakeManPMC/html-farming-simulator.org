@@ -100,7 +100,10 @@ Cows have calfs, ie baby cows as well.
 
 <footer>
 <?php include("/var/www/include/footer-start.php"); ?>
-<p><a href="../../index.php" class="button">PMC Farming Simulator index page</a></p>
+<p>
+<a href="../../index.php" class="button">PMC Farming Simulator index page</a>
+<a href="index.php" class="button">FS25 Pre-Release News</a>
+</p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
 <?php include("/var/www/include/footer-end.php"); ?>
 <?php include("/var/www/include/support.php"); ?>
