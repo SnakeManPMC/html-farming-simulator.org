@@ -26,6 +26,7 @@
 	<h2>Farming Simulator 25</h2>
 
 <p>
+<a href="25/news-pre-release/index.php" class="button">Pre-Release News</a>
 <a href="25/pmc-terrains.php" class="button">PMC Terrains</a>
 <a href="25/guide.php" class="button">Guide</a>
 <a href="25/settings.php" class="button">Settings</a>
