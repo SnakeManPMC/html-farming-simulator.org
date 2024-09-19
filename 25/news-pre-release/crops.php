@@ -131,6 +131,64 @@ You can grow your own rice saplings in a greenhouse that then is used to seed ri
 FS25 includes 25 different crops. New crop is green beans. -source djgoham <a href="https://www.youtube.com/watch?v=IBVaN3mWuJ8" target="_blank">"I PLAYED FARM SIM 25 BEFORE ANYONE ELSE!"</a>.
 </p>
 
+<p>
+2024-09-19T18:34:00Z Green Beans crop new information.
+</p>
+
+<p>
+New Crop: Green Beans -source <a href="https://www.farming-simulator.com/newsArticle.php?news_id=559" targte="_blank">Giants website blog</a>.
+</p>
+
+<a href="screenshots/Growth-Stages-Green-Beans.jpg" target="_blank"><img src="screenshots/thumbs/Growth-Stages-Green-Beans.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<p>
+Between April and June, it's green bean seeding time. With 280 liters of seed per hectare when spilling the beans on the field, you can expect a yield of up to 13,950 liters in return four months later.
+</p>
+
+<a href="screenshots/Crops-22.jpg" target="_blank"><img src="screenshots/thumbs/Crops-22.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<p>
+Depending on economic difficulty, an average selling price of $2160 per thousand liters is offered after harvesting between August and November.
+</p>
+
+<p>
+Oxbo BP2140e green beans harvester.
+</p>
+
+<a href="screenshots/Oxbo-BP2140e-03.jpg" target="_blank"><img src="screenshots/thumbs/Oxbo-BP2140e-03.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Oxbo-BP2140e-08.jpg" target="_blank"><img src="screenshots/thumbs/Oxbo-BP2140e-08.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Oxbo-BP2140e-06.jpg" target="_blank"><img src="screenshots/thumbs/Oxbo-BP2140e-06.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Oxbo-BP2140e-04.jpg" target="_blank"><img src="screenshots/thumbs/Oxbo-BP2140e-04.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Oxbo-BP2140e-07.jpg" target="_blank"><img src="screenshots/thumbs/Oxbo-BP2140e-07.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Oxbo-BP2140e-02.jpg" target="_blank"><img src="screenshots/thumbs/Oxbo-BP2140e-02.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Oxbo-BP2140e-01.jpg" target="_blank"><img src="screenshots/thumbs/Oxbo-BP2140e-01.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Oxbo-BP2140e-05.jpg" target="_blank"><img src="screenshots/thumbs/Oxbo-BP2140e-05.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Oxbo-BP2140e-09.jpg" target="_blank"><img src="screenshots/thumbs/Oxbo-BP2140e-09.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<p>
+Green beans growth stages.
+</p>
+
+<a href="screenshots/Crops-23.jpg" target="_blank"><img src="screenshots/thumbs/Crops-23.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Crops-19.jpg" target="_blank"><img src="screenshots/thumbs/Crops-19.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Crops-20.jpg" target="_blank"><img src="screenshots/thumbs/Crops-20.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Crops-21.jpg" target="_blank"><img src="screenshots/thumbs/Crops-21.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Crops-24.jpg" target="_blank"><img src="screenshots/thumbs/Crops-24.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Crops-25.jpg" target="_blank"><img src="screenshots/thumbs/Crops-25.jpg" class="terrainimg" loading="lazy" alt="Green Beans Farming Simulator 25 Screenshot" title="Green Beans Farming Simulator 25 Screenshot"></a>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 

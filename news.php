@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-09-19T18:45:00Z Green Beans information and screenshots added to <a href="25/news-pre-release/crops.php">Farming Simulator 25 (FS25) Pre-Release News Crops</a> page, enjoy.
+</p>
+
+<p>
 2024-09-19T03:50:00Z <a href="22/pmc-ohio-alger-10km.php">PMC Ohio Alger 10km</a> American real world data terrain projects dev diary page was split to shorter pages, head over to <a href="22/dev-diary-pmc-ohio-alger-10km.php">Dev Diary PMC Ohio Alger 10km</a> page to see all the individual sub pages. Enjoy reading some terrain editing material with nice screenshots.
 </p>
 
