@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-09-18T11:23:41Z Farming Simulator 25 (FS25) Pre-Release News pages created to collect all the news nippets around Giants info releases about the upcoming game engine release. So far there are sub pages for <a href="25/news-pre-release/animals.php">Animals</a>, <a href="25/news-pre-release/crops.php">Crops</a>, <a href="25/news-pre-release/engine.php">Engine</a>, <a href="25/news-pre-release/terrains.php">Terrains</a> and <a href="25/news-pre-release/vehicles.php">Vehicles</a>, for the full coverage see <a href="25/news-pre-release/index.php">FS25 Pre-Release News Index</a> page. If you have any news to share or corrections to these new pages, please let me know in <a href="https://www.pmctactical.org/forum/viewtopic.php?t=22972" target="_blank">PMC Tactical Forum "farming-simulator.org for FS25" topic</a>.
+</p>
+
+<p>
 2024-07-05T12:01:33Z Farming Simulator 25 (FS25) new pages created for <a href="25/guide.php">FS25 Playing Guide</a> and <a href="25/settings.php">FS25 game.xml Settings</a>, these are of course highly speculative as the game has not been released yet and I have not seen any confirmation that game.xml is still used for settings. Please join the discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=82&t=22971" target="_blank">PMC Tactical forum Settings game.xml FS25 topic</a>, see you there.
 </p>
 
