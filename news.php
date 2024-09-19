@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-09-19T03:50:00Z <a href="22/pmc-ohio-alger-10km.php">PMC Ohio Alger 10km</a> American real world data terrain projects dev diary page was split to shorter pages, head over to <a href="22/dev-diary-pmc-ohio-alger-10km.php">Dev Diary PMC Ohio Alger 10km</a> page to see all the individual sub pages. Enjoy reading some terrain editing material with nice screenshots.
+</p>
+
+<p>
 2024-09-19T02:54:00Z Brand new dev diary page has been opened for Farming Simulator 22 (FS22), this page is an index for all the developer diaries I've written for FS22 so far, go check it out at <a href="22/dev-diary.php">Dev Diary FS22</a> page. Also see <a href="https://www.pmctactical.org/forum/viewtopic.php?t=23014" target="_blank">PMC Tactical Forum "Dev Diary Farming Simulator 22 PMC Farming" topic</a> if you want to leave feedback or just chat about terrain editing.
 </p>
 
