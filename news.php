@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-09-19T02:54:00Z Brand new dev diary page has been opened for Farming Simulator 22 (FS22), this page is an index for all the developer diaries I've written for FS22 so far, go check it out at <a href="22/dev-diary.php">Dev Diary FS22</a> page. Also see <a href="https://www.pmctactical.org/forum/viewtopic.php?t=23014" target="_blank">PMC Tactical Forum "Dev Diary Farming Simulator 22 PMC Farming" topic</a> if you want to leave feedback or just chat about terrain editing.
+</p>
+
+<p>
 2024-09-18T11:23:41Z Farming Simulator 25 (FS25) Pre-Release News pages created to collect all the news nippets around Giants info releases about the upcoming game engine release. So far there are sub pages for <a href="25/news-pre-release/animals.php">Animals</a>, <a href="25/news-pre-release/crops.php">Crops</a>, <a href="25/news-pre-release/engine.php">Engine</a>, <a href="25/news-pre-release/terrains.php">Terrains</a> and <a href="25/news-pre-release/vehicles.php">Vehicles</a>, for the full coverage see <a href="25/news-pre-release/index.php">FS25 Pre-Release News Index</a> page. If you have any news to share or corrections to these new pages, please let me know in <a href="https://www.pmctactical.org/forum/viewtopic.php?t=22972" target="_blank">PMC Tactical Forum "farming-simulator.org for FS25" topic</a>.
 </p>
 
