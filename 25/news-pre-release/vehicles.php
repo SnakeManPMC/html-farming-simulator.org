@@ -207,6 +207,40 @@ Iseki TJW + Farmtech EDK 650
 J&M grain cart X1112 -source youtube djgoham time code <a href="https://youtu.be/M2KFbxM2_JY?t=61" target="_blank">"FS25 Gamescom Trailer (Official) - Farming Simulator 25"</a>.
 </p>
 
+<p>
+2024-09-20 -source <a href="https://www.farming-simulator.com/newsArticle.php?news_id=554" target="_blank">Giants website blog</a>.
+</p>
+
+<p>
+Oxbo BP2140e harvester
+</p>
+
+<a href="screenshots/Oxbo-BP2140e-10.jpg" target="_blank"><img src="screenshots/thumbs/Oxbo-BP2140e-10.jpg" class="terrainimg" loading="lazy" alt="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot" title="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot"></a>
+
+<p>
+Annaburger HTS 22B.79 and Annaburger AW 22.17 trailer
+</p>
+
+<a href="screenshots/Annaburger-HTS-22B_79_AW-22_17-01.jpg" target="_blank"><img src="screenshots/thumbs/Annaburger-HTS-22B_79_AW-22_17-01.jpg" class="terrainimg" loading="lazy" alt="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot" title="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Annaburger-HTS-22B_79_AW-22_17-02.jpg" target="_blank"><img src="screenshots/thumbs/Annaburger-HTS-22B_79_AW-22_17-02.jpg" class="terrainimg" loading="lazy" alt="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot" title="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot"></a>
+
+<p>
+Claas Evion 450 combine harvester and Claas Vario 620 grain header
+</p>
+
+<a href="screenshots/Claas-Evion-450-Vario-620-01.jpg" target="_blank"><img src="screenshots/thumbs/Claas-Evion-450-Vario-620-01.jpg" class="terrainimg" loading="lazy" alt="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot" title="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Claas-Evion-450-Vario-620-02.jpg" target="_blank"><img src="screenshots/thumbs/Claas-Evion-450-Vario-620-02.jpg" class="terrainimg" loading="lazy" alt="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot" title="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot"></a>
+
+<p>
+Dalbo Powerchain 800 disc harrow
+</p>
+
+<a href="screenshots/Dalbo-Powerchain-800-01.jpg" target="_blank"><img src="screenshots/thumbs/Dalbo-Powerchain-800-01.jpg" class="terrainimg" loading="lazy" alt="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot" title="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Dalbo-Powerchain-800-02.jpg" target="_blank"><img src="screenshots/thumbs/Dalbo-Powerchain-800-02.jpg" class="terrainimg" loading="lazy" alt="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot" title="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot"></a>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 

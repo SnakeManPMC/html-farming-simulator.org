@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-09-20T14:10:00Z Giants friday fact sheets for vehicle specifications with screenshots added to <a href="25/news-pre-release/vehicles.php">Farming Simulator 25 (FS25) Pre-Release News Vehicles</a> page, check them out.
+</p>
+
+<p>
 2024-09-19T18:45:00Z Green Beans information and screenshots added to <a href="25/news-pre-release/crops.php">Farming Simulator 25 (FS25) Pre-Release News Crops</a> page, enjoy.
 </p>
 
