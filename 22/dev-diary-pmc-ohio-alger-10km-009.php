@@ -57,10 +57,7 @@ Then took a break to do some real life chore type of studying. This break turned
 </p>
 
 <p>
-<!--
-Continue reading <a href="dev-diary-pmc-ohio-alger-10km-010.php">next page</a>, 
--->
-back to <a href="dev-diary-pmc-ohio-alger-10km.php">Dev Diary PMC Ohio Alger 10km Homepage</a> or <a href="dev-diary-pmc-ohio-alger-10km-008.php">previous page</a>.
+Continue reading <a href="dev-diary-pmc-ohio-alger-10km-010.php">next page</a>, back to <a href="dev-diary-pmc-ohio-alger-10km.php">Dev Diary PMC Ohio Alger 10km Homepage</a> or <a href="dev-diary-pmc-ohio-alger-10km-008.php">previous page</a>.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

@@ -67,6 +67,18 @@ This is developer diary for Farming Simulator 22 real world data American terrai
 <a href="dev-diary-pmc-ohio-alger-10km-009.php">Page 9</a>, 2023-03-16 More Objects On OH-235
 </p>
 
+<p>
+<a href="dev-diary-pmc-ohio-alger-10km-010.php">Page 10</a>, 2024-09-19 Return To Alger
+</p>
+
+<p>
+<a href="dev-diary-pmc-ohio-alger-10km-011.php">Page 11</a>, 2024-09-20 Creating Farm Yards
+</p>
+
+<p>
+<a href="dev-diary-pmc-ohio-alger-10km-012.php">Page 12</a>, 2024-09-20 OH-235 Road Object Placement Finished
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 

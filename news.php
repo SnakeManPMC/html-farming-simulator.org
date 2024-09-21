@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-09-21T03:06:00Z Back to <a href="22/pmc-ohio-alger-10km.php">PMC Ohio Alger 10km</a> terrain project editing! New dev diary pages created. Check out the brand new pages directly: <a href="22/dev-diary-pmc-ohio-alger-10km-010.php">page 10</a>, <a href="22/dev-diary-pmc-ohio-alger-10km-011.php">page 11</a> and <a href="22/dev-diary-pmc-ohio-alger-10km-012.php">page 12</a> or visit <a href="22/dev-diary-pmc-ohio-alger-10km.php">Dev Diary PMC Ohio Alger 10km</a> index page for the full list. Enjoy reading some editing material.
+</p>
+
+<p>
 2024-09-20T14:10:00Z Giants friday fact sheets for vehicle specifications with screenshots added to <a href="25/news-pre-release/vehicles.php">Farming Simulator 25 (FS25) Pre-Release News Vehicles</a> page, check them out.
 </p>
 
