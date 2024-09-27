@@ -241,6 +241,38 @@ Dalbo Powerchain 800 disc harrow
 
 <a href="screenshots/Dalbo-Powerchain-800-02.jpg" target="_blank"><img src="screenshots/thumbs/Dalbo-Powerchain-800-02.jpg" class="terrainimg" loading="lazy" alt="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot" title="Pre-Release News Fact Sheets Farming Simulator 25 Screenshot"></a>
 
+<p>
+2024-09-27 Giants friday fact sheets. -source <a href="https://www.farming-simulator.com/newsArticle.php?news_id=554" target="_blank">Giants website blog</a>.
+</p>
+
+<p>
+John Deere C441R round baler.
+</p>
+
+<a href="screenshots/John-Deere-C441R-01.jpg" target="_blank"><img src="screenshots/thumbs/John-Deere-C441R-01.jpg" class="terrainimg" loading="lazy" alt="John Deere C441R round baler Farming Simulator 25 Screenshot" title="John Deere C441R round baler Farming Simulator 25 Screenshot"></a> 
+
+<p>
+Iseki HJ6130, Lizard Dragon truck.
+</p>
+
+<a href="screenshots/Iseki-HJ6130-Lizard-Dragon-Truck-01.jpg" target="_blank"><img src="screenshots/thumbs/Iseki-HJ6130-Lizard-Dragon-Truck-01.jpg" class="terrainimg" loading="lazy" alt="Iseki HJ6130, Lizard Dragon truck. Farming Simulator 25 Screenshot" title="Iseki HJ6130, Lizard Dragon truck. Farming Simulator 25 Screenshot"></a> 
+
+<a href="screenshots/Iseki-HJ6130-Lizard-Dragon-Truck-02.jpg" target="_blank"><img src="screenshots/thumbs/Iseki-HJ6130-Lizard-Dragon-Truck-02.jpg" class="terrainimg" loading="lazy" alt="Iseki HJ6130, Lizard Dragon truck. Farming Simulator 25 Screenshot" title="Iseki HJ6130, Lizard Dragon truck. Farming Simulator 25 Screenshot"></a> 
+
+<p>
+Novag T-Force Plus 950 seeder.
+</p>
+
+<a href="screenshots/Novag-T-Force-Plus-950-01.jpg" target="_blank"><img src="screenshots/thumbs/Novag-T-Force-Plus-950-01.jpg" class="terrainimg" loading="lazy" alt="Novag T-Force Plus 950 seeder Farming Simulator 25 Screenshot" title="Novag T-Force Plus 950 seeder Farming Simulator 25 Screenshot"></a> 
+
+<p>
+Iseki PRJ8D rice planter.
+</p>
+
+<a href="screenshots/Iseki-PRJ8D-01.jpg" target="_blank"><img src="screenshots/thumbs/Iseki-PRJ8D-01.jpg" class="terrainimg" loading="lazy" alt="Iseki PRJ8D rice planter Farming Simulator 25 Screenshot" title="Iseki PRJ8D rice planter Farming Simulator 25 Screenshot"></a> 
+ 
+<a href="screenshots/Iseki-PRJ8D-02.jpg" target="_blank"><img src="screenshots/thumbs/Iseki-PRJ8D-02.jpg" class="terrainimg" loading="lazy" alt="Iseki PRJ8D rice planter Farming Simulator 25 Screenshot" title="Iseki PRJ8D rice planter Farming Simulator 25 Screenshot"></a> 
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 

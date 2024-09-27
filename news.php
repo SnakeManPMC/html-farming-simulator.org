@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-09-27T13:43:00Z Giants friday fact sheets is out again, new vehicle specifications with screenshots added to <a href="25/news-pre-release/vehicles.php">Farming Simulator 25 (FS25) Pre-Release News Vehicles</a> page, enjoy the new upcoming FS25 vehicles.
+</p>
+
+<p>
 2024-09-27T07:30:00Z Screenshots added to <a href="25/news-pre-release/terrains.php">Farming Simulator 25 (FS25) Pre-Release News Terrains</a> page, this is the first reveal of South East Asian (SEA) terrain called Hutan Pantai.
 </p>
 
