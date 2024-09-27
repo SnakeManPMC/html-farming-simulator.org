@@ -25,7 +25,7 @@ Terrains for Farming Simulator 25 (FS25). Information is that there are three te
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
 <?php include("/var/www/include/support.php"); ?>
-	<h2>Terrains FS25</h2>
+	<h2>Riverbend Springs FS25</h2>
 
 <p>
 "(south) East Asian landscape, North American environment with plenty of open space and entral European location with green fields between ponds and rivers" -source <a href="https://www.farming-simulator.com/newsArticle.php?news_id=544" target="_blank">Giants websites blog</a>.
@@ -95,6 +95,35 @@ River creek.
 
 <p>
 There is no information about FS25 Riverbend Springs terrain size, so its safe to assume it will be 2 kilometers x 2 kilometers, same as previous Giants terrains.
+</p>
+
+
+	<h2>South East Asia Hutan Pantai FS25</h2>
+
+<p>
+Hutan Pantai - First Look at New South East Asian (SEA) Terrain. -source <a href="https://www.farming-simulator.com/newsArticle.php?news_id=562" target="_blank">Giants website blog</a>.
+</p>
+
+<p>
+Youtube video <a href="https://www.youtube.com/watch?v=0WbnEjpHHz8" target="_blank">"Farming in Asia - Tokyo Game Show Trailer | FS25"</a>.
+</p>
+
+<a href="screenshots/Terrain-Asian-Hutan-Pantai-01.jpg" target="_blank"><img src="screenshots/thumbs/Terrain-Asian-Hutan-Pantai-01.jpg" class="terrainimg" loading="lazy" alt="Terrain Asian Hutan Pantai Farming Simulator 25 Screenshot" title="Terrain Asian Hutan Pantai Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Terrain-Asian-Hutan-Pantai-04.jpg" target="_blank"><img src="screenshots/thumbs/Terrain-Asian-Hutan-Pantai-04.jpg" class="terrainimg" loading="lazy" alt="Terrain Asian Hutan Pantai Farming Simulator 25 Screenshot" title="Terrain Asian Hutan Pantai Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Terrain-Asian-Hutan-Pantai-03.jpg" target="_blank"><img src="screenshots/thumbs/Terrain-Asian-Hutan-Pantai-03.jpg" class="terrainimg" loading="lazy" alt="Terrain Asian Hutan Pantai Farming Simulator 25 Screenshot" title="Terrain Asian Hutan Pantai Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Terrain-Asian-Hutan-Pantai-06.jpg" target="_blank"><img src="screenshots/thumbs/Terrain-Asian-Hutan-Pantai-06.jpg" class="terrainimg" loading="lazy" alt="Terrain Asian Hutan Pantai Farming Simulator 25 Screenshot" title="Terrain Asian Hutan Pantai Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Terrain-Asian-Hutan-Pantai-02.jpg" target="_blank"><img src="screenshots/thumbs/Terrain-Asian-Hutan-Pantai-02.jpg" class="terrainimg" loading="lazy" alt="Terrain Asian Hutan Pantai Farming Simulator 25 Screenshot" title="Terrain Asian Hutan Pantai Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Terrain-Asian-Hutan-Pantai-05.jpg" target="_blank"><img src="screenshots/thumbs/Terrain-Asian-Hutan-Pantai-05.jpg" class="terrainimg" loading="lazy" alt="Terrain Asian Hutan Pantai Farming Simulator 25 Screenshot" title="Terrain Asian Hutan Pantai Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Terrain-Asian-Hutan-Pantai-07.jpg" target="_blank"><img src="screenshots/thumbs/Terrain-Asian-Hutan-Pantai-07.jpg" class="terrainimg" loading="lazy" alt="Terrain Asian Hutan Pantai Farming Simulator 25 Screenshot" title="Terrain Asian Hutan Pantai Farming Simulator 25 Screenshot"></a>
+
+<p>
+That's all the screenshots released so far for FS25 SEA terrain called Hutan Pantai.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
