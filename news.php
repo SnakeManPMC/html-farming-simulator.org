@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-10-03T22:24:00Z Farming Simulator 25 Rice Planting and Harvesting information has been released, see <a href="25/news-pre-release/crops.php">FS25 Pre-Release News: Crops</a> for details and screenshots.
+</p>
+
+<p>
 2024-09-27T13:43:00Z Giants friday fact sheets is out again, new vehicle specifications with screenshots added to <a href="25/news-pre-release/vehicles.php">Farming Simulator 25 (FS25) Pre-Release News Vehicles</a> page, enjoy the new upcoming FS25 vehicles.
 </p>
 
