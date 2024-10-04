@@ -273,6 +273,38 @@ Iseki PRJ8D rice planter.
  
 <a href="screenshots/Iseki-PRJ8D-02.jpg" target="_blank"><img src="screenshots/thumbs/Iseki-PRJ8D-02.jpg" class="terrainimg" loading="lazy" alt="Iseki PRJ8D rice planter Farming Simulator 25 Screenshot" title="Iseki PRJ8D rice planter Farming Simulator 25 Screenshot"></a> 
 
+
+<p>
+2024-10-04 Giants friday fact sheets. -source <a href="https://www.farming-simulator.com/newsArticle.php?news_id=554" target="_blank">Giants website blog</a>.
+</p>
+
+<p>
+John Deere 9RX Series and Bednar Swifterdisc XE 18400 Mega
+</p>
+
+<a href="screenshots/John-Deere-9RX-Bednar-Swifterdisc-XR-18400-01.jpg" target="_blank"><img src="screenshots/thumbs/John-Deere-9RX-Bednar-Swifterdisc-XR-18400-01.jpg" class="terrainimg" loading="lazy" alt="Friday Fact Sheets Farming Simulator 25 Screenshot" title="Friday Fact Sheets Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/John-Deere-9RX-Bednar-Swifterdisc-XR-18400-02.jpg" target="_blank"><img src="screenshots/thumbs/John-Deere-9RX-Bednar-Swifterdisc-XR-18400-02.jpg" class="terrainimg" loading="lazy" alt="Friday Fact Sheets Farming Simulator 25 Screenshot" title="Friday Fact Sheets Farming Simulator 25 Screenshot"></a>
+
+<p>
+Manitou MLT 841-145 PS+
+</p>
+
+<a href="screenshots/Manitou-MLT-841-145-01.jpg" target="_blank"><img src="screenshots/thumbs/Manitou-MLT-841-145-01.jpg" class="terrainimg" loading="lazy" alt="Friday Fact Sheets Farming Simulator 25 Screenshot" title="Friday Fact Sheets Farming Simulator 25 Screenshot"></a>
+
+<p>
+Oxbo EPD540e
+</p>
+
+<a href="screenshots/Oxbo-EPD540e-03.jpg" target="_blank"><img src="screenshots/thumbs/Oxbo-EPD540e-03.jpg" class="terrainimg" loading="lazy" alt="Friday Fact Sheets Farming Simulator 25 Screenshot" title="Friday Fact Sheets Farming Simulator 25 Screenshot"></a>
+
+<p>
+Siloking TrailedLine 4.0 System 1000+
+</p>
+
+<a href="screenshots/Siloking-TrailedLine-4-System-1000-01.jpg" target="_blank"><img src="screenshots/thumbs/Siloking-TrailedLine-4-System-1000-01.jpg" class="terrainimg" loading="lazy" alt="Friday Fact Sheets Farming Simulator 25 Screenshot" title="Friday Fact Sheets Farming Simulator 25 Screenshot"></a>
+
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
