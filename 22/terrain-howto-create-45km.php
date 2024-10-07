@@ -4,7 +4,6 @@
 <title>HOWTO Create 45km Terrain Farming Simulator 22 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
 <META name="description" content="HOWTO Create 45km Terrain Farming Simulator 22 - PMC Farming">
-<META name="keywords" content="Tutorial, Create, 45km, Terrain, PMC">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,7 +16,7 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-<h1><b>HOWTO Create 45km Terrain Farming Simulator 22 - PMC Farming</b></h1>
+	<h1>HOWTO Create 45km Terrain Farming Simulator 22 - PMC Farming</h1>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
@@ -26,7 +25,7 @@
 	<h2>What We Already Know</h2>
 
 <p>
-<b>2022-02-14T00:14:00Z</b> Updated.
+<b>2024-10-07T11:13:00Z</b> Updated.
 </p>
 
 <p>
@@ -50,7 +49,7 @@ Elmcreek and rest of the Giants terrains are 2048 x 2048 meters, which is 2km. S
 	<h2>terrainName.i3d</h2>
 
 <p>
-Open terrainName.i3d in proper text editor, search for string "<a href="terrain-unitsperpixel.php">unitsPerPixel</a>" which is value 2 now, then change it to 11, see below:
+Open terrainName.i3d in proper text editor, search for string "<a href="../19/terrain-unitsperpixel.php">unitsPerPixel</a>" which is value 2 now, then change it to 11, see below:
 </p>
 
 <pre>
