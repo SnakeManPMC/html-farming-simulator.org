@@ -16,7 +16,7 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-<h1><b>PMC Terrains Farming Simulator 25</b></h1>
+	<h1>PMC Terrains Farming Simulator 25</h1>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
@@ -25,11 +25,7 @@
 	<h2>PMC Terrain News</h2>
 
 <p>
-<a href="https://www.pmctactical.org/forum/viewtopic.php?f=82&t=23009" target="_blank">PMC Tactical Forum "Farming Simulator 25 Game Gift to PMC" topic</a> has information how to help with PMC terrain development for FS25.
-</p>
-
-<p>
-Possible PMC terrains to be ported for FS25 include:
+Possible PMC terrains to be ported for Farming Simulator 25 (FS25) include:
 </p>
 <ul>
 <li><a href="../19/pmc-iowa-garden-city-8km.php">PMC Iowa Garden City 8km (FS19)</a></li>
