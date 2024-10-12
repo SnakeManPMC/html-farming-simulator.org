@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-10-12T07:40:00Z Giants friday fact sheets is out (2024-10-11), new vehicle specifications with screenshots added to <a href="25/news-pre-release/vehicles.php">Farming Simulator 25 (FS25) Pre-Release News Vehicles</a> page, enjoy the screenshots.
+</p>
+
+<p>
 2024-10-10T14:55:27Z Farming Simulator 25 (FS25) Preview: Goats! Information got released today, check out <a href="25/news-pre-release/animals.php">FS25 Animals</a> page for pre-release news about new animals coming in the next farmsim game engine.
 </p>
 

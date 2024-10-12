@@ -304,6 +304,37 @@ Siloking TrailedLine 4.0 System 1000+
 
 <a href="screenshots/Siloking-TrailedLine-4-System-1000-01.jpg" target="_blank"><img src="screenshots/thumbs/Siloking-TrailedLine-4-System-1000-01.jpg" class="terrainimg" loading="lazy" alt="Friday Fact Sheets Farming Simulator 25 Screenshot" title="Friday Fact Sheets Farming Simulator 25 Screenshot"></a>
 
+<p>
+2024-10-11 Giants friday fact sheets. -source <a href="https://www.farming-simulator.com/newsArticle.php?news_id=554" target="_blank">Giants website blog</a>.
+</p>
+
+<p>
+Sugar Beet Harvester Amity 2720 Harvester Scrub and Amity Crop Chaser 1000.
+</p>
+
+<a href="screenshots/Amity-2720-Harvester-Scrub-Crop-Chaser-1000-02.jpg" target="_blank"><img src="screenshots/thumbs/Amity-2720-Harvester-Scrub-Crop-Chaser-1000-02.jpg" class="terrainimg" loading="lazy" alt="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Amity-2720-Harvester-Scrub-Crop-Chaser-1000-01.jpg" target="_blank"><img src="screenshots/thumbs/Amity-2720-Harvester-Scrub-Crop-Chaser-1000-01.jpg" class="terrainimg" loading="lazy" alt="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<p>
+Sugar Beet Harvester Agrifac LightTraxx.
+</p>
+
+<a href="screenshots/Agrifac-LightTraxx-01.jpg" target="_blank"><img src="screenshots/thumbs/Agrifac-LightTraxx-01.jpg" class="terrainimg" loading="lazy" alt="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<p>
+Direct Drill (seeder) Kockerling Ultima 800.
+</p>
+
+<a href="screenshots/Kockerling-Ultima-800-01.jpg" target="_blank"><img src="screenshots/thumbs/Kockerling-Ultima-800-01.jpg" class="terrainimg" loading="lazy" alt="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<p>
+Harvester and Header Massey Ferguson 8570.
+</p>
+
+<a href="screenshots/Massey-Ferguson-8570-01.jpg" target="_blank"><img src="screenshots/thumbs/Massey-Ferguson-8570-01.jpg" class="terrainimg" loading="lazy" alt="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Massey-Ferguson-8570-02.jpg" target="_blank"><img src="screenshots/thumbs/Massey-Ferguson-8570-02.jpg" class="terrainimg" loading="lazy" alt="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
