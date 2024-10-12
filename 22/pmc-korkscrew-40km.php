@@ -200,7 +200,7 @@ PMC_Korkscrew_40km_v0.1.7z 48.4mb <a href="magnet:?xt=urn:btih:c858d2fee2c6dfa33
 </p>
 
 <p>
-For installing please read <a href="install-mods.php">how to install FS19 mods</a> and <a href="install-pmc-terrain-mods.php">how to install PMC terrain mods</a>. Yes FS19 tutorials work just fine for FS22 in this case.
+For installing please read <a href="../19/install-mods.php">how to install FS19 mods</a> and <a href="../19/install-pmc-terrain-mods.php">how to install PMC terrain mods</a>. Yes FS19 tutorials work just fine for FS22 in this case.
 </p>
 </div>
 

@@ -190,7 +190,7 @@ PMC_Ohio_Alger_10km_v0.0.7z 00.0mb <a href="downloads/">farming-simulator.org</a
 </p>
 
 <p>
-For installing please read <a href="install-mods.php">how to install FS19 mods</a> and <a href="install-pmc-terrain-mods.php">how to install PMC terrain mods</a>. Yes FS19 tutorials work just fine for FS22 in this case.
+For installing please read <a href="../19/install-mods.php">how to install FS19 mods</a> and <a href="../19/install-pmc-terrain-mods.php">how to install PMC terrain mods</a>. Yes FS19 tutorials work just fine for FS22 in this case.
 </p>
 -->
 </div>

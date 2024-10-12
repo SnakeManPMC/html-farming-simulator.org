@@ -195,7 +195,7 @@ PMC_Super_Six_6km_v0.1.7z 45.6mb <a href="magnet:?xt=urn:btih:84118972037745f586
 </p>
 
 <p>
-For installing please read <a href="install-mods.php">how to install FS19 mods</a> and <a href="install-pmc-terrain-mods.php">how to install PMC terrain mods</a>. Yes FS19 tutorials work just fine for FS22 in this case.
+For installing please read <a href="../19/install-mods.php">how to install FS19 mods</a> and <a href="../19/install-pmc-terrain-mods.php">how to install PMC terrain mods</a>. Yes FS19 tutorials work just fine for FS22 in this case.
 </p>
 </div>
 

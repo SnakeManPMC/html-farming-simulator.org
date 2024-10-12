@@ -254,7 +254,7 @@ PMC_Undefined_Farms_20km_v0.1.3.7z 67.5mb <a href="magnet:?xt=urn:btih:4a0dba28f
 </p>
 
 <p>
-For installing please read <a href="install-mods.php">how to install FS19 mods</a> and <a href="install-pmc-terrain-mods.php">how to install PMC terrain mods</a>.
+For installing please read <a href="../19/install-mods.php">how to install FS19 mods</a> and <a href="../19/install-pmc-terrain-mods.php">how to install PMC terrain mods</a>.
 </p>
 </div>
 
