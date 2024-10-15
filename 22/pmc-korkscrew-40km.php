@@ -199,9 +199,7 @@ PMC terrains are error free, as long as player uses required mods.
 PMC_Korkscrew_40km_v0.1.7z 48.4mb <a href="magnet:?xt=urn:btih:c858d2fee2c6dfa338df59d6149b916d7732dfbb&xt=urn:btmh:12204af5df108fae01d299e9646166246d99cd63a44f76bc40a1dadeca408feb8d0a&dn=PMC_Korkscrew_40km_v0.1.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/1ygiKlgU4R0yQsguY0LXK23C65kUPttuh/view?usp=sharing" target="_blank">google drive</a>.
 </p>
 
-<p>
-For installing please read <a href="../19/install-mods.php">how to install FS19 mods</a> and <a href="../19/install-pmc-terrain-mods.php">how to install PMC terrain mods</a>. Yes FS19 tutorials work just fine for FS22 in this case.
-</p>
+<?php include("../include/fs22-install-mods.php"); ?>
 </div>
 
 <?php include("/var/www/include/section-end.php"); ?>

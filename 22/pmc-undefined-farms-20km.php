@@ -253,9 +253,7 @@ PMC terrains are error free, as long as player uses required mods.
 PMC_Undefined_Farms_20km_v0.1.3.7z 67.5mb <a href="magnet:?xt=urn:btih:4a0dba28f3723a26839fdacca56090b79a9f6140&xt=urn:btmh:1220f7c4421324c114578153ae087031539d2cbe12d686992ee578cdbbbdfee3e67b&dn=PMC_Undefined_Farms_20km_v0.1.3.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/1djLLejaEVmGdfdIx8-8NxqtJ9Yf-Cqd9/view?usp=sharing" target="_blank">google drive</a>.
 </p>
 
-<p>
-For installing please read <a href="../19/install-mods.php">how to install FS19 mods</a> and <a href="../19/install-pmc-terrain-mods.php">how to install PMC terrain mods</a>.
-</p>
+<?php include("../include/fs22-install-mods.php"); ?>
 </div>
 
 <?php include("/var/www/include/section-end.php"); ?>

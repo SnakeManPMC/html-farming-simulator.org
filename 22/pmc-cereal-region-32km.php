@@ -177,9 +177,7 @@ PMC terrains are error free, as long as player uses required mods.
 PMC_Cereal_Region_32km_v0.1.3.7z 54.9mb <a href="magnet:?xt=urn:btih:a0fe5c74ed02ee2390756b539fbc41d08feacfc0&xt=urn:btmh:12207c47b36580d2c979d2c95c1d3f7516c1ccb19057918982f608af98d14e4a483a&dn=PMC_Cereal_Region_32km_v0.1.3.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>, mirror: <a href="https://drive.google.com/file/d/13z5-d1s_3ZSqxMfUhqEorTc2IaQiyfXj/view?usp=sharing" target="_blank">google drive</a>.
 </p>
 
-<p>
-For installing please read <a href="../19/install-mods.php">how to install FS19 mods</a> and <a href="../19/install-pmc-terrain-mods.php">how to install PMC terrain mods</a>. Yes these FS19 tutorials still work with FS22 with the obvious "19" versus "22" changes.
-</p>
+<?php include("../include/fs22-install-mods.php"); ?>
 </div>
 
 <?php include("/var/www/include/section-end.php"); ?>
