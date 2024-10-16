@@ -26,7 +26,7 @@
 	<h2>Background FS22 Story</h2>
 
 <p>
-Please read <a href="test-from-zero-pmc-undefined-farms-20km.php">Test From Zero PMC Undefined Farms 20km Homepage</a> for details.
+Please read <a href="stories-test-from-zero-pmc-undefined-farms-20km.php">Test From Zero PMC Undefined Farms 20km Homepage</a> for details.
 </p>
 
 	<h2>2022-12-30 The End</h2>
