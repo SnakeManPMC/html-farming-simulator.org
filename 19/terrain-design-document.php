@@ -270,7 +270,7 @@ Another option is to paint this selection with color of your choice to mark it a
 	<h2>Field Shape Bad Design Choices</h2>
 
 <p>
-<i>Special note: this info was taken from <a href="dev-diary-pmc-undefined-farms-20km.php">dev diary PMC Undefined Farms 20km</a> page.</i>
+<i>Special note: this info was taken from <a href="../22/dev-diary-pmc-undefined-farms-20km.php">dev diary PMC Undefined Farms 20km</a> page.</i>
 </p>
 
 <p>
