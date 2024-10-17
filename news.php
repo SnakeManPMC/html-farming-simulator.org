@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-10-17T23:18:00Z New information about Farming Simulator 25 (FS25) Production Chains and "Constructions" has been released, see <a href="25/news-pre-release/production-chains.php">Farming Simulator 25 (FS25) Pre-Release News Production Chains</a> page for details.
+</p>
+
+<p>
 2024-10-12T07:40:00Z Giants friday fact sheets is out (2024-10-11), new vehicle specifications with screenshots added to <a href="25/news-pre-release/vehicles.php">Farming Simulator 25 (FS25) Pre-Release News Vehicles</a> page, enjoy the screenshots.
 </p>
 

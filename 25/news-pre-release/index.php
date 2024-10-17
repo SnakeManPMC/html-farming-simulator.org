@@ -30,6 +30,7 @@ Welcome to Farming Simulator 25 (FS25) Pre-Release News page by PMC. The purpose
 <p><a href="animals.php">Animals</a></p>
 <p><a href="crops.php">Crops</a></p>
 <p><a href="engine.php">Engine</a></p>
+<p><a href="production-chains.php">Production Chains</a></p>
 <p><a href="terrains.php">Terrains</a></p>
 <p><a href="vehicles.php">Vehicles</a></p>
 
