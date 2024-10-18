@@ -336,6 +336,39 @@ Harvester and Header Massey Ferguson 8570.
 
 <a href="screenshots/Massey-Ferguson-8570-02.jpg" target="_blank"><img src="screenshots/thumbs/Massey-Ferguson-8570-02.jpg" class="terrainimg" loading="lazy" alt="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
 
+
+<p>
+2024-10-18 Giants friday fact sheets. -source <a href="https://www.farming-simulator.com/newsArticle.php?news_id=554" target="_blank">Giants website blog</a>.
+</p>
+
+<p>
+Claas Xerio 12 650 TT.
+</p>
+
+<a href="screenshots/Claas-Xerion-12_650-TT-02.jpg" target="_blank"><img src="screenshots/thumbs/Claas-Xerion-12_650-TT-02.jpg" class="terrainimg" loading="lazy" alt="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<p>
+Riedler Fahrzeugbau FH16 RUL HKR RUH327.
+</p>
+
+<a href="screenshots/Riedler-Fahrzeugbau-FH16-RUL-HKR-RUH327-01.jpg" target="_blank"><img src="screenshots/thumbs/Riedler-Fahrzeugbau-FH16-RUL-HKR-RUH327-01.jpg" class="terrainimg" loading="lazy" alt="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/Riedler-Fahrzeugbau-FH16-RUL-HKR-RUH327-02.jpg" target="_blank"><img src="screenshots/thumbs/Riedler-Fahrzeugbau-FH16-RUL-HKR-RUH327-02.jpg" class="terrainimg" loading="lazy" alt="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<p>
+Grimme Matrix 1800.
+</p>
+
+<a href="screenshots/Grimme-Matrix-1800-01.jpg" target="_blank"><img src="screenshots/thumbs/Grimme-Matrix-1800-01.jpg" class="terrainimg" loading="lazy" alt="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<p>
+SaMASZ XT 390 Virtus 135 RVshift.
+</p>
+
+<a href="screenshots/SaMASZ-XT-390-Virtus-135-RVshift-01.jpg" target="_blank"><img src="screenshots/thumbs/SaMASZ-XT-390-Virtus-135-RVshift-01.jpg" class="terrainimg" loading="lazy" alt="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<a href="screenshots/SaMASZ-XT-390-Virtus-135-RVshift-02.jpg" target="_blank"><img src="screenshots/thumbs/SaMASZ-XT-390-Virtus-135-RVshift-02.jpg" class="terrainimg" loading="lazy" alt="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
