@@ -7,7 +7,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- google analytics -->
 <?php include("include/google-analytics.php"); ?>
 
 </head>
@@ -16,7 +15,7 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-<h1>PMC Farming Simulator</h1>
+	<h1>PMC Farming Simulator</h1>
 <p>Welcome to PMC Farming Simulator homepage.</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
@@ -27,8 +26,9 @@
 
 <p>
 <a href="25/news-pre-release/index.php" class="button">Pre-Release News</a>
-<a href="25/pmc-terrains.php" class="button">PMC Terrains</a>
+<a href="25/contracts.php" class="button">Contracts</a>
 <a href="25/guide.php" class="button">Guide</a>
+<a href="25/pmc-terrains.php" class="button">PMC Terrains</a>
 <a href="25/settings.php" class="button">Settings</a>
 <a href="https://www.pmctactical.org/forum/viewforum.php?f=80" target="_blank" class="button">Forum FS25</a>
 </p>
