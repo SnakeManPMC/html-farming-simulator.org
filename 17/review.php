@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>PMC Farming Simulator Review - PMC Farming</title>
+<title>PMC Farming Simulator 17 Review - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="PMC Farming Simulator Review - PMC Farming">
-<META name="keywords" content="PMC Farming Simulator Review, PMC, Farming">
+<META name="description" content="PMC Farming Simulator 17 Review - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- google analytics -->
 <?php include("../include/google-analytics.php"); ?>
 
 </head>
@@ -17,13 +15,17 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-<h1><b>PMC Farming Simulator Review</b></h1>
+	<h1>PMC Farming Simulator 17 Review</h1>
+
+<p>
+Game review of Farming Simulator 17 (FS17) by PMC.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-<h2>Too Long, Didn't Read</h2>
+	<h2>Too Long, Didn't Read</h2>
 
 <p>
 Farming Simulator 17 is excellent game. Highly recommended for everyone <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
@@ -36,7 +38,7 @@ When I was a child back in the late 70's like under 10 years old or something, t
 </p>
 
 <p>
-So fast forward to early 2017 when I was watching my favorite <a href="http://www.elitedangerous.net" target="_blank">Elite Dangerous</a> twitch streamer who to my disappointment started to often play Farming Simulator 17, which time I usually stopped watching. Eventually I decided to watch some and it then grew into me actually wanting to watch him play this "stupid game" heh. Well finally the time came when I decided to try Farming Simulator 17 the first time, this was May 7th, 2017. I fell in love right at that moment, then Big Bud DLC was released two days later. I spent over a month (at the time of writing of this review) playing non-stop every day 16hrs+ to the point of my life becoming halted while I was like a drug addict junkie just getting my next fix on farming sim heh, crazy stuff maan...
+So fast forward to early 2017 when I was watching my favorite <a href="https://www.elitedangerous.net" target="_blank">Elite Dangerous</a> twitch streamer who to my disappointment started to often play Farming Simulator 17, which time I usually stopped watching. Eventually I decided to watch some and it then grew into me actually wanting to watch him play this "stupid game" heh. Well finally the time came when I decided to try Farming Simulator 17 the first time, this was May 7th, 2017. I fell in love right at that moment, then Big Bud DLC was released two days later. I spent over a month (at the time of writing of this review) playing non-stop every day 16hrs+ to the point of my life becoming halted while I was like a drug addict junkie just getting my next fix on farming sim heh, crazy stuff maan...
 </p>
 
 	<h2>Base Game</h2>
@@ -50,7 +52,7 @@ Game performance is great, I run it on i7 4790K, 16gb ram and GTX Titan X. Worth
 </p>
 
 <p>
-Lower quality than ArmA 3, but that is not a bad thing, just an observation.
+Lower quality than <a href="https://www.pmctactical.org/arma3/index.php" target="_blank">ArmA 3</a>, but that is not a bad thing, just an observation.
 </p>
 
 <p>
@@ -121,7 +123,7 @@ At the moment of writing this review KUHN and Big Bud DLC's have been released. 
 </p>
 
 <p>
-Big Bud DLC causes some stutter when many of the fancy new models are present (no wonder with 50k tri's models heh, especially if they have crappy LODs or the game handling LODs badly). Well kind of obvious and I didn't go overboard to add everything in one spot, but just buying the best plow, cultivator, seeder + tank and both big buds causes some stutter when coming to that area where they are located. This was on North West Texas 4km map, I played there for days perfectly smooth 60FPS but once purchased the above, some slight stutter.
+Big Bud DLC causes some stutter when many of the fancy new models are present (no wonder with 50k tri's models heh, especially if they have crappy LODs or the game handling LODs badly). Well kind of obvious and I didn't go overboard to add everything in one spot, but just buying the best plow, cultivator, air drill + air cart and both big buds causes some stutter when coming to that area where they are located. This was on North West Texas 4km terrain, I played there for days perfectly smooth 60FPS but once purchased the above, some slight stutter.
 </p>
 
 
@@ -140,11 +142,11 @@ Most user made content releases are horrible (not the content but the <i>release
 </p>
 
 <p>
-User made maps with objects has various quality models and textures, meaning usually low quality almost to the lego style by todays standards, especially textures are horrendously low quality.
+User made terrains with objects has various quality models and textures, meaning usually low quality almost to the lego style by todays standards, especially textures are horrendously low quality.
 </p>
 
 <p>
-Game has inbuild system to browse mods and download them from <a href="https://www.farming-simulator.com/mods.php">Farming Simulator Modhub</a> which is the official FS17 developers web site. Game does not search mods from other sites. You can even update mods if game detects newer version released.
+Game has inbuild system to browse mods and download them from <a href="https://www.farming-simulator.com/mods.php" target="_blank">Farming Simulator Giants Modhub</a> which is the official FS17 developers web site. Game does not search mods from other sites. You can even update mods if game detects newer version released.
 </p>
 
 
