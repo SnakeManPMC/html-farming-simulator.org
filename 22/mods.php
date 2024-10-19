@@ -7,7 +7,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- google analytics -->
 <?php include("../include/google-analytics.php"); ?>
 
 </head>
@@ -16,7 +15,11 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-<h1>PMC Farming Simulator 22 Mods</h1>
+	<h1>PMC Farming Simulator 22 Mods</h1>
+
+<p>
+Modifications aka Mods for Farming Simulator 22 (FS22).
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
@@ -25,7 +28,7 @@
 	<h2>FS22 Mods</h2>
 
 <p>
-<b>2024-03-03</b> updated.
+<b>2024-10-19T08:35:52Z</b> updated.
 </p>
 
 <p>
@@ -38,6 +41,7 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79
 <li><a href="mods-cultivator.php">Cultivator</a></li>
 <li><a href="mods-disc-harrow.php">Disc Harrow</a></li>
 <li><a href="mods-game-play.php">Game-play</a> additional field info, contracts hud, better contracts, enlage yield etc</li>
+<li><a href="mods-pending-testing.php">Mods Pending Testing</a> a list of untested mods, scheduled for testing.</li>
 </ul>
 
 <?php include("/var/www/include/section-end.php"); ?>
