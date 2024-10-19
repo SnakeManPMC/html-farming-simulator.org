@@ -31,10 +31,8 @@ See our older <a href="../17/stories.php">FS17 stories</a>, <a href="../19/stori
 </p>
 
 <p>
+<a href="stories-new-farmer-riverbend-springs.php" class="button">New Farmer Riverbend Springs</a>
 <a href="stories-release-and-install.php" class="button">FS25 Release and Install</a>
-<!-- coming soon hehe
-<a href="stories-new-farmer-riverbend-springs.php" class="button">New Farmer Elmcreek (first game-play)</a>
--->
 </p>
 
 <?php include("../include/fs25-placeholder-pages.php"); ?>
