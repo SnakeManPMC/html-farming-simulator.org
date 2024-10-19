@@ -30,6 +30,7 @@
 <a href="25/dev-diary.php" class="button">Dev Diary</a>
 <a href="25/equipment-vehicle-prices.php" class="button">Equipment Vehicle Prices</a>
 <a href="25/guide.php" class="button">Guide</a>
+<a href="25/mods.php" class="button">Mods</a>
 <a href="25/pmc-terrains.php" class="button">PMC Terrains</a>
 <a href="25/settings.php" class="button">Settings</a>
 <a href="https://www.pmctactical.org/forum/viewforum.php?f=80" target="_blank" class="button">Forum FS25</a>
