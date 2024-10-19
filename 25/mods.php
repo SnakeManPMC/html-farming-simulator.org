@@ -30,6 +30,7 @@ Modifications for Farming Simulator 25 (FS25), aka "mods". These include tractor
 <ul>
 <li><a href="mods-baler.php">Baler</a> to get grass or hay into more manageable bales, you need a baler.</li>
 <li><a href="mods-combine-harvester.php">Combine Harvester</a> harvest is the king of farming activities, for that you need a good combine harvester.</li>
+<li><a href="mods-cultivator.php">Cultivator</a> turning dirt, working the ground, need a crop put under, use cultivator.</li>
 <li></li>
 </ul>
 
