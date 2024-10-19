@@ -7,7 +7,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- google analytics -->
 <?php include("../include/google-analytics.php"); ?>
 
 </head>
@@ -16,16 +15,20 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-<h1>PMC Farming Simulator 19 Review</h1>
+	<h1>PMC Farming Simulator 19 Review</h1>
+
+<p>
+Game review of Farming Simulator 19 (FS19) by PMC.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-<h2>Too Long, Didn't Read</h2>
+	<h2>Too Long, Didn't Read</h2>
 
 <p>
-Farming Simulator 19 is a good game. Highly recommended for everyone :-)
+Farming Simulator 19 is a good game. Highly recommended for everyone <img src="../images/smileys/icon_biggrin.gif" alt="Smiley :D" loading="lazy">
 </p>
 
 <p>
@@ -68,7 +71,7 @@ At night when you go to your farm house it gives you option to sleep a selected 
 	<h2>Environment</h2>
 
 <p>
-Terrain is better than FS17 but is not as beautiful as in ArmA 3. I still feel that it is huge black eye for the game as vehicles are superb but the terrain and many terrain objects look like they are from two decades old game and the rain, sun in the sky, night... that is just so outdated and bad that oh boy. It is a bit better than in FS17 so there has been some improvement, but the devs really need to get their act together and overhaul the environment engine COMPLETELY.
+Terrain is better than FS17 but is not as beautiful as in <a href="https://www.pmctactical.org/arma3/index.php" target="_blank">ArmA 3</a>. I still feel that it is huge black eye for the game as vehicles are superb but the terrain and many terrain objects look like they are from two decades old game and the rain, sun in the sky, night... that is just so outdated and bad that oh boy. It is a bit better than in FS17 so there has been some improvement, but the devs really need to get their act together and overhaul the environment engine COMPLETELY.
 </p>
 
 <p>
@@ -92,11 +95,11 @@ Sun is in the sky and as it moves seemlessly as time passes, however as said the
 </p>
 
 <p>
-Clouds are rendered in the sky, to me coming from arma3 they look pretty crappy, however they are great improvement over the absolutely disgusting static skybox of FS17. Clouds are moving on the sky, this is especially easy to see once you time accelerate. Now we have different environmental conditions, clear sky, few clouds, thick clouds and everything between, looks very nice farm sim engine wise until devs overhaul the environment engine.
+Clouds are rendered in the sky, to me coming from ArmA 3 they look pretty crappy, however they are great improvement over the absolutely disgusting static skybox of FS17. Clouds are moving on the sky, this is especially easy to see once you time accelerate. Now we have different environmental conditions, clear sky, few clouds, thick clouds and everything between, looks very nice farm sim engine wise until devs overhaul the environment engine.
 </p>
 
 <p>
-Rain looks much better now than in FS17, you hear clear rain drops sounds and even occational thunder rumble which is nice. Clouds get dark gray in the sky and you do get that raining feeling definitely, again its no arma3 but hey this is great improvement over FS17 and now the raining weather feels at least somewhat believable.
+Rain looks much better now than in FS17, you hear clear rain drops sounds and even occational thunder rumble which is nice. Clouds get dark gray in the sky and you do get that raining feeling definitely, again its no ArmA 3 but hey this is great improvement over FS17 and now the raining weather feels at least somewhat believable.
 </p>
 
 <p>
@@ -108,7 +111,7 @@ Moon rises at the sky, however cloudless sky at night with the moon causes "glow
 </p>
 
 <p>
-Sounds from the environment have been greatly improved from FS17, now you can hear birds, insects (like those night insects chirping) etc, it sounds very nice as opposed to the previous about nothing sound environment. And as mentioned rain sounds now better with occational thunder rumble. It brings the environment alive much more than quiet one. However for example the bird and dog sounds are randomly created which causes some really odd stuff like owl sound in middle of the open terrain (no trees) or dog sound in the forest (why would a dog be doing alone in the woods heh). Also the sounds are spawned relative to camera position, often times this is high up behind a vehicle so like dog is parking in the sky, err what? hehe.
+Sounds from the environment have been greatly improved from FS17, now you can hear birds, insects (like those night insects chirping) etc, it sounds very nice as opposed to the previous about nothing sound environment. And as mentioned rain sounds now better with occational thunder rumble. It brings the environment alive much more than quiet one. However for example the bird and dog sounds are randomly created which causes some really odd stuff like owl sound in middle of the open terrain (no trees) or dog sound in the forest (what would a dog be doing alone in the woods heh). Also the sounds are spawned relative to camera position, often times this is high up behind a vehicle so like dog is parking in the sky, err what? hehe.
 </p>
 
 
