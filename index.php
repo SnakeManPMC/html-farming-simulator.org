@@ -28,6 +28,7 @@
 <a href="25/news-pre-release/index.php" class="button">Pre-Release News</a>
 <a href="25/contracts.php" class="button">Contracts</a>
 <a href="25/dev-diary.php" class="button">Dev Diary</a>
+<a href="25/equipment-vehicle-prices.php" class="button">Equipment Vehicle Prices</a>
 <a href="25/guide.php" class="button">Guide</a>
 <a href="25/pmc-terrains.php" class="button">PMC Terrains</a>
 <a href="25/settings.php" class="button">Settings</a>
