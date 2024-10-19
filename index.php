@@ -33,6 +33,7 @@
 <a href="25/mods.php" class="button">Mods</a>
 <a href="25/pmc-terrains.php" class="button">PMC Terrains</a>
 <a href="25/settings.php" class="button">Settings</a>
+<a href="25/stories.php" class="button">Stories</a>
 <a href="https://www.pmctactical.org/forum/viewforum.php?f=80" target="_blank" class="button">Forum FS25</a>
 </p>
 
