@@ -32,7 +32,7 @@ Modifications for Farming Simulator 25 (FS25), aka "mods". These include tractor
 <li><a href="mods-combine-harvester.php">Combine Harvester</a> harvest is the king of farming activities, for that you need a good combine harvester.</li>
 <li><a href="mods-cultivator.php">Cultivator</a> turning dirt, working the ground, need a crop put under, use cultivator.</li>
 <li><a href="mods-disc-harrow.php">Disc Harrow</a> does shallow cultivating, stubble tillage field surface.</li>
-<li></li>
+<li><a href="mods-game-play.php">Game-play</a> HOWTO enhanced basic game-play.</li>
 </ul>
 
 <?php include("../include/fs25-placeholder-pages.php"); ?>
