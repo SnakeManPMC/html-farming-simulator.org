@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-10-19T22:15:44Z Wrote and released <a href="22/review.php">Farming Simulator 22 (FS22) Review</a> web page.
+</p>
+
+<p>
 2024-10-18T22:51:00Z Giants friday fact sheets is out (2024-10-18), new vehicle specifications with screenshots added to <a href="25/news-pre-release/vehicles.php">Farming Simulator 25 (FS25) Pre-Release News Vehicles</a> page, enjoy the screenshots.
 </p>
 
