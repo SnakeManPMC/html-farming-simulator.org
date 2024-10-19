@@ -33,6 +33,7 @@ Modifications for Farming Simulator 25 (FS25), aka "mods". These include tractor
 <li><a href="mods-cultivator.php">Cultivator</a> turning dirt, working the ground, need a crop put under, use cultivator.</li>
 <li><a href="mods-disc-harrow.php">Disc Harrow</a> does shallow cultivating, stubble tillage field surface.</li>
 <li><a href="mods-game-play.php">Game-play</a> HOWTO enhanced basic game-play.</li>
+<li><a href="mods-pending-testing.php">Mods Pending Testing</a> untested mods schedule for testing.</li>
 </ul>
 
 <?php include("../include/fs25-placeholder-pages.php"); ?>
