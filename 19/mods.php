@@ -7,7 +7,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- google analytics -->
 <?php include("../include/google-analytics.php"); ?>
 
 </head>
@@ -16,13 +15,21 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-<h1><b>PMC Farming Simulator 19 Mods</b></h1>
+	<h1>PMC Farming Simulator 19 Mods</h1>
+
+<p>
+Modifications aka Mods for Farming Simulator 19 (FS19).
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
 	<h2>Mods</h2>
+
+<p>
+<a href="mods-pending-testing.php">Mods Pending Testing</a> is a list of mods that are pending testing.
+</p>
 
 <div class="wrapper_mod_vehicles">
 	<h2>General Mods</h2>
