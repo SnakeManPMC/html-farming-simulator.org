@@ -27,44 +27,11 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <?php include("/var/www/include/section-start.php"); ?>
 
 <p><a href="terrain-create-basic.php">Create Basic Terrain</a> simple basic starter terrain.</p>
+<p><a href="terrain-cultivator_density.php">Terrain Base Fields cultivator_density</a> creating your fields soil texture ground types (whoah, the terminology).</p>
 <p><a href="terrain-giants-editor.php">Giants Editor</a> software to edit terrains.</p>
 <p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
 <p><a href="terrain-size-change.php">Size Change</a> HOWTO change your terrain size specifications.</p>
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
-
-	<h2>Create Base Fields</h2>
-
-<p>
-Terrain foliage paint mode, this is the last of the modes in main header icons.
-</p>
-
-<p>
-Channels 0, 1, 2, and 3 define the type of terrain detail you're painting. These are exclusive channels, meaning that you should enable only one of them at a time.
-</p>
-
-<p>
-Foliage channels for the terrainDetail layer:<br>
-0, Cultivated land<br>
-1, Ploughed land<br>
-2, Seeded/planted land<br>
-3, Seeded/planted potatoes
-</p>
-
-<p>
-Channels 4 through 6 aren't exclusive; you can mix them with each other as well as any of the other channels.
-</p>
-
-<p>
-Control channels for the terrainDetail Foliage Layer:<br>
-4, Sprayed/fertilized land<br>
-5, Rotate detail texture 45 degrees clockwise<br>
-6, Rotate detail texture 90 degrees<br>
-5+6, Rotate detail texture 45 degrees counter clockwise
-</p>
-
-<p>
-LMB paints, RMB erases.
-</p>
 
 	<h2>Create Field Definitions</h2>
 
