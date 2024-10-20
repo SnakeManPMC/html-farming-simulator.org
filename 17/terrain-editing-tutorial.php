@@ -34,28 +34,13 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-giants-editor.php">Giants Editor</a> software to edit terrains.</p>
 <p><a href="terrain-grain-bin-objects.php">Grain Bin Objects</a> farm grain bins store your grain like animal feed, human consumption or fuel, silos store silage.</p>
 <p><a href="terrain-grle-converter.php">GRLE Converter</a> or grleConverter.exe as its file name is called.</p>
+<p><a href="terrain-image-resolutions-goldcrest-valley.php">Image Resolutions FS17 Goldcrest Valley</a> density and other terrain image resolutions.</p>
 <p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
 <p><a href="terrain-large-field-issues.php">Large Field Issues</a> its not all fun and games working on a very large fields.</p>
 <p><a href="terrain-objects-import.php">Objects Import</a> HOWTO get new objects to your terrain.</p>
 <p><a href="terrain-selling-points.php">Selling Points</a> is where you sell your crops, grain, eggs, milk etc.</p>
 <p><a href="terrain-size-change.php">Size Change</a> HOWTO change your terrain size specifications.</p>
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
-
-	<h2>Goldcrest Valley GRLE and GDM Resolutions</h2>
-
-<p>
-Goldcrest Valley GRLE and GDM image file resolutions:<br>
-cultivator_density.gdm 4096 x 4096<br>
-forestGrass_density.gdm cant open, huh?<br>
-forestGrassDark_density.gdm 4096 x 4096<br>
-fruit_density.gdm 4096 x 4096<br>
-infoLayer.grle 1024 x 1024<br>
-seasons_mask.gdm 2048 x 2048<br>
-terrainDetailHeight_density.gdm 4096 x 4096<br>
-tipColInfoLayer.grle 2048 x 2048<br>
-townDecoGrass_density.gdm 4096 x 4096
-</p>
-
 
 	<h2>User Interface Image Resolutions</h2>
 
