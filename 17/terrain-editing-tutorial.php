@@ -31,33 +31,11 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-field-definitions.php">Field Definitions</a> is the proper term for farmsim fields.</p>
 <p><a href="terrain-field-foliage.php">Field Foliage</a> its like grass, wheat, corn, etc.</p>
 <p><a href="terrain-giants-editor.php">Giants Editor</a> software to edit terrains.</p>
+<p><a href="terrain-grain-bin-objects.php">Grain Bin Objects</a> farm grain bins store your grain like animal feed, human consumption or fuel, silos store silage.</p>
 <p><a href="terrain-grle-converter.php">GRLE Converter</a> or grleConverter.exe as its file name is called.</p>
 <p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
 <p><a href="terrain-size-change.php">Size Change</a> HOWTO change your terrain size specifications.</p>
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
-
-	<h2>Terrain Starter Money</h2>
-
-<p>
-Howto setup your terrain with default starter money? Doesn't appear to be any value in XML files to edit. Looks like only method is to lua script the changed money.
-</p>
-
-	<h2>Grain Silos</h2>
-
-<p>
-Howto setup your terrain with farm grain silos, this is important as after you harvest your field, where do you store the grain? Easiest way is to export the goldcrest valley farmSiloSystem transformgroup, then import it to your terrain.
-</p>
-
-<p>
-You can edit silo capacity from map01.i3d search for capacityPerType or edit normally from giants editor. Below is example setup for 10 million liters.
-</p>
-<pre>
-Attribute name="capacityPerType" type="integer" value="10000000"
-</pre>
-
-<p>
-To change the name of station (the tipTrigger) you have to change a UserAttribute of the trigger. Then locate the trigger/station you want to change. Find the actual trigger which has all the attributes, like "appearsOnPDA", "isAreaTrigger", "onCreate", "stationName" etc. Now you just need to change the value of the attribute "stationName" to what ever you like. The value for "stationName" is a string, which is either directly used or it is used to find an i18n entry. An i18n value can be defined in the modDesc of your mod.
-</p>
 
 	<h2>Animals</h2>
 
@@ -243,6 +221,13 @@ Near fields its good to have small open areas so you can park your vehicles ther
 
 <p>
 Nick Welker said that in real life fields do NOT have a 90 degree square corners, watch <a href="https://youtu.be/1ZIGS8eE6xQ?t=2760" target="_blank">his comments on youtube video</a>. So its more work for you as terrain dev but if you want realism, add round(er) corners for your fields.
+</p>
+
+
+	<h2>Terrain Starter Money</h2>
+
+<p>
+Howto setup your terrain with default starter money? Doesn't appear to be any value in XML files to edit. Looks like only method is to lua script the changed money.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
