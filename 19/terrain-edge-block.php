@@ -66,7 +66,7 @@ For 4km terrain use -2048, for 8km -4096 etc.
 
 <footer>
 <?php include("/var/www/include/footer-start.php"); ?>
-<p><a href="map-making-tutorial.php" class="button">PMC Farming Simulator Map Making Tutorial page</a></p>
+<p><a href="terrain-editing-tutorial.php" class="button">PMC Farming Simulator Terrain Editing Tutorial page</a></p>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
 <?php include("/var/www/include/footer-end.php"); ?>

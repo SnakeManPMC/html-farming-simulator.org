@@ -108,7 +108,7 @@ If you used the above LUA script config variables example, it includes "local al
 
 <footer>
 <?php include("/var/www/include/footer-start.php"); ?>
-<p><a href="map-making-tutorial.php" class="button">PMC Farming Simulator 22 Map Making Tutorial page</a></p>
+<p><a href="terrain-editing-tutorial.php" class="button">PMC Farming Simulator 22 Terrain Editing Tutorial page</a></p>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
 <?php include("/var/www/include/footer-end.php"); ?>

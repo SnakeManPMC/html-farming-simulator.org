@@ -199,7 +199,7 @@ On 2022-02-09T23:06:00Z PMC released the first ever 45km x 45km terrain for FS22
 
 <footer>
 <?php include("/var/www/include/footer-start.php"); ?>
-<p><a href="map-making-tutorial.php" class="button">PMC Farming Simulator 22 Map Making Tutorial page</a></p>
+<p><a href="terrain-editing-tutorial.php" class="button">PMC Farming Simulator 22 Terrain Editing Tutorial page</a></p>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
 <?php include("/var/www/include/footer-end.php"); ?>

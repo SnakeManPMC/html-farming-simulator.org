@@ -25,7 +25,7 @@
 	<h2>North West Texas All The Fields Story</h2>
 
 <p>
-I got FS17 in may 2017, played on goldcrest valley of course but my first user made custon terrain was <a href="maps.php">North West Texas</a> by Txzar. I played what I recall over 400 hours of it. After I discovered how useless grind the hard difficulty level is I started to play on easy difficulty level and my goal was to not use money cheats and buy all the fields.
+I got FS17 in may 2017, played on goldcrest valley of course but my first user made custon terrain was <a href="mods-terrain.php">North West Texas</a> by Txzar. I played what I recall over 400 hours of it. After I discovered how useless grind the hard difficulty level is I started to play on easy difficulty level and my goal was to not use money cheats and buy all the fields.
 </p>
 
 <p>

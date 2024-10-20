@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>modDesc.xml Farming Simulator 19 - PMC Farming</title>
+<title>Terrain Editing Tutorial Farming Simulator 25 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="modDesc.xml Farming Simulator 19 - PMC Farming">
-<META name="keywords" content="Terrain, modDesc.xml, PMC, Farming">
+<META name="description" content="Terrain Editing Tutorial Farming Simulator 25 - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- google analytics -->
 <?php include("../include/google-analytics.php"); ?>
 
 </head>
@@ -17,28 +15,26 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-<h1><b>PMC Farming Simulator Terrain modDesc.xml</b></h1>
+	<h1>Terrain Editing Tutorial Farming Simulator 25 - PMC Farming</h1>
+
+<p>
+HOWTO create and edit terrains for Farming Simulator 25 (FS25), guides and tutorials by PMC.
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-	<h2>modDesc.xml</h2>
+<?php include("/var/www/include/support.php"); ?>
+	<h2>FS25 Terrain Editing Overview</h2>
 
-<p>
-In your modDesc.xml is where the name of the terrain, author and version number is defined. More importantly the class or ID is set, almost all sample maps floating out there use "SampleModMap".
-</p>
-
-<p>
-&lt;maps&gt;&lt;map id="SampleModMap" needs to be unique for every terrain, so <b>do not use "SampleModMap"</b>, instead you must use unique to your terrain like for our example "pmc_sample_2048" etc.
-</p>
+<?php include("../include/fs25-placeholder-pages.php"); ?>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
 <?php include("/var/www/include/footer-start.php"); ?>
-<p><a href="terrain-editing-tutorial.php" class="button">PMC Farming Simulator Terrain Editing Tutorial page</a></p>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
 <?php include("/var/www/include/footer-end.php"); ?>

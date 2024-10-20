@@ -30,10 +30,12 @@
 <a href="25/dev-diary.php" class="button">Dev Diary</a>
 <a href="25/equipment-vehicle-prices.php" class="button">Equipment Vehicle Prices</a>
 <a href="25/guide.php" class="button">Guide</a>
+<a href="25/mods-terrain.php" class="button">Mods Terrain</a>
 <a href="25/mods.php" class="button">Mods</a>
 <a href="25/pmc-terrains.php" class="button">PMC Terrains</a>
 <a href="25/settings.php" class="button">Settings</a>
 <a href="25/stories.php" class="button">Stories</a>
+<a href="25/terrain-editing-tutorial.php" class="button">Terrain Editing Tutorial</a>
 <a href="https://www.pmctactical.org/forum/viewforum.php?f=80" target="_blank" class="button">Forum FS25</a>
 </p>
 
@@ -48,12 +50,12 @@
 <a href="22/dev-diary.php" class="button">Dev Diary</a>
 <a href="22/equipment-vehicle-prices.php" class="button">Equipment Vehicle Prices</a>
 <a href="22/guide.php" class="button">Guide</a>
-<a href="22/map-making-tutorial.php" class="button">Map Making Tutorial</a>
-<a href="22/maps.php" class="button">Maps</a>
+<a href="22/mods-terrain.php" class="button">Mods Terrain</a>
 <a href="22/mods.php" class="button">Mods</a>
 <a href="22/review.php" class="button">Review</a>
 <a href="22/settings.php" class="button">Settings</a>
 <a href="22/stories.php" class="button">Stories</a>
+<a href="22/terrain-editing-tutorial.php" class="button">Terrain Editing Tutorial</a>
 <a href="https://www.pmctactical.org/forum/viewforum.php?f=77" target="_blank" class="button">Forum FS22</a>
 </p>
 
@@ -69,13 +71,13 @@
 <a href="19/equipment-vehicle-prices.php" class="button">Equipment Vehicle Prices</a>
 <a href="19/guide.php" class="button">Guide</a>
 <a href="19/install-mods.php" class="button">Install Mods</a>
-<a href="19/map-making-tutorial.php" class="button">Map Making Tutorial</a>
-<a href="19/maps.php" class="button">Maps</a>
+<a href="19/mods-terrain.php" class="button">Mods Terrain</a>
 <a href="19/mods.php" class="button">Mods</a>
 <a href="19/review.php" class="button">Review</a>
 <a href="19/settings.php" class="button">Settings</a>
 <a href="19/start-from-zero.php" class="button">Start From Zero</a>
 <a href="19/stories.php" class="button">Stories</a>
+<a href="19/terrain-editing-tutorial.php" class="button">Terrain Editing Tutorial</a>
 <a href="https://www.pmctactical.org/forum/viewforum.php?f=74" target="_blank" class="button">Forum FS19</a>
 </p>
 
@@ -86,12 +88,12 @@
 <a href="17/downloads.php" class="button">Downloads</a>
 <a href="17/editing.php" class="button">Editing</a>
 <a href="17/guide.php" class="button">Guide</a>
-<a href="17/map-making-tutorial.php" class="button">Map Making Tutorial</a>
-<a href="17/maps.php" class="button">Maps</a>
+<a href="17/mods-terrain.php" class="button">Mods Terrain</a>
 <a href="17/mods.php" class="button">Mods</a>
 <a href="17/review.php" class="button">Review</a>
 <a href="17/settings.php" class="button">Settings</a>
 <a href="17/stories.php" class="button">Stories</a>
+<a href="17/terrain-editing-tutorial.php" class="button">Terrain Editing Tutorial</a>
 <a href="17/user-guide-cornbelt-8km-terrain.php" class="button">User Guide: Cornbelt</a>
 <a href="17/user-guide-north-west-texas-4km-terrain.php" class="button">User Guide: North West Texas</a>
 <a href="https://www.pmctactical.org/forum/viewforum.php?f=74" target="_blank" class="button">Forum FS17</a>

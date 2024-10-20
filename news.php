@@ -149,7 +149,7 @@
 </p>
 
 <p>
-2024-03-09T23:46:00Z <a href="22/map-making-tutorial.php">FS22 Terrain Editing Tutorial</a> page updated with <a href="22/terrain-field-texture-paintable.php">Field Texture Paintable FS22 Tutorial</a>. Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=78&t=22950" target="_blank">PMC Tactical Forum Field Texture Paintable FS22 Tutorial topic</a> and check out <a href="https://www.pmctactical.org/forum/viewforum.php?f=78" target="_blank">PMC Tactical Forum FS22 Editing area</a>.
+2024-03-09T23:46:00Z <a href="22/terrain-editing-tutorial.php">FS22 Terrain Editing Tutorial</a> page updated with <a href="22/terrain-field-texture-paintable.php">Field Texture Paintable FS22 Tutorial</a>. Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=78&t=22950" target="_blank">PMC Tactical Forum Field Texture Paintable FS22 Tutorial topic</a> and check out <a href="https://www.pmctactical.org/forum/viewforum.php?f=78" target="_blank">PMC Tactical Forum FS22 Editing area</a>.
 </p>
 
 <p>

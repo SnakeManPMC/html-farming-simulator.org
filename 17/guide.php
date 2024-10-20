@@ -33,7 +33,7 @@
 <p>On easy level at default goldcrest valley map your silo is full of valuable grains, sell them to get money. Check ESC menu prices/1000L listings which site pays the best.
 </p>
 
-<p>On career start, often your idea of good choice is not what the map / terrain maker had in mind, or maybe the map was meant as multiplayer map who knows, so you have too much stuff where you have no use for them. Well you can sell that stuff to get rid of it and also at the same time, get some money. You'll decide what you need at career start.
+<p>On career start, often your idea of good choice is not what the terrain maker had in mind, or maybe the map was meant as multiplayer map who knows, so you have too much stuff where you have no use for them. Well you can sell that stuff to get rid of it and also at the same time, get some money. You'll decide what you need at career start.
 </p>
 
 <p>Doors and fence gates can be opened by LMB pressed down all the way until it has opened.

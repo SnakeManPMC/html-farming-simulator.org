@@ -1,4 +1,4 @@
 <?php
-header('Location: 17/maps.php', true, 301);
+header('Location: 17/mods-terrain.php', true, 301);
 exit();
 ?>

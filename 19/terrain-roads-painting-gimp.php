@@ -126,7 +126,7 @@ You can use <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetM
 
 <footer>
 <?php include("/var/www/include/footer-start.php"); ?>
-<p><a href="map-making-tutorial.php" class="button">PMC Farming Simulator Map Making Tutorial page</a></p>
+<p><a href="terrain-editing-tutorial.php" class="button">PMC Farming Simulator Terrain Editing Tutorial page</a></p>
 <p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
 <?php include("/var/www/include/footer-end.php"); ?>

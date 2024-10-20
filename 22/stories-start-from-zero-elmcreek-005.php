@@ -32,7 +32,7 @@ Please read background information from <a href="stories-start-from-zero-elmcree
 	<h2>2022-09-17 Hay Baling Fertilizing And Canola Harvest Contracts</h2>
 
 <p>
-2022-09-17T17:21:00Z New farming day has started, so here is whats going on. Past two nights I spent some time testing and screenshotting new terrains for <a href="maps.php">farming-simulator.org FS22 maps</a> page, also yesterday finally updated <a href="equipment-vehicle-prices.php">FS22 Equipment Vehile Prices</a> page. Today I want to start documenting basic "FS22 guide", courseplay and especially production chains web pages. I hate that all those pages have been empty since FS22 release, this will change starting now.
+2022-09-17T17:21:00Z New farming day has started, so here is whats going on. Past two nights I spent some time testing and screenshotting new terrains for <a href="mods-terrain.php">farming-simulator.org FS22 Terrains</a> page, also yesterday finally updated <a href="equipment-vehicle-prices.php">FS22 Equipment Vehile Prices</a> page. Today I want to start documenting basic "FS22 guide", courseplay and especially production chains web pages. I hate that all those pages have been empty since FS22 release, this will change starting now.
 </p>
 
 <p>

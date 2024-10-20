@@ -71,7 +71,7 @@ Changelog for <a href="pmc-texas-rowena-8km.php">PMC Texas Rowena 8km</a> terrai
 - texas rowena, GE file -&gt; import -&gt; GoogleEarthPlane/back_of_sign_a.i3d set scale x and z to 4096 or 8192 depending on terrain size<br>
 - texas rowena, align careerstartpoint to players farm or suitable location<br>
 - texas rowena, import prefabs/FS19_vehicleShop_prefab and the triggers, also name.xml hotspot coordinates correctly<br>
-- texas rowena, https://www.farming-simulator.org/19/map-making-tutorial.php Adding Selling Points<br>
+- texas rowena, https://www.farming-simulator.org/19/terrain-editing-tutorial.php Adding Selling Points<br>
 - texas rowena, GE scripts -&gt; fs19 -&gt; map -&gt; create ground collision map, then copy name.i3d.plcColMap.grle to name.i3d.plcMap.grle<br>
 - texas rowena, try in-game, check error log.txt and if there is errors fix them then loop this until log is error free<br>
 - texas rowena, resize to 4096, background RGB 0,0,0 and red color to RGB 1,0,0 export to cultivator_density.png<br>
@@ -79,7 +79,7 @@ Changelog for <a href="pmc-texas-rowena-8km.php">PMC Texas Rowena 8km</a> terrai
 - texas rowena, powergrep run FS19_gdm_grle_to_png.pga<br>
 - texas rowena, GE load name.i3d and verify that fields are painted without grass in them, save<br>
 - texas rowena, import fields_template, create only one field for now<br>
-- texas rowena, https://www.farming-simulator.org/19/map-making-tutorial.php Buy Land - Farmlands, paint around the field you just created<br>
+- texas rowena, https://www.farming-simulator.org/19/terrain-editing-tutorial.php Buy Land - Farmlands, paint around the field you just created<br>
 - texas rowena, paint info layer farmland around all the fields<br>
 - texas rowena, update name_farmlands.xml for the new painted IDs<br>
 - texas rowena, once the first field is working, do backups and then create rest of the fields :)<br>

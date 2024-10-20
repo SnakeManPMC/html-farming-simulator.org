@@ -28,7 +28,7 @@ Development diary or developer diary for PMC Farming Simulator 19 terrain mods.
 </p>
 
 <p>
-These dev diary pages are written by Snake Man, dev diaries are not tutorials but simply editing diary stories explaining in great detail how and why various mods were edited / developed. If you are looking for Farming Simulator 19 editing tutorials then check <a href="map-making-tutorial.php" target="_blank">FS19 Map Making Tutorial</a>.
+These dev diary pages are written by Snake Man, dev diaries are not tutorials but simply editing diary stories explaining in great detail how and why various mods were edited / developed. If you are looking for Farming Simulator 19 editing tutorials then check <a href="terrain-editing-tutorial.php" target="_blank">FS19 Terrain Editing Tutorial</a>.
 </p>
 
 <p>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+      xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9
+            https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
   <loc>https://www.farming-simulator.org/</loc>
@@ -36,13 +36,10 @@
   <loc>https://www.farming-simulator.org/17/guide.php</loc>
 </url>
 <url>
-  <loc>https://www.farming-simulator.org/17/maps.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/17/map-making-tutorial.php</loc>
-</url>
-<url>
   <loc>https://www.farming-simulator.org/17/mods.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/17/mods-terrain.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/17/review.php</loc>
@@ -157,6 +154,9 @@
 </url>
 <url>
   <loc>https://www.farming-simulator.org/17/stories-start-from-zero-fs17-cornbelt-031.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/17/terrain-editing-tutorial.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/17/user-guide-cornbelt-8km-terrain.php</loc>
@@ -420,22 +420,19 @@
   <loc>https://www.farming-simulator.org/19/guide.php</loc>
 </url>
 <url>
-  <loc>https://www.farming-simulator.org/19/maps.php</loc>
-</url>
-<url>
   <loc>https://www.farming-simulator.org/19/mods.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/19/mods-pending-testing.php</loc>
 </url>
 <url>
+  <loc>https://www.farming-simulator.org/19/mods-terrain.php</loc>
+</url>
+<url>
   <loc>https://www.farming-simulator.org/19/review.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/19/settings.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/19/map-making-tutorial.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/19/terrain-ai-planted-crop-types.php</loc>
@@ -475,6 +472,9 @@
 </url>
 <url>
   <loc>https://www.farming-simulator.org/19/terrain-edge-block.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/19/terrain-editing-tutorial.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/19/terrain-environmental-sounds.php</loc>
@@ -1368,9 +1368,6 @@
   <loc>https://www.farming-simulator.org/22/equipment-vehicle-prices.php</loc>
 </url>
 <url>
-  <loc>https://www.farming-simulator.org/22/map-making-tutorial.php</loc>
-</url>
-<url>
   <loc>https://www.farming-simulator.org/22/pmc-cereal-region-32km.php</loc>
 </url>
 <url>
@@ -1422,6 +1419,18 @@
   <loc>https://www.farming-simulator.org/22/terrain-densitymap_fruits-rgb-colors.php</loc>
 </url>
 <url>
+  <loc>https://www.farming-simulator.org/22/terrain-densitymap-infolayer-resolution-mapus.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/22/terrain-editing-tutorial.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/22/terrain-fieldground.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/22/terrain-field-texture-paintable.php</loc>
+</url>
+<url>
   <loc>https://www.farming-simulator.org/22/terrain-file-structure-mapalpine.php</loc>
 </url>
 <url>
@@ -1429,9 +1438,6 @@
 </url>
 <url>
   <loc>https://www.farming-simulator.org/22/terrain-file-structure-mapus.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/22/terrain-field-texture-paintable.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/22/terrain-forests.php</loc>
@@ -1455,9 +1461,6 @@
   <loc>https://www.farming-simulator.org/22/terrain-overview-image-rgb-colors.php</loc>
 </url>
 <url>
-  <loc>https://www.farming-simulator.org/22/terrain-densitymap-infolayer-resolution-mapus.php</loc>
-</url>
-<url>
   <loc>https://www.farming-simulator.org/22/terrain-placeables-xml.php</loc>
 </url>
 <url>
@@ -1465,12 +1468,6 @@
 </url>
 <url>
   <loc>https://www.farming-simulator.org/22/terrain-user-interface-images.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/22/terrain-fieldground.php</loc>
-</url>
-<url>
-  <loc>https://www.farming-simulator.org/22/maps.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/22/mods.php</loc>
@@ -1492,6 +1489,9 @@
 </url>
 <url>
   <loc>https://www.farming-simulator.org/22/mods-pending-testing.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/22/mods-terrain.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/22/review.php</loc>
@@ -1899,6 +1899,9 @@
   <loc>https://www.farming-simulator.org/25/mods-pending-testing.php</loc>
 </url>
 <url>
+  <loc>https://www.farming-simulator.org/25/mods-terrain.php</loc>
+</url>
+<url>
   <loc>https://www.farming-simulator.org/25/pmc-terrains.php</loc>
 </url>
 <url>
@@ -1912,6 +1915,9 @@
 </url>
 <url>
   <loc>https://www.farming-simulator.org/25/stories-release-and-install.php</loc>
+</url>
+<url>
+  <loc>https://www.farming-simulator.org/25/terrain-editing-tutorial.php</loc>
 </url>
 <url>
   <loc>https://www.farming-simulator.org/25/news-pre-release/animals.php</loc>

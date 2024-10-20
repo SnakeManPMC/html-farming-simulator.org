@@ -104,7 +104,7 @@ Changelog for <a href="pmc-north-dakota-greendale-4km.php">PMC North Dakota Gree
 - north dakota greendale 4km, GE file -&gt; import -&gt; GoogleEarthPlane/back_of_sign_a.i3d set scale x and z to 4096 or 8192 depending on terrain size<br>
 - north dakota greendale 4km, align careerstartpoint to players farm or suitable location<br>
 - north dakota greendale 4km, import prefabs/FS19_vehicleShop_prefab and the triggers, also name.xml hotspot coordinates correctly<br>
-- north dakota greendale 4km, https://www.farming-simulator.org/19/map-making-tutorial.php Adding Selling Points<br>
+- north dakota greendale 4km, https://www.farming-simulator.org/19/terrain-editing-tutorial.php Adding Selling Points<br>
 - north dakota greendale 4km, GE scripts -&gt; fs19 -&gt; map -&gt; create ground collision map, then copy name.i3d.plcColMap.grle to name.i3d.plcMap.grle<br>
 2019-05-07:<br>
 - north dakota greendale 4km, open satellite in gimp, create fields layer and paint fields as some bright color like red<br>
