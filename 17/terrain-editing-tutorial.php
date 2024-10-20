@@ -35,30 +35,10 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-grain-bin-objects.php">Grain Bin Objects</a> farm grain bins store your grain like animal feed, human consumption or fuel, silos store silage.</p>
 <p><a href="terrain-grle-converter.php">GRLE Converter</a> or grleConverter.exe as its file name is called.</p>
 <p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
+<p><a href="terrain-objects-import.php">Objects Import</a> HOWTO get new objects to your terrain.</p>
 <p><a href="terrain-selling-points.php">Selling Points</a> is where you sell your crops, grain, eggs, milk etc.</p>
 <p><a href="terrain-size-change.php">Size Change</a> HOWTO change your terrain size specifications.</p>
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
-
-	<h2>Square Detail Texture Count</h2>
-
-<p>
-Each terrain square can only have four base detail textures.
-</p>
-
-
-	<h2>Import Objects</h2>
-
-<p>
-Never ever import an object outside of your own MyTerrain directory!
-</p>
-
-<p>
-Open the other terrain where you want to get the object from. Choose the object, make sure you get all the transform group if there several things, then use file -> export selection with files, then browse to your own MyTerrain\maps\objects\ directory, create new directory which easily identified this object, then finally save the i3d file. It asks do you want to get the parent directory structure, you must answer NO to this.
-</p>
-
-<p>
-Place the object directory into your MyTerrain\maps\objects\ directory. Use file -> import and choose the file name.
-</p>
 
 	<h2>Creating Splines</h2>
 
@@ -168,6 +148,13 @@ Nick Welker said that in real life fields do NOT have a 90 degree square corners
 
 <p>
 Howto setup your terrain with default starter money? Doesn't appear to be any value in XML files to edit. Looks like only method is to lua script the changed money.
+</p>
+
+
+	<h2>Square Detail Texture Count</h2>
+
+<p>
+Each terrain square can only have four base detail textures.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
