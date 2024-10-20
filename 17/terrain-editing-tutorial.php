@@ -31,33 +31,10 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-field-definitions.php">Field Definitions</a> is the proper term for farmsim fields.</p>
 <p><a href="terrain-field-foliage.php">Field Foliage</a> its like grass, wheat, corn, etc.</p>
 <p><a href="terrain-giants-editor.php">Giants Editor</a> software to edit terrains.</p>
+<p><a href="terrain-grle-converter.php">GRLE Converter</a> or grleConverter.exe as its file name is called.</p>
 <p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
 <p><a href="terrain-size-change.php">Size Change</a> HOWTO change your terrain size specifications.</p>
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
-
-	<h2>GRLE Converters</h2>
-
-<p>
-Get it from Giants Developer Network. You should know that Giants Editor will convert PNG to proper either GRLE or GDM when saving a terrain file.
-</p>
-
-<p>
-Convert GRLE (or GDM heh) are cultivator_density and fruit_density. Convert them to PNG and delete the original files, then load your map01 with Giants Editor and just save it, that generates new GRLE/GDM cultivator_density and fruit_density files.
-</p>
-
-<p>
-Convert list:
-</p>
-<ul>
-<li>cultivator_density</li>
-<li>fruit_density</li>
-<li>forestGrassDark_density</li>
-<li>infoLayer</li>
-<li>terrainDetailHeight_density</li>
-<li>tipColInfoLayer</li>
-<li>townDecoGrass_density</li>
-</ul>
-
 
 	<h2>Giants Forum</h2>
 
