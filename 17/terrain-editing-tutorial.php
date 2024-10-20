@@ -29,26 +29,8 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-create-basic.php">Create Basic Terrain</a> simple basic starter terrain.</p>
 <p><a href="terrain-giants-editor.php">Giants Editor</a> software to edit terrains.</p>
 <p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
+<p><a href="terrain-size-change.php">Size Change</a> HOWTO change your terrain size specifications.</p>
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
-
-	<h2>Change Terrain Size</h2>
-
-<p>
-When you change terrain sizes, you need to edit all the *_weight.png images and map01_dem.png image. Please note that *_weight.png images are normal 1024, 2048 etc resolutions while map01_dem.png is one pixel larger, like 1025, 2049 etc. However <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=3976" target="_blank">this post</a> says about some layer image, but I cant see one heh. Also <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=5214" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=4858" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=4304" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=4&threadId=4349" target="_blank">this post</a>, <a href="https://gdn.giants-software.com/thread.php?categoryId=21&threadId=3948" target="_blank">this post</a> about large terrains.
-</p>
-
-<p>
-Change resolution for pda_map_H.dds image in MyTerrain\maps\ dir.
-</p>
-
-<p>
-Change config of MyTerrain\maps\map01.xml file, on the line: ingameMap filename="maps/pda_map_H.png" so the width and height matches your new terrain size.
-</p>
-
-<p>
-After you've increased the png and dds sizes, you must load the map01.i3d in Giants Editor and save it, not sure what it changes but this is required (otherwise FS17 hangs on load).
-</p>
-
 
 	<h2>Create Base Fields</h2>
 
