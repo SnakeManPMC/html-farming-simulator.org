@@ -26,6 +26,7 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
 
+<p><a href="terrain-animals.php">Animals</a> animal buildings and configuration.</p>
 <p><a href="terrain-create-basic.php">Create Basic Terrain</a> simple basic starter terrain.</p>
 <p><a href="terrain-cultivator_density.php">Terrain Base Fields cultivator_density</a> creating your fields soil texture ground types (whoah, the terminology).</p>
 <p><a href="terrain-field-definitions.php">Field Definitions</a> is the proper term for farmsim fields.</p>
@@ -36,59 +37,6 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
 <p><a href="terrain-size-change.php">Size Change</a> HOWTO change your terrain size specifications.</p>
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
-
-	<h2>Animals</h2>
-
-<p>
-Howto setup your terrain with animals, chickens, sheep, pigs and cows. Basically copy the animals transformgroup from one of the good sample terrains (sorry no idea which one) or just simply from goldcrest valley. To have animals in your terrain is simple as making the navigation mesh, all the rest is feeding, dirt, manure etc eye candy, all you need is navigation mesh and animals appear.
-</p>
-
-<p>
-Info layer painting channels:
-</p>
-
-<ul>
-<li>0 cow</li>
-<li>1 sheep</li>
-<li>2 chicken</li>
-<li>3 pig</li>
-</ul>
-
-<p>
-NavMesh for animals is created by painting info layer with proper channel selected, then using create -> navigation mesh, you must select terrain desselation -> culling info layer channels properly. Do not just type the number here even if you know it, use the ... button to actually select it.
-</p>
-
-<p><b>
-Creating navigation mesh (navmesh)</b>
-</p>
-
-<p>
-In dialog terrain editing -> info layer painting -> info channels. Channel numbers are 0 cow, 1 sheep, 2 chickens and 3 pigs.
-</p>
-
-<p>
-Select info channel (only one at the time), then select from main menu terrain info layer paint mode. Now paint white color where you want this specific animal type to graze.
-</p>
-
-<p>
-Go to animals transformgroup (you should have already imported these from some sample terrain and they should be fully working), our transformgroup is named "animals" and has "cowsHusbandry" transformgroup, select this. Click open gameplay transformgroup and there select CowNavMesh.
-</p>
-
-<p>
-From main menu create -> navigation mesh, click shape build mask three dots (opens a new dialog), click clear button and tick 0 channel, then click ok. Now back in build navigation mesh dialog click terrain tesselation -> culling info layer channels three dots, click clear button and tick 0 channel, then click ok. Again back in build navigation mesh dialog click Recreate button and your 0 cow navmesh is done.
-</p>
-
-<p>
-Repeat the same for 1, 2 and 3 channels as well to finish all the animal navmeshes <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
-</p>
-
-<p>
-PDA map markers for animals are setup in maps/map01.xml file. Use some transformgroup to move into the location where specific animals are located, then write down the attributes translate X and Z coordinates into the XML file.
-</p>
-
-<p>
-Save game editing, open vehicles.xml and edit Animals_cow, Animals_pig and Animals_sheep to quickly add hundreds of animals for debug purposes so you dont have to go through buy menu in-game.
-</p>
 
 	<h2>Sell Points</h2>
 
