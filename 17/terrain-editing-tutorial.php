@@ -29,31 +29,7 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-create-basic.php">Create Basic Terrain</a> simple basic starter terrain.</p>
 <p><a href="terrain-giants-editor.php">Giants Editor</a> software to edit terrains.</p>
 <p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
-
-	<h2>Terrain Size</h2>
-
-<p>
-Please forget that 2X, 4X etc terrain size nonsense, use kilmeters x kilometers (in short just km) instead. Simple example; goldcrest valley is 2km, north west texas is 4km, broad acres and cornbelt are 8km. As of 2018-08-05 nobody has released 16km terrain.
-</p>
-
-<p>
-0,0 coordinates is upper left corner, max coords are lower right corner.
-</p>
-
-<p>
-Terrain size is defined in MyTerrain\maps\map01\map01_dem.png and the *_weight.png images, more specifically in their resolution and in map01.xml file.
-<p>
-
-<p>
-map01_dem.png image resolution, in-game coordinates, kilometers x kilometers size:<br>
-<s>255 x 255 pixels.<br>
-513 x 513 pixels, 1535 x 1535.</s><br>
-1025 x 1025 pixels, 2048 x 2048, 2km x 2km (default size, goldscrest valley, sosnovka)<br>
-2049 x 2049 pixels, 4096 x 4096, 4km x 4km<br>
-4097 x 4097 pixels, 8192 x 8192, 8km x 8km<br>
-8193 x 8193 pixels, 16384 x 16384, 16km x 16km<br>
-16385 x 16385 pixels, 32768 x 32768, 32km x 32km
-</p>
+<p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
 
 	<h2>Change Terrain Size</h2>
 
