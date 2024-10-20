@@ -42,18 +42,8 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-selling-points.php">Selling Points</a> is where you sell your crops, grain, eggs, milk etc.</p>
 <p><a href="terrain-size-change.php">Size Change</a> HOWTO change your terrain size specifications.</p>
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
+<p><a href="terrain-skybox-size.php">Skybox Size</a> HOWTO configure skybox size.</p>
 <p><a href="terrain-sun-light.php">Sun Light</a> configuration.</p>
-
-	<h2>Skybox Size</h2>
-
-<p>
-I took the maps/sky/ directory from some sample terrain and edited maps/map01_environment.xml to read &gt;environment filename="maps/sky/ instead of "$data/sky/
-</p>
-
-<p>
-Open sky_day_night.i3d file in giants editor, select sky transformgroup, then change scale x, y and z to 8. Do the same for skyUS_day_night.i3d file too. Now your skybox is enough for 8192 terrains as well. For PMC 32768 Terrain I made the scale 16.
-</p>
-
 
 	<h2>Terrain Design Tips</h2>
 
