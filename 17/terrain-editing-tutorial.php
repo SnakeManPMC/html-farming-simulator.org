@@ -35,34 +35,11 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-grain-bin-objects.php">Grain Bin Objects</a> farm grain bins store your grain like animal feed, human consumption or fuel, silos store silage.</p>
 <p><a href="terrain-grle-converter.php">GRLE Converter</a> or grleConverter.exe as its file name is called.</p>
 <p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
+<p><a href="terrain-large-field-issues.php">Large Field Issues</a> its not all fun and games working on a very large fields.</p>
 <p><a href="terrain-objects-import.php">Objects Import</a> HOWTO get new objects to your terrain.</p>
 <p><a href="terrain-selling-points.php">Selling Points</a> is where you sell your crops, grain, eggs, milk etc.</p>
 <p><a href="terrain-size-change.php">Size Change</a> HOWTO change your terrain size specifications.</p>
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
-
-	<h2>Creating Splines</h2>
-
-<p>
-Use create -> spline to create, well a spline. Then you can move and rotate it usually. If you hit INSERT key, new point in the spline is created which again can be moved around.
-</p>
-
-	<h2>Huge Field Issues</h2>
-
-<p>
-Terrain with huge fields have issue with courseplay, it wont generate courses. I tried it to 1565 hectare field and it refused to generate no matter what kind of settings. When you generate course for 1000 hectare field it freezes up your game so ALT-TAB is not working, it takes several seconds to save on i7 4790k with SSD.
-</p>
-
-<p>
-Huge fields take a long time (real gaming time, not depending on time accelleration) for the the crops to grow, it takes several days for wheat harvest to grow. [at least I think this is abnormal behavior, usually it takes pretty much overnight to grow crops heh dunno cant remember].
-</p>
-
-<p>
-Courseplay generates routes for 1008 hectare fields. Note: it takes several seconds when it does this while it freezes the game, be patient and WAIT. Also do not, I say again, do NOT save such insanely large courseplay route because next time you start the terrain it takes several minutes to start if not ultimately locking up your game. Do not save huge courseplay courses, no matter the field sizes.
-</p>
-
-<p>
-Also purchasing huge fields seem to freeze the game, this is reproduceable on PMC 16384 terrain with the 1475 hectare field number 30. However this might have been some bug in the field too <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
-</p>
 
 	<h2>Goldcrest Valley GRLE and GDM Resolutions</h2>
 
@@ -155,6 +132,12 @@ Howto setup your terrain with default starter money? Doesn't appear to be any va
 
 <p>
 Each terrain square can only have four base detail textures.
+</p>
+
+	<h2>Creating Splines</h2>
+
+<p>
+Use create -> spline to create, well a spline. Then you can move and rotate it usually. If you hit INSERT key, new point in the spline is created which again can be moved around.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
