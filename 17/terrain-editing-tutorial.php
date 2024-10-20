@@ -29,33 +29,11 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-create-basic.php">Create Basic Terrain</a> simple basic starter terrain.</p>
 <p><a href="terrain-cultivator_density.php">Terrain Base Fields cultivator_density</a> creating your fields soil texture ground types (whoah, the terminology).</p>
 <p><a href="terrain-field-definitions.php">Field Definitions</a> is the proper term for farmsim fields.</p>
+<p><a href="terrain-field-foliage.php">Field Foliage</a> its like grass, wheat, corn, etc.</p>
 <p><a href="terrain-giants-editor.php">Giants Editor</a> software to edit terrains.</p>
 <p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
 <p><a href="terrain-size-change.php">Size Change</a> HOWTO change your terrain size specifications.</p>
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
-
-	<h2>Create Foliage for Fields</h2>
-
-<p>
-or plant life, the first four channels (0 through 3) control the type of plant. The next row of channels (4 through 7) dictates that plant's growth state. In the third row of channels, only channel 8 has any effect. It defines whether the crop is in a windrow (a row of cut vegetation, ready to be baled or stored) or not.
-</p>
-
-<p>
-Foliage channel settings for various crops:<br>
-0, Wheat<br>
-1, Grass<br>
-2, Barley<br>
-3, Sugar beet<br>
-0 + 1, Rape (canola)<br>
-0 + 2, Maize (corn)<br>
-1 + 2, Dry grass<br>
-1 + 2 + 3, Potato
-</p>
-
-<p>
-Fortunately, GIANTS Editor helps you out a bit here. When choosing the crop you want from the Foliage Layer drop-down menu, it automatically sets the bitmask for the first four foliage channels.
-</p>
-
 
 	<h2>Create Fields From Nothing</h2>
 
