@@ -25,15 +25,8 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-	<h2>Introduction</h2>
 
-<p>
-Beginners tutorial how to make a terrain for Farming Simulator 17 (FS17). I wrote this tutorial knowing absolutely <b>nothing</b> about Farming Simulator terrain editing so this should help all the beginners / newbies, just like me. I do not claim this is a good tutorial or a proper way to make FS17 terrain, but it is what I googled and learned.
-</p>
-
-<p>
-With the game came GAMEDIR/sdk/moddingHandbook/FarmingSimulatorModding_en.pdf manual for basic mod making, it is very good read when getting started.
-</p>
+<p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
 
 	<h2>Giants Editor</h2>
 
