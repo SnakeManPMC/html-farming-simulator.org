@@ -26,51 +26,9 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
 
-<p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
-
+<p><a href="terrain-create-basic.php">Create Basic Terrain</a> simple basic starter terrain.</p>
 <p><a href="terrain-giants-editor.php">Giants Editor</a> software to edit terrains.</p>
-
-	<h2>Start a Terrain</h2>
-
-<p>
-Modding Handbook says you can create terrain from scratch or edit existing terrain. Seems like editing existing is no brainer, but when creating brand new terrain from zero it is not that easy to bring it in-game (game crashes or loads forever etc).
-</p>
-
-<p>
-You should't edit default game terrains (goldcrest valley and sosnovka) obviously as it breaks your default game. You can export these into your own terrain, but even then you should make YOUR own terrain and not edit someone elses, be original, man.
-</p>
-
-<p>
-Something called "SampleMap" is good place to start for your initial terrain files. When googling there are several samplemap packages floating around, all from different devs and tastes, no idea which one is proper. Welcome to FS17 modding community <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
-</p>
-
-<p>
-Create directory called "MyTerrain" and do not use illegal characters anywhere on the file name or numbers as first character, if you do the terrain wont load in FS17. If you are creating your own terrain from scratch, create sub dir called "maps" so its "MyTerrain\maps\" directory structure.
-</p>
-
-<p>
-Unpack SampleMap archive there so the directory structure is MyTerrain\maps\
-</p>
-
-<p>
-Unpack GAMEDIR/sdk/sampleMod.zip into MyTerrain\ directory. THIS IS NOT NEEDED IF YOU USE SAMPLEMAP DOWNLOAD.
-</p>
-
-<p>
-Go to MyTerrain\maps\ directory and open map01.i3d file with Giants editor.
-</p>
-
-<p>
-Delete scenegraph -> HelpIcons and placeholders.
-</p>
-
-<p>
-You do not need to ZIP the MyTerrain because if you just copy the directory into FS17 mods dir, the game will read it fine.
-</p>
-
-<p>
-Open ModDesc.xml file, edit maps -> map id to your own unique terrain name, do not use illegal characters like space etc.
-</p>
+<p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
 
 	<h2>Terrain Size</h2>
 
