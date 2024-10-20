@@ -26,6 +26,8 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
 
+<p>Welcome to PMC farmsim terrain editing tutorial. <a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
+
 <p><a href="terrain-animals.php">Animals</a> animal buildings and configuration.</p>
 <p><a href="terrain-create-basic.php">Create Basic Terrain</a> simple basic starter terrain.</p>
 <p><a href="terrain-cultivator_density.php">Terrain Base Fields cultivator_density</a> creating your fields soil texture ground types (whoah, the terminology).</p>
@@ -37,7 +39,6 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-grle-converter.php">GRLE Converter</a> or grleConverter.exe as its file name is called.</p>
 <p><a href="terrain-image-resolutions-goldcrest-valley.php">Image Resolutions FS17 Goldcrest Valley</a> density and other terrain image resolutions.</p>
 <p><a href="terrain-image-resolutions-user-interface.php">Image Resolutions User Interface</a> PDA mapview preview image, etc.</p>
-<p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
 <p><a href="terrain-large-field-issues.php">Large Field Issues</a> its not all fun and games working on a very large fields.</p>
 <p><a href="terrain-objects-import.php">Objects Import</a> HOWTO get new objects to your terrain.</p>
 <p><a href="terrain-selling-points.php">Selling Points</a> is where you sell your crops, grain, eggs, milk etc.</p>
@@ -45,19 +46,6 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
 <p><a href="terrain-skybox-size.php">Skybox Size</a> HOWTO configure skybox size.</p>
 <p><a href="terrain-sun-light.php">Sun Light</a> configuration.</p>
-
-	<h2>Terrain Starter Money</h2>
-
-<p>
-Howto setup your terrain with default starter money? Doesn't appear to be any value in XML files to edit. Looks like only method is to lua script the changed money.
-</p>
-
-
-	<h2>Square Detail Texture Count</h2>
-
-<p>
-Each terrain square can only have four base detail textures.
-</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
