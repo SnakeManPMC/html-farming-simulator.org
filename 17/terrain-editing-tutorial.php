@@ -59,12 +59,6 @@ Howto setup your terrain with default starter money? Doesn't appear to be any va
 Each terrain square can only have four base detail textures.
 </p>
 
-	<h2>Creating Splines</h2>
-
-<p>
-Use create -> spline to create, well a spline. Then you can move and rotate it usually. If you hit INSERT key, new point in the spline is created which again can be moved around.
-</p>
-
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 

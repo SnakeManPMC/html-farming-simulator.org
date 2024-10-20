@@ -59,6 +59,10 @@ PDA Camera. Create new scenegraph item of camera (Create -> Camera), in attribut
 Huge terrains: you need to run a script to allow the editor to display large terrains properly, download: Giants_Editor_Scripts_2018-07-11.7z from PMC torrent download service. PMCTODO add the missing torrent magnet.
 </p>
 
+<p>
+Creating Splines: Use create -&gt; spline to create, well a spline. Then you can move and rotate it usually. If you hit INSERT key, new point in the spline is created which again can be moved around.
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
