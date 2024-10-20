@@ -42,13 +42,7 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-selling-points.php">Selling Points</a> is where you sell your crops, grain, eggs, milk etc.</p>
 <p><a href="terrain-size-change.php">Size Change</a> HOWTO change your terrain size specifications.</p>
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
-
-	<h2>Sun Light</h2>
-
-<p>
-Sun / star light is not enough to cover whole massive 16384 x 16384 terrain area, so you must increase the sun settings. Open your terrain in giants editor, click the sun and change range to 16384. All done. For PMC 32768 Terrain I made the range to 32768.
-</p>
-
+<p><a href="terrain-sun-light.php">Sun Light</a> configuration.</p>
 
 	<h2>Skybox Size</h2>
 
