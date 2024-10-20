@@ -28,48 +28,11 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 
 <p><a href="terrain-create-basic.php">Create Basic Terrain</a> simple basic starter terrain.</p>
 <p><a href="terrain-cultivator_density.php">Terrain Base Fields cultivator_density</a> creating your fields soil texture ground types (whoah, the terminology).</p>
+<p><a href="terrain-field-definitions.php">Field Definitions</a> is the proper term for farmsim fields.</p>
 <p><a href="terrain-giants-editor.php">Giants Editor</a> software to edit terrains.</p>
 <p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
 <p><a href="terrain-size-change.php">Size Change</a> HOWTO change your terrain size specifications.</p>
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
-
-	<h2>Create Field Definitions</h2>
-
-<p>
-You must have a existing working field on your terrain project. Look for this on the various sample terrain mods.
-</p>
-
-<p>
-Select fields transformgroup, use scripts -> FS17 -> Map -> toggle render field areas, in few seconds blue shape should appear where your fields are.
-</p>
-
-<p>
-Click open fields transformgroup, click on the existing field which in our example is "field01", CTRL-D to duplicate (copy automatically).
-</p>
-
-<p>
-Rename the field to the next available digit, if the duplicated one was 01 like in our example then make the new one 02 so "field02".
-</p>
-
-<p>
-Move field02 to items into the location on the terrain where you want this new field. Then move field02 -> fieldDimensions -> corner01_* points to match the area where you want this new field.
-</p>
-
-<p>
-Select fields, use scripts -> FS17 -> Map -> Set field sizes.
-</p>
-
-<p>
-Now switch to terrain foliage paint mode, select foliage layer painting -> foliage layer -> terrainDetail and tick 0 channel. Now just paint the blue shape of your new field.
-</p>
-
-<p>
-If you load existing savegame for your terrain after you added new fields, they do not show any crops or soil state. What I understand, you must start fresh savegame after adding fields or changing their sizes.
-</p>
-
-<p>
-If you cannot plough fields, check terrain -> attributes -> translate Y, it must be 0. Also fields need to be defined, obviously.
-</p>
 
 	<h2>Create Foliage for Fields</h2>
 
