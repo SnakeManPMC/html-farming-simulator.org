@@ -35,23 +35,13 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-grain-bin-objects.php">Grain Bin Objects</a> farm grain bins store your grain like animal feed, human consumption or fuel, silos store silage.</p>
 <p><a href="terrain-grle-converter.php">GRLE Converter</a> or grleConverter.exe as its file name is called.</p>
 <p><a href="terrain-image-resolutions-goldcrest-valley.php">Image Resolutions FS17 Goldcrest Valley</a> density and other terrain image resolutions.</p>
+<p><a href="terrain-image-resolutions-user-interface.php">Image Resolutions User Interface</a> PDA mapview preview image, etc.</p>
 <p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
 <p><a href="terrain-large-field-issues.php">Large Field Issues</a> its not all fun and games working on a very large fields.</p>
 <p><a href="terrain-objects-import.php">Objects Import</a> HOWTO get new objects to your terrain.</p>
 <p><a href="terrain-selling-points.php">Selling Points</a> is where you sell your crops, grain, eggs, milk etc.</p>
 <p><a href="terrain-size-change.php">Size Change</a> HOWTO change your terrain size specifications.</p>
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
-
-	<h2>User Interface Image Resolutions</h2>
-
-<p>
-map01_preview.png resolution is 2048 x 1024
-
-pda_map_H.png resolution is what your terrain is, 2048, 4096, 8192. Or is it... 2048 seemed to work fine on larger terrains(?)
-
-map01_preview.png and pda_map_H.png need to be flipped vertically otherwise they are upside down in-game.
-</p>
-
 
 	<h2>Sun Light</h2>
 
