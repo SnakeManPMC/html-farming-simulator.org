@@ -28,38 +28,7 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 
 <p><a href="terrain-introduction.php">Introduction</a> to FS17 terrain editing.</p>
 
-	<h2>Giants Editor</h2>
-
-<p>
-Giants Editor is used to edit FS17 terrains. You need to register into <a href="https://gdn.giants-software.com/" target="_blank">Giants Developer Network</a> to get the latest giant editor. Download and install the latest editor.
-</p>
-
-<p>
-You should have some basic windows open in it, these include; scenegraph, terrain editing, attributes, user attributes and console.
-</p>
-
-<p>
-Giants Editor camera movement;<br>
-RMB + WASD keys<br>
-LMB-Middle Mouse Button pans<br>
-ALT-LMB rotates the view<br>
-ALT-RMB moves camera back and forth<br>
-F key focuses / moves camera on selected object
-</p>
-
-<p>
-Keyboard short cuts:<br>
-CTRL-D duplicate selected object(s)<br>
-CTRL-B then LMB duplicate selected object(s) where the mouse cursor is at LMB press moment.
-</p>
-
-<p>
-PDA Camera. Create new scenegraph item of camera (Create -> Camera), in attributes window transform name it to PDAcamera or something. Use translate Y: 4000 and rotate X: -90. Translate Y is your terrain size, so for 2km terrains use 2000, for 4km terrains use 4000 and for 8km terrains use 8000.
-</p>
-
-<p>
-Huge terrains: you need to run a script to allow the editor to display large terrains properly, download: <a href="downloads/Giants_Editor_Scripts_2018-07-11.7z" target="_blank">Giants_Editor_Scripts_2018-07-11.7z</a>.
-</p>
+<p><a href="terrain-giants-editor.php">Giants Editor</a> software to edit terrains.</p>
 
 	<h2>Start a Terrain</h2>
 
