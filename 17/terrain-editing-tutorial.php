@@ -36,28 +36,6 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-size-change.php">Size Change</a> HOWTO change your terrain size specifications.</p>
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
 
-	<h2>Giants Forum</h2>
-
-<p>
-the default size of the map01_dem.png is 1k: 1025x1025.
-</p>
-
-<p>
-So for a 4km terrain you need to scale that file to 2k: 2049x2049 and for a 8km terrain to 4k: 4097x4097
-</p>
-
-<p>
-To enlarge the terrain further you could increase the "unitsPerPixel" attribute of the terrain (which has to be adjusted using a texteditor)
-</p>
-
-<p>
-unitsPerPixel has value of two by default. Edit the terrain with a texteditor and set it to 3 or 4, save it and open the terrain in the GIANTS Editor. The world will be larger <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
-</p>
-
-<p>
-<a href="https://forum.giants-software.com/viewtopic.php?f=824&t=89809&p=693929#p693929" target="_blank">german language forum post about some 8km terrain shaders</a>.
-</p>
-
 	<h2>Terrain Starter Money</h2>
 
 <p>

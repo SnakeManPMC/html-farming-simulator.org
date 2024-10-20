@@ -52,6 +52,29 @@ After you've increased the PNG and DDS sizes, you must load the map01.i3d in <a 
 And remember, you can do any size terrain you want, see <a href="../19/terrain-use-actual-size.php">Terrain Use Actual Size (FS19)</a> tutorial for details.
 </p>
 
+
+	<h2>General Size Editing Information</h2>
+
+<p>
+Giants FS17 Goldcrest Valley and FS17 Sosnovka terrains size of the map01_dem.png is 1025 x 1025 pixel resolution.
+</p>
+
+<p>
+So for medium size terrain you need to scale that file to 2049 x 2049 and for large terrain to 4097 x 4097 pixel resolution. Just use 2048 x 2048 and 4096 x 4096, let <a href="terrain-giants-editor.php">Giants Editor FS17</a> add that extra pixel for you there.
+</p>
+
+<p>
+To enlarge the terrain further you could increase the <a href="../19/terrain-unitsperpixel.php">unitsPerPixel (FS19)</a> attribute of the terrain (which has to be adjusted using <a href="https://pmc.editing.wiki/doku.php?id=tools:notepad-plus-plus" target="_blank">a proper texteditor</a>).
+</p>
+
+<p>
+unitsPerPixel has value of two in FS17 Goldcrest Valley and FS17 Sosnovka terrains. Edit the terrain with a texteditor and set it to 3 or 4, save it and open the terrain in the GIANTS Editor. The world will be larger <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+<a href="https://forum.giants-software.com/viewtopic.php?f=824&t=89809&p=693929#p693929" target="_blank">german language forum post about some 8km terrain shaders</a>.
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
