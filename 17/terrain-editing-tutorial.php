@@ -29,6 +29,7 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-animals.php">Animals</a> animal buildings and configuration.</p>
 <p><a href="terrain-create-basic.php">Create Basic Terrain</a> simple basic starter terrain.</p>
 <p><a href="terrain-cultivator_density.php">Terrain Base Fields cultivator_density</a> creating your fields soil texture ground types (whoah, the terminology).</p>
+<p><a href="terrain-design.php">Terrain Design Tips</a> essential info and tips how to design your terrains.</p>
 <p><a href="terrain-field-definitions.php">Field Definitions</a> is the proper term for farmsim fields.</p>
 <p><a href="terrain-field-foliage.php">Field Foliage</a> its like grass, wheat, corn, etc.</p>
 <p><a href="terrain-giants-editor.php">Giants Editor</a> software to edit terrains.</p>
@@ -44,41 +45,6 @@ HOWTO create and edit terrains for Farming Simulator 17 (FS17), guides and tutor
 <p><a href="terrain-size.php">Size</a> there are various sizes for terrain, not just 2km, 4km or 8.1km.</p>
 <p><a href="terrain-skybox-size.php">Skybox Size</a> HOWTO configure skybox size.</p>
 <p><a href="terrain-sun-light.php">Sun Light</a> configuration.</p>
-
-	<h2>Terrain Design Tips</h2>
-
-<p>
-Fences kill game-play.
-</p>
-
-<p>
-For those dark nights put enough lights to your farm and especially on the grain silo area where trucks are coming in with high speed.
-</p>
-
-<p>
-Make fields small but leave large open area around it so players can enlargen them by ploughing if they want.
-</p>
-
-<p>
-Make fields small but symmetrical so players can merge them if they want mega large fields.
-</p>
-
-<p>
-Place large enough hangars / shelters to store huge fleet of implements and vehicles, you dont want to end up all road side grass areas littlered with parked vehicles.
-</p>
-
-<p>
-Decoration tips; few grain silos, maybe seed / fertilizer silos as well and then one barn or hangar type building just like parkers prairie near the animals.
-</p>
-
-<p>
-Near fields its good to have small open areas so you can park your vehicles there, like when you are not taking them back to the farm shelters.
-</p>
-
-<p>
-Nick Welker said that in real life fields do NOT have a 90 degree square corners, watch <a href="https://youtu.be/1ZIGS8eE6xQ?t=2760" target="_blank">his comments on youtube video</a>. So its more work for you as terrain dev but if you want realism, add round(er) corners for your fields.
-</p>
-
 
 	<h2>Terrain Starter Money</h2>
 
