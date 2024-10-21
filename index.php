@@ -33,6 +33,7 @@
 <a href="25/mods-terrain.php" class="button">Mods Terrain</a>
 <a href="25/mods.php" class="button">Mods</a>
 <a href="25/pmc-terrains.php" class="button">PMC Terrains</a>
+<a href="25/review.php" class="button">Review</a>
 <a href="25/settings.php" class="button">Settings</a>
 <a href="25/stories.php" class="button">Stories</a>
 <a href="25/terrain-editing-tutorial.php" class="button">Terrain Editing Tutorial</a>

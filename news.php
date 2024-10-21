@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-10-20T16:19:42Z Forgot to mention, huge amounts of work has been done in the past day for various web pages, I posted about them in <a href="https://www.pmctactical.org/forum/viewtopic.php?t=22942" target="_blank">PMC Tactical Forum "PMC Farming website farming-simulator.org" topic</a>. Just now finished splitting up <a href="17/terrain-editing-tutorial.php">Farming Simulator 17 Terrain Editing Tutorial</a> page to individual small and compact pages, much more enjoyable to read.
+</p>
+
+<p>
 2024-10-19T22:15:44Z Wrote and released <a href="22/review.php">Farming Simulator 22 (FS22) Review</a> web page.
 </p>
 
