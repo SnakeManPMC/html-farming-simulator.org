@@ -71,7 +71,7 @@ mods\
 </ul>
 
 <div class="wrapper_mod_vehicles">
-	<h2>General Mods</h2>
+	<h2>General Mods FS17</h2>
 
 <div class="mod_release_Vehicle">
 <h2>Money Tool, FS17_MoneyTool</h2>

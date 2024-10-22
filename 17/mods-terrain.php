@@ -27,12 +27,13 @@ Modifications aka Mods in the terrain category for Farming Simulator 17 (FS17).
 <?php include("/var/www/include/section-start.php"); ?>
 	<h2>HOWTO Test New Terrains</h2>
 
-<p>In order to enjoyable play in a map you need to test that there are:
+<p>
+In order to enjoyable play in a terrain you need to test that there are:
 </p>
 <ul>
 	<li>Crops. Well doh obviously!</li>
 	<li>Farm has room to maneuvre. Too "quake l3v3l!!1", claustrophobic farm object placement is horror. I don't necessarily mean you have to have space for dozen Big Bud 747's, but if you cant drive your harvester there, then whats the point?</li>
-	<li>Grain silos. Some place for you to store your grain in the farm, so you dont have to sell it right away</li>
+	<li>Grain bins. Some place for you to store your grain in the farm, so you dont have to sell it right away</li>
 	<li>Grain selling points. Well quite obvious but still</li>
 	<li>Roads are not too narrow. Yes, we all love BIG BUD <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy"></li>
 	<li>Fences and gates arent restricting movement to prevent good gameplay</li>
@@ -188,7 +189,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <p>Looks pretty low res or rather quality when compared to official Goldcrest Valley terrain. But... I rather take low res large map than pixel porno tiny map <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
-<p>Does not have grain silo marked on the map, but its there so you have to find it. There are three silos and they hold incredible amount of crops, one time I managed to dump 700,000 liters there so not sure what the limit per silo is (and you have three of them).
+<p>Does not have grain bin marked on the map, but its there so you have to find it. There are three bins and they hold incredible amount of crops, one time I managed to dump 700,000 liters there so not sure what the limit per bin is (and you have three of them).
 </p>
 
 <p>Your farm is not properly lighted at night, very difficult to navigate on some parts. Nights sometime get pitch black, you cannot see a thing. This depends on the weather or clouds or something, sometimes you get like a moonlight scene and can see just fine for night environment.
@@ -221,7 +222,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <p><b>2018-07-06 this map is v0.9.2.1</b> and only available to download from "pinned post" in <a href="https://www.facebook.com/txzarmapping/" target="_blank">txzarmapping</a> page.
 </p>
 
-<p>Looks very much changed from the old version, I didnt recognize the old farm anymore, many more silos which use I'm not sure of (store grain? seeds? something?). Most fields were gone, they were grass now. I read Txzar saying that this is so players can plough the fields to their liking.
+<p>Looks very much changed from the old version, I didnt recognize the old farm anymore, many more bins which use I'm not sure of (store grain? seeds? something?). Most fields were gone, they were grass now. I read Txzar saying that this is so players can plough the fields to their liking.
 </p>
 
 <p>This map has low and high view distance versions for your to choose (downloads), the higher version requires more powerful hardware.
@@ -233,7 +234,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <p>Animated train (not the one that players can use). Railroad tracks run across the map in south from east to west direction. When train goes off the map it stays there quite while which is nice because if would be too much activity if it would loop back immediately. This train has geometry so you have to be really careful with courseplay routes when acrossing the railroad tracks not to collide with the train and have your vehicles go rolling around.
 </p>
 
-<p>Large silos were added in the open gravel area next to field 5.
+<p>Large bins were added in the open gravel area next to field 5.
 </p>
 
 <p>New fences were added around some of the fields, which I assume was made to match the blue lines in the PDA map image what I read Txzar saying being property lines.
@@ -305,7 +306,7 @@ Overall Cornbelt is my favorite terrain at 2018-10-04 which is kind of funny how
 <p>Train has no collision so there is no issue with your courseplay etc driven vehicles. Traffic is quite nasty, as always, but it can be turned off from options so its not a big deal.
 </p>
 
-<p>Your farm grain silo is located about middle of the map, between fields 12, 32, 9 and 28. Sale points are marked on the map as usual.
+<p>Your farm grain bin is located about middle of the map, between fields 12, 32, 9 and 28. Sale points are marked on the map as usual.
 </p>
 
 <p>You can cut trees (tested few types in one of the big fields) and then plough some nice big fields, but also if you cut too many trees it takes away from the beauty of this map as well so be mindful of that.
@@ -618,7 +619,7 @@ This is very nice looking American state of Nebraska 4km x 4km terrain.
 <p>Terrains listed below are default 2km size, same as original games Goldcrest Valley and Sosnovka, standard size. Small <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
-<p>Version numbers are not listed because these maps often times get updated very frequently, so listing a version number is kind of outdated very easily. Also as the FS17 mod download sites are such a garbage its sometimes difficult to find latest version of released mod when the mod description is only a changelog.
+<p>Version numbers are not listed because these terrains often times get updated very frequently, so listing a version number is kind of outdated very easily. Also as the FS17 mod download sites are such a garbage its sometimes difficult to find latest version of released mod when the mod description is only a changelog.
 </p>
 
 <div class="terrain2km">
@@ -1287,7 +1288,7 @@ This is very nice looking American state of Nebraska 4km x 4km terrain.
 </p>
 
 <p>
-Very nice looking terrain with Big Bud capability for larger scale operations, only issues if not plain bugs are that the vehicle shop yard is way too small, farm silo capacity is ridiculous 100,000 liters and there are no animals besides chickens.
+Very nice looking terrain with Big Bud capability for larger scale operations, only issues if not plain bugs are that the vehicle shop yard is way too small, farm bin capacity is ridiculous 100,000 liters and there are no animals besides chickens.
 </p>
 
 <p>
@@ -1303,7 +1304,7 @@ Shop has items spawned very close and facing the fence so you cannot get tractor
 </p>
 
 <p>
-Welker grain elevator trigger is very poorly placed, no way to setup courseplay to catch it. Not that it would do much good as the grain silo has 100,000 liter capacity which is filled with two truck loads.
+Welker grain elevator trigger is very poorly placed, no way to setup courseplay to catch it. Not that it would do much good as the grain bin has 100,000 liter capacity which is filled with two truck loads.
 </p>
 
 <p>
