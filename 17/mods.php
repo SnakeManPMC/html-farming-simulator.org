@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Farming Simulator Mods - PMC Farming</title>
+<title>Farming Simulator 17 Mods - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Farming Simulator Mods - PMC Farming">
-<META name="keywords" content="Farming Simulator Mods, PMC, Farming">
+<META name="description" content="Farming Simulator 17 Mods - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- google analytics -->
 <?php include("../include/google-analytics.php"); ?>
 
 </head>
@@ -17,13 +15,21 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-<h1><b>PMC Farming Simulator Mods</b></h1>
+	<h1>PMC Farming Simulator 17 Mods</h1>
+
+<p>
+Modifications aka Mods for Farming Simulator 17 (FS17).
+</p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
-	<h2>Mods</h2>
+	<h2>Mods FS17</h2>
+
+<p>
+See also <a href="mods-terrain.php">Terrain Mods FS17</a> and <a href="mods-pending-testing.php">Mods Pending Testing FS17</a> pages for more FS17 mod information.
+</p>
 
 <p>
 See <a href="settings.php">settings</a> for reference. In-game downloaded / updated mods are located in this directory:
