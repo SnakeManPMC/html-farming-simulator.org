@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-10-23T03:21:47Z Farming Simulator 25 (FS25) information added, todays news come already from oct 21st but I've been a bit busy HTML web page editing so this low priority news had to wait a bit. Giants released information about FS25 AI Characters. See a new <a href="25/news-pre-release/ai-characters.php">AI Characters</a> web page what they are all about.
+</p>
+
+<p>
 2024-10-22T02:07:19Z New <a href="17/mods-pending-testing.php">Farming Simulator 17 (FS17) Mods Pending Testing</a> page created. Unfortunately I don't even have FS17 installed anymore and FS25 being three or so weeks away it would be highly unlikely for me to return testing some FS17 mods in fall of 2024. However this pending testing page does serve purpose that those mods that have not been tested by me will be clearly marked so in that category page.
 </p>
 

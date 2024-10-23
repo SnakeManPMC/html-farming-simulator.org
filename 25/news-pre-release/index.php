@@ -25,8 +25,9 @@ Welcome to Farming Simulator 25 (FS25) Pre-Release News page by PMC. The purpose
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
 <?php include("/var/www/include/support.php"); ?>
-	<h2>FS25</h2>
+	<h2>FS25 Pre-Release News</h2>
 
+<p><a href="ai-characters.php">AI Characters</a></p>
 <p><a href="animals.php">Animals</a></p>
 <p><a href="crops.php">Crops</a></p>
 <p><a href="engine.php">Engine</a></p>
