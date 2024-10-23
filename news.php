@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-10-23T09:01:14Z Farming Simulator 25 (FS25) Game-play Preview web page is up. See <a href="25/news-pre-release/game-play-preview-2024-10-22.php">FS25 Game-play Preview 2024-10-22</a> for details, screenshots included.
+</p>
+
+<p>
 2024-10-23T03:21:47Z Farming Simulator 25 (FS25) information added, todays news come already from oct 21st but I've been a bit busy HTML web page editing so this low priority news had to wait a bit. Giants released information about FS25 AI Characters. See a new <a href="25/news-pre-release/ai-characters.php">AI Characters</a> web page what they are all about.
 </p>
 
