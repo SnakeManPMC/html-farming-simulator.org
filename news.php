@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-10-24T15:07:37Z Farming Simulator 25 (FS25) news from today, Hand Tools and Bale Wraps info is out, see <a href="25/news-pre-release/hand-tools-and-bale-wraps.php">FS25 Hand Tools and Bale Wraps</a> page for details and screenshots.
+</p>
+
+<p>
 2024-10-23T09:01:14Z Farming Simulator 25 (FS25) Game-play Preview web page is up. See <a href="25/news-pre-release/game-play-preview-2024-10-22.php">FS25 Game-play Preview 2024-10-22</a> for details, screenshots included.
 </p>
 
