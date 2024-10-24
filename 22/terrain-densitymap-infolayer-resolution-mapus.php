@@ -75,9 +75,7 @@ animalMud01_weight.png PNG 2048x2048+0+0 PseudoClass 256c 8-bit 5.9Ki 0.000u 0m:
 
 <footer>
 <?php include("/var/www/include/footer-start.php"); ?>
-<p><a href="terrain-editing-tutorial.php" class="button">PMC Farming Simulator Terrain Editing Tutorial page</a></p>
-<p><a href="../index.php" class="button">PMC Farming Simulator root page</a></p>
-<p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
+<?php include("../include/fs22-terrain-editing-tutorial-footer.php"); ?>
 <?php include("/var/www/include/footer-end.php"); ?>
 <?php include("/var/www/include/support.php"); ?>
 <?php include("/var/www/include/w3-validator-logo.php"); ?>
