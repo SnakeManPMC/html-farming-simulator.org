@@ -28,21 +28,19 @@ Modifications aka Mods for Farming Simulator 22 (FS22).
 	<h2>FS22 Mods</h2>
 
 <p>
-<b>2024-10-19T08:35:52Z</b> updated.
+<b>2024-10-25T04:02:45Z</b> updated.
 </p>
 
 <p>
 Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22947" target="_blank">PMC Tactical Forum Farming Simulator 22 Mods List topic</a>, post a reply if you have any feedback like bugs, errors or other issues, or you simply want to recommend a mod to be added here.
 </p>
 
-<ul>
-<li><a href="mods-baler.php">Baler</a></li>
-<li><a href="mods-combine-harvester.php">Combine Harvester</a></li>
-<li><a href="mods-cultivator.php">Cultivator</a></li>
-<li><a href="mods-disc-harrow.php">Disc Harrow</a></li>
-<li><a href="mods-game-play.php">Game-play</a> additional field info, contracts hud, better contracts, enlage yield etc</li>
-<li><a href="mods-pending-testing.php">Mods Pending Testing</a> a list of untested mods, scheduled for testing.</li>
-</ul>
+<p><a href="mods-baler.php">Baler</a></p>
+<p><a href="mods-combine-harvester.php">Combine Harvester</a></p>
+<p><a href="mods-cultivator.php">Cultivator</a></p>
+<p><a href="mods-disc-harrow.php">Disc Harrow</a></p>
+<p><a href="mods-game-play.php">Game-play</a> additional field info, contracts hud, better contracts, enlage yield etc</p>
+<p><a href="mods-pending-testing.php">Mods Pending Testing</a> a list of untested mods, scheduled for testing.</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
