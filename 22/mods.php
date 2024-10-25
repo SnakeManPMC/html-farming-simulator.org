@@ -61,6 +61,7 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79
 <p><a href="mods-seeder.php">Seeder</a> seeder does other than corn, sunflowers and sugar beets type of grains.</p>
 <p><a href="mods-semi-truck-trailer.php">Semi-Truck Trailer</a> large trailer pulled by a semi-truck.</p>
 <p><a href="mods-semi-truck.php">Semi-Truck</a> semi-truck for hauling heavy cargo.</p>
+<p><a href="mods-sprayer.php">Sprayer</a> liquid fertilizer or herbicide applicator.</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
