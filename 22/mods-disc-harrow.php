@@ -57,6 +57,35 @@ Errors in the log:
 
 
 <div class="mod_release_Vehicle">
+	<h2>John Deere 2660VT</h2>
+
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+FS22_JohnDeere_Disk_2660VT.zip
+</p>
+
+<p>
+Notes: PMCTODO no idea if this is configured as a cultivator, disc harrow or a plow :(
+umm also, isn't this dupe of tyson diniz https://tysondiniz.me/john-deere-2660vt/ ie the mod above?
+</p>
+
+<p>
+Errors in the log:
+</p>
+<pre>
+</pre>
+
+<p>
+<a href="https://server1.mod-network.net/download_v2.php?mod_file=%2261b01141ab019___FS22_JohnDeere_Disk_2660VT.zip%22&mod_name=%22FS22_JohnDeere_Disk_2660VT.zip%22" target="_blank">FS22_JohnDeere_Disk_2660VT.zip</a>, 
+<a href="https://mod-network.com/fs22-mods/detail/1394/John-Deere-2660VT" target="_blank">mod-network.com</a>
+</p>
+</div>
+
+
+<div class="mod_release_Vehicle">
 	<h2>Case IH 490 Tandem Disk</h2>
 
 <p>
