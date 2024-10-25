@@ -53,6 +53,7 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79
 <p><a href="mods-placeable-object.php">Mods Placeable Object</a> all kinds of objects, no specific type.</p>
 <p><a href="mods-placeable-production.php">Mods Placeable Production</a> ie production chains buildings.</p>
 <p><a href="mods-placeable-refilling-station.php">Mods Placeable Refilling Station</a> buy fertilizer, herbicide, lime, seed, diesel, animal feed, etc.</p>
+<p><a href="mods-placeable-selling-point.php">Mods Placeable Selling Point</a> sell your grains and products here.</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
