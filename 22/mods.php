@@ -67,6 +67,7 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79
 <p><a href="mods-tractor-trailer.php">Tractor Trailer</a> trailer pulled by a tractor.</p>
 <p><a href="mods-tractor.php">Tractor</a> plain old simple tractors, no farm work gets done without them.</p>
 <p><a href="mods-trailer-autoloading.php">Trailer Autoloading</a> technically speaking a cheat, but helps on enjoyable farming game-play a lot.</p>
+<p><a href="mods-with-errors.php">Mods With Errors</a> never ever use mods which have errors in the game log file.</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
