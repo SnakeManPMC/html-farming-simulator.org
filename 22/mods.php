@@ -41,6 +41,7 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79
 <p><a href="mods-disc-harrow.php">Disc Harrow</a> shallow cultivator, same as above, but only works the "top soil" so to speak.</p>
 <p><a href="mods-game-play.php">Game-play</a> additional field info, contracts hud, better contracts, enlage yield etc</p>
 <p><a href="mods-grain-cart.php">Grain Cart</a> or auger wagon, tractor pulled grain trailer with an auger pipe to unload into larger semi-truck grain trailers by the side of the field.</p>
+<p><a href="mods-harvester-header.php">Harvester Header</a> your combine harvester needs a header to cut the crops. There are regular grain headers and corn headers.</p>
 <p><a href="mods-pending-testing.php">Mods Pending Testing</a> a list of untested mods, scheduled for testing.</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
