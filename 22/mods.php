@@ -35,11 +35,12 @@ Modifications aka Mods for Farming Simulator 22 (FS22).
 Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79&t=22947" target="_blank">PMC Tactical Forum Farming Simulator 22 Mods List topic</a>, post a reply if you have any feedback like bugs, errors or other issues, or you simply want to recommend a mod to be added here.
 </p>
 
-<p><a href="mods-baler.php">Baler</a></p>
-<p><a href="mods-combine-harvester.php">Combine Harvester</a></p>
-<p><a href="mods-cultivator.php">Cultivator</a></p>
-<p><a href="mods-disc-harrow.php">Disc Harrow</a></p>
+<p><a href="mods-baler.php">Baler</a> mowed some grass and need to silage wrap it to bales? Got some loose hay but want to handle it as conventient square bales? Then get a baler.</p>
+<p><a href="mods-combine-harvester.php">Combine Harvester</a> the ultimate end goal of farming, the harvest season. For that you need a combine harvester to cut your crops, some Americans say <i>Shelling Corn</i> about corn harvests.</p>
+<p><a href="mods-cultivator.php">Cultivator</a> deep cultivator, work the soil, ground, field preparation for either working fertilizer/lime under or preparing the field for seeding.</p>
+<p><a href="mods-disc-harrow.php">Disc Harrow</a> shallow cultivator, same as above, but only works the "top soil" so to speak.</p>
 <p><a href="mods-game-play.php">Game-play</a> additional field info, contracts hud, better contracts, enlage yield etc</p>
+<p><a href="mods-grain-cart.php">Grain Cart</a> or auger wagon, tractor pulled grain trailer with an auger pipe to unload into larger semi-truck grain trailers by the side of the field.</p>
 <p><a href="mods-pending-testing.php">Mods Pending Testing</a> a list of untested mods, scheduled for testing.</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
