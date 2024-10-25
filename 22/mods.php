@@ -45,6 +45,7 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79
 <p><a href="mods-pending-testing.php">Mods Pending Testing</a> a list of untested mods, scheduled for testing.</p>
 <p><a href="mods-placeable-building-grain.php">Mods Placeable Building Grain</a> for simply storing grain.</p>
 <p><a href="mods-placeable-building-vehicle.php">Mods Placeable Building Vehicle</a> is where you park your vehicles and implements.</p>
+<p><a href="mods-placeable-object.php">Mods Placeable Object</a> all kinds of objects, no specific type.</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
