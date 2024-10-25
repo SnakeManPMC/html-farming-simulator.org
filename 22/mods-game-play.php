@@ -111,6 +111,34 @@ Errors in the log:
 
 
 <div class="mod_release_Vehicle">
+	<h2>Disable Leveler Auto Movement</h2>
+
+<p>
+v1.0 by Holo. From modDesc: In the base game, the leveler moves on its own while compacting chaff, making it easier to level the silo. This mod stops the leveler from moving automatically and keeps it in its current state without user input.
+</p>
+
+<p>
+FS22_DisableLevelerAutoMovement.zip
+</p>
+
+<p>
+Notes: PMCTODO UNTESTED, don't have a savegame with silage bunker with chaff in it ;)
+</p>
+
+<p>
+Errors in the log:
+</p>
+<pre>
+</pre>
+
+<p>
+<a href="https://cdn14.giants-software.com/modHub/storage/00277570/FS22_DisableLevelerAutoMovement.zip" target="_blank">FS22_DisableLevelerAutoMovement.zip</a>,
+<a href="https://www.farming-simulator.com/mod.php?mod_id=277570" target="_blank">Giants Modhub</a>
+</p>
+</div>
+
+
+<div class="mod_release_Vehicle">
 	<h2>HoT Behive 4x Spawner</h2>
 
 <p>
