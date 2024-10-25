@@ -55,6 +55,7 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79
 <p><a href="mods-placeable-refilling-station.php">Mods Placeable Refilling Station</a> buy fertilizer, herbicide, lime, seed, diesel, animal feed, etc.</p>
 <p><a href="mods-placeable-selling-point.php">Mods Placeable Selling Point</a> sell your grains and products here.</p>
 <p><a href="mods-placeable-warehouse.php">Mods Placeable Warehouse</a> for storing your pallets and such items, accepting auto deliveries (distribute) from production chains.</p>
+<p><a href="mods-planter.php">Mods Planter</a> is usually for corn, sunflowers, sugar beets, soybeans and few others.</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
