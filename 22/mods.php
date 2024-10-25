@@ -60,6 +60,7 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79
 <p><a href="mods-seed-tender.php">Seed-Tender</a> HOWTO haul seeds to the field where your planter or seeder is working hard.</p>
 <p><a href="mods-seeder.php">Seeder</a> seeder does other than corn, sunflowers and sugar beets type of grains.</p>
 <p><a href="mods-semi-truck-trailer.php">Semi-Truck Trailer</a> large trailer pulled by a semi-truck.</p>
+<p><a href="mods-semi-truck.php">Semi-Truck</a> semi-truck for hauling heavy cargo.</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
