@@ -63,6 +63,7 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79
 <p><a href="mods-semi-truck.php">Semi-Truck</a> semi-truck for hauling heavy cargo.</p>
 <p><a href="mods-sprayer.php">Sprayer</a> liquid fertilizer or herbicide applicator.</p>
 <p><a href="mods-spreader.php">Spreader</a> manure spreader.</p>
+<p><a href="mods-subsoiler.php">Subsoiler</a> one kind of plow/digger/ripper.</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
