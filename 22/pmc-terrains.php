@@ -53,7 +53,7 @@ These are fictional free hand created terrains, not based on any real world loca
 </p>
 
 <p>
-Do you like big maps with big fields? Map is not large enough for you unless it takes hours to do field work? Then we got some nice goodies for you :)
+Field sizes cover all your needs: <b>tiny fields, small fields, medium size fields, big fields, large fields and few HUGE fields.</b> There are also <b>Grass fields</b> owned by AI farmers available too so you will get silage baling and hay baling contracts being offered by AI farmers. It is extremely comfortable to play on PMC terrains as you can get started with small/poor equipment or you can Rock'n'Roll with big boy vehicles all you want. Great deal of thought has been but over the years for field design and it shows on PMC terrains for FS22 you see here.
 </p>
 
 <p><a href="pmc-cereal-region-32km.php">PMC Cereal Region 32km</a></p>

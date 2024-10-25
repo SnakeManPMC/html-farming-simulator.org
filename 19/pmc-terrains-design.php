@@ -66,7 +66,7 @@ If you have any feedback regarding multiplayer farm buildings, please let us kno
 </p>
 
 <p>
-PMC loves BIG FIELDS and LARGE TERRAINS (BIG MAPS) <img src="../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
+PMC loves BIG FIELDS and LARGE TERRAINS <img src="../images/smileys/icon_mrgreen.gif" alt="Smiley :mrgreen:" loading="lazy">
 </p>
 
 <p>
