@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-10-25T07:36:57Z Farming Simulator 22 (FS22) modifications aka Mods index page got updated, tons of new pages created for different categories, check them out at <a href="22/mods.php">FS22 Mods</a>.
+</p>
+
+<p>
 2024-10-24T15:07:37Z Farming Simulator 25 (FS25) news from today, Hand Tools and Bale Wraps info is out, see <a href="25/news-pre-release/hand-tools-and-bale-wraps.php">FS25 Hand Tools and Bale Wraps</a> page for details and screenshots.
 </p>
 
