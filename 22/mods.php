@@ -44,6 +44,7 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79
 <p><a href="mods-harvester-header.php">Harvester Header</a> your combine harvester needs a header to cut the crops. There are regular grain headers and corn headers.</p>
 <p><a href="mods-pending-testing.php">Mods Pending Testing</a> a list of untested mods, scheduled for testing.</p>
 <p><a href="mods-placeable-building-animal.php">Mods Placeable Building Animal</a> cattle/cow barns, pig barns, sheep barns, chicken coops, bee hives, all them animals.</p>
+<p><a href="mods-placeable-building-bale.php">Mods Placeable Building Bale</a> storage, efficient way to store your bales game performance friendly manner.</p>
 <p><a href="mods-placeable-building-grain.php">Mods Placeable Building Grain</a> for simply storing grain.</p>
 <p><a href="mods-placeable-building-silo.php">Mods Placeable Building Silo</a> for storing animal feed like silage, etc.</p>
 <p><a href="mods-placeable-building-vehicle.php">Mods Placeable Building Vehicle</a> is where you park your vehicles and implements.</p>
