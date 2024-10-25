@@ -49,6 +49,7 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79
 <p><a href="mods-placeable-building-silo.php">Mods Placeable Building Silo</a> for storing animal feed like silage, etc.</p>
 <p><a href="mods-placeable-building-vehicle.php">Mods Placeable Building Vehicle</a> is where you park your vehicles and implements.</p>
 <p><a href="mods-placeable-container.php">Mods Placeable Container</a> liquid storage, diesel fuel storage, etc.</p>
+<p><a href="mods-placeable-money-making.php">Mods Placeable Money Making</a> these money making placeables are a cheat, are you a cheater? Then have fun with these. Cheating money, do not use these; wind turbine, solar panels etc</p>
 <p><a href="mods-placeable-object.php">Mods Placeable Object</a> all kinds of objects, no specific type.</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
