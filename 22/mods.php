@@ -65,6 +65,7 @@ Join discussion in <a href="https://www.pmctactical.org/forum/viewtopic.php?f=79
 <p><a href="mods-spreader.php">Spreader</a> manure spreader.</p>
 <p><a href="mods-subsoiler.php">Subsoiler</a> one kind of plow/digger/ripper.</p>
 <p><a href="mods-tractor-trailer.php">Tractor Trailer</a> trailer pulled by a tractor.</p>
+<p><a href="mods-tractor.php">Tractor</a> plain old simple tractors, no farm work gets done without them.</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
