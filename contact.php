@@ -7,47 +7,49 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- google analytics -->
 <?php include("include/google-analytics.php"); ?>
 
 </head>
 <body>
 
 <header>
-<!-- google ads -->
-<?php include("include/google-ads.php"); ?>
-<h1><b>Contact - PMC Farming</b></h1>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
+	<h1>Contact - PMC Farming</h1>
+
+<p>
+For up to date PMC contact information head over to PMC Tactical website contact page.
+</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
-	<h2>Contact Us</h2>
+<?php include("/var/www/include/section-start.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+	<h2>Main Contact Page At PMC Tactical</h2>
 
 <p>
-Get in touch with us for any questions or suggestions you have about PMC Farming website or our terrain mods.
+Main contact page has been moved to <a href="https://www.pmctactical.org/contact.php">PMC Tactical Contact</a>, for all the latest info head over there.
 </p>
 
 <p>
-Our main community communication is <a href="https://www.pmctactical.org/forum/" target="_blank">PMC Tactical Forums</a>.
+Get in touch with PMC for any questions or suggestions you have about PMC Farming website, guides, tutorials or our terrain mods.
 </p>
 
 <p>
-When I'm live streaming you can chat with me in twitch: <a href="https://www.twitch.tv/snakemanpmc" target="_blank">twitch.tv/snakemanpmc</a> or in youtube: <a href="https://www.youtube.com/user/pmcsince1984" target="_blank">youtube.com/user/pmcsince1984</a>. Obviously this only works when LIVE streaming <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+No, PMC does not have a facebook/twitter/X etc account. If you found PMC Farming unnamed chat link somewhere on the internet, don't bother joining there, that server is now obsolete read-only due users inactivity. Use PMC Tactical Forum for daily new posts.
 </p>
 
-<p>
-Twitch channel note: if our channel has any archived live streams those will be played as Rerun's, I am in the twitch chat during all reruns but obviously I cannot monitor the chat 24/7. If you say hello or want to chat there, be patient because it might take a long time for me to reply. If you really want to chat, join <a href="https://www.pmctactical.org/forum/" target="_blank">PMC Tactical Forums</a>.
-</p>
-
-<p>
-No, PMC does not have a facebook account. If you found PMC Farming discord link somewhere on the internet, don't bother joining there, that server is now obsolete read-only due users inactivity.
-</p>
-
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="index.php" class="button">PMC Farming Simulator root page</a></p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

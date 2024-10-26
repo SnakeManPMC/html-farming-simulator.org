@@ -26,7 +26,7 @@ This is developer diary for Farming Simulator 22 terrain called <a href="pmc-sup
 </p>
 
 <p>
-Special note: this terrain was initially created on 2021-12-23 but I have no dev diary records of that day. The project name was "PMC Test Farm 6km" which was screenshotted and mentioned many times in PMC Farming discord server. It was only mere hours before release when the final name of "<b>PMC Super Six 6km</b>" was chosen. To make this dev diary easier to read for everyone I have renamed all "Test Farm" references to "Super Six" now.
+Special note: this terrain was initially created on 2021-12-23 but I have no dev diary records of that day. The project name was "PMC Test Farm 6km" which was screenshotted and mentioned many times in PMC chat server. It was only mere hours before release when the final name of "<b>PMC Super Six 6km</b>" was chosen. To make this dev diary easier to read for everyone I have renamed all "Test Farm" references to "Super Six" now.
 </p>
 
 <a href="screenshots/PMC-Super-Six-6km-2021-12-23T2246.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Super-Six-6km-2021-12-23T2246.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>

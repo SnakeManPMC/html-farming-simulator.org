@@ -429,7 +429,7 @@ For now I'm going to remove the german script crap lines from TERRAIN.i3d file a
 </p>
 
 <p>
-While testing contracts was talking with penalty_box in PMC discord and he wanted me to send internal testing version now so I saved, exited and started to make one.
+While testing contracts was talking with penalty_box in PMC chat and he wanted me to send internal testing version now so I saved, exited and started to make one.
 </p>
 
 <p>
@@ -703,7 +703,7 @@ Was dead tired when shut down PMC Gaming computer and called it a night, didn't 
 </p>
 
 <p>
-In PMC Farming discord guys helped me out with silage bale trigger and enercon EP4 giving errors. I tried the enercon EP 4 fix first, unfortunately it did not work.
+In PMC chat guys helped me out with silage bale trigger and enercon EP4 giving errors. I tried the enercon EP 4 fix first, unfortunately it did not work.
 </p>
 
 <p>
@@ -1176,7 +1176,7 @@ And now I need to take a shower, about 20min break to refreshen myself a bit...
 </p>
 
 <p>
-Was talking with Octanen on PMC Farming discord #fs22_modeling channel about using blender to place roads, railroad tracks and utility poles. That is exciting if he manages to get it to work so I could actually use it to populate PMC terrains with objects.
+Was talking with Octanen on PMC chat channel about using blender to place roads, railroad tracks and utility poles. That is exciting if he manages to get it to work so I could actually use it to populate PMC terrains with objects.
 </p>
 
 <p>
@@ -1226,11 +1226,11 @@ Farm yard Location-07 done, uuh this copy pasting is killing me hehe.
 <a href="screenshots/PMC-Undefined-Farms-20km-2022-01-31T1334.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Undefined-Farms-20km-2022-01-31T1334.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
 
 <p>
-2022-01-31T14:06:23Z Lunch break finished, uh oh forgot to write it down, was hectic in discord PMC Farming server and then got hungry heh, anyways Location-07 is done. And now I'm going to study LUA scripting, if I could come up with a LUA script that reads transformgroup and outputs placeables.xml format farm yard object info.
+2022-01-31T14:06:23Z Lunch break finished, uh oh forgot to write it down, was hectic in chat and then got hungry heh, anyways Location-07 is done. And now I'm going to study LUA scripting, if I could come up with a LUA script that reads transformgroup and outputs placeables.xml format farm yard object info.
 </p>
 
 <p>
-Smeby in PMC discord gave me a link to german forum (ugh) with rudimentary lua script to get transformgroup name and position/rotation coordinates. I did a quick modification of that lua script and now I can select all objects for the farm yard, run the script and have the names/coords in almost ready to go placeables.xml config file line.
+Smeby in PMC chat gave me a link to german forum (ugh) with rudimentary lua script to get transformgroup name and position/rotation coordinates. I did a quick modification of that lua script and now I can select all objects for the farm yard, run the script and have the names/coords in almost ready to go placeables.xml config file line.
 </p>
 
 <p>
@@ -2225,7 +2225,7 @@ Did one but GE seems to stutter a lot, I'm rendering video using <a href="https:
 </p>
 
 <p>
-2023-03-03T06:15:00Z Well spent a lot of time in xr-renegade's discord voice comms (listening and typing in chat) about his ohio terrain, so kind of lost a lot of editing time, but now back at it for at least few more corner pieces. Man, this field work task is going to take weeks with this pace <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+2023-03-03T06:15:00Z Well spent a lot of time in xr-renegade's chat voice comms (listening and typing in chat) about his ohio terrain, so kind of lost a lot of editing time, but now back at it for at least few more corner pieces. Man, this field work task is going to take weeks with this pace <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>

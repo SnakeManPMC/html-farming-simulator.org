@@ -268,7 +268,7 @@ But seriously though 32768 is <a href="https://www.pmctactical.org/arma3/terrain
 </p>
 
 <p>
-I shut down all extra software just incase my 16gb RAM runs out, I remember long time ago using graphicsmagick for 40960 res image and it was a huge struggle with nothing else running. Now I have firefox with discord and twitch running along with EditPadPro 7. Lets see what happens <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+I shut down all extra software just incase my 16gb RAM runs out, I remember long time ago using graphicsmagick for 40960 res image and it was a huge struggle with nothing else running. Now I have firefox with chat and twitch running along with EditPadPro 7. Lets see what happens <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -282,7 +282,7 @@ I shut down all extra software just incase my 16gb RAM runs out, I remember long
 </p>
 
 <p>
-Wrote the below paragraph with the screenshot into PMC discord when the news broke:
+Wrote the below paragraph with the screenshot into PMC chat when the news broke:
 </p>
 
 <p>
@@ -438,7 +438,7 @@ Dunno, this looks just so screwy and goofy to me heh.
 <a href="screenshots/PMC-Korkscrew-40km-2022-01-18T1949.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Korkscrew-40km-2022-01-18T1949.jpg" class="terrainimg" loading="lazy" alt="Farming Simulator 22 Terrain - PMC Korkscrew 40km Landscape"></a>
 
 <p>
-2022-01-18T20:46:53Z Oops have been busy painting design doc and chatting in PMC Farming discord, guess I missed couple of dev diary entries, ouch <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-01-18T20:46:53Z Oops have been busy painting design doc and chatting in PMC chat, guess I missed couple of dev diary entries, ouch <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -466,7 +466,7 @@ Hmm what the hell, I ran _run_convert_gdm_grle_to_png_and_delete_gdm_grle_FS22.b
 </p>
 
 <p>
-2022-01-18T21:51:31Z Lunch break time, been chatting on discord helping guys to use graphicsmagick etc, its been fairly on/off editing, like right now... I honestly lost track what I did previously heh "ooh look shiny! *runs off*" haha. Anyways off to eat, when I'm done need to figure out what is the next step <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+2022-01-18T21:51:31Z Lunch break time, been chat helping guys to use graphicsmagick etc, its been fairly on/off editing, like right now... I honestly lost track what I did previously heh "ooh look shiny! *runs off*" haha. Anyways off to eat, when I'm done need to figure out what is the next step <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
@@ -494,7 +494,7 @@ So now I'm going to use my black image generating bat file _run_graphicsmagick_F
 </p>
 
 <p>
-2022-01-18T23:11:36Z And again got sidetracked watching a little bit elite dangerous downtoearthastronomy twitch live stream and chatting in discord. Yeah I know, this is not proper editing to have some twitch live stream running on the side, music is fine as it requires no concentration, but yeah I need to get my focus back, either I chat in discord or edit, I cant do both.
+2022-01-18T23:11:36Z And again got sidetracked watching a little bit elite dangerous downtoearthastronomy twitch live stream and chatting. Yeah I know, this is not proper editing to have some twitch live stream running on the side, music is fine as it requires no concentration, but yeah I need to get my focus back, either I chat or edit, I cant do both.
 </p>
 
 <p>
@@ -518,7 +518,7 @@ Umm but once I went to change that... heightscale was 255, err what? Oh right, n
 </p>
 
 <p>
-2022-01-19T00:08:40Z Correct heightmap png and heightScale were in GE, now I could see the nice rolling hills elevations there, finally we are getting somewhere. It already feels like a long day, dunno why, maybe it was so hectic and distracting with discord and twitch ealier, dunno.
+2022-01-19T00:08:40Z Correct heightmap png and heightScale were in GE, now I could see the nice rolling hills elevations there, finally we are getting somewhere. It already feels like a long day, dunno why, maybe it was so hectic and distracting with chat and twitch ealier, dunno.
 </p>
 
 <p>
@@ -712,7 +712,7 @@ However next I need to add some details to farmland image because this will not 
 </p>
 
 <p>
-2022-01-27T04:40:22Z Feeding time over, back to fourty kilometers. Todays second editing session begins. Oddly enough there was pretty much nothing going on in discord during the first editing session.
+2022-01-27T04:40:22Z Feeding time over, back to fourty kilometers. Todays second editing session begins. Oddly enough there was pretty much nothing going on in chat during the first editing session.
 </p>
 
 <p>

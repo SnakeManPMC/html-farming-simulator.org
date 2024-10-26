@@ -52,7 +52,7 @@ Combine then finished the SE corner of the field and moved into the "zig zag par
 </p>
 
 <p>
-I actually wrote these below paragraps in quotes to PMC Farming discord server:
+I actually wrote these below paragraps in quotes to PMC chat:
 </p>
 
 <p>
@@ -200,7 +200,7 @@ It was quite the amazing sight to see courseplay without an actual course, drive
 </p>
 
 <p>
-I'm sure I could collect the bales quicker and more efficiently, but when courseplay is doing it that leaves my hands free to write this story and check discord, web sites, twitch etc <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+I'm sure I could collect the bales quicker and more efficiently, but when courseplay is doing it that leaves my hands free to write this story and check chat, web sites, twitch etc <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
 </p>
 
 <p>
@@ -302,7 +302,7 @@ Jul 1st in-game 0926hrs, soybeans market prices are now dropping. So looks like 
 </p>
 
 <p>
-2022-05-09T01:48:42Z Spent some time chatting in PMC Farming discord and also running around this terrain, was looking for a farm yard land lot to buy, but was extremely disappointed to find out that I didn't paint farmland image properly, none of the farm yards has its own individual land lot, they all cost millions <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
+2022-05-09T01:48:42Z Spent some time chatting in PMC chat and also running around this terrain, was looking for a farm yard land lot to buy, but was extremely disappointed to find out that I didn't paint farmland image properly, none of the farm yards has its own individual land lot, they all cost millions <img src="../images/smileys/icon_sad.gif" alt="Smiley :(" loading="lazy">
 </p>
 
 <p>

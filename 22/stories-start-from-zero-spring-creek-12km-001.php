@@ -41,7 +41,7 @@ I actually checked this terrain out couple of hours ago, started new farmer care
 </p>
 
 <p>
-This Start From Zero is quite... not exactly a joke but pretty close, because this terrain is frigging 12.2km which means huge. Previously today I played on <a href="stories-start-from-zero-elmcreek.php">Start From Zero Elmcreek</a> and it was boring as hell, now I just somehow came across Spring Creek which <a href="https://www.pmctactical.org/forum/memberlist.php?mode=viewprofile&u=12324" target="_blank">ARG_Afb</a> sent to me couple of days ago. Then on PMC Farming discord we chatted and dunno after thinking about it a bit I decided to try if start from zero would work in such a big terrain.
+This Start From Zero is quite... not exactly a joke but pretty close, because this terrain is frigging 12.2km which means huge. Previously today I played on <a href="stories-start-from-zero-elmcreek.php">Start From Zero Elmcreek</a> and it was boring as hell, now I just somehow came across Spring Creek which <a href="https://www.pmctactical.org/forum/memberlist.php?mode=viewprofile&u=12324" target="_blank">ARG_Afb</a> sent to me couple of days ago. Then on PMC chat we talked and dunno after thinking about it a bit I decided to try if start from zero would work in such a big terrain.
 </p>
 
 <p>

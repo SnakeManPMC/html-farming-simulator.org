@@ -157,7 +157,7 @@ Checked in-game and grass is on roads, well guess I goofed up some step in desig
 </p>
 
 <p>
-2022-01-07T04:46:00Z farmer77 in PMC Farming discord had problems with his terrain so I offered to take a look. So going to start doing that now, hopefully it wont take long.
+2022-01-07T04:46:00Z farmer77 in PMC chat had problems with his terrain so I offered to take a look. So going to start doing that now, hopefully it wont take long.
 </p>
 
 <p>
@@ -423,7 +423,7 @@ Then project dir sync to fs22 mods dir and in-game check. Hopefully everything w
 </p>
 
 <p>
-Had a slight hiccup with farmland image, <a href="../19/terrain-farmland.php">ID channel 17</a> was not painted, so had to go investigate why not. Sometimes this happens that you can easily skip one RGB colors if you get distracted, farmland painting is relaxing... but make sure you are not distracted by discord/twitch or similar when you are going through the colors, start and finish one color in one go no matter which kind of notifications or distractions would appear.
+Had a slight hiccup with farmland image, <a href="../19/terrain-farmland.php">ID channel 17</a> was not painted, so had to go investigate why not. Sometimes this happens that you can easily skip one RGB colors if you get distracted, farmland painting is relaxing... but make sure you are not distracted by chat/twitch or similar when you are going through the colors, start and finish one color in one go no matter which kind of notifications or distractions would appear.
 </p>
 
 <p>

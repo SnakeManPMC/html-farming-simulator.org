@@ -30,7 +30,7 @@
 </p>
 
 <p>
-These are my raw notes without screenshots currently, plan is to improve this bare bones basic step by step list in the future. Join <a href="../contact.php">PMC Farming discord</a> to chat about it.
+These are my raw notes without screenshots currently, plan is to improve this bare bones basic step by step list in the future. Join <a href="../contact.php">PMC Tactical Forum</a> to discuss about it.
 </p>
 
 <p>
@@ -57,7 +57,9 @@ blender -> SHIFT-A -> Mesh -> Plane
 blender -> N -> panel appears on right, view tab -> End: type in large number like 10,000 m
 </p>
 
-<a href="https://cdn.discordapp.com/attachments/910907101465940019/933834073338691594/unknown.png" target="_blank">unknown.png 1</a> and <a href="https://cdn.discordapp.com/attachments/910907101465940019/933834431330918440/unknown.png" target="_blank">unknown.png 2</a>.
+<p>
+<a href="https://cdn.discordapp.com/attachments/910907101465940019/933834073338691594/unknown.png" target="_blank">unknown.png 1</a> and <a href="https://cdn.discordapp.com/attachments/910907101465940019/933834431330918440/unknown.png" target="_blank">unknown.png 2</a>. Sorry obsolete chat program image links not working anymore. PMCTODO
+</p>
 
 <p>
 blender -> SHIFT-S (hold SHIFT) -> cursor to world origin
@@ -104,7 +106,7 @@ Adding road model into the bezier curve.
 </p>
 
 <p>
-blender -> file -> import -> wavefront obj -> choose your road model.obj. Click the standard-road.obj to select it (get this from PMC Farming discord).
+blender -> file -> import -> wavefront obj -> choose your road model.obj. Click the standard-road.obj to select it (get this from PMC Tactical Forum).
 </p>
 
 <p>

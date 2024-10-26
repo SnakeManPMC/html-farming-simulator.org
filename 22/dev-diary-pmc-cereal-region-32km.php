@@ -41,7 +41,7 @@ Initial project directory name was: deleteme_32km, <a href="../19/terrain-height
 </p>
 
 <p>
-2021-12-13 First date when I mention "FS22 32.7km" terrain in PMC discord server.
+2021-12-13 First date when I mention "FS22 32.7km" terrain in PMC chat.
 </p>
 
 <p>
@@ -53,7 +53,7 @@ Initial project directory name was: deleteme_32km, <a href="../19/terrain-height
 </p>
 
 <p>
-Below screenshots were initially uploaded to PMC discord server, click to open high resolution images.
+Below screenshots were initially uploaded to PMC chat, click to open high resolution images.
 </p>
 
 <a href="screenshots/PMC-Cereal-Region-32km-2021-12-31T0128.jpg" target="_blank"><img src="screenshots/thumbs/PMC-Cereal-Region-32km-2021-12-31T0128.jpg" class="terrainimg" loading="lazy" alt="PMC Farming Simulator 22 Screenshot"></a>
@@ -145,7 +145,7 @@ In-game test: hilarious boring american road grid design indeed, but its too lat
 </p>
 
 <p>
-2022-01-25T22:26:43Z In-game check done, guys in PMC Farming discord are kind of interrupting me (hopefully they don't read this, track down UTC times and see whom am I talking about heh, juust joking I love helping terrain enthusiasts heh).
+2022-01-25T22:26:43Z In-game check done, guys in PMC chat are kind of interrupting me (hopefully they don't read this, track down UTC times and see whom am I talking about heh, juust joking I love helping terrain enthusiasts heh).
 </p>
 
 <p>
@@ -153,7 +153,7 @@ But yeah man this 32.7km terrain is a BEAST, it is insanely large.
 </p>
 
 <p>
-2022-01-25T23:15:43Z Still helping guys in PMC Farming discord, lost track of what I was doing in PMC Cereal Region 32km, luckily I have the stuff written above heh.
+2022-01-25T23:15:43Z Still helping guys in PMC chat, lost track of what I was doing in PMC Cereal Region 32km, luckily I have the stuff written above heh.
 </p>
 
 <p>
@@ -189,7 +189,7 @@ South and east edge fields are drawn right into the terrain edge, this should be
 </p>
 
 <p>
-2022-01-26T00:32:59Z I am extremely distracted by discord, feel like I should simply shut it down to concentrate on task at hand. I cannot brag about todays editing hardcore plan if all I do is chat in discord. And I believe in top of the hour penalty_box goes live on twitch while hes playing on <a href="pmc-undefined-farms-20km.php">PMC Undefined Farms 20km</a>.
+2022-01-26T00:32:59Z I am extremely distracted by chat, feel like I should simply shut it down to concentrate on task at hand. I cannot brag about todays editing hardcore plan if all I do is chat. And I believe in top of the hour penalty_box goes live on twitch while hes playing on <a href="pmc-undefined-farms-20km.php">PMC Undefined Farms 20km</a>.
 </p>
 
 <p>
@@ -273,11 +273,11 @@ Anyways.
 </p>
 
 <p>
-I'm now thinking that maybe tomorrow I'll shut down discord, twitch and youtube completely and isolate myself into the terrain universe where its just me and terrain projects with whole bunch of progress on the way <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+I'm now thinking that maybe tomorrow I'll shut down chat, twitch and youtube completely and isolate myself into the terrain universe where its just me and terrain projects with whole bunch of progress on the way <img src="../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
 <p>
-2022-01-26T07:26:49Z Time goes on and still havent got back to editing mood, sucks. I am pretty sure that tomorrow will be 17hrs without discord/twitch distractions.
+2022-01-26T07:26:49Z Time goes on and still havent got back to editing mood, sucks. I am pretty sure that tomorrow will be 17hrs without chat/twitch distractions.
 </p>
 
 <p>
@@ -321,7 +321,7 @@ Had selling point number 13 bug, its listed in placeables.xml but not in storeIt
 </p>
 
 <p>
-2022-01-26T09:24:20Z I had still 3hrs 27min until bed time (heh no I'm not counting minutes but just listing what phone 17hrs timer shows), but I already feel like lazy, very disappointed for todays performance as it was mostly spent in discord and twitch. Tomorrow I am absolutely going to leave discord running in PMC DevSurf computer when coming to PMC Gaming for editing sessions, there cannot be any distractions, I want full 17hrs hardcore editing day.
+2022-01-26T09:24:20Z I had still 3hrs 27min until bed time (heh no I'm not counting minutes but just listing what phone 17hrs timer shows), but I already feel like lazy, very disappointed for todays performance as it was mostly spent in chat and twitch. Tomorrow I am absolutely going to leave chat running in PMC DevSurf computer when coming to PMC Gaming for editing sessions, there cannot be any distractions, I want full 17hrs hardcore editing day.
 </p>
 
 <p>
@@ -333,7 +333,7 @@ Had selling point number 13 bug, its listed in placeables.xml but not in storeIt
 </p>
 
 <p>
-BTW today I left discord running on PMC DevSurf computer when I switched over to PMC Gaming win10 to edit fs22, to avoid any distractions like yesterday. I love helping people on addon/mod making, terrain editing especially, but I have to draw the line somewhere that if my own editing projects are suffering because I spend half a day in discord helping others ... its no good.
+BTW today I left chat running on PMC DevSurf computer when I switched over to PMC Gaming win10 to edit fs22, to avoid any distractions like yesterday. I love helping people on addon/mod making, terrain editing especially, but I have to draw the line somewhere that if my own editing projects are suffering because I spend half a day in chat helping others ... its no good.
 </p>
 
 <p>

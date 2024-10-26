@@ -404,7 +404,7 @@ Was looking at the design doc and its almost half way done now regarding new fie
 </p>
 
 <p>
-2021-07-12T19:09:00Z Had a good discussion in PMC discord about this re-design with the guys, mainly SinisterSockz, got some good feedback.
+2021-07-12T19:09:00Z Had a good discussion in PMC chat about this re-design with the guys, mainly SinisterSockz, got some good feedback.
 </p>
 
 <p>
@@ -748,7 +748,7 @@ November 22nd 2021 Farming Simulator 22 for windows 10/11 was released... I hate
 </p>
 
 <p>
-2021-12-17T15:22:00Z Wrote the below paragraph into PMC discord servers #fs19 channel, thought I could copy paste it here:
+2021-12-17T15:22:00Z Wrote the below paragraph into PMC char, thought I could copy paste it here:
 </p>
 
 <p>
@@ -760,7 +760,7 @@ Background note: on 2021-07-28 was my last FS19 editing/playing day, after that 
 </p>
 
 <p>
-2021-12-17T18:12:00Z Did a read through of this dev diary beginning from re-design part to catch up on what was done, also read PMC discord server #fs19 channel of what we talked about this, added those few screenshots from discord attache. Looks like it is quite advanced re-design but which still leaves me feeling like its an empty space everywhere.
+2021-12-17T18:12:00Z Did a read through of this dev diary beginning from re-design part to catch up on what was done, also read PMC chat of what we talked about this, added those few screenshots from chat attache. Looks like it is quite advanced re-design but which still leaves me feeling like its an empty space everywhere.
 </p>
 
 <p>
@@ -945,7 +945,7 @@ Naah I'll keep going for hour or two more, gotta get some more work in before ca
 	<h2>2021-12-26 GraphicsMagick Editing</h2>
 
 <p>
-2021-12-26T22:38:00Z New editing day has started, just finished days first meal and time to get to work, unfortunately there are some chat going on in PMC Farming discord and unfortunately unless I simply close discord it will take my editing time. But we'll try to get through it.
+2021-12-26T22:38:00Z New editing day has started, just finished days first meal and time to get to work, unfortunately there are some chat going on and unfortunately unless I simply close that it will take my editing time. But we'll try to get through it.
 </p>
 
 <p>
@@ -957,7 +957,7 @@ Today, well hmm guess its time to try terrain in-game to see how it looks and wh
 </p>
 
 <p>
-2021-12-26T23:39:00Z I'm really bogged down with discord chat, helping one guy to get his fs22 real world data terrain in-game, step by step even the most basic stuff. I love to help people, but at the same time its painful as my own terrain editing tasks are halted when I type stuff in discord.
+2021-12-26T23:39:00Z I'm really bogged down with chat, helping one guy to get his fs22 real world data terrain in-game, step by step even the most basic stuff. I love to help people, but at the same time its painful as my own terrain editing tasks are halted when I type stuff in chat.
 </p>
 
 <p>
@@ -998,7 +998,7 @@ Added one more forest treeline, this time with spruce/pine trees for variation. 
 </p>
 
 <p>
-Then got side tracked by helping a guy in PMC Farming discord to create 16.3km real world data terrain source files for in-game.
+Then got side tracked by helping a guy in PMC chat to create 16.3km real world data terrain source files for in-game.
 </p>
 
 <p>
@@ -1320,7 +1320,7 @@ Sorry for this terrain being under development for YEARS, looking back today I f
 </p>
 
 <p>
-If anyone reads this, download, play and enjoy PMC Grande Gardens 16km terrain please send me an giants forum message, email or discord message as I would love to hear your feedback. Links from <a href="../contact.php" target="_blank">contact us</a> page.
+If anyone reads this, download, play and enjoy PMC Grande Gardens 16km terrain please send me an PMC Tactical Forum or Giants Forum message or email as I would love to hear your feedback. Links from <a href="../contact.php" target="_blank">contact us</a> page.
 </p>
 
 <p>

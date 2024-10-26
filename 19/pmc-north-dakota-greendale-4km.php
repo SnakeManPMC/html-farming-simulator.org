@@ -77,7 +77,7 @@ Plenty of <a href="https://www.youtube.com/user/pmcsince1984/search?query=%22PMC
 </p>
 
 <p>
-Please send us feedback, bug reports, anything that could help us to improve this terrain. Join PMC Farming discord server, see <a href="../contact.php">contact page</a> for an invite.
+Please send us feedback, bug reports, anything that could help us to improve this terrain. Join PMC Tactical Forum, see <a href="../contact.php">contact page</a> for details.
 </p>
 
 	<h2>New Farmer Game-Mode</h2>

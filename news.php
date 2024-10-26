@@ -288,7 +288,7 @@
 </p>
 
 <p>
-2021-01-22 PMC Farming discord server opened, you are welcome to join. See <a href="contact.php">contact page</a> for an invite.
+2021-01-22 PMC Farming unnamed chat server opened, you are welcome to join. See <a href="contact.php">contact page</a> for an invite. <i>Edit: 2024-10-26T03:57:00Z this server is now dead, read-only due users inactivity, use <a href="https://www.pmctactical.org/forum/" target="_blank">PMC Tactical Forum</a> for daily new posts.</i>
 </p>
 
 <p>

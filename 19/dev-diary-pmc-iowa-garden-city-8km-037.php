@@ -101,7 +101,7 @@ Alright back to GE playing with cubes and in SSC trying to come up with good con
 </p>
 
 <p>
-2021-07-14T21:19:00Z Battle continues to get SSC working properly. Once I got nice road curb/verge config file then curves caused bad wrinkles on the mesh. This was resolved by simply removing cube objects on the corners to make them more smooth. There was still one or two kind of wrinkles but it should be playable in-game now. Greetings to Grus-Tube in <a href="../contact.php">PMC Farming discord</a>.
+2021-07-14T21:19:00Z Battle continues to get SSC working properly. Once I got nice road curb/verge config file then curves caused bad wrinkles on the mesh. This was resolved by simply removing cube objects on the corners to make them more smooth. There was still one or two kind of wrinkles but it should be playable in-game now. Greetings to Grus-Tube in PMC chat.
 </p>
 
 <p>
