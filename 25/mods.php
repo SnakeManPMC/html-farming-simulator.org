@@ -27,14 +27,12 @@ Modifications for Farming Simulator 25 (FS25), aka "mods". These include tractor
 <?php include("/var/www/include/section-start.php"); ?>
 	<h2>FS25 Mods</h2>
 
-<ul>
-<li><a href="mods-baler.php">Baler</a> to get grass or hay into more manageable bales, you need a baler.</li>
-<li><a href="mods-combine-harvester.php">Combine Harvester</a> harvest is the king of farming activities, for that you need a good combine harvester.</li>
-<li><a href="mods-cultivator.php">Cultivator</a> turning dirt, working the ground, need a crop put under, use cultivator.</li>
-<li><a href="mods-disc-harrow.php">Disc Harrow</a> does shallow cultivating, stubble tillage field surface.</li>
-<li><a href="mods-game-play.php">Game-play</a> HOWTO enhanced basic game-play.</li>
-<li><a href="mods-pending-testing.php">Mods Pending Testing</a> untested mods schedule for testing.</li>
-</ul>
+<p><a href="mods-baler.php">Baler</a> to get grass or hay into more manageable bales, you need a baler.</p>
+<p><a href="mods-combine-harvester.php">Combine Harvester</a> harvest is the king of farming activities, for that you need a good combine harvester.</p>
+<p><a href="mods-cultivator.php">Cultivator</a> turning dirt, working the ground, need a crop put under, use cultivator.</p>
+<p><a href="mods-disc-harrow.php">Disc Harrow</a> does shallow cultivating, stubble tillage field surface.</p>
+<p><a href="mods-game-play.php">Game-play</a> HOWTO enhanced basic game-play.</p>
+<p><a href="mods-pending-testing.php">Mods Pending Testing</a> untested mods schedule for testing.</p>
 
 <?php include("../include/fs25-placeholder-pages.php"); ?>
 
