@@ -369,6 +369,40 @@ SaMASZ XT 390 Virtus 135 RVshift.
 
 <a href="screenshots/SaMASZ-XT-390-Virtus-135-RVshift-02.jpg" target="_blank"><img src="screenshots/thumbs/SaMASZ-XT-390-Virtus-135-RVshift-02.jpg" class="terrainimg" loading="lazy" alt="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
 
+<p>
+2024-10-25 Giants Fact Sheets Friday. -source <a href="https://www.farming-simulator.com/newsArticle.php?news_id=554" target="_blank">Giants website blog</a>.
+</p>
+
+<p>
+Claas Jaguar 990 Terra Trac forage harvester with Claas Orbis 900 header.
+</p>
+
+<a href="screenshots/Claas-Jaguar-Terra-Trac-990-Orbis-900-01.jpg" target="_blank"><img src="screenshots/thumbs/Claas-Jaguar-Terra-Trac-990-Orbis-900-01.jpg" class="terrainimg" loading="lazy" alt="FS25 Fact Sheet Friday Vehicles Farming Simulator 25 Screenshot" title="FS25 Fact Sheet Friday Vehicles Farming Simulator 25 Screenshot"></a>
+
+<p>
+New Holland T7 LWB PLMI tractor pulling Vaderstad Rexius 1230 roller.
+</p>
+
+<a href="screenshots/New-Holland-T7-LWB-PLMI-Vaderstad-Rexius-1230-01.jpg" target="_blank"><img src="screenshots/thumbs/New-Holland-T7-LWB-PLMI-Vaderstad-Rexius-1230-01.jpg" class="terrainimg" loading="lazy" alt="FS25 Fact Sheet Friday Vehicles Farming Simulator 25 Screenshot" title="FS25 Fact Sheet Friday Vehicles Farming Simulator 25 Screenshot"></a>
+
+<p>
+Case IH Puma 260 CVXDrive tractor doing straw round bales with RB 456 HD Pro baler.
+</p>
+
+<a href="screenshots/Case-IH-Puma-260-CVXDrive-RB-456-HD-Pro-01.jpg" target="_blank"><img src="screenshots/thumbs/Case-IH-Puma-260-CVXDrive-RB-456-HD-Pro-01.jpg" class="terrainimg" loading="lazy" alt="FS25 Fact Sheet Friday Vehicles Farming Simulator 25 Screenshot" title="FS25 Fact Sheet Friday Vehicles Farming Simulator 25 Screenshot"></a>
+
+<p>
+Aprilia RX-125 Motorbike.
+</p>
+
+<a href="screenshots/Aprilia-RX-123-01.jpg" target="_blank"><img src="screenshots/thumbs/Aprilia-RX-123-01.jpg" class="terrainimg" loading="lazy" alt="FS25 Fact Sheet Friday Vehicles Farming Simulator 25 Screenshot" title="FS25 Fact Sheet Friday Vehicles Farming Simulator 25 Screenshot"></a>
+
+<p>
+Ape 50 "car".
+</p>
+
+<a href="screenshots/Ape-50-01.jpg" target="_blank"><img src="screenshots/thumbs/Ape-50-01.jpg" class="terrainimg" loading="lazy" alt="FS25 Fact Sheet Friday Vehicles Farming Simulator 25 Screenshot" title="FS25 Fact Sheet Friday Vehicles Farming Simulator 25 Screenshot"></a>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
