@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-10-26T07:12:09Z Created empty placeholder pages for Farming Simulator 25 (FS25) modifications aka mods pages, all the same sub categories as FS22 has. This is because I will be extremely busy on FS25 release day, I have no time and even less interest of editing HTML web pages, so its best to do it now that I have nothing but free time while waiting for FS25 release date to arrive. Yeah I kind of hate to keep empty pages up, some people might think its some sort of clickbait and yes technically I could comment out those pages so visitors could not get to the pages unless they know the direct https link to it, but that still leaves me one more HTML editing task once FS25 releases and I'll generate new content, so nope, placeholder pages are up with good disclaimer why they are there. But for example this news item, no need to link to mods page as there is nothing to see, I sort of just wanted to post news for the history books as this was kind of big ordeal to get all those mod- pages done, my copy-paste fingers are aching, bad <img src="images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
 2024-10-25T07:36:57Z Farming Simulator 22 (FS22) modifications aka Mods index page got updated, tons of new pages created for different categories, check them out at <a href="22/mods.php">FS22 Mods</a>. Edit: another update at 2024-10-25T12:57:10Z
 </p>
 

@@ -18,7 +18,7 @@
 	<h1>PMC Farming Simulator 25 Mods Pending Testing</h1>
 
 <p>
-Modifications aka Mods for Farming Simulator 25 (FS25) which are scheduled for testing.
+Modifications aka Mods for Farming Simulator 25 (FS25) which are scheduled for testing. Here is how this works for me personally: I see a new mod release, I copy-paste document its title, version number, author developer name, short description, perhaps my personal notes if there is something important to know, mod zip file name, direct download link to mod release packet and finally and obviously the official release link (if possible). Once all this data has been gathered, I will copy-paste it to this page which is as title says "mods pending testing", when I get around to test the mod then I'll UTC timestamp and write results, hopefully it will be "no errors, no issues", but if there are errors then they are copy-pasted in the mod entry. Once testing is complete the mod release info entry will be moved to the proper category in <a href="mods.php">FS25 Mods</a> page.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
