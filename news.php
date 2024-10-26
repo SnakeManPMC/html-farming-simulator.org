@@ -25,7 +25,7 @@
 	<h2>News 2024</h2>
 
 <p>
-2024-10-25T07:36:57Z Farming Simulator 22 (FS22) modifications aka Mods index page got updated, tons of new pages created for different categories, check them out at <a href="22/mods.php">FS22 Mods</a>.
+2024-10-25T07:36:57Z Farming Simulator 22 (FS22) modifications aka Mods index page got updated, tons of new pages created for different categories, check them out at <a href="22/mods.php">FS22 Mods</a>. Edit: another update at 2024-10-25T12:57:10Z
 </p>
 
 <p>

@@ -71,6 +71,10 @@ Next up was just waiting until such time the installer can be downloaded. My pre
 Some background information, my gaming computer is called PMC Gaming and it is running Windows 10 64bit operating system on Samsung 870 EVO SSD 500gb, its been running that since 2021 when I had to install win10 the first time ever for Farming Simulator 22 (FS22) release, you can read that story from <a href="../22/stories.php">FS22 Stories</a> page.
 </p>
 
+<p>
+2024-10-26T03:34:08Z Just checked and giants eshop still says game will be released on nov 12th, so no download available yet. Not that I actually expect it to be, its still two weeks and two days away from the release. I assume giants have to generate release build, "Gold" as game companies call it, probably on nov 10th the latest, I don't think they want to leave the pre-download option to the last day, would make not much difference server load wise. Its kind of exciting to check when FS25 installer files become available.
+</p>
+
 <!--
 	<h2>UTC FS25 Release Story and Installation</h2>
 -->
