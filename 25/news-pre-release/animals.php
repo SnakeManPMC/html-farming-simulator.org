@@ -238,6 +238,29 @@ Goats in particular like to let you know that they have distinct personalities. 
 Click for a large animated <a href="https://www.farming-simulator.org/25/news-pre-release/screenshots/Goat-Laying-Down-Chewing-Animation.gif" target="_blank">Goat-Laying-Down-Chewing-Animation.gif</a> image.
 </p>
 
+
+	<h2>Expandable Pastures</h2>
+
+<p>
+2024-10-26 DjGoHam reported about some german language magazine which got release in germany (well doh) which lists dynamic pastures, meaning <b>Expandable Animal Pastures in FS25</b>. -source <a href="https://www.youtube.com/watch?v=QAWGlS-eA24" target="_blank">DjGoHam youtube video "BREAKING NEWS - Dynamic Pastures CONFIRMED for Farming Simulator 25!!!"</a>.
+</p>
+
+<p>
+What is <b>Expandable Animal Pasture</b>? It is animal barn/shed, like lets say cattle/cow barn where your animals live, eat and breed. This placeable building has an navigation mesh (navmesh) area for the animals to walk around, don't worry about the tech lingo, its geek developer talk, just think of it "where the cows walk!" area <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+See <a href="" target="_blank">FS22 Expandable Pastures mod</a> by Chissel. This is basically now in-game feature of FS25. Pretty cool actually, I am truly looking forward for a large cattle/cow operation now on FS25 if you truly can "paint" your own "where cows walk areas" <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
+<p>
+DjGoHam is reporting from the german magazine that players can draw fences in <a href="../../22/guide-build-mode.php">landscaping build mode (FS22 guide page)</a> and animals are using the area inside the drawn/placed fences.
+</p>
+
+<p>
+Of course we have to be very cautious with expectations about this FS25 in-game feature, all we have seen is almost random "hush hush" german language PAPER MAGAZINE (who reads those in 2024, huh) mentioning this feature. I'm going to be very calm and collected while waiting for further information, hopefully there will be some youtube preview videos / live streams of FS25 before the release which would confirm and show how this feature works. But having said that, I am still very happy, cautious, but happy to hear this expandable pasture news <img src="../../images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 

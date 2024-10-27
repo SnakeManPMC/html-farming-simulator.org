@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-10-27T06:05:23Z New Farming Simulator 25 (FS25) information about expandable animal pastures is out, read details from <a href="25/news-pre-release/animals.php">FS25 Pre-Release News Animals</a> page, exciting stuff.
+</p>
+
+<p>
 2024-10-27T04:39:16Z Both Farming Simulator 19 (FS19) and FS22 terrain mods pages got updated, I finally managed to transfer/migrate all my local notes, some of them dating years back, to online where they belong. I am very happy now that my local notes for community made terrain mods are empty, one more task done while slowly approaching FS25 release, whee. See <a href="19/mods-terrain.php">FS19 Terrain Mods</a> and <a href="22/mods-terrain.php">FS22 Terrain Mods</a> pages.
 </p>
 
