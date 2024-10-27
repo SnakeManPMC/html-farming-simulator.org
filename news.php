@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-10-27T04:39:16Z Both Farming Simulator 19 (FS19) and FS22 terrain mods pages got updated, I finally managed to transfer/migrate all my local notes, some of them dating years back, to online where they belong. I am very happy now that my local notes for community made terrain mods are empty, one more task done while slowly approaching FS25 release, whee. See <a href="19/mods-terrain.php">FS19 Terrain Mods</a> and <a href="22/mods-terrain.php">FS22 Terrain Mods</a> pages.
+</p>
+
+<p>
 2024-10-26T10:31:15Z Giants friday fact sheets is out (2024-10-25), new vehicle specifications with screenshots added to <a href="25/news-pre-release/vehicles.php">Farming Simulator 25 (FS25) Pre-Release News Vehicles</a> page, enjoy the screenshots.
 </p>
 
