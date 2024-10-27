@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-10-27T11:22:48Z Realistic American Farming Guide adde to Farming Simulator 19 (FS19) main guides page, its been long time coming, glad its finally here in its early stages. See <a href="19/guide.php">FS19 Guide</a> and from there <a href="19/guide-realistic-american-farming.php">Realistic American Farming FS19</a> page. Let me know what American vehicles, equipment and terrains to add there, would love some tips.
+</p>
+
+<p>
 2024-10-27T06:05:23Z New Farming Simulator 25 (FS25) information about expandable animal pastures is out, read details from <a href="25/news-pre-release/animals.php">FS25 Pre-Release News Animals</a> page, exciting stuff.
 </p>
 
