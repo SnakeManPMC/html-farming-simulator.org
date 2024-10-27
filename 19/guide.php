@@ -23,11 +23,15 @@
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
 <p>
-<b>2020-12-28</b> Updated.
+<b>2024-10-27T10:57:36Z</b> Updated.
 </p>
 
 <p>
 Please read <a href="../17/guide.php">FS17 Guide</a> first as we do not repeat the same stuff here unless it has been changed.
+</p>
+
+<p>
+<a href="guide-realistic-american-farming.php">Realistic American Farming Guide</a> lists some bare essential mods to use when trying to farm like a real american farmers do.
 </p>
 
 	<h2>Gameplay Tips User Interface</h2>
@@ -289,13 +293,6 @@ If we calculate lets say 3750 market price the amount of money the crop was wort
 <p>
 I don't know why anyone would want to buy a land lot without soybeans growing on it, the harvested crop will pay the land for you.
 </p>
-
-<!--
-	<h2>Market Prices</h2>
-	<h2>Animals</h2>
-	<h2>Gameplay Styles</h2>
-	<h2>Vehicles and Equipment per Field</h2>
--->
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
