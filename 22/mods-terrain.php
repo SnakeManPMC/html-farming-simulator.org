@@ -25,7 +25,7 @@
 	<h2>Terrain Downloads</h2>
 
 <p>
-<b>2022-09-16T19:18:00Z</b> updated.
+<b>2024-10-27T02:59:30Z</b> updated.
 </p>
 
 <p>
@@ -678,7 +678,7 @@ The terrain was created on the basis of the terrain of one of the picturesque co
 <!--
 <a href="images/Map-.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-.jpg" alt="Farming Simulator 22 Map - FS22 Belgium" loading="lazy"></a>
 
-<a href="images/Map--Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map--Farmland.jpg" alt="Farming Simulator 22 Map - FS22 Belgium Farmland" loading="lazy"></a>
+<a href="images/Map-Farmland.jpg" target="_blank"><img class="terrainimg" src="images/thumbs/Map-Farmland.jpg" alt="Farming Simulator 22 Map - FS22 Belgium Farmland" loading="lazy"></a>
 -->
 <p>
 FS22 Belgium by LsPT.
@@ -704,6 +704,434 @@ Available productions: Almost all except for one or two things.
 
 <p>
 <a href="https://files.modhub.us/download?file=/15/2022-10/belgium-map-v1000/jrhvf1665735602/1665735602-FS22_Belgium.zip&fileName=FS22_Belgium.zip" target="_blank">FS22_Belgium.zip</a>, <a href="https://www.modhub.us/farming-simulator-22-mods/belgium-map-v1000" target="_blank">modhub.us</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+	<h2>Riverview Terrain</h2>
+
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+FILENAME
+</p>
+
+<p>
+Notes: this is a terrain.
+</p>
+
+<p>
+Errors in the log:
+</p>
+<pre>
+</pre>
+
+<p>
+<a href="https://www.modhoster.com/mods/riverview" target="_blank">modhoster.com</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+	<h2>BigFieldsXXL</h2>
+
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+FILENAME
+</p>
+
+<p>
+Notes: has various errors.
+</p>
+
+<p>
+Errors in the log:
+</p>
+<pre>
+</pre>
+
+<p>
+<a href="" target="_blank">FILENAME</a>,
+<a href="https://www.modhub.us/farming-simulator-22-mods/bigfieldsxxl-v1000" target="_blank">modhub.us</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+	<h2>Eastern North Carolina USA</h2>
+
+<p>
+v1.1.0.1 by . From modDesc:
+</p>
+
+<p>
+FS22_EasternNC.zip
+</p>
+
+<p>
+Notes:
+</p>
+
+<p>
+Errors in the log:
+</p>
+<pre>
+</pre>
+
+<p>
+<a href="https://fs22.com/wp-content/uploads/2022/12/FS22_EasternNC.zip" target="_blank">FS22_EasternNC.zip</a>,
+<a href="https://fs22.com/farming-simulator-22-mods/maps/eastern-north-carolina-usa-v1-0/" target="_blank">fs22.com</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+	<h2>Vesele</h2>
+
+<p>
+v1.4 by . From modDesc:
+</p>
+
+<p>
+FS22_Vesele.zip
+</p>
+
+<p>
+Notes:
+</p>
+
+<p>
+Errors in the log:
+</p>
+<pre>
+</pre>
+
+<p>
+<a href="https://fs22.com/wp-content/uploads/2022/12/FS22_Vesele.zip" target="_blank">FS22_Vesele.zip</a>,
+<a href="https://fs22.com/farming-simulator-22-mods/maps/vesele-v0-9/" target="_blank">fs22.com</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+	<h2>Grand View Lands</h2>
+
+<p>
+v1.0.0.6 by . From modDesc:
+</p>
+
+<p>
+FILENAME
+</p>
+
+<p>
+Notes:
+</p>
+
+<p>
+Errors in the log:
+</p>
+<pre>
+</pre>
+
+<p>
+<a href="" target="_blank">FILENAME</a>,
+<a href="https://farmingsimulator22mods.com/grand-view-lands-v1-0-0-6-fs22/" target="_blank">farmingsimulator22mods.com</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+	<h2>XLFarms X1</h2>
+
+<p>
+v2.0.0.4 by . From modDesc:
+</p>
+
+<p>
+FILENAME
+</p>
+
+<p>
+Notes:
+</p>
+
+<p>
+Errors in the log:
+</p>
+<pre>
+</pre>
+
+<p>
+<a href="" target="_blank">FILENAME</a>,
+<a href="https://farmingsimulator22mods.com/xlfarms-x1-v2-0-0-4-fs22/" target="_blank">farmingsimulator22mods.com</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+	<h2>Hope Valley BETA</h2>
+
+<p>
+v1.0 by . From modDesc:
+</p>
+
+<p>
+FS22_Hope_Valley.zip
+</p>
+
+<p>
+Notes:
+</p>
+
+<p>
+Errors in the log:
+</p>
+<pre>
+</pre>
+
+<p>
+<a href="https://sharemods.com/zcg0owp4p4ge/FS22_Hope_Valley.zip.html" target="_blank">FS22_Hope_Valley.zip</a>,
+<a href="https://www.modhub.us/farming-simulator-22-mods/hope-valley-beta-v1000" target="_blank">Modhub.us</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+	<h2>Vermont Bakersfield</h2>
+
+<p>
+v1.0 by AFB. From modDesc: My Mod Description.
+</p>
+
+<p>
+FS22_BakersfieldVermontWhouse.zip
+</p>
+
+<p>
+Notes: 2023-08-29T03:31:00Z Tested error spam in the log, delete. Has *.bak and *.i3d_temp0 files. Unused ESRI_AERIAL_WM.png image file. Terrain itself in-game looks real nice and cozy, very rough cool looking elevations, however this apparently is unfinished prototype alike terrain which needs more work especially fixing all the errors in the log, once that work has been done this might be a nice little cozy terrain to play with small equipment. AFB's website reads: "This is a prototype micro map to test how HUGE gdm files perform on small maps".
+</p>
+
+<p>
+Errors in the log:
+</p>
+<pre>
+2023-08-29 03:33 Warning (performance): Texture C:/FS22.Mods/Quarantine/FS22_BakersfieldVermontWhouse/preview.dds raw format.
+2023-08-29 03:33 Warning: Missing fillType 'silage_corn' for fruitType definition. Ignoring fruitType!
+2023-08-29 03:33 Warning: Missing fillType 'rye' for fruitType definition. Ignoring fruitType!
+2023-08-29 03:33 Warning: FruitType 'RYE' referenced in fruitTypeCategory 'GRAINHEADER' is not defined!
+2023-08-29 03:33 Warning: FruitType 'RYE' referenced in fruitTypeCategory 'MAIZECUTTER' is not defined!
+2023-08-29 03:33 Warning: FruitType 'silage_corn' referenced in fruitTypeCategory 'MAIZECUTTER' is not defined!
+2023-08-29 03:33 Warning: FruitType 'RYE' referenced in fruitTypeCategory 'DIRECTCUTTER' is not defined!
+2023-08-29 03:33 Warning: FruitType 'RYE' referenced in fruitTypeCategory 'SOWINGMACHINE' is not defined!
+2023-08-29 03:33 Warning: FruitType 'silage_corn' referenced in fruitTypeCategory 'PLANTER' is not defined!
+2023-08-29 03:33 Error: Can't load sample 'C:/FS22.Mods/Quarantine/FS22_BakersfieldVermontWhouse/maps/sounds/OpenElectricDoorSound.wav'.
+2023-08-29 03:33 Error: Can't load sample 'C:/FS22.Mods/Quarantine/FS22_BakersfieldVermontWhouse/maps/sounds/OpenElectricDoorSound.wav'.
+2023-08-29 03:33 Error: Can't load sample 'C:/FS22.Mods/Quarantine/FS22_BakersfieldVermontWhouse/maps/sounds/OpenGateDoorSound.wav'.
+2023-08-29 03:33 Error: Can't load sample 'C:/FS22.Mods/Quarantine/FS22_BakersfieldVermontWhouse/maps/sounds/OpenDoorSound.wav'.
+2023-08-29 03:33 Error: Can't load sample 'C:/FS22.Mods/Quarantine/FS22_BakersfieldVermontWhouse/maps/sounds/blinker.wav'.
+2023-08-29 03:34 Warning (performance): Texture C:/FS22.Mods/Quarantine/FS22_BakersfieldVermontWhouse/maps/mapUS/overview.png raw format.
+2023-08-29 03:34   Error (C:/FS22.Mods/Quarantine/FS22_BakersfieldVermontWhouse/maps/mapUS/farmlands.xml): Farmland-Id 6 not defined in farmland ownage file 'C:/FS22.Mods/Quarantine/FS22_BakersfieldVermontWhouse/maps/mapUS/data/infoLayer_farmland.grle'. Skipping farmland definition!
+</pre>
+
+<p>
+<a href="https://afb-mapping.itch.io/vermont-bakersfield" target="_blank">afb-mapping.itch.io</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+	<h2>Belgium</h2>
+
+<p>
+v1.0 by LsPT. From modDesc: Belgium's valley calls for all kinds of work. Arable land, animal husbandry and forestry. The playing area is 4km x 4km.
+</p>
+
+<p>
+FS22_Belgium.zip
+</p>
+
+<p>
+Notes: 2023-08-29T04:15:00Z Tested. What an imaginative name again. Huge amount of required mods: -1970sCowshed, -BigDairyDecoPackage, -CowshedsPack2, -DutchContractorShed, -DutchShedPack, -FarmSilosDirty, -fertilizerTank, -fuelStation, -HouseOldPackage, -shedModernColourable, -SilageSilo, -slurryPit, -Small_ManureHeap, -sugarbeetProcessing01, -Elektrisches_Schiebetor. Nothing wrong with a lot of required mods, its good that community made content is being used especially if it avoids idiots putting other peoples models / textures into their own terrain project directory which never ever should be done. None of these required mods has check in the config that they are loaded, so if a user does not load these required mods then buildings or features etc are missing, terrain dev should always add required mod config list. Terrain is 4km yes but actual usable land is only half of it, this kind of bizarre round plot of land. I did not test this terrain properly, didn't bother hunt down and download all those required mods, especially as there is not even required mod check in the config. I don't know if log has errors because I did not use required mods, this test is incomplete, just reporting what I can see so far.
+</p>
+
+<p>
+Errors in the log:
+</p>
+<pre>
+unknown, untested.
+</pre>
+
+<p>
+<a href="" target="_blank">FS22_Belgium.zip</a>,
+<a href="" target="_blank">MISSING_LINK_SORRY</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+	<h2>BigFieldsXXL10km zoltanm</h2>
+
+<p>
+v2.0 by zoltanm. From modDesc: BigFieldsXXL10km zoltanm V2.0.0.0.
+</p>
+
+<p>
+FS22_BigFieldsXXL10km_zoltanm.zip
+</p>
+
+<p>
+Notes: 2023-08-29T04:26:00Z Tested no errors, no issues. Before even testing this terrain I knew that this one was made by using <a href="pmc-redwhiteblue-10km.php" target="_blank">PMC RedWhiteBlue 10km</a> terrain source files without any credit, no acknowledgement given to PMC at all. I cannot be sure so maybe I should not make assumptions but PDA_MAP images outside terrain aka background image is from elmcreek. Has elmcreek water tower with "Big Fields" texture on it, nice. Has huge open giants vehicle sheds which are basic but still cool. Heightmap looks completely RGB blacked out flat. Buildings are from elmcreek mapUS which is fine, but in some ways it just feels like all elmcreek production and grain bin site buildings were stamped down in a big group or line, kind of way... again nothing really wrong about it, but perhaps these buildings should have been spread out across the terrain to make it more interesting, this is just an personal opinion nothing wrong with this terrains building placement. What I mean by copy-pasted is that I recognize building layouts from elmcreek, so these are mostly just copy-pasted from elmcreek and positioned in this new terrain (again, nothing wrong about using mapUS stuff, but yeah just saying). Most buildings have large empty areas around them. Buying all the farmland gives you no more placeable buildings. F10 is 2956ha in size, that is impressive hehe, in FS22 I didn't make fields of that size because I think that people think its just dumb to make a mass blob field and call it a day, that is why <a href="pmc-terrains.php">PMC Terrains FS22</a> have curvy funky shaped fields (with two exceptions). I love the central grain bin site as its just huge, I know its cosmetic stuff but man it looks impressive, a real big boy stuff heh. Has quite large BGA site and another on the other end of building row (I'm not expert on BGAs so what do I know). Uses one erlengrat building according to its sign on the side. I have plenty of my own huge terrains to play, but if I were to play some user made large scale stuff, well this actually could be one option, in this you have many things I don't like but I rather play on this 10.2km x 10.2km terrain than in some piece of shit BRITISH MAPZ trash. Also big bonus is no errors no issues, cant never appreciate that enough.
+</p>
+
+<p>
+<a href="https://www.modhub.us/farming-simulator-22-mods/bigfieldsxxl-10x10km-v2000" target="_blank">modhub.us</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+	<h2>Chilliwack BC 4km</h2>
+
+<p>
+v2.4 by The Chumpy Farmer. From modDesc: This Map is loosely based around Chilliwack, BC.
+</p>
+
+<p>
+FS22_Chilliwack_BC.zip
+</p>
+
+<p>
+Notes: 2023-08-30T03:39:00Z Tested only two errors in the log are what feels like precision farming giants related stuff, so I would not count those as terrain related, not sure though. FSG Mod Assistent reporting: Mod has unnecessary files, Too many PNGs in mod (> 128). Overall nice looking 4km terrain. Has elmcreek style "ravenport train selling" feature.
+</p>
+
+<p>
+Errors in the log:
+</p>
+<pre>
+2023-08-30 03:47   Warning (data/vehicles/masseyFerguson/series5S/series5S.xml): Configurations are not present anymore. Ignoring this configuration (cropSensor)!
+2023-08-30 03:47   Warning (data/vehicles/caseIH/maxxum145CVX/maxxum145CVX.xml): Configurations are not present anymore. Ignoring this configuration (cropSensor)!
+</pre>
+
+<p>
+<a href="https://chumpy-farmer.itch.io/chilliwack-4x-map" target="_blank">chumpy-farmer.itch.io</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+	<h2>Clarkson US 4km</h2>
+
+<p>
+v2.1 by MN99, MN97, MartinN". From modDesc: The main focus of the map is on the large and wide fields in order to push the big machines to their limits, especially in multiplayer. In order to make every player happy, the map has also been decorated with smaller to medium-sized fields. The map has 24 fields and nine large forest areas. There are also six ponds. Between the vivid and varied wooded areas and arable land, the cultivation of wine and olives in the farming simulator 2022 should not be missing. To harvest olives or grapes, 20 buyable plantations were created. In addition, four poplar plantations were established. A large part of the production chains have also been integrated into the map. If this is not enough, there is enough space to place buildings yourself. Despite the size, great attention was paid to detail and accuracy to ensure the best possible gaming experience. The map is suitable for multiplayer and collectibles have been installed.
+</p>
+
+<p>
+FS22_Clarkson.zip
+</p>
+
+<p>
+Notes: 2023-09-01T08:24:00Z Tested no errors, no issues.
+</p>
+
+<p>
+<a href="https://cdn71.giants-software.com/modHub/storage/00238621/FS22_Clarkson.zip" target="_blank">FS22_Clarkson.zip</a>,
+<a href="https://www.farming-simulator.com/mod.php?mod_id=238621" target="_blank">Giants Modhub</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+	<h2>Deer Creek</h2>
+
+<p>
+v2.0 by Central Ohio. From modDesc: Blank Base Map.
+</p>
+
+<p>
+FS22_DeerCreek.zip
+</p>
+
+<p>
+Notes: 2023-09-11T12:30:00Z Tested errors in the log. Special characters in file names (spaces).
+</p>
+
+<p>
+Errors in the log:
+</p>
+<pre>
+2023-09-11 12:24 Warning: 3D stereo audio files are not supported. Convert 'C:/FS22.Mods/Quarantine/FS22_DeerCreek/sounds/Auctioneer.ogg' to mono.
+2023-09-11 12:24 Error: Running LUA method 'modOnCreate'.
+2023-09-11 12:24 Warning: Invalid onCreate function 'modOnCreate.AnimatedMapObject' for entity 'entryGate'
+</pre>
+
+<p>
+<a href="" target="_blank">FS22_DeerCreek.zip</a>,
+<a href="" target="_blank">MISSING_LINK_SORRY</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+	<h2>American Falls</h2>
+ 
+<p>
+v1.0 by Lancyboi. From modDesc: - All fields are fictional, - Dont sell animal farms, - Start up the shop gates wont open till 9.00am but will open and close as normal after { 8.00am and close at 16.00 }, - Mud System { opitional } pc only, - Field floods, - River bank floods, - Working road cats eyes { now stay on your side of the road }, - 4 x new custom crops { alfalfa rye flax & clover}, - 4D Modding - Eire Agri Modding Custom Slurry Textures, - New well made corn { maize crops } by Benji FS, - soybeans in rows, - Start from scratch & Farm manager added, - Cows can produce manure, - pigs can produce manure, - 12 Custom farm placeables added, - 8 Selling points, - 1 x bale selling point, - 1 x log selling point, - Alfalfa silage clamps added, - Oxygendavid Custom lighting, - PaintableField added, - Brand new designed models by Lancyboi, - AI Helper Added, - 50 fields, - 4 forrestry areas, - 2 x productions added, - Seasons visuals, - Collectables, - All land purchased before using animals & farm areas.
+</p>
+ 
+<p>
+FS22_American_Fall.zip
+</p>
+ 
+<p>
+Notes: PMCTODO UNTESTED
+</p>
+ 
+<p>
+Errors in the log:
+</p>
+<pre>
+</pre>
+ 
+<p>
+<a href="https://cdn10.giants-software.com/modHub/storage/00275336/FS22_American_Fall.zip" target="_blank">FS22_American_Fall.zip</a>,
+<a href="https://www.farming-simulator.com/mod.php?mod_id=275336" target="_blank">Giants Modhub</a>
+</p>
+</div>
+
+
+<div class="terrain8km">
+	<h2>Big Flats Texas</h2>
+ 
+<p>
+v1.0 by TK Farms. From modDesc: This is a fictional map based off locations around Greenville, TX. Map details: - 2 farms (Main Farm and Cattle Farm), - The cattle farm needs to be purchased to be able to use the buildings, - All farm buildings can be sold, - 16 fields and 23 farmlands, - Train, - 5 Sellpoints, - Custom Grain Mill and Bakery, - Working AI routes, - 100 wooden collectables, - Precision Farming Ready.
+<br><br>
+Custom Map Features: - Custom animal food for sheep, cows and chickens, - Soybeans are in rows, - Custom Grass, - Realistic wheat and barley, - Oats can be mowed for grass in last growth stage (cannot hire worker for this), - planters can plant sorghum and canola, - added the ability to destroy harvested ground/stalks when driven over, - increased storage capacity of train wagons, - custom license plates added for player and AI traffic, - Additional paintable textures, - Additional paintable foliage, - Paintable fields, - more placeable trees in landscape mode, - Custom crop prices, - Custom crop calender, - Custom Soil Map.
+</p>
+ 
+<p>
+FS22_BigFlatsTexas.zip
+</p>
+ 
+<p>
+Notes: PMCTODO UNTESTED
+</p>
+ 
+<p>
+Errors in the log:
+</p>
+<pre>
+</pre>
+ 
+<p>
+<a href="https://cdn20.giants-software.com/modHub/storage/00271025/FS22_BigFlatsTexas.zip" target="_blank">FS22_BigFlatsTexas.zip</a>,
+<a href="https://www.farming-simulator.com/mod.php?mod_id=271025" target="_blank">Giants Modhub</a>
 </p>
 </div>
 
