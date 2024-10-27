@@ -86,7 +86,9 @@ Please note about game-play: using landscaping tools costs in-game money HUNDRED
 </p>
 
 <p>
-This is a <b>Farming Simulator 22 Terrain Editing Tutorial</b> by PMC. How about <b>FS22 Modding Guide</b> to help you learn how to edit. Learn to <b>Edit FS22 Maps</b> from easy to read tutorials. <b>FS22 Mapping</b> is called <b>FS22 Terrain Editing</b> in proper english language. Its is fun and easy to <b>Edit FS22 Terrains</b>... once you learn it. This is <b>The Best FS22 Editing Tutorial</b> in our paintable fields category heh.
+<?php include("../include/fs22-keywords-base.php"); ?>
+<?php include("../include/fs22-keywords-terrain-editing-tutorial.php"); ?>
+This is <b>The Best FS22 Editing Tutorial</b> in our paintable fields category heh.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

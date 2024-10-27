@@ -1,0 +1,1 @@
+<b>Farming Simulator 22 (FS22)</b> website by PMC. farming-simulator.org covers all your <b>FarmSim</b> needs. Enjoy <b>FS22 Guides</b> and <b>FS22 Tutorials</b> for playing or editing. Or maybe you're searching for <b>FS22 Mods</b> downloads. Please note that <b>FS22 Maps</b> or <b>FS22 Map Mods</b> or <b>FS22 Mapping</b> is incorrect, they are called terrains. 
