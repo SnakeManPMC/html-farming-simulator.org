@@ -47,6 +47,11 @@ See our older <a href="../17/stories.php">FS17 stories</a> and <a href="../19/st
 <a href="stories-start-from-zero-pmc-korkscrew-40km.php" class="button">Start From Zero PMC Korkscrew 40km</a>
 </p>
 
+<div class="pmc_farmsim1">
+<?php include("../include/fs22-keywords-base.php"); ?>
+<?php include("../include/fs22-keywords-stories.php"); ?>
+</div> <!-- end of div pmc_farmsim1 class -->
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
