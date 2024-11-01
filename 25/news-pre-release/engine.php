@@ -32,7 +32,7 @@ GIANTS Engine 10.
 </p>
 
 <p>
-"general tech upgrade with improved graphics and physics", "distance fog, enhanced shadows, dynamic weather effects, ground deformation" -source <a href="https://www.farming-simulator.com/newsArticle.php?news_id=544" target="_blank">Giants website blog</a>.
+<i>"general tech upgrade with improved graphics and physics", "distance fog, enhanced shadows, dynamic weather effects, ground deformation"</i> -source <a href="https://www.farming-simulator.com/newsArticle.php?news_id=544" target="_blank">Giants website blog</a>.
 </p>
 
 <p>
@@ -46,7 +46,7 @@ Please note that terrain deformation is just tyre tracks, same thing that we've 
 </p>
 
 <p>
-"Weather Change: Twisters & Hail With a Chance of Fog. the weather is predicted to change more often. Once the storm passes, local farmers are advised to inspect their fields for any destruction and assess the impact on their crops. [farmer] lost about half of his crops on a rather tiny plot and all of his bales left out in the open. lumberjack and forester of Riverbend Springs was not available for comment while tending to dead trees that were affected by the storm." -source <a href="https://www.farming-simulator.com/newsArticle.php?news_id=552" target="_blank">Giants website blog</a>.
+<i>"Weather Change: Twisters & Hail With a Chance of Fog. the weather is predicted to change more often. Once the storm passes, local farmers are advised to inspect their fields for any destruction and assess the impact on their crops. [farmer] lost about half of his crops on a rather tiny plot and all of his bales left out in the open. lumberjack and forester of Riverbend Springs was not available for comment while tending to dead trees that were affected by the storm."</i> -source <a href="https://www.farming-simulator.com/newsArticle.php?news_id=552" target="_blank">Giants website blog</a>.
 </p>
 
 <p>
@@ -111,6 +111,10 @@ Tornado official giants term is "twister", in english language tornados other na
 
 <p>
 Giants have apparently announced player character 3rd person view camera will be in FS25.
+</p>
+
+<p>
+See also <a href="engine-interview-ground-deformation.php">Engine Interview Ground Deformation</a>.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

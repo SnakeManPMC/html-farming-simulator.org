@@ -30,6 +30,7 @@ Welcome to Farming Simulator 25 (FS25) Pre-Release News page by PMC. The purpose
 <p><a href="ai-characters.php">AI Characters</a></p>
 <p><a href="animals.php">Animals</a></p>
 <p><a href="crops.php">Crops</a></p>
+<p><a href="engine-interview-ground-deformation.php">Engine Interview Ground Deformation</a></p>
 <p><a href="engine.php">Engine</a></p>
 <p><a href="game-play-preview-2024-10-22.php">Game-play Preview 2024-10-22</a></p>
 <p><a href="hand-tools-and-bale-wraps.php">Hand Tools and Bale Wraps</a></p>
