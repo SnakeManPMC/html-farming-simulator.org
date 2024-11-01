@@ -33,6 +33,26 @@ Back to <a href="mods.php">Mods Main Page</a>. Post a message to <a href="https:
 
 <div class="wrapper_mod_vehicles">
 
+<div class="mod_release_Vehicle">
+	<h2>antler22 ground textures v3</h2>
+
+<p>
+v3.0 by antler22.
+</p>
+
+<p>
+AntlerTextures30_UNZIP.zip
+</p>
+
+<p>
+Notes: this is terrain development files, not a mod you can use as player.
+</p>
+
+<p>
+<a href="https://mod-network.com/detail/30836/Ground+textures+3022+V3" target="_blank">mod-network.com</a>
+</p>
+</div>
+
 <!-- category vehicles -->
 </div>
 

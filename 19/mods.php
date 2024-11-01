@@ -27,12 +27,32 @@ Modifications aka Mods for Farming Simulator 19 (FS19).
 <?php include("/var/www/include/section-start.php"); ?>
 	<h2>Mods</h2>
 
-<p>
-<a href="mods-pending-testing.php">Mods Pending Testing</a> is a list of mods that are pending testing.
-</p>
+<p><a href="mods-baler.php">Baler</a> round baler or square baler, there are options for various needs.</p>
+<p><a href="mods-combine-harvester.php">Combine Harvester</a> is a machine used to harvest your crops.</p>
+<p><a href="mods-cultivator.php">Cultivator</a> work the ground, prepare field for seeding, create that nice seed bed.</p>
+<p><a href="mods-game-play.php">Game-play</a> anything that improved game-play, running speed, time scale, no crosshair, etc many different mods for game-play.</p>
+<p><a href="mods-grain-cart.php">Grain Cart</a> also known as auger wagon, used to haul grain from combine harvester to a big grain trailer.</p>
+<p><a href="mods-harvester-header.php">Harvester Header</a> used in combine harvesters to cut crops.</p>
+<p><a href="mods-mower.php">Mower</a> to mowe grass, either self propelled vehicle or tractor attached mower implements.</p>
+<p><a href="mods-pending-testing.php">Mods Pending Testing</a> is a list of mods that are pending testing.</p>
+<p><a href="mods-placeable-building-animal.php">Placeable Building Animal</a> cattle barns, cow sheds, pig barns, chicken coops, sheep barns, etc.</p>
+<p><a href="mods-placeable-building-grain.php">Placeable Building Grain</a> farm grain bins for storing all kinds of grains.</p>
+<p><a href="mods-placeable-building-vehicle.php">Placeable Building Vehicle</a> sheds or shelters, garges even to store your vehicles and implements.</p>
+<p><a href="mods-placeable-container.php">Placeable Container</a> PMCTODO.</p>
+<p><a href="mods-placeable-object.php">Placeable Object</a> miscellaneous objects, street lights, decorations, anything.</p>
+<p><a href="mods-placeable-selling-point.php">Placeable Selling Point</a> make your own selling point, where ever you want.</p>
+<p><a href="mods-seed-tender.php">Seed Tender</a> used to haul seeds to seeders and planters on the field.</p>
+<p><a href="mods-semi-truck-trailer.php">Semi-Truck Trailer</a> for heavy hauling, grain trailers, liquid tanker trailers, etc.</p>
+<p><a href="mods-sprayer.php">Sprayer</a> liquid fertilizer and herbicide sprayer with boom arms.</p>
+<p><a href="mods-tractor-trailer.php">Tractor Trailer</a> smaller trailer pulled by tractors.</p>
+<p><a href="mods-tractor.php">Tractor</a> every farmer needs a tractor.</p>
+<p><a href="mods-trailer-autoloading.php">Trailer Autoloading</a> very useful trailer to automatically pick bales, pallets, tanks, etc objects.</p>
+<p><a href="mods-windrower.php">Windrower</a> hmm also known as swather, but Giants call the implement that collects loose grass and hey a "windrower" hmm?</p>
 
+<!--
+<p><a href=".php"></a> .</p>
+-->
 <div class="wrapper_mod_vehicles">
-	<h2>General Mods</h2>
 
 <div class="mod_release_Vehicle">
 <h2>Deutz AgroStar 661</h2>
