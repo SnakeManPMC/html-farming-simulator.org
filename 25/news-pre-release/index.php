@@ -35,6 +35,7 @@ Welcome to Farming Simulator 25 (FS25) Pre-Release News page by PMC. The purpose
 <p><a href="game-play-preview-2024-10-22.php">Game-play Preview 2024-10-22</a></p>
 <p><a href="hand-tools-and-bale-wraps.php">Hand Tools and Bale Wraps</a></p>
 <p><a href="production-chains.php">Production Chains</a></p>
+<p><a href="steering-assist-gps-hired-ai-workers.php">Steering Assist (GPS) and Hired AI Workers</a></p>
 <p><a href="terrains.php">Terrains</a></p>
 <p><a href="vehicles.php">Vehicles</a></p>
 

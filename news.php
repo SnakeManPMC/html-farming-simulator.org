@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-11-07T14:17:38Z Farming Simulator 25 (FS25) <a href="25/news-pre-release/steering-assist-gps-hired-ai-workers.php">Steering Assist GPS and Hired AI Workers FS25</a> page was created with all the info related to having FS22 guidanceSteering (GPS) Mod now as an in-game FS25 feature. Plenty of screenshots to see, check it out.
+</p>
+
+<p>
 2024-11-01T10:05:28Z Farming Simulator 25 (FS25) senior software engineer Eddie Edwards interview about <a href="25/news-pre-release/engine-interview-ground-deformation.php">FS25 Ground Deformation</a>, check it out.
 </p>
 
