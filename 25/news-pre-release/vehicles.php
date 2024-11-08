@@ -403,6 +403,66 @@ Ape 50 "car".
 
 <a href="screenshots/Ape-50-01.jpg" target="_blank"><img src="screenshots/thumbs/Ape-50-01.jpg" class="terrainimg" loading="lazy" alt="FS25 Fact Sheet Friday Vehicles Farming Simulator 25 Screenshot" title="FS25 Fact Sheet Friday Vehicles Farming Simulator 25 Screenshot"></a>
 
+<p>
+2024-11-01 Giants Fact Sheets Friday. -source <a href="https://www.farming-simulator.com/newsArticle.php?news_id=554" target="_blank">Giants website blog</a>.
+</p>
+
+<p>
+John Deere S7 Series combine harvester with RDF35 grain header. Grain tank capacity 14,100 liters, header width 10.7m and harvesting speed 10km/h (6mph).
+</p>
+
+<a href="screenshots/John-Deere-S7-Series-RDF35.jpg" target="_blank"><img src="screenshots/thumbs/John-Deere-S7-Series-RDF35.jpg" class="terrainimg" loading="lazy" alt="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<p>
+Holmer Exxact Terra Dos 5-40 sugar beet harvester with HR 6 sugar beet header 2.7m wide, 10km/h harvesting speed.
+</p>
+
+<a href="screenshots/Holmer-Terra-Dos-5-40-HR-6.jpg" target="_blank"><img src="screenshots/thumbs/Holmer-Terra-Dos-5-40-HR-6.jpg" class="terrainimg" loading="lazy" alt="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<p>
+International Transtar II Eagle semi-truck pulling Brandt H550 Beavertail low boy loader trailer.
+</p>
+
+<a href="screenshots/International-Transtar-II-Eagle-Brandt-H550-Beavertail.jpg" target="_blank"><img src="screenshots/thumbs/International-Transtar-II-Eagle-Brandt-H550-Beavertail.jpg" class="terrainimg" loading="lazy" alt="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<p>
+Sennebogen 340 G telehandler, with liftable cab. Horsepower 136hp.
+</p>
+
+<a href="screenshots/Sennebogen-340-G.jpg" target="_blank"><img src="screenshots/thumbs/Sennebogen-340-G.jpg" class="terrainimg" loading="lazy" alt="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<p>
+2024-11-08 <i>Final Friday, November 8th</i>, Giants Fact Sheets Friday. -source <a href="https://www.farming-simulator.com/newsArticle.php?news_id=554" target="_blank">Giants website blog</a>.
+</p>
+
+<p>
+Massey Ferguson MF 9S tractor pulling Samson PG II 28 Genesis slurry spreader. Slurry tank capacity 27.8k liters, working speed 16km/h (9mph).
+</p>
+
+<a href="screenshots/Massey-Ferguson-MF-9S-Samson-PG-II-28-Genesis.jpg" target="_blank"><img src="screenshots/thumbs/Massey-Ferguson-MF-9S-Samson-PG-II-28-Genesis.jpg" class="terrainimg" loading="lazy" alt="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<p>
+Case IH Steiger 715 Quadtrac big tractor pulling J&M X-tended Reach 1112 grain cart aka auger wagon.
+</p>
+
+<a href="screenshots/Case-IH-Steiger-715-Quadtrac-JM-X-tended-Reach-1112.jpg" target="_blank"><img src="screenshots/thumbs/Case-IH-Steiger-715-Quadtrac-JM-X-tended-Reach-1112.jpg" class="terrainimg" loading="lazy" alt="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<p>
+Elmers Manufacturing Super 7 weeder being pulled by big John Deere 4 wheel drive tractor.
+</p>
+
+<a href="screenshots/Elmers-Super-7-Weeder.jpg" target="_blank"><img src="screenshots/thumbs/Elmers-Super-7-Weeder.jpg" class="terrainimg" loading="lazy" alt="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<p>
+International CV Series pickup-truck, top speed 90km/h (55mph).
+</p>
+
+<a href="screenshots/International-CV-Series-Pickup-Truck.jpg" target="_blank"><img src="screenshots/thumbs/International-CV-Series-Pickup-Truck.jpg" class="terrainimg" loading="lazy" alt="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot" title="FS25 Vehicles Fact Sheet Friday Farming Simulator 25 Screenshot"></a>
+
+<p>
+Looks like that was the last FS25 fact sheet friday vehicle screenshots, next up is the official FS25 game release date in november 12th 2024.
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 

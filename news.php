@@ -25,6 +25,14 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-11-08T18:58:29Z Final Giants friday fact sheets is out (2024-11-08), this is indeed the final vehicle screenshot and info release before next weeks november 12th 2024 Farming Simulator 25 (FS25) release. Check out <a href="25/news-pre-release/vehicles.php">FS25 Pre-Release News Vehicles</a> page, I added all the screenshots and wrote descriptions for all of them, good stuff, hope you enjoy.
+</p>
+
+<p>
+2024-11-08T18:08:22Z Farming Simulator 25 (FS25) South East Asian terrain Hutan Pantai preview and interview has been released, check out <a href="25/news-pre-release/terrains.php">FS25 Terrains</a> page for all the info and many screenshots.
+</p>
+
+<p>
 2024-11-07T14:17:38Z Farming Simulator 25 (FS25) <a href="25/news-pre-release/steering-assist-gps-hired-ai-workers.php">Steering Assist GPS and Hired AI Workers FS25</a> page was created with all the info related to having FS22 guidanceSteering (GPS) Mod now as an in-game FS25 feature. Plenty of screenshots to see, check it out.
 </p>
 
