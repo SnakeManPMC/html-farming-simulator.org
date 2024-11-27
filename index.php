@@ -25,14 +25,14 @@
 	<h2>Farming Simulator 25</h2>
 
 <p>
-<a href="25/news-pre-release/index.php" class="button">Pre-Release News</a>
+<a href="25/pmc-terrains.php" class="button">PMC Terrains</a>
 <a href="25/contracts.php" class="button">Contracts</a>
 <a href="25/dev-diary.php" class="button">Dev Diary</a>
 <a href="25/equipment-vehicle-prices.php" class="button">Equipment Vehicle Prices</a>
 <a href="25/guide.php" class="button">Guide</a>
 <a href="25/mods-terrain.php" class="button">Mods Terrain</a>
 <a href="25/mods.php" class="button">Mods</a>
-<a href="25/pmc-terrains.php" class="button">PMC Terrains</a>
+<a href="25/news-pre-release/index.php" class="button">Pre-Release News</a>
 <a href="25/review.php" class="button">Review</a>
 <a href="25/settings.php" class="button">Settings</a>
 <a href="25/stories.php" class="button">Stories</a>
