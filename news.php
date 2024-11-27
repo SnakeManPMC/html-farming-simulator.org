@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-11-27T11:27:32Z My very first Farming Simulator 25 (FS25) story has been released! This is how I got my FS25 copy, installed, activated and started to play it. Read all about it at <a href="25/stories-install-and-release.php">Install and Release Story FS25</a> page. Enjoy. Be sure to check back often there is more farmsim stories coming up as time goes by.
+</p>
+
+<p>
 2024-11-08T18:58:29Z Final Giants friday fact sheets is out (2024-11-08), this is indeed the final vehicle screenshot and info release before next weeks november 12th 2024 Farming Simulator 25 (FS25) release. Check out <a href="25/news-pre-release/vehicles.php">FS25 Pre-Release News Vehicles</a> page, I added all the screenshots and wrote descriptions for all of them, good stuff, hope you enjoy.
 </p>
 

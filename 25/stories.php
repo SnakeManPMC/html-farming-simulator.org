@@ -27,15 +27,13 @@ Game-play stories from Farming Simulator 25 (FS25) farming sessions.
 	<h2>Stories Background</h2>
 
 <p>
-See our older <a href="../17/stories.php">FS17 stories</a>, <a href="../19/stories.php">FS19 Stories</a> and <a href="../22/stories.php">FS22 Stories</a> pages how it all got started. If you are first time reader of PMC farming stories, you really should skim through those pages for background information, otherwise you might roll your eyes as you don't understand terminology or something else written in these FS25 stories.
+See my first <a href="../17/stories.php">FS17 stories</a> how it all got started, then follow along the amazing journey through <a href="../19/stories.php">FS19 Stories</a> and <a href="../22/stories.php">FS22 Stories</a>. If you are first time reader of PMC farming stories, you really should skim through those pages for background information, otherwise you might roll your eyes as you don't understand terminology or something else written in these latest FS25 stories.
 </p>
 
 <p>
+<a href="stories-install-and-release.php" class="button">FS25 Install and Release</a>
 <a href="stories-new-farmer-riverbend-springs.php" class="button">New Farmer Riverbend Springs</a>
-<a href="stories-release-and-install.php" class="button">FS25 Release and Install</a>
 </p>
-
-<?php include("../include/fs25-placeholder-pages.php"); ?>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
