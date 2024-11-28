@@ -25,6 +25,14 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-11-28T06:24:21Z Farming Simulator 25 (FS25) content coming up. Page two has been released for <a href="25/stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs FS25 Story</a>, more farming, more screenshots, hope you enjoy.
+</p>
+
+<p>
+2024-11-27T20:05:02Z My second Farming Simulator 25 (FS25) story has been released! This story is actual farming now, with tractors and implements, including a lot of beautiful screenshots, heh. Head over to <a href="25/stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs FS25 Story</a> read all about it. Hope you enjoy.
+</p>
+
+<p>
 2024-11-27T11:27:32Z My very first Farming Simulator 25 (FS25) story has been released! This is how I got my FS25 copy, installed, activated and started to play it. Read all about it at <a href="25/stories-install-and-release.php">Install and Release Story FS25</a> page. Enjoy. Be sure to check back often there is more farmsim stories coming up as time goes by.
 </p>
 
