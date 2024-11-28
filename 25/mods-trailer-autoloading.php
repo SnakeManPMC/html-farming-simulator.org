@@ -27,9 +27,33 @@ Trailer Autoloading mods for Farming Simulator 25 (FS25). When you need to picku
 <?php include("/var/www/include/section-start.php"); ?>
 	<h2>Mods Trailer Autoloading</h2>
 
-<?php include("../include/fs25-placeholder-pages.php"); ?>
-
 <div class="wrapper_mod_vehicles">
+
+<div class="mod_release_Vehicle">
+	<h2>Universal Autoloading</h2>
+
+<p>
+v0.0 by Loki_79. From modDesc: Autoloading specialisation for flatbed trailers. This automatically modifies the actual base game trailers, and will be applied to any new or existing trailers on your farm.  Please see the included read-me file for instructions on adding to your own mod trailers or pallets.
+</p>
+
+<p>
+FS25_UniversalAutoload.zip
+</p>
+
+<p>
+Notes: Loki_79 said this is ALPHA version, still heavily under development, there can be bugs, be prepared, send positive constructive feedback to Loki_79 so he can improve this mod.
+</p>
+
+<p>
+Errors in the log:
+</p>
+<pre>
+</pre>
+
+<p>
+<a href="https://github.com/loki79uk/FS25_UniversalAutoload" target="_blank">Github FS25_UniversalAutoload</a>
+</p>
+</div>
 
 <!-- category vehicles -->
 </div>
