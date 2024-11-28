@@ -31,7 +31,9 @@ Development diary or developer diary for PMC Farming Simulator 25 terrain mods. 
 More editing info and discussion about dev diaries at <a href="https://www.pmctactical.org/forum/" target="_blank">PMC Tactical Forum</a>.
 </p>
 
-<?php include("../include/fs25-placeholder-pages.php"); ?>
+<p>
+<a href="dev-diary-my-first-terrain.php">My First Terrain (for FS25)</a>, how I took mapUS and notepad++ to a wild ride.
+</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
 </section>

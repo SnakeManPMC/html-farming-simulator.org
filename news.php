@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-11-28T11:03:02Z My very first dev diary for Farming Simulator 25 (FS25) has been released. Its simply called <a href="25/dev-diary-my-first-terrain.php">My First Terrain (for FS25)</a>.
+</p>
+
+<p>
 2024-11-28T06:24:21Z Farming Simulator 25 (FS25) content coming up. Page two has been released for <a href="25/stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs FS25 Story</a>, more farming, more screenshots, hope you enjoy.
 </p>
 
