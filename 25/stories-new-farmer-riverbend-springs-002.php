@@ -557,11 +557,7 @@ Budget now 186k. I mean guess that budget slowly, painfully but slowly, is incre
 </p>
 
 <p>
-Continue reading 
-<!--
-<a href="stories-new-farmer-riverbend-springs-003.php">next page</a>, 
--->
-<a href="stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs Home</a>, go back to <a href="stories-new-farmer-riverbend-springs-001.php">previous page</a>.
+Continue reading <a href="stories-new-farmer-riverbend-springs-003.php">next page</a>, <a href="stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs Home</a>, go back to <a href="stories-new-farmer-riverbend-springs-001.php">previous page</a>.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
