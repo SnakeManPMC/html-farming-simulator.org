@@ -937,11 +937,7 @@ I am all done for today, was a great day of farming, managed to have two soybean
 </p>
 
 <p>
-Continue reading 
-<!--
-<a href="stories-new-farmer-riverbend-springs-004.php">next page</a>, 
--->
-<a href="stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs Home</a>, go back to <a href="stories-new-farmer-riverbend-springs-002.php">previous page</a>.
+Continue reading <a href="stories-new-farmer-riverbend-springs-004.php">next page</a>, <a href="stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs Home</a>, go back to <a href="stories-new-farmer-riverbend-springs-002.php">previous page</a>.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

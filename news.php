@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-12-04T16:22:39Z Guess what, Farming Simulator 25 (FS25) <a href="25/stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs FS25 Story</a> updated once again, another page has been added to this farmsim story, with screenshots. Enjoy.
+</p>
+
+<p>
 2024-12-03T10:48:05Z Farming Simulator 25 (FS25) <a href="25/stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs FS25 Story</a> got a new page added.
 </p>
 
