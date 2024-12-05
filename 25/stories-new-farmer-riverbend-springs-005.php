@@ -564,11 +564,7 @@ Paid off all the money I had, bank loan left 80k. Budget now 3.1k.
 </p>
 
 <p>
-Continue reading 
-<!--
-<a href="stories-new-farmer-riverbend-springs-006.php">next page</a>, 
--->
-<a href="stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs Home</a>, go back to <a href="stories-new-farmer-riverbend-springs-004.php">previous page</a>.
+Continue reading <a href="stories-new-farmer-riverbend-springs-006.php">next page</a>, <a href="stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs Home</a>, go back to <a href="stories-new-farmer-riverbend-springs-004.php">previous page</a>.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
