@@ -59,6 +59,10 @@ This is the second Farming Simulator 25 (FS25) Story by Snake Man, PMC. Story is
 <a href="stories-new-farmer-riverbend-springs-008.php">Page 8</a>, 2024-11-19 New Equipment and Vehicle Purchases.
 </p>
 
+<p>
+<a href="stories-new-farmer-riverbend-springs-009.php">Page 9</a>, 2024-11-20 Canola and Soybeans Harvesting.
+</p>
+
 <!--
 <p>
 <a href="stories-new-farmer-riverbend-springs-00.php">Page </a>, .

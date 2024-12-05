@@ -455,11 +455,7 @@ So all in all, hmm I'm not going to outright stop playing fs25, but perhaps ther
 </p>
 
 <p>
-Continue reading 
-<!--
-<a href="stories-new-farmer-riverbend-springs-009.php">next page</a>, 
--->
-<a href="stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs Home</a>, go back to <a href="stories-new-farmer-riverbend-springs-007.php">previous page</a>.
+Continue reading <a href="stories-new-farmer-riverbend-springs-009.php">next page</a>, <a href="stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs Home</a>, go back to <a href="stories-new-farmer-riverbend-springs-007.php">previous page</a>.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>

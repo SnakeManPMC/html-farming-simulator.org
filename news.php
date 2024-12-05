@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-12-05T19:03:31Z A new page for Farming Simulator 25 (FS25) <a href="25/stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs FS25 Story</a> has been released.
+</p>
+
+<p>
 2024-12-05T17:15:55Z Farming Simulator 25 (FS25) <a href="25/stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs FS25 Story</a>... enough said <img src="images/smileys/icon_smile.gif" alt="Smiley :)" loading="lazy">
 </p>
 
