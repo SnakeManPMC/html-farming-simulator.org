@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-12-05T15:26:07Z Non-stop updates for Farming Simulator 25 (FS25) <a href="25/stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs FS25 Story</a> as seventh page is added, more screenshots to view.
+</p>
+
+<p>
 2024-12-05T14:19:39Z Another day, another page of story telling in Farming Simulator 25 (FS25) <a href="25/stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs FS25 Story</a>. Enjoy the screenshots and farmsim story.
 </p>
 

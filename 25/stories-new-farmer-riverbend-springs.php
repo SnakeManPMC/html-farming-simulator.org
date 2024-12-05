@@ -51,6 +51,10 @@ This is the second Farming Simulator 25 (FS25) Story by Snake Man, PMC. Story is
 <a href="stories-new-farmer-riverbend-springs-006.php">Page 6</a>, 2024-11-16 Silage Baling Operation.
 </p>
 
+<p>
+<a href="stories-new-farmer-riverbend-springs-007.php">Page 7</a>, 2024-11-18 Soybeans Planting and Harvesting.
+</p>
+
 <!--
 <p>
 <a href="stories-new-farmer-riverbend-springs-00.php">Page </a>, .
