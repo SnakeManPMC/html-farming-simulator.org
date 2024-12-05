@@ -406,11 +406,7 @@ Took a restroom break, maybe its just temporary effect but yawning has subsided 
 </p>
 
 <p>
-Continue reading 
-<!--
-<a href="stories-new-farmer-riverbend-springs-008.php">next page</a>, 
--->
-<a href="stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs Home</a>, go back to <a href="stories-new-farmer-riverbend-springs-006.php">previous page</a>.
+Continue reading <a href="stories-new-farmer-riverbend-springs-008.php">next page</a>, <a href="stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs Home</a>, go back to <a href="stories-new-farmer-riverbend-springs-006.php">previous page</a>.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
