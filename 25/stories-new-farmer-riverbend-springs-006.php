@@ -26,7 +26,7 @@ New Farmer Riverbend Springs PMC Farming Simulator 25 (FS25) Stories. This story
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
 <?php include("/var/www/include/support.php"); ?>
-	<h2>2024-11-16</h2>
+	<h2>2024-11-16 Silage Baling Operation</h2>
 
 <p>
 2024-11-16T14:56:54Z New farming day has started, just got up, did the mandatory computer morning chores, was sad to see right off the bat some community terrain news and still today in 2024 at FS25 release someone advertising the old outdated way of doing terrains in 2km, 4km, 8.1km and 16.3km sizes, man such crap just makes you want to sigh in pain. Anyways, decided to fire up FS25 for some more farming perhaps just to escape that crap heh dunno.
