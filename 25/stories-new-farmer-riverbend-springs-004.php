@@ -796,11 +796,7 @@ In fact I'm going to call it a night here, as usual there is nothing I could fin
 </p>
 
 <p>
-Continue reading 
-<!--
-<a href="stories-new-farmer-riverbend-springs-005.php">next page</a>, 
--->
-<a href="stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs Home</a>, go back to <a href="stories-new-farmer-riverbend-springs-003.php">previous page</a>.
+Continue reading <a href="stories-new-farmer-riverbend-springs-005.php">next page</a>, <a href="stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs Home</a>, go back to <a href="stories-new-farmer-riverbend-springs-003.php">previous page</a>.
 </p>
 
 <?php include("/var/www/include/section-end.php"); ?>
