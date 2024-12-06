@@ -18,7 +18,7 @@
 	<h1>Dev Diary Farming Simulator 25 PMC Farming</h1>
 
 <p>
-Development diary or developer diary for PMC Farming Simulator 25 terrain mods. See also <a href="../19/dev-diary.php">Dev Diary FS19</a> and <a href="../22/dev-diary.php">Dev Diary FS22</a> pages for reference, there is a lot of development information with screenshots for you to read.
+Development diary or developer diary for PMC Farming Simulator 25 terrain mods. See also <a href="../19/dev-diary.php">Dev Diary FS19</a> and <a href="../22/dev-diary.php">Dev Diary FS22</a> pages for reference, there is a lot of development information for you to read.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
@@ -35,12 +35,18 @@ More editing info and discussion about dev diaries at <a href="https://www.pmcta
 <a href="dev-diary-my-first-terrain.php">My First Terrain (for FS25)</a>, how I took mapUS and notepad++ to a wild ride.
 </p>
 
+<p>
+<a href="dev-diary-large-terrain-studies.php">Large Terrain Studies</a>, trying to get large terrains in-game and working.
+</p>
+
 <?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
 <?php include("/var/www/include/footer-start.php"); ?>
 <p>
+<a href="../19/dev-diary.php" class="button">Dev Diary FS19</a>
+<a href="../22/dev-diary.php" class="button">Dev Diary FS22</a>
 <a href="../index.php" class="button">PMC Farming Simulator root</a>
 </p>
 <p><i>PMC Farming Simulator 2017 - <?php print(date("Y")); ?>.</i></p>

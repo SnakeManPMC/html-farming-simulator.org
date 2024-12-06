@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-12-06T11:50:30Z Farming Simulator 25 (FS25) <a href="25/dev-diary.php">Dev Diary FS25</a> got large terrain studies pages added. You like big terrains? Then this is what you want to read, some very important info there.
+</p>
+
+<p>
 2024-12-05T19:03:31Z A new page for Farming Simulator 25 (FS25) <a href="25/stories-new-farmer-riverbend-springs.php">New Farmer Riverbend Springs FS25 Story</a> has been released.
 </p>
 
