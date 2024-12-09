@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-12-09T00:53:29Z Farming Simulator 25 (FS25) <a href="25/terrain-editing-tutorial.php">Terrain Editing Tutorial FS25</a> has been updated for the first time, actual content added there, its all about Giants Editor v10.0.x stuff, check it out.
+</p>
+
+<p>
 2024-12-06T11:50:30Z Farming Simulator 25 (FS25) <a href="25/dev-diary.php">Dev Diary FS25</a> got large terrain studies pages added. You like big terrains? Then this is what you want to read, some very important info there.
 </p>
 
