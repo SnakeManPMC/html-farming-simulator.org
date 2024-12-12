@@ -335,6 +335,10 @@
 2024-11-27T17:02:00Z Farming Simulator 25 - Giants Editor v10.0.3 released <a href="https://gdn.giants-software.com/downloads.php" target="_blank">Giants Developer Network (GDN)</a>
 </p>
 
+<p>
+2024-12-12T13:00:00Z Farming Simulator 25 - v1.4 update released <a href="https://www.farming-simulator.com/newsArticle.php?news_id=580" target="_blank">news</a>, <a href="https://www.farming-simulator.com/changelogs/fs25.php" target="_blank">changelog</a>
+</p>
+
 </section>
 
 <footer>
