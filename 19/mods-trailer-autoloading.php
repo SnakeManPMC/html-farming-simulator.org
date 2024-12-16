@@ -18,7 +18,7 @@
 	<h1>Mods Trailer Autoloading Farming Simulator 19 - PMC Farming</h1>
 
 <p>
-Mods Trailer Autoloading for Farming Simulator 19 (FS19) by PMC.
+Mods Trailer Autoloading for Farming Simulator 19 (FS19) by PMC. Autoloading trailers automatically pickup nearby objects, being bales, pallets, liquid tanks etc. It is very handy tool to use around the farm yard. If you want to load every trailer manually using various skids steers, telehandlers, wheel loaders or tractor attached front loaders, then you don't need autoloading trailer, but its a lot of work to properly load a big trailer manually.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
@@ -75,6 +75,31 @@ Notes: As the name says its for SQUARE bales, round bales not supported, nor any
 
 <p>
 MISSING_LINK_SORRY
+</p>
+</div>
+
+
+<div class="mod_release_Vehicle">
+	<h2>Fliegl DPW 180 Autoload</h2>
+
+<p>
+v1.4 by . From modDesc:
+</p>
+
+<p>
+FS19_flieglDPW180_Autoload.zip
+</p>
+
+<p>
+Notes: Unfortunately the shop purchase icons are in german, it just says "autoload" and in the actual description "Mit Aufbau" and another is "Standart", sigh, never release a mod in any other language than english. The mit afbauUGAHUGAH works fine, didnt test the stan-dart.
+</p>
+
+<p>
+A lot of options for unloading to place that marker... which unfortunately is steel grid and on top of asphalt/concrete it is really difficult to see, you basically have to move it around to spot that ah there it is. Auto loading and unloading works fine, huge selection of different loadable objects from square/round bales to pallets to eggboxes etc. Unfortunately at first try the usage of this was very cumbersome with the unloading many different keys and hard to spot marker. But this is what we got now as universal auto loader so better get used to it until something better comes along.
+</p>
+
+<p>
+<a href="https://www.modland.net/farming-simulator-2019-mods/trailers/fliegl-dpw-180-autoload-v-1.4.html" target="_blank">Modland.net</a>
 </p>
 </div>
 

@@ -18,7 +18,7 @@
 	<h1>Mods Mower Farming Simulator 19 - PMC Farming</h1>
 
 <p>
-Mods Mower for Farming Simulator 19 (FS19) by PMC.
+Mods Mower for Farming Simulator 19 (FS19) by PMC. In order to cut grass (or "harvest grass") you need a mower. There are tractor attached mowers for front and back but also self propelled mowers. Mower simply cuts the grass field and dumps the grass into a pile on the ground, some more advanced mowers can do swath to collect the loose cut grass into ready to be baled piles/lines or swaths.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
@@ -50,6 +50,51 @@ Notes: working width 13.2m, speed ?km/h
 </p>
 </div>
 
+
+<div class="mod_release_Vehicle">
+<h2>Krone BigX 580</h2>
+
+<p>
+v1.0 by Giants Software. From modDesc: Price: 275.000eur. Power: 585HP
+</p>
+
+<p>
+Required mods: <a href="https://cdn16.giants-software.com/modHub/storage/00120416/FS19_kroneEasyCollect600_2.zip" target="_blank">FS19_kroneEasyCollect600_2.zip</a>
+</p>
+
+<p>
+2019-02-21 tested and works OK. No idea what this forage thing is, have not done it in FS17 or FS19, yet <img src="../images/smileys/icon_wink.gif" alt="Smiley ;)" loading="lazy">
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?mod_id=120415" target="_blank">Modhub</a>
+</p>
+</div>
+
+
+<div class="mod_release_Vehicle">
+<h2>Krone EasyCollect 600</h2>
+
+<p>
+v1.0 by Giants Software. From modDesc: Price: 80.000eur. Working width: 6m
+</p>
+
+<p>
+Required mods: <a href="https://cdn10.giants-software.com/modHub/storage/00120415/FS19_kroneBiGX580.zip" target="_blank">FS19_kroneBiGX580.zip</a>
+</p>
+
+<p>
+2019-02-21 tested and works OK. Forage header, apparently should work on the Krone bigX 580.
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?mod_id=120416" target="_blank">Modhub</a>
+</p>
+</div>
+
+
+
+<!-- end of wrapper_mod_vehicles -->
 </div>
 
 <?php include("/var/www/include/section-end.php"); ?>

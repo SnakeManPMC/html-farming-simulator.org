@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Mods Windrower Farming Simulator 19 - PMC Farming</title>
+<title>Mods Wheel Loader Farming Simulator 19 - PMC Farming</title>
 <LINK href="../css.css" rel=stylesheet type="text/css">
-<META name="description" content="Mods Windrower Farming Simulator 19 - PMC Farming">
+<META name="description" content="Mods Wheel Loader Farming Simulator 19 - PMC Farming">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -15,10 +15,10 @@
 <header>
 <?php include("/var/www/include/ads.php"); ?>
 <?php include("/var/www/include/header-start.php"); ?>
-	<h1>Mods Windrower Farming Simulator 19 - PMC Farming</h1>
+	<h1>Mods Wheel Loader Farming Simulator 19 - PMC Farming</h1>
 
 <p>
-Mods Windrower for Farming Simulator 19 (FS19) by PMC. Windrower stacks loose grass, hay or straw into a neat pile/line prior to baling. Note that some mowers already have swath aka windrowing feature supported (not many though). Baling grass sometimes take a lot of effort, first you mow it, then you windrow it and only then you get to bale it.
+Mods Wheel Loader for Farming Simulator 19 (FS19) by PMC. Articulated tractor alike machine with a huge bucket or a fork lifter in the front, to load/unload all kinds of materials and items.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
@@ -26,30 +26,29 @@ Mods Windrower for Farming Simulator 19 (FS19) by PMC. Windrower stacks loose gr
 <section>
 <?php include("/var/www/include/section-start.php"); ?>
 <?php include("/var/www/include/support.php"); ?>
-	<h2>Mods Windrower</h2>
+	<h2>Mods Wheel Loader</h2>
 
 <div class="wrapper_mod_vehicles">
 
 <div class="mod_release_Vehicle">
-	<h2>Fella Juras 14055 PRO</h2>
+<h2>JCB 435 S</h2>
 
 <p>
-v by . From modDesc:
+v1.0 by Giants Software. From modDesc: Price: 182.000eur. Power: 230HP
 </p>
 
 <p>
-FILENAME
+2019-02-21 tested and works OK. Nice JCB wheel loader.
 </p>
 
 <p>
-Notes: The Fella Juras 14055 Pro 4-rotor with a working width of 14 meters offers you the best possible efficiency on large areas.
-</p>
-
-<p>
-<a href="https://www.farming-simulator.com/mod.php?mod_id=125826" target="_blank">Giants Modhub</a>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?mod_id=117427" target="_blank">Modhub</a>
 </p>
 </div>
 
+
+
+<!-- end of wrapper_mod_vehicles -->
 </div>
 
 <?php include("/var/www/include/section-end.php"); ?>

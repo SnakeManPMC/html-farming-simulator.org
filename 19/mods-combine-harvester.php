@@ -18,7 +18,7 @@
 	<h1>Mods Combine Harvester Farming Simulator 19 - PMC Farming</h1>
 
 <p>
-Mods Combine Harvester for Farming Simulator 19 (FS19) by PMC.
+Mods Combine Harvester for Farming Simulator 19 (FS19) by PMC. Combine harvesters are vehicles to harvest your field crops. There are two types of harvesters, grain harvesters which are so called regular harvesters and root crop harvesters which are used to harvest sugar beets and potatoes for example. In Farming Simulator 19 mods you also have various more unique harvesters which do carrots, onions etc all kinds of fruits, but overall regular grain and root crop are the commonly used harvester types.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
@@ -27,6 +27,10 @@ Mods Combine Harvester for Farming Simulator 19 (FS19) by PMC.
 <?php include("/var/www/include/section-start.php"); ?>
 <?php include("/var/www/include/support.php"); ?>
 	<h2>Mods Combine Harvester</h2>
+
+<p>
+Please note that in order to use combine harvester you also need a <a href="mods-harvester-header.php">harvester header</a> to cut the crop. Some of the root crop harvester machines have built-in headers.
+</p>
 
 <div class="wrapper_mod_vehicles">
 
@@ -59,6 +63,25 @@ Warning: Wheel brand 'MICHELLIN' is not defined for 'vehicle.wheels.wheelConfigu
 </div>
 
 
+<div class="mod_release_Vehicle">
+<h2>CaseIH 1660</h2>
+
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+Required addons: CaseIH 1030 Cutter.
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?mod_id=117425" target="_blank">Modhub</a>
+</p>
+</div>
+
+
+
+<!-- end of wrapper_mod_vehicles -->
 </div>
 
 <?php include("/var/www/include/section-end.php"); ?>

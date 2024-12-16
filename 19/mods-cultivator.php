@@ -18,7 +18,7 @@
 	<h1>Mods Cultivator Farming Simulator 19 - PMC Farming</h1>
 
 <p>
-Mods Cultivator for Farming Simulator 19 (FS19) by PMC.
+Mods Cultivator for Farming Simulator 19 (FS19) by PMC. Cultivator is an implement to work the ground, turn over dirt so to speak. In FS19 you only have one type of cultivator (in FS22 and FS25 you have deep and shallow cultivators) to work the ground in regular depth ie deep cultivator that creates that beautiful dark brown field texture color/type. Cultivator is generally used after harvesting, more specifically after harvest you fertilize and possibly lime, then cultivate and then you can do another layer of fertilizer. Some seeders and planters are not direct drills, that means you must cultivate your field before seeding.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
@@ -50,32 +50,6 @@ Notes: Width 15, 21 and 27m, working speed 15km/h, required horsepower 350hp. im
 </p>
 </div>
 
-<div class="mod_release_Vehicle">
-	<h2>CaseIH TRUE-TANDEM 345 Disc</h2>
-
-<p>
-v1.0 by Nick Schrunk, KarlFarms. From modDesc:
-</p>
-
-<p>
-FS19_CaseIH_TrueTandem345.zip
-</p>
-
-<p>
-Notes: width 9m, working speed 14km/h, required horsepower 200hp. this is re-textured john deere 2623 plow, even has JD2623.xml config, they only removed the last extending "wing" of the plow. cultivates and plows at one pass, leaves cultivated field state. errors in the log:
-</p>
-
-<pre>
-2021-06-04 08:19 Error: Can't load resource 'F:/Users/kylem/Documents/FS 19 MOD EDIT/_OBJFILES/Steiger/shared/gen_dirt_1.dds'.
-2021-06-04 08:19   Warning (C:/FS19.Mods/FS19_CaseIH_TrueTandem345/JD2623.xml): No clipdistance is set to component node 'hitch' (1>). Set default clipdistance '300'
-2021-06-04 08:20   Warning (C:/FS19.Mods/FS19_CaseIH_TrueTandem345/JD2623.xml): No clipdistance is set to component node 'hitch' (1>). Set default clipdistance '300'
-</pre>
-
-<p>
-<a href="" target="_blank">MISSING_LINK_SORRY</a>
-</p>
-</div>
-
 
 <div class="mod_release_Vehicle">
 	<h2>John Deere 2410 5 Section</h2>
@@ -98,6 +72,7 @@ Notes: cultivator width 20 m, working speed 18 km/h.
 </div>
 
 
+<!-- end of wrapper_mod_vehicles -->
 </div>
 
 <?php include("/var/www/include/section-end.php"); ?>

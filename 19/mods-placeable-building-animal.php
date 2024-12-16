@@ -18,7 +18,7 @@
 	<h1>Mods Placeable Building Animal Farming Simulator 19 - PMC Farming</h1>
 
 <p>
-Mods Placeable Building Animal for Farming Simulator 19 (FS19) by PMC.
+Mods Placeable Building Animal for Farming Simulator 19 (FS19) by PMC. These are animal barns, buildings or sheds to house different kind of animals.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>

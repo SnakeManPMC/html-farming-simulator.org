@@ -18,7 +18,7 @@
 	<h1>Mods Seed-Tender Farming Simulator 19 - PMC Farming</h1>
 
 <p>
-Mods Seed-Tender for Farming Simulator 19 (FS19) by PMC.
+Mods Seed-Tender for Farming Simulator 19 (FS19) by PMC. Seed tender is a trailer of some sorts used to carry seeds to the fields where seeders/planters are working so that those implement pulling tractors don't have to travel back and forth to the farm yard or where ever seeds storage is located. Often times seed-tenders are small pickup-truck pulled trailers, they could even be a gooseneck trailers with seed/fertilizer pallets loaded onto them, or big semi-truck pulled trailers that hold several thousand liters. Also some older style american farms use dump trucks to haul seeds to the fields, while I wouldn't call such dump trucks as "seed tenders" technically, they do serve the same purpose.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>

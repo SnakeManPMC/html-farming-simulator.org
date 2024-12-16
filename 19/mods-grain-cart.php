@@ -18,7 +18,7 @@
 	<h1>Mods Grain Cart Farming Simulator 19 - PMC Farming</h1>
 
 <p>
-Mods Grain Cart for Farming Simulator 19 (FS19) by PMC.
+Mods Grain Cart for Farming Simulator 19 (FS19) by PMC. Auger wagons or grain carts are tractor pulled trailers with an overloader auger pipe to empty combine harvesters on the field and them overload the grain into other trailers, usually semi-truck pulled large grain trailers by the side of the field. The main definition of grain cart or auger wagon is the auger, if you have a simple grain trailer then that is not an grain cart.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>

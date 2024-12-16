@@ -18,7 +18,7 @@
 	<h1>Mods Baler Farming Simulator 19 - PMC Farming</h1>
 
 <p>
-Mods Baler for Farming Simulator 19 (FS19) by PMC.
+Mods Baler for Farming Simulator 19 (FS19) by PMC. Square bales or round bales are ways to store your loose grass, hay or straw. Also when wrapping grass bales they will ferment into silage. You can have selectable bale size on many balers, for both round and square bales. Loose material (grass, hay, straw) is collected and baled mainly for animal feed purposes but obviously bales can also be sold, for example selling silage bales is very profitable.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
@@ -71,6 +71,43 @@ Notes: Working speed: 20 km/h, required horsepower: 200 hp. Hmm basic square bal
 </div>
 
 
+<div class="mod_release_Vehicle">
+<h2>Ursus Z586</h2>
+
+<p>
+v1.0 by Giants Software. From modDesc: Ursus Z586. Price: 8200eur. Maintenance: 82eur/day
+</p>
+
+<p>
+2019-02-21 tested and works OK. Bale wrapper. Selectable option for wrapper color.
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?mod_id=117433" target="_blank">Modhub</a>
+</p>
+</div>
+
+
+<div class="mod_release_Vehicle">
+<h2>New Holland BigBaler 1290</h2>
+
+<p>
+v by Giants Software. From modDesc: New Holland BigBaler 1290
+</p>
+
+<p>
+Price: 155000 eur<br>
+Max. working speed: 20 kph<br>
+Required power: 160 hp
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?mod_id=125445" target="_blank">Modhub</a>
+</p>
+</div>
+
+
+<!-- end of wrapper_mod_vehicles -->
 </div>
 
 <?php include("/var/www/include/section-end.php"); ?>

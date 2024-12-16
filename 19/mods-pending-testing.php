@@ -18,7 +18,7 @@
 	<h1>PMC Farming Simulator 19 Mods Pending Testing</h1>
 
 <p>
-Modifications aka Mods for Farming Simulator 19 (FS19) which are scheduled for testing.
+Modifications aka Mods for Farming Simulator 19 (FS19) which are scheduled for testing by me Snake Man, PMC. Over the years of playing FS19 since late 2018 I have tested and used many mods, every time I see a interesting looking mod I'll download it and document the download link with any additional info needed, this page is that documentation. Once mod is tested, then its moved from this page into regular <a href="mods.php">mods pages</a> to which ever category it belongs to.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
@@ -53,7 +53,8 @@ Notes: this is terrain development files, not a mod you can use as player.
 </p>
 </div>
 
-<!-- category vehicles -->
+
+<!-- end of wrapper_mod_vehicles -->
 </div>
 
 <?php include("/var/www/include/section-end.php"); ?>

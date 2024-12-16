@@ -18,7 +18,7 @@
 	<h1>Mods Placeable Selling Point Farming Simulator 19 - PMC Farming</h1>
 
 <p>
-Mods Placeable Selling Point for Farming Simulator 19 (FS19) by PMC.
+Mods Placeable Selling Point for Farming Simulator 19 (FS19) by PMC. Selling points that player can place, these are very handy in some special cases where terrain/game-mode doesn't provide good enough selling point coverage. Also there are some very nice large grain bin complexes for just general terrain visuals which happen to be also selling points.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>

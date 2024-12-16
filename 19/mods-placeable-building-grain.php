@@ -18,7 +18,7 @@
 	<h1>Mods Placeable Building Grain Farming Simulator 19 - PMC Farming</h1>
 
 <p>
-Mods Placeable Building Grain for Farming Simulator 19 (FS19) by PMC. Farm grain bins to store grain of all sorts. These can also be just a european style grain warehouse or shed buildings where small time farmers dump their low amounts of grain from harvests, the grain is indoors but its still very different method of storing it compared to regular grain bin. Generic Giants farm grain bins have the dumping grate on the ground and above it a loading/filling pipe. Some authentic american grain bins are operated using auger pipes.
+Mods Placeable Building Grain for Farming Simulator 19 (FS19) by PMC. Farm grain bins to store grain of all sorts. These can also be just a european style grain warehouse or shed buildings where small time farmers dump their low amounts of grain from harvests, the grain is indoors but its still very different method of storing it compared to regular grain bin. Generic Giants farm grain bins have the dumping grate on the ground and above it a loading/filling auger pipe. Some authentic american grain bins are operated using tractor pulled auger pipes.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
@@ -362,6 +362,73 @@ Notes: SCS_BIG_SILO is a joke, 800k liters capacity and all kinds of garbage dec
 </div>
 
 
+<div class="mod_release_Vehicle">
+<h2>Large Multi Silo</h2>
+
+<p>
+v1.0 by Pandahma. From modDesc: LargeMultiSilo
+</p>
+
+<p>
+Here is the Large Multi-Silo as a placeable mod for all fruits currently available for the FS19.<br>
+Capacity per fruit: 500,000<br>
+Price: 180,000 eur<br>
+placeable
+</p>
+
+<p>
+2019-02-21 tested and works OK. Allows more crops storage like potatoes, sugar beet etc. Capacity 500,000 liters. This is the unloading point.
+</p>
+
+<p>
+PMC Essential Mod <a href="http://www.modhub.us/farming-simulator-2019-mods/large-multi-silo-v1-0/" target="_blank">Modhub.us</a>
+</p>
+</div>
+
+
+<div class="mod_release_Vehicle">
+<h2>Multi Silo Extension</h2>
+
+<p>
+v1.0 by Pandahma. From modDesc: MultiFarmSiloExtension
+</p>
+
+<p>
+Here is the multi-silo extension as a placeable mod for all fruits currently available for the FS19.<br>
+- Capacity per fruit: 300,000<br>
+- Price: 90.000 eur<br>
+- placeable
+</p>
+
+<p>
+2019-02-21 tested and works OK. Allows more crops storage like potatoes, sugar beet etc. Capacity 300,000 liters. This is extension to your farm silos (not the unloading point).
+</p>
+
+<p>
+PMC Essential Mod <a href="http://www.modhub.us/farming-simulator-2019-mods/multi-silo-extension-v1-0/" target="_blank">Modhub.us</a>
+</p>
+</div>
+
+
+<div class="mod_release_Vehicle">
+<h2>Large Grain Storages</h2>
+
+<p>
+v1.0 by VertexDezign. From modDesc: Two large grain storages, including room to store your mashinery.
+</p>
+
+<p>
+2019-02-21 tested and works OK. Two versions metal and wood (red and green paint). Has animated doors and switchable lights. This is pure physical grain storage, no virtual possibility to store thousands of liters, you can only dump grain here and when it gets physically full then its... well, full.
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?mod_id=120525" target="_blank">Modhub</a>
+</p>
+</div>
+
+
+
+<!-- end of wrapper_mod_vehicles -->
 </div>
 
 <?php include("/var/www/include/section-end.php"); ?>

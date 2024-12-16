@@ -18,7 +18,7 @@
 	<h1>Mods Placeable Container Farming Simulator 19 - PMC Farming</h1>
 
 <p>
-Mods Placeable Container for Farming Simulator 19 (FS19) by PMC.
+Mods Placeable Container for Farming Simulator 19 (FS19) by PMC. Generally speaking "container" means an storage where you can put and take out product, this can be solid fertilizer, seeds, diesel, liquid fertilier, herbicide, root crops, silage, etc.
 </p>
 <?php include("/var/www/include/header-end.php"); ?>
 </header>
@@ -152,6 +152,107 @@ MISSING_LINK_SORRY
 </div>
 
 
+<div class="mod_release_Vehicle">
+<h2>Fueltank 5000l</h2>
+
+<p>
+v1.0 by VertexDezign - Niggels. From modDesc: The 5000 liter fueltank suites best for your small farm. The small footprint allows to place the fueltank even in the smalles areas. Save the long way to the next fuelstation.
+</p>
+
+<p>
+The 5000 liter fueltank suites best for your small farm. The small footprint allows to place the fueltank even in the smalles areas.
+</p>
+
+<p>
+2019-02-21 tested and works OK. Solid little placeable fuel tank where you can refuel your vehicles. Yes this placeable doesnt need fuel carried over to it, this basically creates fuel out of thin air. Just wanted to be clear about the function of this placeable, I thought first this just <i>stores</i> the fuel.
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?mod_id=118063" target="_blank">Modhub</a>
+</p>
+</div>
+
+
+<div class="mod_release_Vehicle">
+<h2>Placeable filling stations – all in one! v1.6</h2>
+
+<p>
+v by . From modDesc:
+</p>
+
+<p>
+FS19_Fillstations.zip<br>
+Everything in one package and useable in MP! Placeable close to each other, does not change ground texture.<br>
+Price: 5.000<br>
+Daily costs: 5<br>
+By Dirty
+</p>
+
+<p>
+<a href="https://www.modland.net/farming-simulator-2019-mods/objects/placeable-filling-stations-all-in-one-v1.6.html" target="_blank">Modland.net</a>
+</p>
+</div>
+
+
+<div class="mod_release_Vehicle">
+<h2>Placeable Refill Tanks</h2>
+
+<p>
+v1.0 by GIANTS Software. From modDesc: Seed, solid fertilizer, liquid fertilizer and herbicide tanks which are placeable on the map.
+</p>
+
+<p>
+Note: Refilling will cost you a higher price for seed/fertilizer/herbicide than buying it in BigBags/pallets/etc at the Shop. For some odd reason these refill tanks do NOT include lime, which unfortunately means you should probably just get some community made refill station pack instead.
+</p>
+
+<p>
+<a href="https://www.farming-simulator.com/mod.php?mod_id=125329" target="_blank">Modhub</a>
+</p>
+</div>
+
+
+<div class="mod_release_Vehicle">
+<h2>FS19_liquidManure_placeable.zip</h2>
+
+<p>
+v2018-11-20 by Giants BDBSSB. From modDesc: BD Liquid Manure Tank.
+</p>
+
+<p>
+2019-02-21 tested and works OK. Nice little round tank to refill your slurry spreaders.
+</p>
+
+<p>
+PMC Essential Mod - PMCTODO add link?
+</p>
+</div>
+
+
+<div class="mod_release_Vehicle">
+<h2>Root Crop Storage</h2>
+
+<p>
+v1.0 by Dogface. From modDesc: This building is for storage of Potatoes and Beets. This building functions like a Silo or Hayloft, but for root crops. The building and conveyor belts are authentic to how root crops are actually stored.
+</p>
+
+<p>
+Price: 90000 eur<br>
+Capacity: 300000 l<br>
+Maintenance: 40 eur / day
+</p>
+
+<p>
+2019-02-21 tested and works OK. Capacity 300,000 liters.
+</p>
+
+<p>
+PMC Essential Mod <a href="https://www.farming-simulator.com/mod.php?mod_id=120549" target="_blank">Modhub</a>
+</p>
+</div>
+
+
+
+<!-- end of wrapper_mod_vehicles -->
 </div>
 
 <?php include("/var/www/include/section-end.php"); ?>
