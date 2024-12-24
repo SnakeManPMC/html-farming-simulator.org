@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-12-24T13:22:30Z Farming Simulator 25 (FS25) terrain editing page was created to explain how <a href="25/terrain-giants-broke-large.php">Giants Broke Large Terrains FS25</a>.
+</p>
+
+<p>
 2024-12-24T09:47:01Z Updated my <a href="25/review.php">Farming Simulator 25 (FS25) Review</a> with final conclusion.
 </p>
 
