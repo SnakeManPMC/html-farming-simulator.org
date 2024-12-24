@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-12-24T09:47:01Z Updated my <a href="25/review.php">Farming Simulator 25 (FS25) Review</a> with final conclusion.
+</p>
+
+<p>
 2024-12-16T02:18:02Z Farming Simulator 19 (FS19) massive mods web page update! <a href="19/mods.php">FS19 Mods</a> page has several categories and many many mods on those categories added.
 </p>
 
