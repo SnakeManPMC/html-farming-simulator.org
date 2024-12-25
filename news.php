@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-12-25T08:58:33Z Farming Simulator 25 (FS25) <a href="25/mods-terrain.php">Mods Terrains FS25</a> updated with new terrains released.
+</p>
+
+<p>
 2024-12-25T06:17:10Z Farming Simulator 25 (FS25) <a href="25/guide.php">Guide FS25</a> added all the basic playing guide info which is pretty much the same as in FS22 as FS25 is basically clone of FS22.
 </p>
 
