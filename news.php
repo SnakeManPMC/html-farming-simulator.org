@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-12-25T10:12:36Z Farming Simulator 25 (FS25) terrain editing page added. This is a list/table for <a href="25/terrain-foliage-rgb-colors.php">Foliage RGB Colors FS25</a>, start painting those bushes in GIMP.
+</p>
+
+<p>
 2024-12-25T08:58:33Z Farming Simulator 25 (FS25) <a href="25/mods-terrain.php">Mods Terrains FS25</a> updated with new terrains released.
 </p>
 

@@ -37,6 +37,7 @@ If you are beginner first read <a href="../17/terrain-editing-tutorial.php">Terr
 </p>
 
 <p><a href="editing/giants-editor.php">Giants Editor v10</a> page links to multiple other pages, there is a lot to read about Giants Editor v10.0.x usage.</p>
+<p><a href="terrain-foliage-rgb-colors.php">Foliage RGB Colors</a> for painting grass, flowers, shrubbery, bushes, etc in GIMP.</p>
 <p><a href="terrain-giants-broke-large.php">Giants Broke Large Terrains</a> find out what happened to large terrains with FS25.</p>
 
 <?php include("/var/www/include/section-end.php"); ?>
