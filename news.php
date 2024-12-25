@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-12-25T06:06:31Z Another page updated, Farming Simulator 25 (FS25) <a href="25/equipment-vehicle-prices.php">Equipment And Vehicle Prices FS25</a> is now filled with decent info.
+</p>
+
+<p>
 2024-12-24T13:22:30Z Farming Simulator 25 (FS25) terrain editing page was created to explain how <a href="25/terrain-giants-broke-large.php">Giants Broke Large Terrains FS25</a>.
 </p>
 
