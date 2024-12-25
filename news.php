@@ -25,6 +25,10 @@
 	<h2>News 2024</h2>
 
 <p>
+2024-12-25T06:17:10Z Farming Simulator 25 (FS25) <a href="25/guide.php">Guide FS25</a> added all the basic playing guide info which is pretty much the same as in FS22 as FS25 is basically clone of FS22.
+</p>
+
+<p>
 2024-12-25T06:06:31Z Another page updated, Farming Simulator 25 (FS25) <a href="25/equipment-vehicle-prices.php">Equipment And Vehicle Prices FS25</a> is now filled with decent info.
 </p>
 
